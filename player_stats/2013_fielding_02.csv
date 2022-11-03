@@ -1,0 +1,854 @@
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,cccaa_season,team,team_id,player_id,player_name
+Feb 2,home,Rio Hondo,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 3,home,East Los Angeles,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 5,home,San Bernardino,W,9-0,9.0,0.0,9,win,20130205_zron,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 7,home,Chaffey,L,8-3,8.0,3.0,5,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 8,home,Chaffey,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 9,home,Oxnard,W,3-1,3.0,1.0,2,win,20130209_u2xn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 14,home,Ventura,W,18-17,18.0,17.0,1,win,20130214_inwk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 15,home,San Diego Mesa,W,6-4,6.0,4.0,2,win,20130215_xizx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 16,home,LA Mission,W,8-6,8.0,6.0,2,win,20130216_nlbw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 21,home,West LA,W,12-3,12.0,3.0,9,win,20130221_ltp8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 22,home,LA Mission,L,6-1,6.0,1.0,5,win,20130222_13qr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 23,home,West LA,L,10-9,10.0,9.0,1,win,20130223_ym4h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 26,home,Bakersfield,L,9-3,9.0,3.0,6,win,20130226_hakp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 28,home,Bakersfield,L,10-5,10.0,5.0,5,win,20130228_0638,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 2,home,Canyons,W,7-6,7.0,6.0,1,win,20130302_1y3n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 5,home,Canyons,L,3-2,3.0,2.0,1,win,20130305_zseg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 12,home,LA Valley,L,5-3,5.0,3.0,2,win,20130312_3k99,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 14,home,LA Valley,L,7-4,7.0,4.0,3,win,20130314_ydx8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 16,home,Glendale,L,3-2,3.0,2.0,1,win,20130316_05wa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 19,home,Glendale,L,9-8,9.0,8.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 21,home,LA Mission,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 22,home,LA Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 26,home,Mt. San Antonio,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Mar 28,home,Mt. San Antonio,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 2,home,West LA,W,10-0,10.0,0.0,10,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 4,home,West LA,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 6,home,Bakersfield,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 9,home,Bakersfield,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 11,home,Canyons,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 13,home,Canyons,L,15-3,15.0,3.0,12,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 20,home,LA Valley,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 23,home,LA Valley,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 25,home,Glendale,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Apr 26,home,Glendale,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,nathanvirgeni2wk,Nathan Virgen
+Feb 1,home,Porterville,W,10-1,10.0,1.0,9,win,20130201_rnap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 2,home,Allan Hancock,W,6-3,6.0,3.0,3,win,20130202_n403,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 3,home,Sequoias,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 5,home,Merced,W,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 8,home,Hartnell,W,6-5,6.0,5.0,1,win,20130208_qg8g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 9,home,Marin,W,10-4,10.0,4.0,6,win,20130209_gl8x,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 10,home,Golden West,W,12-7,12.0,7.0,5,win,20130210_hvzl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 14,home,Allan Hancock,W,8-4,8.0,4.0,4,win,20130214_7n07,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 16,home,Canyons,L,5-1,5.0,1.0,4,win,20130216_1pqd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 21,home,LA Valley,W,9-3,9.0,3.0,6,win,20130221_8uat,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 22,home,Canyons,W,13-0,13.0,0.0,13,win,20130222_l5qy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 23,home,LA Valley,W,8-2,8.0,2.0,6,win,20130223_xnni,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 26,home,Citrus,W,9-3,9.0,3.0,6,win,20130226_hakp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 28,home,Citrus,W,10-5,10.0,5.0,5,win,20130228_0638,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 2,home,LA Mission,W,8-6,8.0,6.0,2,win,20130302_hdy1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 5,home,LA Mission,W,8-7,8.0,7.0,1,win,20130305_ejg7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 7,home,Glendale,W,8-6,8.0,6.0,2,win,20130307_nk99,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 9,home,Glendale,L,3-2,3.0,2.0,1,win,20130309_6f42,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 14,home,Merced,L,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 16,home,West LA,W,10-3,10.0,3.0,7,win,20130316_z4qv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 19,home,West LA,W,7-3,7.0,3.0,4,win,20130319_u04b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 21,home,Canyons,L,10-5,10.0,5.0,5,win,20130321_80xe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 22,home,Canyons,L,6-4,6.0,4.0,2,win,20130322_j8o2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 26,home,Sequoias,L,8-7,8.0,7.0,1,win,20130326_lwf8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 27,home,Reedley,W,6-2,6.0,2.0,4,win,20130327_33m6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Mar 28,home,Saddleback,L,1-0,1.0,0.0,1,win,20130328_ugyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 2,home,LA Valley,W,5-1,5.0,1.0,4,win,20130402_v1z3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 4,home,LA Valley,W,13-2,13.0,2.0,11,win,20130404_lvt0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 6,home,Citrus,W,5-3,5.0,3.0,2,win,20130406_5fig,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 9,home,Citrus,W,8-7,8.0,7.0,1,win,20130409_huav,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 12,home,LA Mission,W,12-4,12.0,4.0,8,win,20130412_ok5a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 13,home,LA Mission,W,11-8,11.0,8.0,3,win,20130413_6gk5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 16,home,Glendale,L,5-1,5.0,1.0,4,win,20130416_4px8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 18,home,Glendale,L,6-3,6.0,3.0,3,win,20130418_nbae,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 25,home,West LA,L,11-6,11.0,6.0,5,win,20130425_d0as,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Apr 26,home,West LA,L,6-3,6.0,3.0,3,win,20130426_mlbi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+May 3,home,Saddleback,L,7-2,7.0,2.0,5,win,20130503_6jen,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+May 4,home,Saddleback,L,7-4,7.0,4.0,3,win,20130504_jc0f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,erikwilliamsmgzr,Erik Williams
+Feb 1,home,Cerritos,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 2,home,Rio Hondo,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 3,home,East Los Angeles,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 5,home,San Bernardino,W,9-0,9.0,0.0,9,win,20130205_zron,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 7,home,Chaffey,L,8-3,8.0,3.0,5,win,20130207_9lzj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 8,home,Chaffey,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 9,home,Oxnard,W,3-1,3.0,1.0,2,win,20130209_u2xn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 14,home,Ventura,W,18-17,18.0,17.0,1,win,20130214_inwk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 15,home,San Diego Mesa,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 16,home,LA Mission,W,8-6,8.0,6.0,2,win,20130216_nlbw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 21,home,West LA,W,12-3,12.0,3.0,9,win,20130221_ltp8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 22,home,LA Mission,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 23,home,West LA,L,10-9,10.0,9.0,1,win,20130223_ym4h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 26,home,Bakersfield,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 28,home,Bakersfield,L,10-5,10.0,5.0,5,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 2,home,Canyons,W,7-6,7.0,6.0,1,win,20130302_1y3n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 5,home,Canyons,L,3-2,3.0,2.0,1,win,20130305_zseg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 12,home,LA Valley,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 14,home,LA Valley,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 16,home,Glendale,L,3-2,3.0,2.0,1,win,20130316_05wa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 19,home,Glendale,L,9-8,9.0,8.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 21,home,LA Mission,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 22,home,LA Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 26,home,Mt. San Antonio,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Mar 28,home,Mt. San Antonio,L,6-4,6.0,4.0,2,win,20130328_xmeo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 2,home,West LA,W,10-0,10.0,0.0,10,win,20130402_n729,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 4,home,West LA,W,3-1,3.0,1.0,2,win,20130404_83id,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 6,home,Bakersfield,L,5-3,5.0,3.0,2,win,20130406_5fig,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 9,home,Bakersfield,L,8-7,8.0,7.0,1,win,20130409_huav,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 11,home,Canyons,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 13,home,Canyons,L,15-3,15.0,3.0,12,win,20130413_oxfw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 20,home,LA Valley,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 23,home,LA Valley,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 25,home,Glendale,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Apr 26,home,Glendale,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,shawnsweeneyr55f,Shawn Sweeney
+Feb 1,home,Porterville,W,10-1,10.0,1.0,9,win,20130201_rnap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 2,home,Allan Hancock,W,6-3,6.0,3.0,3,win,20130202_n403,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 3,home,Sequoias,L,6-1,6.0,1.0,5,win,20130203_d9zj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 5,home,Merced,W,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 8,home,Hartnell,W,6-5,6.0,5.0,1,win,20130208_qg8g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 9,home,Marin,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 10,home,Golden West,W,12-7,12.0,7.0,5,win,20130210_hvzl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 14,home,Allan Hancock,W,8-4,8.0,4.0,4,win,20130214_7n07,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 16,home,Canyons,L,5-1,5.0,1.0,4,win,20130216_1pqd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 21,home,LA Valley,W,9-3,9.0,3.0,6,win,20130221_8uat,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 22,home,Canyons,W,13-0,13.0,0.0,13,win,20130222_l5qy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 23,home,LA Valley,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 26,home,Citrus,W,9-3,9.0,3.0,6,win,20130226_hakp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 28,home,Citrus,W,10-5,10.0,5.0,5,win,20130228_0638,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 2,home,LA Mission,W,8-6,8.0,6.0,2,win,20130302_hdy1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 5,home,LA Mission,W,8-7,8.0,7.0,1,win,20130305_ejg7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 7,home,Glendale,W,8-6,8.0,6.0,2,win,20130307_nk99,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 9,home,Glendale,L,3-2,3.0,2.0,1,win,20130309_6f42,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 14,home,Merced,L,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 16,home,West LA,W,10-3,10.0,3.0,7,win,20130316_z4qv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 19,home,West LA,W,7-3,7.0,3.0,4,win,20130319_u04b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 21,home,Canyons,L,10-5,10.0,5.0,5,win,20130321_80xe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 22,home,Canyons,L,6-4,6.0,4.0,2,win,20130322_j8o2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 26,home,Sequoias,L,8-7,8.0,7.0,1,win,20130326_lwf8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 27,home,Reedley,W,6-2,6.0,2.0,4,win,20130327_33m6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Mar 28,home,Saddleback,L,1-0,1.0,0.0,1,win,20130328_ugyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 2,home,LA Valley,W,5-1,5.0,1.0,4,win,20130402_v1z3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 4,home,LA Valley,W,13-2,13.0,2.0,11,win,20130404_lvt0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 6,home,Citrus,W,5-3,5.0,3.0,2,win,20130406_5fig,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 9,home,Citrus,W,8-7,8.0,7.0,1,win,20130409_huav,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 12,home,LA Mission,W,12-4,12.0,4.0,8,win,20130412_ok5a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 13,home,LA Mission,W,11-8,11.0,8.0,3,win,20130413_6gk5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 16,home,Glendale,L,5-1,5.0,1.0,4,win,20130416_4px8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 18,home,Glendale,L,6-3,6.0,3.0,3,win,20130418_nbae,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 25,home,West LA,L,11-6,11.0,6.0,5,win,20130425_d0as,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Apr 26,home,West LA,L,6-3,6.0,3.0,3,win,20130426_mlbi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+May 3,home,Saddleback,L,7-2,7.0,2.0,5,win,20130503_6jen,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+May 4,home,Saddleback,L,7-4,7.0,4.0,3,win,20130504_jc0f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,justinmartinezwhw9,Justin Martinez
+Feb 1,home,Sierra,L,3-2,3.0,2.0,1,win,20130201_urg9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 2,home,Reedley,W,6-5,6.0,5.0,1,win,20130202_b05i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 5,home,Diablo Valley,L,10-7,10.0,7.0,3,win,20130205_87ft,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 7,home,Solano,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 8,home,De Anza,L,4-3,4.0,3.0,1,win,20130208_55eo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 9,home,Solano,W,17-8,17.0,8.0,9,win,20130209_2e07,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 12,home,Ohlone,L,7-3,7.0,3.0,4,win,20130212_jlfx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 14,home,Marin,L,4-1,4.0,1.0,3,win,20130214_llfu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 16,home,Sierra,L,7-2,7.0,2.0,5,win,20130216_ydpd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 19,home,Gavilan,W,11-5,11.0,5.0,6,win,20130219_6vqu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 21,home,Marin,W,10-8,10.0,8.0,2,win,20130221_1n1r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 23,home,Feather River,W,2-0,2.0,0.0,2,win,20130223_50pt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 26,home,San Francisco,W,5-0,5.0,0.0,5,win,20130226_fpqr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 28,home,De Anza,W,3-1,3.0,1.0,2,win,20130228_o0yl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 1,home,West Valley,W,11-1,11.0,1.0,10,win,20130301_t8bd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 7,home,West Valley,L,3-1,3.0,1.0,2,win,20130307_5ih4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 9,home,Chabot,L,5-3,5.0,3.0,2,win,20130309_9xx3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 12,home,Skyline,W,12-2,12.0,2.0,10,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 14,home,Mission,W,14-3,14.0,3.0,11,win,20130314_1ow1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 16,home,Canada,L,7-4,7.0,4.0,3,win,20130316_09sf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 19,home,Hartnell,W,10-8,10.0,8.0,2,win,20130319_pglc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 21,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130321_lyme,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 22,home,Mission,L,10-4,10.0,4.0,6,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 26,home,West Valley,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 28,home,San Francisco,W,8-2,8.0,2.0,6,win,20130328_51w3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Mar 29,home,De Anza,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 2,home,Monterey,W,8-1,8.0,1.0,7,win,20130402_gxrj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 4,home,Mission,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 6,home,Chabot,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 9,home,Ohlone,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 13,home,San Francisco,W,7-1,7.0,1.0,6,win,20130413_2518,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 16,home,West Valley,W,6-2,6.0,2.0,4,win,20130416_t33d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 18,home,Chabot,L,12-2,12.0,2.0,10,win,20130418_k5oq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 20,home,De Anza,W,6-2,6.0,2.0,4,win,20130420_wufo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 23,home,Mission,W,4-1,4.0,1.0,3,win,20130423_ecsa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Apr 25,home,Gavilan,W,11-2,11.0,2.0,9,win,20130425_mcxb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+May 3,home,Cabrillo,W,13-6,13.0,6.0,7,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+May 4,home,Cabrillo,L,8-5,8.0,5.0,3,win,20130504_gq2j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+May 4,home,Cabrillo,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,ryanatlasu11f,Ryan Atlas
+Feb 1,home,Cosumnes River,W,2-0,2.0,0.0,2,win,20130201_fkju,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 2,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20130202_14u7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 5,home,Bakersfield,L,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 7,home,Mission,W,6-5,6.0,5.0,1,win,20130207_r1rk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 9,home,Mission,L,4-2,4.0,2.0,2,win,20130209_h9aa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 14,home,Rio Hondo,L,4-3,4.0,3.0,1,win,20130214_e8az,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 15,home,Cypress,L,5-1,5.0,1.0,4,win,20130215_2wz2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 16,home,Cypress,L,6-0,6.0,0.0,6,win,20130216_w8fk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 21,home,Porterville,L,2-1,2.0,1.0,1,win,20130221_2g6y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 23,home,Porterville,W,8-0,8.0,0.0,8,win,20130223_1tn0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 23,home,Porterville,W,10-2,10.0,2.0,8,win,20130223_fjfc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 26,home,Sequoias,L,4-3,4.0,3.0,1,win,20130226_hxfe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 28,home,Sequoias,W,3-2,3.0,2.0,1,win,20130228_p9b1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 2,home,Sequoias,L,4-3,4.0,3.0,1,win,20130302_hvns,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 5,home,Reedley,W,5-2,5.0,2.0,3,win,20130305_yvu1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 7,home,Reedley,W,3-1,3.0,1.0,2,win,20130307_pp7c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 9,home,Reedley,L,10-6,10.0,6.0,4,win,20130309_6koy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 14,home,Bakersfield,W,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 19,home,West Hills Coalinga,W,11-0,11.0,0.0,11,win,20130319_z9zw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 21,home,West Hills Coalinga,W,9-2,9.0,2.0,7,win,20130321_ja8r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 23,home,West Hills Coalinga,W,7-4,7.0,4.0,3,win,20130323_tjc2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 26,home,Canyons,W,8-4,8.0,4.0,4,win,20130326_ulmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 27,home,East Los Angeles,L,9-1,9.0,1.0,8,win,20130327_0nlp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Mar 28,home,Cerritos,W,8-4,8.0,4.0,4,win,20130328_i6nh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 2,home,Fresno City,L,8-7,8.0,7.0,1,win,20130402_57po,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 4,home,Fresno City,W,10-6,10.0,6.0,4,win,20130404_m6mj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 6,home,Fresno City,L,6-4,6.0,4.0,2,win,20130406_0cq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 9,home,Taft,W,3-0,3.0,0.0,3,win,20130409_88t6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 11,home,Taft,W,11-3,11.0,3.0,8,win,20130411_qrgr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 13,home,Taft,W,12-4,12.0,4.0,8,win,20130413_ow1s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 16,home,Porterville,L,3-0,3.0,0.0,3,win,20130416_9qg6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 20,home,Sequoias,W,4-2,4.0,2.0,2,win,20130420_5in5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 21,home,Taft,W,5-3,5.0,3.0,2,win,20130421_xgr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 23,home,Reedley,W,5-4,5.0,4.0,1,win,20130423_yfzw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 25,home,Fresno City,L,8-5,8.0,5.0,3,win,20130425_jgqx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Apr 26,home,West Hills Coalinga,W,7-3,7.0,3.0,4,win,20130426_jx1j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+May 3,home,Feather River,L,16-2,16.0,2.0,14,win,20130503_wh2b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+May 4,home,Feather River,L,6-0,6.0,0.0,6,win,20130504_gnyl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryanemeraldwqgr,Ryan Emerald
+Feb 1,home,Palomar,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 2,home,Palomar,L,6-4,6.0,4.0,2,win,20130202_l5vz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 5,home,LA Valley,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 6,home,Victor Valley,L,7-3,7.0,3.0,4,win,20130206_73tb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 9,home,Sequoias,W,15-4,15.0,4.0,11,win,20130209_0k1m,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 9,home,Reedley,L,6-5,6.0,5.0,1,win,20130209_4roz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 10,home,Bakersfield,L,12-7,12.0,7.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 12,home,Cerritos,W,11-4,11.0,4.0,7,win,20130212_un89,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 14,home,LA Valley,W,9-5,9.0,5.0,4,win,20130214_zi3b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 15,home,LA Mission,L,3-1,3.0,1.0,2,win,20130215_2tes,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 20,home,Cerritos,L,12-7,12.0,7.0,5,win,20130220_3hb8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 21,home,Long Beach,W,4-1,4.0,1.0,3,win,20130221_l0q6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 23,home,Long Beach,W,8-7,8.0,7.0,1,win,20130223_huve,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 28,home,Orange Coast,L,14-6,14.0,6.0,8,win,20130228_56z3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 2,home,Santa Ana,W,8-4,8.0,4.0,4,win,20130302_ii9z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 5,home,Saddleback,L,2-1,2.0,1.0,1,win,20130305_crjb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 7,home,Riverside,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 9,home,Cypress,L,3-1,3.0,1.0,2,win,20130309_s2gd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 12,home,Irvine Valley,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 14,home,Fullerton,L,10-0,10.0,0.0,10,win,20130314_5jqo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 16,home,Orange Coast,L,3-2,3.0,2.0,1,win,20130316_iq25,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 19,home,Orange Coast,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 21,home,Santa Ana,L,9-4,9.0,4.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 22,home,Santa Ana,L,9-8,9.0,8.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 26,home,Chaffey,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Mar 28,home,Chaffey,W,9-0,9.0,0.0,9,win,20130328_mjtx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 4,home,Saddleback,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 6,home,Saddleback,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 9,home,Riverside,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 11,home,Riverside,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 12,home,Cypress,L,6-3,6.0,3.0,3,win,20130412_4ce6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 16,home,Cypress,L,6-5,6.0,5.0,1,win,20130416_p8of,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 18,home,Irvine Valley,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 20,home,Irvine Valley,W,10-2,10.0,2.0,8,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 23,home,Fullerton,W,7-1,7.0,1.0,6,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Apr 25,home,Fullerton,L,12-4,12.0,4.0,8,win,20130425_s1pj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,michaelgregory74m3,Michael Gregory
+Feb 1,home,Cosumnes River,W,2-0,2.0,0.0,2,win,20130201_fkju,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 2,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20130202_14u7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 5,home,Bakersfield,L,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 7,home,Mission,W,6-5,6.0,5.0,1,win,20130207_r1rk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 9,home,Mission,L,4-2,4.0,2.0,2,win,20130209_h9aa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 14,home,Rio Hondo,L,4-3,4.0,3.0,1,win,20130214_e8az,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 15,home,Cypress,L,5-1,5.0,1.0,4,win,20130215_2wz2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 16,home,Cypress,L,6-0,6.0,0.0,6,win,20130216_w8fk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 21,home,Porterville,L,2-1,2.0,1.0,1,win,20130221_2g6y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 23,home,Porterville,W,8-0,8.0,0.0,8,win,20130223_1tn0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 23,home,Porterville,W,10-2,10.0,2.0,8,win,20130223_fjfc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 26,home,Sequoias,L,4-3,4.0,3.0,1,win,20130226_hxfe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 28,home,Sequoias,W,3-2,3.0,2.0,1,win,20130228_p9b1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 2,home,Sequoias,L,4-3,4.0,3.0,1,win,20130302_hvns,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 5,home,Reedley,W,5-2,5.0,2.0,3,win,20130305_yvu1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 7,home,Reedley,W,3-1,3.0,1.0,2,win,20130307_pp7c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 9,home,Reedley,L,10-6,10.0,6.0,4,win,20130309_6koy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 14,home,Bakersfield,W,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 19,home,West Hills Coalinga,W,11-0,11.0,0.0,11,win,20130319_z9zw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 21,home,West Hills Coalinga,W,9-2,9.0,2.0,7,win,20130321_ja8r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 23,home,West Hills Coalinga,W,7-4,7.0,4.0,3,win,20130323_tjc2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 26,home,Canyons,W,8-4,8.0,4.0,4,win,20130326_ulmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 27,home,East Los Angeles,L,9-1,9.0,1.0,8,win,20130327_0nlp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Mar 28,home,Cerritos,W,8-4,8.0,4.0,4,win,20130328_i6nh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 2,home,Fresno City,L,8-7,8.0,7.0,1,win,20130402_57po,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 4,home,Fresno City,W,10-6,10.0,6.0,4,win,20130404_m6mj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 6,home,Fresno City,L,6-4,6.0,4.0,2,win,20130406_0cq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 9,home,Taft,W,3-0,3.0,0.0,3,win,20130409_88t6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 11,home,Taft,W,11-3,11.0,3.0,8,win,20130411_qrgr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 13,home,Taft,W,12-4,12.0,4.0,8,win,20130413_ow1s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 16,home,Porterville,L,3-0,3.0,0.0,3,win,20130416_9qg6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 20,home,Sequoias,W,4-2,4.0,2.0,2,win,20130420_5in5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 21,home,Taft,W,5-3,5.0,3.0,2,win,20130421_xgr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 23,home,Reedley,W,5-4,5.0,4.0,1,win,20130423_yfzw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 25,home,Fresno City,L,8-5,8.0,5.0,3,win,20130425_jgqx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Apr 26,home,West Hills Coalinga,W,7-3,7.0,3.0,4,win,20130426_jx1j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+May 3,home,Feather River,L,16-2,16.0,2.0,14,win,20130503_wh2b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+May 4,home,Feather River,L,6-0,6.0,0.0,6,win,20130504_gnyl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,shotanagatomiuee6,Shota Nagatomi
+Feb 1,home,Cerritos,W,4-3,4.0,3.0,1,win,20130201_ssel,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 2,home,Rio Hondo,W,4-1,4.0,1.0,3,win,20130202_5dah,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 3,home,East Los Angeles,L,12-3,12.0,3.0,9,win,20130203_00l2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 5,home,San Bernardino,W,9-0,9.0,0.0,9,win,20130205_zron,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 7,home,Chaffey,L,8-3,8.0,3.0,5,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 8,home,Chaffey,L,7-0,7.0,0.0,7,win,20130208_miet,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 9,home,Oxnard,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 14,home,Ventura,W,18-17,18.0,17.0,1,win,20130214_inwk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 15,home,San Diego Mesa,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 16,home,LA Mission,W,8-6,8.0,6.0,2,win,20130216_nlbw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 21,home,West LA,W,12-3,12.0,3.0,9,win,20130221_ltp8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 22,home,LA Mission,L,6-1,6.0,1.0,5,win,20130222_13qr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 23,home,West LA,L,10-9,10.0,9.0,1,win,20130223_ym4h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 26,home,Bakersfield,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 28,home,Bakersfield,L,10-5,10.0,5.0,5,win,20130228_0638,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 2,home,Canyons,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 5,home,Canyons,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 12,home,LA Valley,L,5-3,5.0,3.0,2,win,20130312_3k99,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 14,home,LA Valley,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 16,home,Glendale,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 19,home,Glendale,L,9-8,9.0,8.0,1,win,20130319_exob,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 21,home,LA Mission,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 22,home,LA Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 26,home,Mt. San Antonio,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Mar 28,home,Mt. San Antonio,L,6-4,6.0,4.0,2,win,20130328_xmeo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 2,home,West LA,W,10-0,10.0,0.0,10,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 4,home,West LA,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 6,home,Bakersfield,L,5-3,5.0,3.0,2,win,20130406_5fig,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 9,home,Bakersfield,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 11,home,Canyons,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 13,home,Canyons,L,15-3,15.0,3.0,12,win,20130413_oxfw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 20,home,LA Valley,L,2-1,2.0,1.0,1,win,20130420_jdmr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 23,home,LA Valley,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 25,home,Glendale,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Apr 26,home,Glendale,L,7-3,7.0,3.0,4,win,20130426_5o42,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,nicksimonss4if,Nick Simons
+Feb 1,home,Sierra,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 2,home,Reedley,W,6-5,6.0,5.0,1,win,20130202_b05i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 5,home,Diablo Valley,L,10-7,10.0,7.0,3,win,20130205_87ft,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 7,home,Solano,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 8,home,De Anza,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 9,home,Solano,W,17-8,17.0,8.0,9,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 12,home,Ohlone,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 14,home,Marin,L,4-1,4.0,1.0,3,win,20130214_llfu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 16,home,Sierra,L,7-2,7.0,2.0,5,win,20130216_ydpd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 19,home,Gavilan,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 21,home,Marin,W,10-8,10.0,8.0,2,win,20130221_1n1r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 23,home,Feather River,W,2-0,2.0,0.0,2,win,20130223_50pt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 26,home,San Francisco,W,5-0,5.0,0.0,5,win,20130226_fpqr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 28,home,De Anza,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 1,home,West Valley,W,11-1,11.0,1.0,10,win,20130301_t8bd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 7,home,West Valley,L,3-1,3.0,1.0,2,win,20130307_5ih4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 9,home,Chabot,L,5-3,5.0,3.0,2,win,20130309_9xx3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 12,home,Skyline,W,12-2,12.0,2.0,10,win,20130312_3gx6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 14,home,Mission,W,14-3,14.0,3.0,11,win,20130314_1ow1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 16,home,Canada,L,7-4,7.0,4.0,3,win,20130316_09sf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 19,home,Hartnell,W,10-8,10.0,8.0,2,win,20130319_pglc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 21,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130321_lyme,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 22,home,Mission,L,10-4,10.0,4.0,6,win,20130322_31wc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 26,home,West Valley,W,6-1,6.0,1.0,5,win,20130326_sak4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 28,home,San Francisco,W,8-2,8.0,2.0,6,win,20130328_51w3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Mar 29,home,De Anza,W,11-3,11.0,3.0,8,win,20130329_flk4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 2,home,Monterey,W,8-1,8.0,1.0,7,win,20130402_gxrj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 4,home,Mission,W,3-2,3.0,2.0,1,win,20130404_20wt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 6,home,Chabot,L,4-3,4.0,3.0,1,win,20130406_z76b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 9,home,Ohlone,W,6-1,6.0,1.0,5,win,20130409_e0vv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 13,home,San Francisco,W,7-1,7.0,1.0,6,win,20130413_2518,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 16,home,West Valley,W,6-2,6.0,2.0,4,win,20130416_t33d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 18,home,Chabot,L,12-2,12.0,2.0,10,win,20130418_k5oq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 20,home,De Anza,W,6-2,6.0,2.0,4,win,20130420_wufo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 23,home,Mission,W,4-1,4.0,1.0,3,win,20130423_ecsa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Apr 25,home,Gavilan,W,11-2,11.0,2.0,9,win,20130425_mcxb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+May 3,home,Cabrillo,W,13-6,13.0,6.0,7,win,20130503_ypqu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+May 4,home,Cabrillo,L,8-5,8.0,5.0,3,win,20130504_gq2j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+May 4,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130504_c0qq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,trevincraiggj5w,Trevin Craig
+Feb 1,home,Sierra,L,3-2,3.0,2.0,1,win,20130201_urg9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 2,home,Reedley,W,6-5,6.0,5.0,1,win,20130202_b05i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 5,home,Diablo Valley,L,10-7,10.0,7.0,3,win,20130205_87ft,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 7,home,Solano,L,7-6,7.0,6.0,1,win,20130207_ask3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 8,home,De Anza,L,4-3,4.0,3.0,1,win,20130208_55eo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 9,home,Solano,W,17-8,17.0,8.0,9,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 12,home,Ohlone,L,7-3,7.0,3.0,4,win,20130212_jlfx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 14,home,Marin,L,4-1,4.0,1.0,3,win,20130214_llfu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 16,home,Sierra,L,7-2,7.0,2.0,5,win,20130216_ydpd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 19,home,Gavilan,W,11-5,11.0,5.0,6,win,20130219_6vqu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 21,home,Marin,W,10-8,10.0,8.0,2,win,20130221_1n1r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 23,home,Feather River,W,2-0,2.0,0.0,2,win,20130223_50pt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 26,home,San Francisco,W,5-0,5.0,0.0,5,win,20130226_fpqr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 28,home,De Anza,W,3-1,3.0,1.0,2,win,20130228_o0yl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 1,home,West Valley,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 7,home,West Valley,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 9,home,Chabot,L,5-3,5.0,3.0,2,win,20130309_9xx3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 12,home,Skyline,W,12-2,12.0,2.0,10,win,20130312_3gx6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 14,home,Mission,W,14-3,14.0,3.0,11,win,20130314_1ow1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 16,home,Canada,L,7-4,7.0,4.0,3,win,20130316_09sf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 19,home,Hartnell,W,10-8,10.0,8.0,2,win,20130319_pglc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 21,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130321_lyme,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 22,home,Mission,L,10-4,10.0,4.0,6,win,20130322_31wc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 26,home,West Valley,W,6-1,6.0,1.0,5,win,20130326_sak4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 28,home,San Francisco,W,8-2,8.0,2.0,6,win,20130328_51w3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Mar 29,home,De Anza,W,11-3,11.0,3.0,8,win,20130329_flk4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 2,home,Monterey,W,8-1,8.0,1.0,7,win,20130402_gxrj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 4,home,Mission,W,3-2,3.0,2.0,1,win,20130404_20wt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 6,home,Chabot,L,4-3,4.0,3.0,1,win,20130406_z76b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 9,home,Ohlone,W,6-1,6.0,1.0,5,win,20130409_e0vv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 13,home,San Francisco,W,7-1,7.0,1.0,6,win,20130413_2518,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 16,home,West Valley,W,6-2,6.0,2.0,4,win,20130416_t33d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 18,home,Chabot,L,12-2,12.0,2.0,10,win,20130418_k5oq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 20,home,De Anza,W,6-2,6.0,2.0,4,win,20130420_wufo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 23,home,Mission,W,4-1,4.0,1.0,3,win,20130423_ecsa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Apr 25,home,Gavilan,W,11-2,11.0,2.0,9,win,20130425_mcxb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+May 3,home,Cabrillo,W,13-6,13.0,6.0,7,win,20130503_ypqu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+May 4,home,Cabrillo,L,8-5,8.0,5.0,3,win,20130504_gq2j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+May 4,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130504_c0qq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,kailenrobinson5330,Kailen Robinson
+Feb 1,home,Sierra,L,3-2,3.0,2.0,1,win,20130201_urg9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 2,home,Reedley,W,6-5,6.0,5.0,1,win,20130202_b05i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 5,home,Diablo Valley,L,10-7,10.0,7.0,3,win,20130205_87ft,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 7,home,Solano,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 8,home,De Anza,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 9,home,Solano,W,17-8,17.0,8.0,9,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 12,home,Ohlone,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 14,home,Marin,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 16,home,Sierra,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 19,home,Gavilan,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 21,home,Marin,W,10-8,10.0,8.0,2,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 23,home,Feather River,W,2-0,2.0,0.0,2,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 26,home,San Francisco,W,5-0,5.0,0.0,5,win,20130226_fpqr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 28,home,De Anza,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 1,home,West Valley,W,11-1,11.0,1.0,10,win,20130301_t8bd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 7,home,West Valley,L,3-1,3.0,1.0,2,win,20130307_5ih4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 9,home,Chabot,L,5-3,5.0,3.0,2,win,20130309_9xx3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 12,home,Skyline,W,12-2,12.0,2.0,10,win,20130312_3gx6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 14,home,Mission,W,14-3,14.0,3.0,11,win,20130314_1ow1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 16,home,Canada,L,7-4,7.0,4.0,3,win,20130316_09sf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 19,home,Hartnell,W,10-8,10.0,8.0,2,win,20130319_pglc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 21,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130321_lyme,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 22,home,Mission,L,10-4,10.0,4.0,6,win,20130322_31wc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 26,home,West Valley,W,6-1,6.0,1.0,5,win,20130326_sak4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 28,home,San Francisco,W,8-2,8.0,2.0,6,win,20130328_51w3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Mar 29,home,De Anza,W,11-3,11.0,3.0,8,win,20130329_flk4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 2,home,Monterey,W,8-1,8.0,1.0,7,win,20130402_gxrj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 4,home,Mission,W,3-2,3.0,2.0,1,win,20130404_20wt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 6,home,Chabot,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 9,home,Ohlone,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 13,home,San Francisco,W,7-1,7.0,1.0,6,win,20130413_2518,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 16,home,West Valley,W,6-2,6.0,2.0,4,win,20130416_t33d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 18,home,Chabot,L,12-2,12.0,2.0,10,win,20130418_k5oq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 20,home,De Anza,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 23,home,Mission,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Apr 25,home,Gavilan,W,11-2,11.0,2.0,9,win,20130425_mcxb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+May 3,home,Cabrillo,W,13-6,13.0,6.0,7,win,20130503_ypqu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+May 4,home,Cabrillo,L,8-5,8.0,5.0,3,win,20130504_gq2j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+May 4,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130504_c0qq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,gavinlong11qu,Gavin Long
+Feb 1,home,Cosumnes River,W,2-0,2.0,0.0,2,win,20130201_fkju,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 2,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20130202_14u7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 5,home,Bakersfield,L,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 7,home,Mission,W,6-5,6.0,5.0,1,win,20130207_r1rk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 9,home,Mission,L,4-2,4.0,2.0,2,win,20130209_h9aa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 14,home,Rio Hondo,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 15,home,Cypress,L,5-1,5.0,1.0,4,win,20130215_2wz2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 16,home,Cypress,L,6-0,6.0,0.0,6,win,20130216_w8fk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 21,home,Porterville,L,2-1,2.0,1.0,1,win,20130221_2g6y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 23,home,Porterville,W,8-0,8.0,0.0,8,win,20130223_1tn0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 23,home,Porterville,W,10-2,10.0,2.0,8,win,20130223_fjfc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 26,home,Sequoias,L,4-3,4.0,3.0,1,win,20130226_hxfe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 28,home,Sequoias,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 2,home,Sequoias,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 5,home,Reedley,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 7,home,Reedley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 9,home,Reedley,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 14,home,Bakersfield,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 19,home,West Hills Coalinga,W,11-0,11.0,0.0,11,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 21,home,West Hills Coalinga,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 23,home,West Hills Coalinga,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 26,home,Canyons,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 27,home,East Los Angeles,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Mar 28,home,Cerritos,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 2,home,Fresno City,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 4,home,Fresno City,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 6,home,Fresno City,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 9,home,Taft,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 11,home,Taft,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 13,home,Taft,W,12-4,12.0,4.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 16,home,Porterville,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 20,home,Sequoias,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 21,home,Taft,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 23,home,Reedley,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 25,home,Fresno City,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Apr 26,home,West Hills Coalinga,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+May 3,home,Feather River,L,16-2,16.0,2.0,14,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+May 4,home,Feather River,L,6-0,6.0,0.0,6,win,,,,,,,,,,,,,2013,,Merced,merced,joshboringo15n,Josh Boring
+Feb 1,home,Cosumnes River,W,2-0,2.0,0.0,2,win,20130201_fkju,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 2,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20130202_14u7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 5,home,Bakersfield,L,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 7,home,Mission,W,6-5,6.0,5.0,1,win,20130207_r1rk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 9,home,Mission,L,4-2,4.0,2.0,2,win,20130209_h9aa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 14,home,Rio Hondo,L,4-3,4.0,3.0,1,win,20130214_e8az,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 15,home,Cypress,L,5-1,5.0,1.0,4,win,20130215_2wz2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 16,home,Cypress,L,6-0,6.0,0.0,6,win,20130216_w8fk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 21,home,Porterville,L,2-1,2.0,1.0,1,win,20130221_2g6y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 23,home,Porterville,W,8-0,8.0,0.0,8,win,20130223_1tn0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 23,home,Porterville,W,10-2,10.0,2.0,8,win,20130223_fjfc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 26,home,Sequoias,L,4-3,4.0,3.0,1,win,20130226_hxfe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 28,home,Sequoias,W,3-2,3.0,2.0,1,win,20130228_p9b1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 2,home,Sequoias,L,4-3,4.0,3.0,1,win,20130302_hvns,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 5,home,Reedley,W,5-2,5.0,2.0,3,win,20130305_yvu1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 7,home,Reedley,W,3-1,3.0,1.0,2,win,20130307_pp7c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 9,home,Reedley,L,10-6,10.0,6.0,4,win,20130309_6koy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 14,home,Bakersfield,W,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 19,home,West Hills Coalinga,W,11-0,11.0,0.0,11,win,20130319_z9zw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 21,home,West Hills Coalinga,W,9-2,9.0,2.0,7,win,20130321_ja8r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 23,home,West Hills Coalinga,W,7-4,7.0,4.0,3,win,20130323_tjc2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 26,home,Canyons,W,8-4,8.0,4.0,4,win,20130326_ulmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 27,home,East Los Angeles,L,9-1,9.0,1.0,8,win,20130327_0nlp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Mar 28,home,Cerritos,W,8-4,8.0,4.0,4,win,20130328_i6nh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 2,home,Fresno City,L,8-7,8.0,7.0,1,win,20130402_57po,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 4,home,Fresno City,W,10-6,10.0,6.0,4,win,20130404_m6mj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 6,home,Fresno City,L,6-4,6.0,4.0,2,win,20130406_0cq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 9,home,Taft,W,3-0,3.0,0.0,3,win,20130409_88t6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 11,home,Taft,W,11-3,11.0,3.0,8,win,20130411_qrgr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 13,home,Taft,W,12-4,12.0,4.0,8,win,20130413_ow1s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 16,home,Porterville,L,3-0,3.0,0.0,3,win,20130416_9qg6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 20,home,Sequoias,W,4-2,4.0,2.0,2,win,20130420_5in5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 21,home,Taft,W,5-3,5.0,3.0,2,win,20130421_xgr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 23,home,Reedley,W,5-4,5.0,4.0,1,win,20130423_yfzw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 25,home,Fresno City,L,8-5,8.0,5.0,3,win,20130425_jgqx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Apr 26,home,West Hills Coalinga,W,7-3,7.0,3.0,4,win,20130426_jx1j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+May 3,home,Feather River,L,16-2,16.0,2.0,14,win,20130503_wh2b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+May 4,home,Feather River,L,6-0,6.0,0.0,6,win,20130504_gnyl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,ryancumberlandlxng,Ryan Cumberland
+Feb 1,home,Cosumnes River,W,2-0,2.0,0.0,2,win,20130201_fkju,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 2,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20130202_14u7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 5,home,Bakersfield,L,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 7,home,Mission,W,6-5,6.0,5.0,1,win,20130207_r1rk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 9,home,Mission,L,4-2,4.0,2.0,2,win,20130209_h9aa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 14,home,Rio Hondo,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 15,home,Cypress,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 16,home,Cypress,L,6-0,6.0,0.0,6,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 21,home,Porterville,L,2-1,2.0,1.0,1,win,20130221_2g6y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 23,home,Porterville,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 23,home,Porterville,W,10-2,10.0,2.0,8,win,20130223_fjfc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 26,home,Sequoias,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 28,home,Sequoias,W,3-2,3.0,2.0,1,win,20130228_p9b1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 2,home,Sequoias,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 5,home,Reedley,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 7,home,Reedley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 9,home,Reedley,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 14,home,Bakersfield,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 19,home,West Hills Coalinga,W,11-0,11.0,0.0,11,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 21,home,West Hills Coalinga,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 23,home,West Hills Coalinga,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 26,home,Canyons,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 27,home,East Los Angeles,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Mar 28,home,Cerritos,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 2,home,Fresno City,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 4,home,Fresno City,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 6,home,Fresno City,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 9,home,Taft,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 11,home,Taft,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 13,home,Taft,W,12-4,12.0,4.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 16,home,Porterville,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 20,home,Sequoias,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 21,home,Taft,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 23,home,Reedley,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 25,home,Fresno City,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Apr 26,home,West Hills Coalinga,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+May 3,home,Feather River,L,16-2,16.0,2.0,14,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+May 4,home,Feather River,L,6-0,6.0,0.0,6,win,,,,,,,,,,,,,2013,,Merced,merced,craiglefebvre7ysi,Craig Lefebvre
+Feb 1,home,Cosumnes River,W,2-0,2.0,0.0,2,win,20130201_fkju,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 2,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20130202_14u7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 5,home,Bakersfield,L,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 7,home,Mission,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 9,home,Mission,L,4-2,4.0,2.0,2,win,20130209_h9aa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 14,home,Rio Hondo,L,4-3,4.0,3.0,1,win,20130214_e8az,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 15,home,Cypress,L,5-1,5.0,1.0,4,win,20130215_2wz2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 16,home,Cypress,L,6-0,6.0,0.0,6,win,20130216_w8fk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 21,home,Porterville,L,2-1,2.0,1.0,1,win,20130221_2g6y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 23,home,Porterville,W,8-0,8.0,0.0,8,win,20130223_1tn0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 23,home,Porterville,W,10-2,10.0,2.0,8,win,,,,,,,,,,,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 26,home,Sequoias,L,4-3,4.0,3.0,1,win,20130226_hxfe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 28,home,Sequoias,W,3-2,3.0,2.0,1,win,20130228_p9b1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 2,home,Sequoias,L,4-3,4.0,3.0,1,win,20130302_hvns,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 5,home,Reedley,W,5-2,5.0,2.0,3,win,20130305_yvu1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 7,home,Reedley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 9,home,Reedley,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 14,home,Bakersfield,W,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 19,home,West Hills Coalinga,W,11-0,11.0,0.0,11,win,20130319_z9zw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 21,home,West Hills Coalinga,W,9-2,9.0,2.0,7,win,20130321_ja8r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 23,home,West Hills Coalinga,W,7-4,7.0,4.0,3,win,20130323_tjc2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 26,home,Canyons,W,8-4,8.0,4.0,4,win,20130326_ulmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 27,home,East Los Angeles,L,9-1,9.0,1.0,8,win,20130327_0nlp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Mar 28,home,Cerritos,W,8-4,8.0,4.0,4,win,20130328_i6nh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 2,home,Fresno City,L,8-7,8.0,7.0,1,win,20130402_57po,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 4,home,Fresno City,W,10-6,10.0,6.0,4,win,20130404_m6mj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 6,home,Fresno City,L,6-4,6.0,4.0,2,win,20130406_0cq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 9,home,Taft,W,3-0,3.0,0.0,3,win,20130409_88t6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 11,home,Taft,W,11-3,11.0,3.0,8,win,20130411_qrgr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 13,home,Taft,W,12-4,12.0,4.0,8,win,20130413_ow1s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 16,home,Porterville,L,3-0,3.0,0.0,3,win,20130416_9qg6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 20,home,Sequoias,W,4-2,4.0,2.0,2,win,20130420_5in5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 21,home,Taft,W,5-3,5.0,3.0,2,win,20130421_xgr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 23,home,Reedley,W,5-4,5.0,4.0,1,win,20130423_yfzw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 25,home,Fresno City,L,8-5,8.0,5.0,3,win,20130425_jgqx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Apr 26,home,West Hills Coalinga,W,7-3,7.0,3.0,4,win,20130426_jx1j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+May 3,home,Feather River,L,16-2,16.0,2.0,14,win,20130503_wh2b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+May 4,home,Feather River,L,6-0,6.0,0.0,6,win,20130504_gnyl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Merced,merced,robbiedallaso558,Robbie Dallas
+Feb 1,home,Cerritos,W,4-3,4.0,3.0,1,win,20130201_ssel,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 2,home,Rio Hondo,W,4-1,4.0,1.0,3,win,20130202_5dah,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 3,home,East Los Angeles,L,12-3,12.0,3.0,9,win,20130203_00l2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 5,home,San Bernardino,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 7,home,Chaffey,L,8-3,8.0,3.0,5,win,20130207_9lzj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 8,home,Chaffey,L,7-0,7.0,0.0,7,win,20130208_miet,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 9,home,Oxnard,W,3-1,3.0,1.0,2,win,20130209_u2xn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 14,home,Ventura,W,18-17,18.0,17.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 15,home,San Diego Mesa,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 16,home,LA Mission,W,8-6,8.0,6.0,2,win,20130216_nlbw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 21,home,West LA,W,12-3,12.0,3.0,9,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 22,home,LA Mission,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 23,home,West LA,L,10-9,10.0,9.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 26,home,Bakersfield,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 28,home,Bakersfield,L,10-5,10.0,5.0,5,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 2,home,Canyons,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 5,home,Canyons,L,3-2,3.0,2.0,1,win,20130305_zseg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 12,home,LA Valley,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 14,home,LA Valley,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 16,home,Glendale,L,3-2,3.0,2.0,1,win,20130316_05wa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 19,home,Glendale,L,9-8,9.0,8.0,1,win,20130319_exob,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 21,home,LA Mission,L,5-2,5.0,2.0,3,win,20130321_bsn3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 22,home,LA Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 26,home,Mt. San Antonio,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Mar 28,home,Mt. San Antonio,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 2,home,West LA,W,10-0,10.0,0.0,10,win,20130402_n729,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 4,home,West LA,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 6,home,Bakersfield,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 9,home,Bakersfield,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 11,home,Canyons,L,4-3,4.0,3.0,1,win,20130411_fm12,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 13,home,Canyons,L,15-3,15.0,3.0,12,win,20130413_oxfw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 20,home,LA Valley,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 23,home,LA Valley,W,4-3,4.0,3.0,1,win,20130423_rjcb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 25,home,Glendale,W,10-6,10.0,6.0,4,win,20130425_tmr1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Apr 26,home,Glendale,L,7-3,7.0,3.0,4,win,20130426_5o42,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,williamwalters1euw,William Walters
+Feb 1,home,Porterville,W,10-1,10.0,1.0,9,win,20130201_rnap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 2,home,Allan Hancock,W,6-3,6.0,3.0,3,win,20130202_n403,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 3,home,Sequoias,L,6-1,6.0,1.0,5,win,20130203_d9zj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 5,home,Merced,W,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 8,home,Hartnell,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 9,home,Marin,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 10,home,Golden West,W,12-7,12.0,7.0,5,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 14,home,Allan Hancock,W,8-4,8.0,4.0,4,win,20130214_7n07,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 16,home,Canyons,L,5-1,5.0,1.0,4,win,20130216_1pqd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 21,home,LA Valley,W,9-3,9.0,3.0,6,win,20130221_8uat,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 22,home,Canyons,W,13-0,13.0,0.0,13,win,20130222_l5qy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 23,home,LA Valley,W,8-2,8.0,2.0,6,win,20130223_xnni,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 26,home,Citrus,W,9-3,9.0,3.0,6,win,20130226_hakp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 28,home,Citrus,W,10-5,10.0,5.0,5,win,20130228_0638,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 2,home,LA Mission,W,8-6,8.0,6.0,2,win,20130302_hdy1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 5,home,LA Mission,W,8-7,8.0,7.0,1,win,20130305_ejg7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 7,home,Glendale,W,8-6,8.0,6.0,2,win,20130307_nk99,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 9,home,Glendale,L,3-2,3.0,2.0,1,win,20130309_6f42,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 14,home,Merced,L,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 16,home,West LA,W,10-3,10.0,3.0,7,win,20130316_z4qv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 19,home,West LA,W,7-3,7.0,3.0,4,win,20130319_u04b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 21,home,Canyons,L,10-5,10.0,5.0,5,win,20130321_80xe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 22,home,Canyons,L,6-4,6.0,4.0,2,win,20130322_j8o2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 26,home,Sequoias,L,8-7,8.0,7.0,1,win,20130326_lwf8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 27,home,Reedley,W,6-2,6.0,2.0,4,win,20130327_33m6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Mar 28,home,Saddleback,L,1-0,1.0,0.0,1,win,20130328_ugyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 2,home,LA Valley,W,5-1,5.0,1.0,4,win,20130402_v1z3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 4,home,LA Valley,W,13-2,13.0,2.0,11,win,20130404_lvt0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 6,home,Citrus,W,5-3,5.0,3.0,2,win,20130406_5fig,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 9,home,Citrus,W,8-7,8.0,7.0,1,win,20130409_huav,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 12,home,LA Mission,W,12-4,12.0,4.0,8,win,20130412_ok5a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 13,home,LA Mission,W,11-8,11.0,8.0,3,win,20130413_6gk5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 16,home,Glendale,L,5-1,5.0,1.0,4,win,20130416_4px8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 18,home,Glendale,L,6-3,6.0,3.0,3,win,20130418_nbae,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 25,home,West LA,L,11-6,11.0,6.0,5,win,20130425_d0as,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Apr 26,home,West LA,L,6-3,6.0,3.0,3,win,20130426_mlbi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+May 3,home,Saddleback,L,7-2,7.0,2.0,5,win,20130503_6jen,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+May 4,home,Saddleback,L,7-4,7.0,4.0,3,win,20130504_jc0f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,rolandomartinez7fto,Rolando Martinez
+Feb 1,home,Palomar,W,8-6,8.0,6.0,2,win,20130201_g78q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 2,home,Palomar,L,6-4,6.0,4.0,2,win,20130202_l5vz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 5,home,LA Valley,W,9-0,9.0,0.0,9,win,20130205_a9el,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 6,home,Victor Valley,L,7-3,7.0,3.0,4,win,20130206_73tb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 9,home,Sequoias,W,15-4,15.0,4.0,11,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 9,home,Reedley,L,6-5,6.0,5.0,1,win,20130209_4roz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 10,home,Bakersfield,L,12-7,12.0,7.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 12,home,Cerritos,W,11-4,11.0,4.0,7,win,20130212_un89,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 14,home,LA Valley,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 15,home,LA Mission,L,3-1,3.0,1.0,2,win,20130215_2tes,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 20,home,Cerritos,L,12-7,12.0,7.0,5,win,20130220_3hb8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 21,home,Long Beach,W,4-1,4.0,1.0,3,win,20130221_l0q6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 23,home,Long Beach,W,8-7,8.0,7.0,1,win,20130223_huve,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 28,home,Orange Coast,L,14-6,14.0,6.0,8,win,20130228_56z3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 2,home,Santa Ana,W,8-4,8.0,4.0,4,win,20130302_ii9z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 5,home,Saddleback,L,2-1,2.0,1.0,1,win,20130305_crjb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 7,home,Riverside,W,3-2,3.0,2.0,1,win,20130307_xhiy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 9,home,Cypress,L,3-1,3.0,1.0,2,win,20130309_s2gd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 12,home,Irvine Valley,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 14,home,Fullerton,L,10-0,10.0,0.0,10,win,20130314_5jqo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 16,home,Orange Coast,L,3-2,3.0,2.0,1,win,20130316_iq25,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 19,home,Orange Coast,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 21,home,Santa Ana,L,9-4,9.0,4.0,5,win,20130321_x96y,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 22,home,Santa Ana,L,9-8,9.0,8.0,1,win,20130322_pr12,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 26,home,Chaffey,L,6-2,6.0,2.0,4,win,20130326_ann1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Mar 28,home,Chaffey,W,9-0,9.0,0.0,9,win,20130328_mjtx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 4,home,Saddleback,W,6-5,6.0,5.0,1,win,20130404_a187,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 6,home,Saddleback,L,6-1,6.0,1.0,5,win,20130406_fq21,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 9,home,Riverside,W,3-2,3.0,2.0,1,win,20130409_htfz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 11,home,Riverside,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 12,home,Cypress,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 16,home,Cypress,L,6-5,6.0,5.0,1,win,20130416_p8of,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 18,home,Irvine Valley,W,8-7,8.0,7.0,1,win,20130418_6pvu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 20,home,Irvine Valley,W,10-2,10.0,2.0,8,win,20130420_vskk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 23,home,Fullerton,W,7-1,7.0,1.0,6,win,20130423_om9t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Apr 25,home,Fullerton,L,12-4,12.0,4.0,8,win,20130425_s1pj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,nicolasmarshallph09,Nicolas Marshall
+Feb 1,home,Sierra,L,3-2,3.0,2.0,1,win,20130201_urg9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 2,home,Reedley,W,6-5,6.0,5.0,1,win,20130202_b05i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 5,home,Diablo Valley,L,10-7,10.0,7.0,3,win,20130205_87ft,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 7,home,Solano,L,7-6,7.0,6.0,1,win,20130207_ask3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 8,home,De Anza,L,4-3,4.0,3.0,1,win,20130208_55eo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 9,home,Solano,W,17-8,17.0,8.0,9,win,20130209_2e07,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 12,home,Ohlone,L,7-3,7.0,3.0,4,win,20130212_jlfx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 14,home,Marin,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 16,home,Sierra,L,7-2,7.0,2.0,5,win,20130216_ydpd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 19,home,Gavilan,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 21,home,Marin,W,10-8,10.0,8.0,2,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 23,home,Feather River,W,2-0,2.0,0.0,2,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 26,home,San Francisco,W,5-0,5.0,0.0,5,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 28,home,De Anza,W,3-1,3.0,1.0,2,win,20130228_o0yl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 1,home,West Valley,W,11-1,11.0,1.0,10,win,20130301_t8bd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 7,home,West Valley,L,3-1,3.0,1.0,2,win,20130307_5ih4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 9,home,Chabot,L,5-3,5.0,3.0,2,win,20130309_9xx3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 12,home,Skyline,W,12-2,12.0,2.0,10,win,20130312_3gx6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 14,home,Mission,W,14-3,14.0,3.0,11,win,20130314_1ow1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 16,home,Canada,L,7-4,7.0,4.0,3,win,20130316_09sf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 19,home,Hartnell,W,10-8,10.0,8.0,2,win,20130319_pglc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 21,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130321_lyme,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 22,home,Mission,L,10-4,10.0,4.0,6,win,20130322_31wc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 26,home,West Valley,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 28,home,San Francisco,W,8-2,8.0,2.0,6,win,20130328_51w3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Mar 29,home,De Anza,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 2,home,Monterey,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 4,home,Mission,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 6,home,Chabot,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 9,home,Ohlone,W,6-1,6.0,1.0,5,win,20130409_e0vv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 13,home,San Francisco,W,7-1,7.0,1.0,6,win,20130413_2518,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 16,home,West Valley,W,6-2,6.0,2.0,4,win,20130416_t33d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 18,home,Chabot,L,12-2,12.0,2.0,10,win,20130418_k5oq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 20,home,De Anza,W,6-2,6.0,2.0,4,win,20130420_wufo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 23,home,Mission,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Apr 25,home,Gavilan,W,11-2,11.0,2.0,9,win,20130425_mcxb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+May 3,home,Cabrillo,W,13-6,13.0,6.0,7,win,20130503_ypqu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+May 4,home,Cabrillo,L,8-5,8.0,5.0,3,win,20130504_gq2j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+May 4,home,Cabrillo,L,6-5,6.0,5.0,1,win,20130504_c0qq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,San Mateo,sanmateo,chrisberry1pfq,Chris Berry
+Feb 1,home,Porterville,W,10-1,10.0,1.0,9,win,20130201_rnap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 2,home,Allan Hancock,W,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 3,home,Sequoias,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 5,home,Merced,W,9-6,9.0,6.0,3,win,20130205_82pk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 8,home,Hartnell,W,6-5,6.0,5.0,1,win,20130208_qg8g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 9,home,Marin,W,10-4,10.0,4.0,6,win,20130209_gl8x,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 10,home,Golden West,W,12-7,12.0,7.0,5,win,20130210_hvzl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 14,home,Allan Hancock,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 16,home,Canyons,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 21,home,LA Valley,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 22,home,Canyons,W,13-0,13.0,0.0,13,win,20130222_l5qy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 23,home,LA Valley,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 26,home,Citrus,W,9-3,9.0,3.0,6,win,20130226_hakp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 28,home,Citrus,W,10-5,10.0,5.0,5,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 2,home,LA Mission,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 5,home,LA Mission,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 7,home,Glendale,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 9,home,Glendale,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 14,home,Merced,L,3-1,3.0,1.0,2,win,20130314_dhoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 16,home,West LA,W,10-3,10.0,3.0,7,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 19,home,West LA,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 21,home,Canyons,L,10-5,10.0,5.0,5,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 22,home,Canyons,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 26,home,Sequoias,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 27,home,Reedley,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Mar 28,home,Saddleback,L,1-0,1.0,0.0,1,win,20130328_ugyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 2,home,LA Valley,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 4,home,LA Valley,W,13-2,13.0,2.0,11,win,20130404_lvt0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 6,home,Citrus,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 9,home,Citrus,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 12,home,LA Mission,W,12-4,12.0,4.0,8,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 13,home,LA Mission,W,11-8,11.0,8.0,3,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 16,home,Glendale,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 18,home,Glendale,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 25,home,West LA,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Apr 26,home,West LA,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+May 3,home,Saddleback,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+May 4,home,Saddleback,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2013,,Bakersfield,bakersfield,aaronnewmaniujl,Aaron Newman
+Feb 1,home,Cerritos,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 2,home,Rio Hondo,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 3,home,East Los Angeles,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 5,home,San Bernardino,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 7,home,Chaffey,L,8-3,8.0,3.0,5,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 8,home,Chaffey,L,7-0,7.0,0.0,7,win,20130208_miet,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 9,home,Oxnard,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 14,home,Ventura,W,18-17,18.0,17.0,1,win,20130214_inwk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 15,home,San Diego Mesa,W,6-4,6.0,4.0,2,win,20130215_xizx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 16,home,LA Mission,W,8-6,8.0,6.0,2,win,20130216_nlbw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 21,home,West LA,W,12-3,12.0,3.0,9,win,20130221_ltp8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 22,home,LA Mission,L,6-1,6.0,1.0,5,win,20130222_13qr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 23,home,West LA,L,10-9,10.0,9.0,1,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 26,home,Bakersfield,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 28,home,Bakersfield,L,10-5,10.0,5.0,5,win,20130228_0638,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 2,home,Canyons,W,7-6,7.0,6.0,1,win,20130302_1y3n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 5,home,Canyons,L,3-2,3.0,2.0,1,win,20130305_zseg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 12,home,LA Valley,L,5-3,5.0,3.0,2,win,20130312_3k99,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 14,home,LA Valley,L,7-4,7.0,4.0,3,win,20130314_ydx8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 16,home,Glendale,L,3-2,3.0,2.0,1,win,20130316_05wa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 19,home,Glendale,L,9-8,9.0,8.0,1,win,20130319_exob,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 21,home,LA Mission,L,5-2,5.0,2.0,3,win,20130321_bsn3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 22,home,LA Mission,W,9-3,9.0,3.0,6,win,20130322_bv7b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 26,home,Mt. San Antonio,L,5-1,5.0,1.0,4,win,20130326_qhj6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Mar 28,home,Mt. San Antonio,L,6-4,6.0,4.0,2,win,20130328_xmeo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 2,home,West LA,W,10-0,10.0,0.0,10,win,20130402_n729,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 4,home,West LA,W,3-1,3.0,1.0,2,win,20130404_83id,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 6,home,Bakersfield,L,5-3,5.0,3.0,2,win,20130406_5fig,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 9,home,Bakersfield,L,8-7,8.0,7.0,1,win,20130409_huav,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 11,home,Canyons,L,4-3,4.0,3.0,1,win,20130411_fm12,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 13,home,Canyons,L,15-3,15.0,3.0,12,win,20130413_oxfw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 20,home,LA Valley,L,2-1,2.0,1.0,1,win,20130420_jdmr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 23,home,LA Valley,W,4-3,4.0,3.0,1,win,20130423_rjcb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 25,home,Glendale,W,10-6,10.0,6.0,4,win,20130425_tmr1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Apr 26,home,Glendale,L,7-3,7.0,3.0,4,win,20130426_5o42,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Citrus,citrus,brandonbenson67t8,Brandon Benson
+Feb 1,home,Palomar,W,8-6,8.0,6.0,2,win,20130201_g78q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 2,home,Palomar,L,6-4,6.0,4.0,2,win,20130202_l5vz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 5,home,LA Valley,W,9-0,9.0,0.0,9,win,20130205_a9el,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 6,home,Victor Valley,L,7-3,7.0,3.0,4,win,20130206_73tb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 9,home,Sequoias,W,15-4,15.0,4.0,11,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 9,home,Reedley,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 10,home,Bakersfield,L,12-7,12.0,7.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 12,home,Cerritos,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 14,home,LA Valley,W,9-5,9.0,5.0,4,win,20130214_zi3b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 15,home,LA Mission,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 20,home,Cerritos,L,12-7,12.0,7.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 21,home,Long Beach,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 23,home,Long Beach,W,8-7,8.0,7.0,1,win,20130223_huve,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Feb 28,home,Orange Coast,L,14-6,14.0,6.0,8,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 2,home,Santa Ana,W,8-4,8.0,4.0,4,win,20130302_ii9z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 5,home,Saddleback,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 7,home,Riverside,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 9,home,Cypress,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 12,home,Irvine Valley,W,7-2,7.0,2.0,5,win,20130312_lkcz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 14,home,Fullerton,L,10-0,10.0,0.0,10,win,20130314_5jqo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 16,home,Orange Coast,L,3-2,3.0,2.0,1,win,20130316_iq25,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 19,home,Orange Coast,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 21,home,Santa Ana,L,9-4,9.0,4.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 22,home,Santa Ana,L,9-8,9.0,8.0,1,win,20130322_pr12,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 26,home,Chaffey,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Mar 28,home,Chaffey,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Apr 4,home,Saddleback,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Apr 6,home,Saddleback,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Apr 9,home,Riverside,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Apr 11,home,Riverside,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Apr 12,home,Cypress,L,6-3,6.0,3.0,3,win,20130412_4ce6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos
+Apr 16,home,Cypress,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2013,,Golden West,goldenwest,angelramosm8g3,Angel Ramos

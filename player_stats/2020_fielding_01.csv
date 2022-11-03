@@ -1,0 +1,933 @@
+date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,cccaa_season,team,team_id,player_id,player_name
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,20200131_28u1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,20200215_dazs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,20200222_vm7d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,20200228_eybh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,20200229_98dz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,20200303_vwe5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,20200308_wyuu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,20200312_ery0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,ryanjaneirocggc,Ryan Janeiro
+Jan 21  #,home,Bakersfield,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Jan 26,home,Feather River,W,2-1,2.0,1.0,1,win,20200126_g5to,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Jan 30,home,Mission,L,9-2,9.0,2.0,7,win,20200130_4opv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Jan 31,home,Monterey Peninsula,W,12-2,12.0,2.0,10,win,20200131_8ki6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 1,home,Gavilan,W,15-3,15.0,3.0,12,win,20200201_rsuv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 4,home,San Mateo,L,5-3,5.0,3.0,2,win,20200204_r16u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 7,home,Cosumnes River,L,6-4,6.0,4.0,2,win,20200207_9xbu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 8,home,Cosumnes River,W,14-4,14.0,4.0,10,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 13,home,Rio Hondo,W,22-2,22.0,2.0,20,win,20200213_lyy4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 14,home,Cypress,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 15,home,Pasadena City,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 18,home,Sequoias,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 20,home,Sequoias,W,5-2,5.0,2.0,3,win,20200220_eyuw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 22,home,Sequoias,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 25,home,Mission,W,8-7,8.0,7.0,1,win,20200225_edtk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 27,home,Cabrillo,W,6-2,6.0,2.0,4,win,20200227_z1mz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Feb 29,home,Bakersfield,W,13-6,13.0,6.0,7,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 3,home,West Hills Coalinga,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 5,home,West Hills Coalinga,W,13-2,13.0,2.0,11,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 7,home,West Hills Coalinga,W,17-11,17.0,11.0,6,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 10,home,Reedley,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 12,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 14,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 17,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 19,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 21,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 24,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 26,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 28,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Mar 31,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 2,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 4,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 7,home,Canyons,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 9,home,Cuesta,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 14,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 16,home,West Hills Coalinga,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 19,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 21,home,Sequoias,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 23,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Apr 24,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,austinschottypv9,Austin Schott
+Jan 21  #,home,Bakersfield,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Jan 26,home,Feather River,W,2-1,2.0,1.0,1,win,20200126_g5to,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Jan 30,home,Mission,L,9-2,9.0,2.0,7,win,20200130_4opv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Jan 31,home,Monterey Peninsula,W,12-2,12.0,2.0,10,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 1,home,Gavilan,W,15-3,15.0,3.0,12,win,20200201_rsuv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 4,home,San Mateo,L,5-3,5.0,3.0,2,win,20200204_r16u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 7,home,Cosumnes River,L,6-4,6.0,4.0,2,win,20200207_9xbu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 8,home,Cosumnes River,W,14-4,14.0,4.0,10,win,20200208_405s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 13,home,Rio Hondo,W,22-2,22.0,2.0,20,win,20200213_lyy4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 14,home,Cypress,L,5-3,5.0,3.0,2,win,20200214_s9av,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 15,home,Pasadena City,L,6-3,6.0,3.0,3,win,20200215_lksl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 18,home,Sequoias,L,7-0,7.0,0.0,7,win,20200218_vog4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 20,home,Sequoias,W,5-2,5.0,2.0,3,win,20200220_eyuw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 22,home,Sequoias,L,9-1,9.0,1.0,8,win,20200222_vnv6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 25,home,Mission,W,8-7,8.0,7.0,1,win,20200225_edtk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 27,home,Cabrillo,W,6-2,6.0,2.0,4,win,20200227_z1mz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Feb 29,home,Bakersfield,W,13-6,13.0,6.0,7,win,20200229_vc5w,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 3,home,West Hills Coalinga,W,9-5,9.0,5.0,4,win,20200303_ffyw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 5,home,West Hills Coalinga,W,13-2,13.0,2.0,11,win,20200305_s8wk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 7,home,West Hills Coalinga,W,17-11,17.0,11.0,6,win,20200307_6n8d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 10,home,Reedley,W,4-1,4.0,1.0,3,win,20200310_9l3z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 12,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 14,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 17,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 19,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 21,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 24,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 26,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 28,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Mar 31,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 2,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 4,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 7,home,Canyons,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 9,home,Cuesta,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 14,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 16,home,West Hills Coalinga,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 19,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 21,home,Sequoias,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 23,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Apr 24,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,geraldnix95fh,Gerald Nix
+Jan 24,home,Taft,W,12-1,12.0,1.0,11,win,20200124_4ddh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Jan 25,home,Feather River,W,7-0,7.0,0.0,7,win,20200125_5rma,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Jan 25,home,Bakersfield,W,7-5,7.0,5.0,2,win,20200125_pjzr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Jan 28,home,LA Mission,L,8-1,8.0,1.0,7,win,20200128_056o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Jan 31,home,Fullerton,W,6-4,6.0,4.0,2,win,20200131_7j9z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 4,home,LA Valley,L,13-6,13.0,6.0,7,win,20200204_96py,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 6,home,LA Valley,W,10-0,10.0,0.0,10,win,20200206_sh5b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 8,home,LA Harbor,W,12-2,12.0,2.0,10,win,20200208_zg23,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 11,home,Cypress,L,7-4,7.0,4.0,3,win,20200211_f6pu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 13,home,Fullerton,W,11-10,11.0,10.0,1,win,20200213_2bpx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 14,home,Canyons,W,3-2,3.0,2.0,1,win,20200214_j0wd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 15,home,LA Harbor,L,13-1,13.0,1.0,12,win,20200215_g14o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 18,home,Allan Hancock,W,9-1,9.0,1.0,8,win,20200218_sht0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 20,home,Allan Hancock,L,10-3,10.0,3.0,7,win,20200220_nxas,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 22,home,Allan Hancock,L,14-6,14.0,6.0,8,win,20200222_9xls,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 25,home,LA Pierce,L,4-2,4.0,2.0,2,win,20200225_pktl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 27,home,LA Pierce,W,9-1,9.0,1.0,8,win,20200227_y6p9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Feb 29,home,LA Pierce,W,5-0,5.0,0.0,5,win,20200229_o5ic,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 3,home,East Los Angeles,W,5-4,5.0,4.0,1,win,20200303_6pob,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 5,home,East Los Angeles,L,11-7,11.0,7.0,4,win,20200305_ar48,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 10,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 12,home,Cuesta,W,7-3,7.0,3.0,4,win,20200312_ct7e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 14,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 14,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 17,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 19,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 21,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 24,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 26,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 28,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Mar 31,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 2,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 4,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 7,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 9,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 14,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 16,home,LA Pierce,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 21,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 23,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 24,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Apr 25,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,cameronkinsneryc0p,Cameron Kinsner
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,20200124_ptnz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,20200130_5kf0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,20200131_28u1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,20200206_u4cn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,20200207_ojj4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,20200208_o2jh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,20200211_gmrc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,20200213_4mmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,20200214_yuqf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,20200215_dazs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,20200221_5s6p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,20200222_1cc5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,20200222_vm7d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,20200225_9hpb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,20200228_eybh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,20200229_6jxe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,20200229_98dz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,20200303_vwe5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,20200306_syp9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,20200308_e4dt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,20200312_ery0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,lukestatonavqp,Luke Staton
+Jan 18  #,home,Pasadena City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Jan 24,home,Chaffey,W,7-4,7.0,4.0,3,win,20200124_qabv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Jan 25,home,Long Beach,L,4-1,4.0,1.0,3,win,20200125_r1lk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Jan 28,home,El Camino,W,6-1,6.0,1.0,5,win,20200128_kwyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Jan 30,home,San Diego City,W,4-3,4.0,3.0,1,win,20200130_gket,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Jan 31,home,San Bernardino Valley,W,11-7,11.0,7.0,4,win,20200131_u393,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 1,home,Ohlone,L,5-4,5.0,4.0,1,win,20200201_ogax,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 4,home,Grossmont,W,13-7,13.0,7.0,6,win,20200204_i7gr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 7,home,Mt. San Antonio,W,15-5,15.0,5.0,10,win,20200207_elye,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 8,home,LA Pierce,W,22-6,22.0,6.0,16,win,20200208_l84n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 11,home,Moorpark,W,7-4,7.0,4.0,3,win,20200211_f6pu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 13,home,Pasadena City,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 14,home,Merced,W,5-3,5.0,3.0,2,win,20200214_s9av,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 20,home,Citrus,W,5-1,5.0,1.0,4,win,20200220_x54n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 22,home,Palomar,W,10-5,10.0,5.0,5,win,20200222_g1xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 25,home,Canyons,W,15-6,15.0,6.0,9,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Feb 27,home,Canyons,T,11-11,11.0,11.0,0,tie,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 3,home,Fullerton,W,16-2,16.0,2.0,14,win,20200303_s3xa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 5,home,Fullerton,W,14-3,14.0,3.0,11,win,20200305_0o5c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 7,home,Fullerton,W,12-1,12.0,1.0,11,win,20200307_1rdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 9,home,Saddleback,W,2-1,2.0,1.0,1,win,20200309_m65l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 11,home,Saddleback,L,8-4,8.0,4.0,4,win,20200311_yj7z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 14,home,Saddleback,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 17,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 19,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 20,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 24,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 26,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 28,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Mar 31,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 2,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 3,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 7,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 8,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 9,home,Fresno City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 14,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 16,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 18,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 21,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 23,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Apr 24,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,spencerserven53so,Spencer Serven
+Jan 24,home,Taft,W,12-1,12.0,1.0,11,win,20200124_4ddh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Jan 25,home,Feather River,W,7-0,7.0,0.0,7,win,20200125_5rma,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Jan 25,home,Bakersfield,W,7-5,7.0,5.0,2,win,20200125_pjzr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Jan 28,home,LA Mission,L,8-1,8.0,1.0,7,win,20200128_056o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Jan 31,home,Fullerton,W,6-4,6.0,4.0,2,win,20200131_7j9z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 4,home,LA Valley,L,13-6,13.0,6.0,7,win,20200204_96py,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 6,home,LA Valley,W,10-0,10.0,0.0,10,win,20200206_sh5b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 8,home,LA Harbor,W,12-2,12.0,2.0,10,win,20200208_zg23,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 11,home,Cypress,L,7-4,7.0,4.0,3,win,20200211_f6pu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 13,home,Fullerton,W,11-10,11.0,10.0,1,win,20200213_2bpx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 14,home,Canyons,W,3-2,3.0,2.0,1,win,20200214_j0wd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 15,home,LA Harbor,L,13-1,13.0,1.0,12,win,20200215_g14o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 18,home,Allan Hancock,W,9-1,9.0,1.0,8,win,20200218_sht0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 20,home,Allan Hancock,L,10-3,10.0,3.0,7,win,20200220_nxas,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 22,home,Allan Hancock,L,14-6,14.0,6.0,8,win,20200222_9xls,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 25,home,LA Pierce,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 27,home,LA Pierce,W,9-1,9.0,1.0,8,win,20200227_y6p9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Feb 29,home,LA Pierce,W,5-0,5.0,0.0,5,win,20200229_o5ic,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 3,home,East Los Angeles,W,5-4,5.0,4.0,1,win,20200303_6pob,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 5,home,East Los Angeles,L,11-7,11.0,7.0,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 10,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 12,home,Cuesta,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 14,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 14,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 17,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 19,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 21,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 24,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 26,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 28,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Mar 31,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 2,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 4,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 7,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 9,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 14,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 16,home,LA Pierce,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 21,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 23,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 24,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Apr 25,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,dylanleek6pia,Dylan Leek
+Jan 18  #,home,Pasadena City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Jan 24,home,Chaffey,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Jan 25,home,Long Beach,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Jan 28,home,El Camino,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Jan 30,home,San Diego City,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Jan 31,home,San Bernardino Valley,W,11-7,11.0,7.0,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 1,home,Ohlone,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 4,home,Grossmont,W,13-7,13.0,7.0,6,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 7,home,Mt. San Antonio,W,15-5,15.0,5.0,10,win,20200207_elye,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 8,home,LA Pierce,W,22-6,22.0,6.0,16,win,20200208_l84n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 11,home,Moorpark,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 13,home,Pasadena City,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 14,home,Merced,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 20,home,Citrus,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 22,home,Palomar,W,10-5,10.0,5.0,5,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 25,home,Canyons,W,15-6,15.0,6.0,9,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Feb 27,home,Canyons,T,11-11,11.0,11.0,0,tie,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 3,home,Fullerton,W,16-2,16.0,2.0,14,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 5,home,Fullerton,W,14-3,14.0,3.0,11,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 7,home,Fullerton,W,12-1,12.0,1.0,11,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 9,home,Saddleback,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 11,home,Saddleback,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 14,home,Saddleback,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 17,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 19,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 20,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 24,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 26,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 28,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Mar 31,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 2,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 3,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 7,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 8,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 9,home,Fresno City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 14,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 16,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 18,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 21,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 23,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Apr 24,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,masonpastorellou27i,Mason Pastorello
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,20200124_ptnz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,20200125_1pvr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,20200130_5kf0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,20200131_28u1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,20200201_u9v8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,20200206_u4cn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,20200208_o2jh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,20200211_gmrc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,20200213_4mmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,20200214_yuqf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,20200221_5s6p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,20200222_1cc5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,20200225_9hpb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,20200228_eybh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,20200229_6jxe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,20200229_98dz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,20200303_vwe5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,20200306_syp9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,20200308_wyuu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,20200308_e4dt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,20200312_ery0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,nickhorsleyjlxl,Nick Horsley
+Jan 18  #,home,Pasadena City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Jan 24,home,Chaffey,W,7-4,7.0,4.0,3,win,20200124_qabv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Jan 25,home,Long Beach,L,4-1,4.0,1.0,3,win,20200125_r1lk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Jan 28,home,El Camino,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Jan 30,home,San Diego City,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Jan 31,home,San Bernardino Valley,W,11-7,11.0,7.0,4,win,20200131_u393,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 1,home,Ohlone,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 4,home,Grossmont,W,13-7,13.0,7.0,6,win,20200204_i7gr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 7,home,Mt. San Antonio,W,15-5,15.0,5.0,10,win,20200207_elye,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 8,home,LA Pierce,W,22-6,22.0,6.0,16,win,20200208_l84n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 11,home,Moorpark,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 13,home,Pasadena City,W,8-1,8.0,1.0,7,win,20200213_j6x0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 14,home,Merced,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 20,home,Citrus,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 22,home,Palomar,W,10-5,10.0,5.0,5,win,20200222_g1xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 25,home,Canyons,W,15-6,15.0,6.0,9,win,20200225_ll2g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Feb 27,home,Canyons,T,11-11,11.0,11.0,0,tie,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 3,home,Fullerton,W,16-2,16.0,2.0,14,win,20200303_s3xa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 5,home,Fullerton,W,14-3,14.0,3.0,11,win,20200305_0o5c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 7,home,Fullerton,W,12-1,12.0,1.0,11,win,20200307_1rdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 9,home,Saddleback,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 11,home,Saddleback,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 14,home,Saddleback,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 17,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 19,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 20,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 24,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 26,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 28,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Mar 31,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 2,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 3,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 7,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 8,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 9,home,Fresno City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 14,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 16,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 18,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 21,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 23,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Apr 24,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,ryanmaciele4ii,Ryan Maciel
+Jan 18  #,home,Pasadena City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Jan 24,home,Chaffey,W,7-4,7.0,4.0,3,win,20200124_qabv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Jan 25,home,Long Beach,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Jan 28,home,El Camino,W,6-1,6.0,1.0,5,win,20200128_kwyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Jan 30,home,San Diego City,W,4-3,4.0,3.0,1,win,20200130_gket,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Jan 31,home,San Bernardino Valley,W,11-7,11.0,7.0,4,win,20200131_u393,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 1,home,Ohlone,L,5-4,5.0,4.0,1,win,20200201_ogax,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 4,home,Grossmont,W,13-7,13.0,7.0,6,win,20200204_i7gr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 7,home,Mt. San Antonio,W,15-5,15.0,5.0,10,win,20200207_elye,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 8,home,LA Pierce,W,22-6,22.0,6.0,16,win,20200208_l84n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 11,home,Moorpark,W,7-4,7.0,4.0,3,win,20200211_f6pu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 13,home,Pasadena City,W,8-1,8.0,1.0,7,win,20200213_j6x0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 14,home,Merced,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 20,home,Citrus,W,5-1,5.0,1.0,4,win,20200220_x54n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 22,home,Palomar,W,10-5,10.0,5.0,5,win,20200222_g1xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 25,home,Canyons,W,15-6,15.0,6.0,9,win,20200225_ll2g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Feb 27,home,Canyons,T,11-11,11.0,11.0,0,tie,20200227_353s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 3,home,Fullerton,W,16-2,16.0,2.0,14,win,20200303_s3xa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 5,home,Fullerton,W,14-3,14.0,3.0,11,win,20200305_0o5c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 7,home,Fullerton,W,12-1,12.0,1.0,11,win,20200307_1rdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 9,home,Saddleback,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 11,home,Saddleback,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 14,home,Saddleback,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 17,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 19,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 20,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 24,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 26,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 28,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Mar 31,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 2,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 3,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 7,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 8,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 9,home,Fresno City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 14,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 16,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 18,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 21,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 23,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Apr 24,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,mckaydowdellulx6,McKay Dowdell
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,20200131_28u1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,20200207_ojj4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,20200211_gmrc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,20200214_yuqf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,20200215_dazs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,20200221_5s6p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,20200222_vm7d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,20200225_9hpb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,20200228_eybh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,20200229_6jxe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,20200229_98dz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,20200303_vwe5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,trevorschluterdm1r,Trevor Schluter
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,20200124_ptnz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,20200125_1pvr,1.0,0.0,1.0,0.0,4.2,6.0,6.0,4.0,7.71,5.0,6.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,20200130_5kf0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,20200131_28u1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,20200201_u9v8,1.0,0.0,0.0,0.0,6.2,10.0,6.0,6.0,8.1,1.0,1.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,20200207_ojj4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,20200208_o2jh,1.0,0.0,1.0,0.0,5.0,5.0,3.0,3.0,5.4,1.0,3.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,20200211_gmrc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,20200213_4mmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,20200214_yuqf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,20200215_dazs,1.0,0.0,1.0,0.0,4.0,15.0,9.0,9.0,20.25,1.0,2.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,20200222_vm7d,1.0,0.0,1.0,0.0,5.0,7.0,4.0,2.0,3.6,2.0,4.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,20200225_9hpb,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,20200229_98dz,1.0,0.0,0.0,0.0,6.0,4.0,1.0,1.0,1.5,1.0,3.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,20200303_vwe5,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,20200308_e4dt,1.0,1.0,0.0,0.0,7.1,6.0,3.0,3.0,3.68,3.0,5.0,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,cameronfalcon0fii,Cameron Falcon
+Jan 24,home,Mendocino,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Jan 24,home,Mendocino,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Jan 31,home,Napa Valley,W,11-6,11.0,6.0,5,win,20200131_pncr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Jan 31,home,Napa Valley,W,7-4,7.0,4.0,3,win,20200131_48jz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 1,home,Napa Valley,W,4-3,4.0,3.0,1,win,20200201_ds0s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 1,home,Napa Valley,W,5-3,5.0,3.0,2,win,20200201_ytis,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 7,home,Laney,L,5-2,5.0,2.0,3,win,20200207_wgky,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 8,home,Modesto,L,11-7,11.0,7.0,4,win,20200208_gjar,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 8,home,Modesto,L,7-0,7.0,0.0,7,win,20200208_zw2w,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 14,home,Los Medanos,W,10-5,10.0,5.0,5,win,20200214_rtab,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 14,home,Los Medanos,L,14-5,14.0,5.0,9,win,20200214_g6nt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 15,home,Los Medanos,L,4-3,4.0,3.0,1,win,20200215_lqlb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 21,home,Lassen,L,16-1,16.0,1.0,15,win,20200221_tp3m,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 21,home,Lassen,L,6-1,6.0,1.0,5,win,20200221_o47d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 22,home,Lassen,L,18-5,18.0,5.0,13,win,20200222_anzi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 25,home,Mendocino,L,4-2,4.0,2.0,2,win,20200225_q7fu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 28,home,Butte,L,4-0,4.0,0.0,4,win,20200228_g5f2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 28,home,Butte,L,19-2,19.0,2.0,17,win,20200228_i4ux,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Feb 29,home,Butte,L,9-2,9.0,2.0,7,win,20200229_dwf5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 5,home,Feather River,L,17-3,17.0,3.0,14,win,20200305_udya,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 6,home,Feather River,L,4-2,4.0,2.0,2,win,20200306_pg4k,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 6,home,Feather River,L,16-6,16.0,6.0,10,win,20200306_62k7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 13,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 14,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 14,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 21,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 28,home,Lassen,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Mar 28,home,Lassen,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 3,home,Butte,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 4,home,Butte,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 10,home,Feather River,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 10,home,Feather River,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 17,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 18,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Apr 23,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,connorparnelle3yk,Connor Parnell
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,20200124_ptnz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,20200125_1pvr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,20200130_5kf0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,20200131_28u1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,20200201_u9v8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,20200206_u4cn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,20200207_ojj4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,20200208_o2jh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,20200211_gmrc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,20200213_4mmg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,20200214_yuqf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,20200215_dazs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,20200221_5s6p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,20200222_1cc5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,20200222_vm7d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,20200225_9hpb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,20200228_eybh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,20200229_6jxe,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,20200229_98dz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,20200303_vwe5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,20200306_syp9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,20200308_wyuu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,20200308_e4dt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,20200312_ery0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,jadengorge5ani,Jaden Gorge
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,20200229_98dz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,20200303_vwe5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,20200306_syp9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,20200308_wyuu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,20200308_e4dt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,haydenhillrtzi,Hayden Hill
+Jan 18  #,home,Pasadena City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Jan 24,home,Chaffey,W,7-4,7.0,4.0,3,win,20200124_qabv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Jan 25,home,Long Beach,L,4-1,4.0,1.0,3,win,20200125_r1lk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Jan 28,home,El Camino,W,6-1,6.0,1.0,5,win,20200128_kwyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Jan 30,home,San Diego City,W,4-3,4.0,3.0,1,win,20200130_gket,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Jan 31,home,San Bernardino Valley,W,11-7,11.0,7.0,4,win,20200131_u393,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 1,home,Ohlone,L,5-4,5.0,4.0,1,win,20200201_ogax,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 4,home,Grossmont,W,13-7,13.0,7.0,6,win,20200204_i7gr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 7,home,Mt. San Antonio,W,15-5,15.0,5.0,10,win,20200207_elye,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 8,home,LA Pierce,W,22-6,22.0,6.0,16,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 11,home,Moorpark,W,7-4,7.0,4.0,3,win,20200211_f6pu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 13,home,Pasadena City,W,8-1,8.0,1.0,7,win,20200213_j6x0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 14,home,Merced,W,5-3,5.0,3.0,2,win,20200214_s9av,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 20,home,Citrus,W,5-1,5.0,1.0,4,win,20200220_x54n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 22,home,Palomar,W,10-5,10.0,5.0,5,win,20200222_g1xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 25,home,Canyons,W,15-6,15.0,6.0,9,win,20200225_ll2g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Feb 27,home,Canyons,T,11-11,11.0,11.0,0,tie,20200227_353s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 3,home,Fullerton,W,16-2,16.0,2.0,14,win,20200303_s3xa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 5,home,Fullerton,W,14-3,14.0,3.0,11,win,20200305_0o5c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 7,home,Fullerton,W,12-1,12.0,1.0,11,win,20200307_1rdd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 9,home,Saddleback,W,2-1,2.0,1.0,1,win,20200309_m65l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 11,home,Saddleback,L,8-4,8.0,4.0,4,win,20200311_yj7z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 14,home,Saddleback,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 17,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 19,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 20,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 24,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 26,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 28,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Mar 31,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 2,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 3,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 7,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 8,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 9,home,Fresno City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 14,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 16,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 18,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 21,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 23,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Apr 24,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,davidcanalesgvx5,David Canales
+Jan 21  #,home,Bakersfield,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Jan 26,home,Feather River,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Jan 30,home,Mission,L,9-2,9.0,2.0,7,win,20200130_4opv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Jan 31,home,Monterey Peninsula,W,12-2,12.0,2.0,10,win,20200131_8ki6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 1,home,Gavilan,W,15-3,15.0,3.0,12,win,20200201_rsuv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 4,home,San Mateo,L,5-3,5.0,3.0,2,win,20200204_r16u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 7,home,Cosumnes River,L,6-4,6.0,4.0,2,win,20200207_9xbu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 8,home,Cosumnes River,W,14-4,14.0,4.0,10,win,20200208_405s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 13,home,Rio Hondo,W,22-2,22.0,2.0,20,win,20200213_lyy4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 14,home,Cypress,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 15,home,Pasadena City,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 18,home,Sequoias,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 20,home,Sequoias,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 22,home,Sequoias,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 25,home,Mission,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 27,home,Cabrillo,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Feb 29,home,Bakersfield,W,13-6,13.0,6.0,7,win,20200229_vc5w,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 3,home,West Hills Coalinga,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 5,home,West Hills Coalinga,W,13-2,13.0,2.0,11,win,20200305_s8wk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 7,home,West Hills Coalinga,W,17-11,17.0,11.0,6,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 10,home,Reedley,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 12,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 14,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 17,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 19,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 21,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 24,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 26,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 28,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Mar 31,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 2,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 4,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 7,home,Canyons,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 9,home,Cuesta,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 14,home,Fresno City,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 16,home,West Hills Coalinga,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 19,home,Reedley,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 21,home,Sequoias,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 23,home,Taft,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Apr 24,home,Porterville,,,,,3,win,,,,,,,,,,,,,2020,,Merced,merced,brentgonsalves9pmb,Brent Gonsalves
+Jan 24,home,Taft,W,12-1,12.0,1.0,11,win,20200124_4ddh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Jan 25,home,Feather River,W,7-0,7.0,0.0,7,win,20200125_5rma,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Jan 25,home,Bakersfield,W,7-5,7.0,5.0,2,win,20200125_pjzr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Jan 28,home,LA Mission,L,8-1,8.0,1.0,7,win,20200128_056o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Jan 31,home,Fullerton,W,6-4,6.0,4.0,2,win,20200131_7j9z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 4,home,LA Valley,L,13-6,13.0,6.0,7,win,20200204_96py,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 6,home,LA Valley,W,10-0,10.0,0.0,10,win,20200206_sh5b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 8,home,LA Harbor,W,12-2,12.0,2.0,10,win,20200208_zg23,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 11,home,Cypress,L,7-4,7.0,4.0,3,win,20200211_f6pu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 13,home,Fullerton,W,11-10,11.0,10.0,1,win,20200213_2bpx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 14,home,Canyons,W,3-2,3.0,2.0,1,win,20200214_j0wd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 15,home,LA Harbor,L,13-1,13.0,1.0,12,win,20200215_g14o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 18,home,Allan Hancock,W,9-1,9.0,1.0,8,win,20200218_sht0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 20,home,Allan Hancock,L,10-3,10.0,3.0,7,win,20200220_nxas,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 22,home,Allan Hancock,L,14-6,14.0,6.0,8,win,20200222_9xls,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 25,home,LA Pierce,L,4-2,4.0,2.0,2,win,20200225_pktl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 27,home,LA Pierce,W,9-1,9.0,1.0,8,win,20200227_y6p9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Feb 29,home,LA Pierce,W,5-0,5.0,0.0,5,win,20200229_o5ic,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 3,home,East Los Angeles,W,5-4,5.0,4.0,1,win,20200303_6pob,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 5,home,East Los Angeles,L,11-7,11.0,7.0,4,win,20200305_ar48,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 10,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 12,home,Cuesta,W,7-3,7.0,3.0,4,win,20200312_ct7e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 14,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 14,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 17,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 19,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 21,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 24,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 26,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 28,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Mar 31,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 2,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 4,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 7,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 9,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 14,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 16,home,LA Pierce,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 21,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 23,home,Oxnard,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 24,home,Santa Barbara,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Apr 25,home,Ventura,,,,,4,win,,,,,,,,,,,,,2020,,Moorpark,moorpark,albertpradoo7tk,Albert Prado
+Jan 24,home,Mendocino,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Jan 24,home,Mendocino,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Jan 31,home,Napa Valley,W,11-6,11.0,6.0,5,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Jan 31,home,Napa Valley,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 1,home,Napa Valley,W,4-3,4.0,3.0,1,win,20200201_ds0s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 1,home,Napa Valley,W,5-3,5.0,3.0,2,win,20200201_ytis,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 7,home,Laney,L,5-2,5.0,2.0,3,win,20200207_wgky,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 8,home,Modesto,L,11-7,11.0,7.0,4,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 8,home,Modesto,L,7-0,7.0,0.0,7,win,20200208_zw2w,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 14,home,Los Medanos,W,10-5,10.0,5.0,5,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 14,home,Los Medanos,L,14-5,14.0,5.0,9,win,20200214_g6nt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 15,home,Los Medanos,L,4-3,4.0,3.0,1,win,20200215_lqlb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 21,home,Lassen,L,16-1,16.0,1.0,15,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 21,home,Lassen,L,6-1,6.0,1.0,5,win,20200221_o47d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 22,home,Lassen,L,18-5,18.0,5.0,13,win,20200222_anzi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 25,home,Mendocino,L,4-2,4.0,2.0,2,win,20200225_q7fu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 28,home,Butte,L,4-0,4.0,0.0,4,win,20200228_g5f2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 28,home,Butte,L,19-2,19.0,2.0,17,win,20200228_i4ux,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Feb 29,home,Butte,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 5,home,Feather River,L,17-3,17.0,3.0,14,win,20200305_udya,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 6,home,Feather River,L,4-2,4.0,2.0,2,win,20200306_pg4k,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 6,home,Feather River,L,16-6,16.0,6.0,10,win,20200306_62k7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 13,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 14,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 14,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 21,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 28,home,Lassen,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Mar 28,home,Lassen,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 3,home,Butte,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 4,home,Butte,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 10,home,Feather River,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 10,home,Feather River,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 17,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 18,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Apr 23,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,luisesparza20t1,Luis Esparza
+Jan 18  #,home,Pasadena City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Jan 24,home,Chaffey,W,7-4,7.0,4.0,3,win,20200124_qabv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Jan 25,home,Long Beach,L,4-1,4.0,1.0,3,win,20200125_r1lk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Jan 28,home,El Camino,W,6-1,6.0,1.0,5,win,20200128_kwyf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Jan 30,home,San Diego City,W,4-3,4.0,3.0,1,win,20200130_gket,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Jan 31,home,San Bernardino Valley,W,11-7,11.0,7.0,4,win,20200131_u393,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 1,home,Ohlone,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 4,home,Grossmont,W,13-7,13.0,7.0,6,win,20200204_i7gr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 7,home,Mt. San Antonio,W,15-5,15.0,5.0,10,win,20200207_elye,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 8,home,LA Pierce,W,22-6,22.0,6.0,16,win,20200208_l84n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 11,home,Moorpark,W,7-4,7.0,4.0,3,win,20200211_f6pu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 13,home,Pasadena City,W,8-1,8.0,1.0,7,win,20200213_j6x0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 14,home,Merced,W,5-3,5.0,3.0,2,win,20200214_s9av,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 20,home,Citrus,W,5-1,5.0,1.0,4,win,20200220_x54n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 22,home,Palomar,W,10-5,10.0,5.0,5,win,20200222_g1xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 25,home,Canyons,W,15-6,15.0,6.0,9,win,20200225_ll2g,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Feb 27,home,Canyons,T,11-11,11.0,11.0,0,tie,20200227_353s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 3,home,Fullerton,W,16-2,16.0,2.0,14,win,20200303_s3xa,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 5,home,Fullerton,W,14-3,14.0,3.0,11,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 7,home,Fullerton,W,12-1,12.0,1.0,11,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 9,home,Saddleback,W,2-1,2.0,1.0,1,win,20200309_m65l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 11,home,Saddleback,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 14,home,Saddleback,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 17,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 19,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 20,home,Riverside,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 24,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 26,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 28,home,Orange Coast,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Mar 31,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 2,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 3,home,Santa Ana,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 7,home,Cuesta,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 8,home,Allan Hancock,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 9,home,Fresno City,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 14,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 16,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 18,home,Irvine Valley,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 21,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 23,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Apr 24,home,Golden West,,,,,4,win,,,,,,,,,,,,,2020,,Cypress,cypress,haydenwinterskhx0,Hayden Winters
+Jan 24,home,Cosumnes River,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Jan 25,home,Cosumnes River,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Jan 30,home,American River,W,12-6,12.0,6.0,6,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Jan 31,home,Sierra,L,8-0,8.0,0.0,8,win,20200131_28u1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 1,home,American River,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 6,home,Skyline,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 7,home,Skyline,L,6-3,6.0,3.0,3,win,20200207_ojj4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 8,home,Skyline,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 11,home,Yuba,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 13,home,Canada,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 14,home,Canada,L,5-4,5.0,4.0,1,win,20200214_yuqf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 15,home,Canada,L,13-4,13.0,4.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 21,home,Butte,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 22,home,Butte,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 22,home,Butte,L,8-2,8.0,2.0,6,win,20200222_vm7d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 25,home,Yuba,L,4-2,4.0,2.0,2,win,20200225_9hpb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 28,home,Feather River,L,18-5,18.0,5.0,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 29,home,Feather River,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Feb 29,home,Feather River,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 3,home,Sierra,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 6,home,Siskiyous,W,16-3,16.0,3.0,13,win,20200306_syp9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 7,home,Siskiyous,,,,,13,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 8,home,Siskiyous,W,10-3,10.0,3.0,7,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 8,home,Siskiyous,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 12,home,Lassen,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 13,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 21,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 27,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 28,home,Butte,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Mar 31,home,Cosumnes River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 3,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 4,home,Feather River,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 10,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 11,home,Siskiyous,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 17,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 18,home,Lassen,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 22,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Apr 23,home,Redwoods,,,,,9,win,,,,,,,,,,,,,2020,,Shasta,shasta,austinkadlepz74,Austin Kadle
+Jan 24,home,Mendocino,W,5-3,5.0,3.0,2,win,20200124_dmhp,0.0,0.0,0.0,1.0,1.0,,,,0.0,1.0,1.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Jan 24,home,Mendocino,W,3-1,3.0,1.0,2,win,20200124_ejyk,1.0,1.0,0.0,0.0,7.0,1.0,1.0,1.0,1.29,1.0,8.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Jan 31,home,Napa Valley,W,11-6,11.0,6.0,5,win,20200131_pncr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Jan 31,home,Napa Valley,W,7-4,7.0,4.0,3,win,20200131_48jz,0.0,0.0,0.0,1.0,1.0,,,,0.0,,3.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 1,home,Napa Valley,W,4-3,4.0,3.0,1,win,20200201_ds0s,1.0,1.0,0.0,0.0,7.0,10.0,3.0,3.0,3.86,2.0,8.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 1,home,Napa Valley,W,5-3,5.0,3.0,2,win,20200201_ytis,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 7,home,Laney,L,5-2,5.0,2.0,3,win,20200207_wgky,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 8,home,Modesto,L,11-7,11.0,7.0,4,win,20200208_gjar,1.0,0.0,1.0,0.0,5.0,7.0,5.0,4.0,7.2,3.0,2.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 8,home,Modesto,L,7-0,7.0,0.0,7,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 14,home,Los Medanos,W,10-5,10.0,5.0,5,win,20200214_rtab,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 14,home,Los Medanos,L,14-5,14.0,5.0,9,win,20200214_g6nt,1.0,0.0,0.0,0.0,6.0,5.0,3.0,1.0,1.5,5.0,6.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 15,home,Los Medanos,L,4-3,4.0,3.0,1,win,20200215_lqlb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 21,home,Lassen,L,16-1,16.0,1.0,15,win,20200221_tp3m,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 21,home,Lassen,L,6-1,6.0,1.0,5,win,20200221_o47d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 22,home,Lassen,L,18-5,18.0,5.0,13,win,20200222_anzi,1.0,0.0,1.0,0.0,4.0,9.0,8.0,3.0,6.75,1.0,2.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 25,home,Mendocino,L,4-2,4.0,2.0,2,win,20200225_q7fu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 28,home,Butte,L,4-0,4.0,0.0,4,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 28,home,Butte,L,19-2,19.0,2.0,17,win,20200228_i4ux,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Feb 29,home,Butte,L,9-2,9.0,2.0,7,win,20200229_dwf5,1.0,0.0,1.0,0.0,6.0,5.0,4.0,4.0,6.0,4.0,5.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 5,home,Feather River,L,17-3,17.0,3.0,14,win,20200305_udya,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 6,home,Feather River,L,4-2,4.0,2.0,2,win,20200306_pg4k,1.0,0.0,1.0,0.0,7.0,5.0,3.0,1.0,1.29,3.0,6.0,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 6,home,Feather River,L,16-6,16.0,6.0,10,win,20200306_62k7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 13,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 14,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 14,home,Siskiyous,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 21,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 22,home,Shasta,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 28,home,Lassen,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Mar 28,home,Lassen,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
+Apr 3,home,Butte,,,,,10,win,,,,,,,,,,,,,2020,,Redwoods,redwoods,calebruizqx4b,Caleb Ruiz
