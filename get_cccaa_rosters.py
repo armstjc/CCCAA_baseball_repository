@@ -71,7 +71,7 @@ def get_CCCAA_Rosters():
 				count += 1
 
 			roster_df['team_name'] = team_name
-			roster_df['team_njcaa_season'] = team_cccaa_season
+			roster_df['team_cccaa_season'] = team_cccaa_season
 			#roster_df['team_njcaa_division'] = team_njcaa_division
 			roster_df['team_id'] = team_id
 			roster_df['team_season'] = team_season
