@@ -92,9 +92,9 @@ def mergeFieldingStats():
 def main():
     mergeRosters()
 
-    # mergeBattingStats()
-    # mergePitchingStats()
-    # mergeFieldingStats()
+    mergeBattingStats()
+    mergePitchingStats()
+    mergeFieldingStats()
 
 if __name__ == "__main__":
     main()
