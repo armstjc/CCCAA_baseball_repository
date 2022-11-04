@@ -23,7 +23,7 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 	player_count = len(player_urls)
 	# driver = webdriver.Chrome(
 	# 	executable_path=webdriverPath)
-	count = 3100
+	count = 3250
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')

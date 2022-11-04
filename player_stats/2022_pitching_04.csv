@@ -1,47 +1,79 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,GS,W,L,SV,IP,H,R,ER,ERA,BB,K,HR,season,cccaa_season,team,team_id,player_id,player_name
-Jan 21  #,home,Antelope Valley,,,,,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,jashaunfranksrnvu,Ja'Shaun Franks
-Apr 29,home,Pasadena City,W,4-0,4.0,0.0,4,win,20220429_gmk4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 28,home,Pasadena City,W,7-6,7.0,6.0,1,win,20220428_obc1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 26,home,Pasadena City,L,6-0,6.0,0.0,6,win,20220426_yvss,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 23,home,Rio Hondo,W,6-1,6.0,1.0,5,win,20220423_x1vn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 21,home,Rio Hondo,L,15-2,15.0,2.0,13,win,20220421_0apn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 19,home,Rio Hondo,W,13-2,13.0,2.0,11,win,20220419_kyq1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 14,home,Allan Hancock,L,19-5,19.0,5.0,14,win,20220414_lqcg,0.0,0.0,0.0,0.0,1.0,2.0,2.0,,0.0,,3.0,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 13,home,Cuesta,L,13-5,13.0,5.0,8,win,20220413_syhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 12,home,Fresno City,L,6-5,6.0,5.0,1,win,20220412_klx1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 7,home,Oxnard,L,11-0,11.0,0.0,11,win,20220407_zcv0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 5,home,Oxnard,W,7-6,7.0,6.0,1,win,20220405_w38o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Apr 2,home,Long Beach,L,11-4,11.0,4.0,7,win,20220402_syhx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 31,home,Long Beach,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 30,home,Long Beach,L,8-2,8.0,2.0,6,win,20220330_ebko,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 26,home,Mt. San Antonio,L,8-5,8.0,5.0,3,win,20220326_k1fr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 24,home,Mt. San Antonio,L,25-7,25.0,7.0,18,win,20220324_y23j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 22,home,Mt. San Antonio,L,10-6,10.0,6.0,4,win,20220322_e4l6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 19,home,El Camino,W,5-3,5.0,3.0,2,win,20220319_3t25,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 17,home,El Camino,L,7-2,7.0,2.0,5,win,20220317_106b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 15,home,El Camino,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 12,home,Compton,L,6-4,6.0,4.0,2,win,20220312_nugc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 10,home,Compton,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 8,home,Compton,W,8-1,8.0,1.0,7,win,20220308_ckp8,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 5,home,East Los Angeles,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 3,home,East Los Angeles,L,3-1,3.0,1.0,2,win,20220303_ugws,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Mar 1,home,East Los Angeles,L,6-4,6.0,4.0,2,win,20220301_lqjb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 26,home,LA Harbor,L,9-4,9.0,4.0,5,win,20220226_908p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 25,home,LA Valley,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 24,home,LA Harbor,W,6-5,6.0,5.0,1,win,20220224_gqgu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 22,home,LA Harbor,L,13-10,13.0,10.0,3,win,20220222_z0h1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 19,home,West LA,L,12-7,12.0,7.0,5,win,20220219_5t9s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 12,home,Victor Valley,W,10-9,10.0,9.0,1,win,20220212_rxtp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 10,home,Santa Ana,T,11-11,11.0,11.0,0,tie,20220210_zeeq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 8,home,Santa Ana,L,13-4,13.0,4.0,9,win,20220208_u8j4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 5,home,LA Valley,L,6-4,6.0,4.0,2,win,20220205_z0jl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 4,home,San Joaquin Delta,L,17-5,17.0,5.0,12,win,20220204_jkrt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 3,home,Irvine Valley,W,7-4,7.0,4.0,3,win,20220203_sf7r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Feb 1,home,West LA,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Jan 29,home,Fullerton,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Jan 27,home,Fullerton,L,12-0,12.0,0.0,12,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Jan 22  #,home,Antelope Valley,,,,,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
-Jan 21  #,home,Antelope Valley,,,,,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,alexbueno1nls,Alex Bueno
+Apr 15,home,Santa Barbara,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Apr 14,home,Merced,W,14-11,14.0,11.0,3,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Apr 13,home,Cerritos,W,13-5,13.0,5.0,8,win,20220413_syhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Apr 12,home,Cypress,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Apr 5,home,Santa Barbara,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Apr 2,home,Oxnard,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 31,home,Oxnard,W,13-1,13.0,1.0,12,win,20220331_n2ql,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 30,home,Oxnard,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 19,home,Moorpark,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 17,home,Moorpark,W,7-6,7.0,6.0,1,win,20220317_s5ss,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 15,home,Moorpark,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 12,home,LA Pierce,W,9-1,9.0,1.0,8,win,20220312_cn8t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 10,home,LA Pierce,W,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 8,home,LA Pierce,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 5,home,Allan Hancock,L,12-5,12.0,5.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 3,home,Allan Hancock,L,10-8,10.0,8.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Mar 1,home,Allan Hancock,W,20-8,20.0,8.0,12,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 26,home,Ventura,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 24,home,Ventura,W,14-5,14.0,5.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 22,home,Ventura,W,12-6,12.0,6.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 18,home,Saddleback,L,10-2,10.0,2.0,8,win,20220218_lfg5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 17,home,Saddleback,W,10-9,10.0,9.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 15,home,Reedley,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 12,home,Sequoias,L,13-12,13.0,12.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 11,home,Sequoias,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 10,home,Sequoias,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 8,home,Reedley,L,7-4,7.0,4.0,3,win,20220208_93n9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 5,home,Orange Coast,L,13-12,13.0,12.0,1,win,20220205_3sb3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 4,home,Orange Coast,L,9-7,9.0,7.0,2,win,20220204_4y61,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Feb 3,home,Orange Coast,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Jan 29,home,Riverside,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Jan 28,home,Riverside,W,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Jan 27,home,Riverside,L,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Jan 22  #,home,Ventura,,,,,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,zachcurtisstke,Zach Curtis
+Apr 28,home,Ohlone,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 26,home,Ohlone,L,15-11,15.0,11.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 23,home,Monterey Peninsula,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 22,home,Monterey Peninsula,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 19,home,Hartnell,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 16,home,Hartnell,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 14,home,Mission,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 12,home,Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 9,home,De Anza,W,14-5,14.0,5.0,9,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 7,home,De Anza,W,19-5,19.0,5.0,14,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 5,home,Ohlone,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Apr 2,home,Skyline,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 31,home,San Mateo,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 29,home,Canada,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 26,home,Ohlone,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 24,home,Monterey Peninsula,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 22,home,Monterey Peninsula,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 19,home,Hartnell,W,12-8,12.0,8.0,4,win,20220319_y1ro,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 17,home,Hartnell,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 15,home,Mission,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 12,home,Mission,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 10,home,De Anza,W,15-3,15.0,3.0,12,win,20220310_tphx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 8,home,De Anza,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 5,home,West Valley,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 3,home,Chabot,L,8-7,8.0,7.0,1,win,20220303_qwgs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Mar 1,home,Fresno City,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 24,home,Santa Rosa,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 23,home,Santa Rosa,W,3-0,3.0,0.0,3,win,20220223_cbw2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 21,home,San Joaquin Delta,W,14-9,14.0,9.0,5,win,20220221_htap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 18,home,Feather River,W,11-9,11.0,9.0,2,win,20220218_3don,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 17,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 15,home,Merced,L,4-3,4.0,3.0,1,win,20220215_tc1a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 12,home,Diablo Valley,L,10-9,10.0,9.0,1,win,20220212_dh0d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 11,home,Laney,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 10,home,Marin,L,5-4,5.0,4.0,1,win,20220210_p9zg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 8,home,West Valley,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 5,home,Diablo Valley,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Feb 3,home,Merced,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Jan 30,home,Reedley,L,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Jan 27,home,Reedley,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
+Jan 22  #,home,San Franscico State,,,,,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jasondoranxzvn,Jason Doran
 Apr 29,home,Pasadena City,W,4-0,4.0,0.0,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,danielcastellanosks52,Daniel Castellanos
 Apr 28,home,Pasadena City,W,7-6,7.0,6.0,1,win,20220428_obc1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,danielcastellanosks52,Daniel Castellanos
 Apr 26,home,Pasadena City,L,6-0,6.0,0.0,6,win,20220426_yvss,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,danielcastellanosks52,Daniel Castellanos
@@ -126,6 +158,47 @@ Jan 29,home,Fullerton,L,2-1,2.0,1.0,1,win,20220129_opxz,0.0,0.0,0.0,0.0,0.0,,,,0
 Jan 27,home,Fullerton,L,12-0,12.0,0.0,12,win,20220127_kpna,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,mosesdokesq60n,Moses Dokes
 Jan 22  #,home,Antelope Valley,,,,,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,mosesdokesq60n,Moses Dokes
 Jan 21  #,home,Antelope Valley,,,,,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,mosesdokesq60n,Moses Dokes
+Apr 29,home,Golden West,W,5-3,5.0,3.0,2,win,20220429_b0o6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 28,home,Golden West,L,15-2,15.0,2.0,13,win,20220428_56km,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 26,home,Golden West,L,6-5,6.0,5.0,1,win,20220426_fu0p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 23,home,Santa Ana,W,3-2,3.0,2.0,1,win,20220423_ajkf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 21,home,Santa Ana,L,8-2,8.0,2.0,6,win,20220421_hv4a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 19,home,Santa Ana,L,5-4,5.0,4.0,1,win,20220419_2v5h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 13,home,LA Harbor,L,10-7,10.0,7.0,3,win,20220413_1efl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 12,home,LA Harbor,W,14-7,14.0,7.0,7,win,20220412_vetz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 8,home,Saddleback,L,7-2,7.0,2.0,5,win,20220408_shol,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 7,home,Saddleback,L,5-1,5.0,1.0,4,win,20220407_z7ra,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 5,home,Saddleback,L,10-5,10.0,5.0,5,win,20220405_mwzf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Apr 2,home,Cypress,L,8-7,8.0,7.0,1,win,20220402_hy28,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 31,home,Cypress,W,6-5,6.0,5.0,1,win,20220331_5ezl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 29,home,Cypress,L,7-6,7.0,6.0,1,win,20220329_ykqw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 25,home,Riverside,L,12-7,12.0,7.0,5,win,20220325_icci,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 24,home,Riverside,L,9-2,9.0,2.0,7,win,20220324_8nz0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 22,home,Riverside,L,7-5,7.0,5.0,2,win,20220322_ae2c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 19,home,Fullerton,L,18-5,18.0,5.0,13,win,20220319_5a75,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 17,home,Fullerton,L,7-2,7.0,2.0,5,win,20220317_x09d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 15,home,Fullerton,W,2-1,2.0,1.0,1,win,20220315_4xh0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 12,home,Orange Coast,L,14-4,14.0,4.0,10,win,20220312_rnls,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 10,home,Orange Coast,L,5-4,5.0,4.0,1,win,20220310_iidp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 8,home,Orange Coast,W,8-6,8.0,6.0,2,win,20220308_xwzi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 3,home,LA Valley,L,8-7,8.0,7.0,1,win,20220303_8ai6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Mar 1,home,LA Valley,L,14-5,14.0,5.0,9,win,20220301_g9sq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 25,home,Mt. San Jacinto,W,11-2,11.0,2.0,9,win,20220225_d8k4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 24,home,Chaffey,L,3-1,3.0,1.0,2,win,20220224_8sl7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 19,home,Desert,W,4-1,4.0,1.0,3,win,20220219_idd4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 18,home,Desert,W,3-1,3.0,1.0,2,win,20220218_p48e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 16,home,Chaffey,W,9-7,9.0,7.0,2,win,20220216_zxte,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 15,home,San Diego Mesa,W,10-6,10.0,6.0,4,win,20220215_1iok,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 12,home,Compton,W,8-2,8.0,2.0,6,win,20220212_lang,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 10,home,San Bernardino Valley,W,8-2,8.0,2.0,6,win,20220210_04ev,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 10,home,San Bernardino Valley,W,12-5,12.0,5.0,7,win,20220210_c3nm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 7,home,Mt. San Jacinto,W,7-6,7.0,6.0,1,win,20220207_0gew,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 5,home,Long Beach,W,4-1,4.0,1.0,3,win,20220205_94g5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 4,home,Pasadena City,L,11-6,11.0,6.0,5,win,20220204_o611,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Feb 3,home,Cerritos,L,7-4,7.0,4.0,3,win,20220203_sf7r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Jan 29,home,Long Beach,L,7-1,7.0,1.0,6,win,20220129_zzb0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Jan 27,home,Long Beach,W,4-3,4.0,3.0,1,win,20220127_f9n9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
+Jan 22  #,home,Mt. San Antonio,,,,,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,jackhaggerty65wt,Jack Haggerty
 May 29,home,Folsom Lake,L,10-9,10.0,9.0,1,win,20220529_llqg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,willjewellh9bj,Will Jewell
 May 29,home,Riverside,L,14-8,14.0,8.0,6,win,,,,,,,,,,,,,,2022,,Ohlone,ohlone,willjewellh9bj,Will Jewell
 May 28,home,Palomar,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,,2022,,Ohlone,ohlone,willjewellh9bj,Will Jewell
@@ -278,6 +351,49 @@ Jan 29,home,Ventura,L,12-2,12.0,2.0,10,win,20220129_o149,0.0,0.0,0.0,0.0,0.0,,,,
 Jan 28,home,Ventura,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,lorenzomariani4k95,Lorenzo Mariani
 Jan 21  #,home,Butte,,,,,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,lorenzomariani4k95,Lorenzo Mariani
 Jan 15  #,home,Los Medanos,,,,,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,lorenzomariani4k95,Lorenzo Mariani
+May 7,home,El Camino,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+May 6,home,El Camino,L,15-14,15.0,14.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 30,home,Santa Barbara,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 29,home,Oxnard,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 26,home,Moorpark,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 23,home,LA Pierce,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 22,home,Santa Barbara,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 20,home,Allan Hancock,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 19,home,Ventura,W,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 15,home,Santa Barbara,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 14,home,Merced,W,14-11,14.0,11.0,3,win,20220414_o2kn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 13,home,Cerritos,W,13-5,13.0,5.0,8,win,20220413_syhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 12,home,Cypress,W,5-4,5.0,4.0,1,win,20220412_jqds,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 5,home,Santa Barbara,L,7-5,7.0,5.0,2,win,20220405_aqve,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Apr 2,home,Oxnard,W,5-1,5.0,1.0,4,win,20220402_0kr6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 31,home,Oxnard,W,13-1,13.0,1.0,12,win,20220331_n2ql,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 30,home,Oxnard,W,8-1,8.0,1.0,7,win,20220330_6fjz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 19,home,Moorpark,W,9-2,9.0,2.0,7,win,20220319_b1mm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 17,home,Moorpark,W,7-6,7.0,6.0,1,win,20220317_s5ss,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 15,home,Moorpark,W,8-0,8.0,0.0,8,win,20220315_1a25,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 12,home,LA Pierce,W,9-1,9.0,1.0,8,win,20220312_cn8t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 10,home,LA Pierce,W,6-0,6.0,0.0,6,win,20220310_z186,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 8,home,LA Pierce,W,10-7,10.0,7.0,3,win,20220307_cxr1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 5,home,Allan Hancock,L,12-5,12.0,5.0,7,win,20220305_0ipy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 3,home,Allan Hancock,L,10-8,10.0,8.0,2,win,20220303_xt62,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Mar 1,home,Allan Hancock,W,20-8,20.0,8.0,12,win,20220301_amvg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 26,home,Ventura,W,11-1,11.0,1.0,10,win,20220226_0en0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 24,home,Ventura,W,14-5,14.0,5.0,9,win,20220224_tjxu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 22,home,Ventura,W,12-6,12.0,6.0,6,win,20220222_1gdw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 18,home,Saddleback,L,10-2,10.0,2.0,8,win,20220218_lfg5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 17,home,Saddleback,W,10-9,10.0,9.0,1,win,20220217_t8m4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 15,home,Reedley,W,5-3,5.0,3.0,2,win,20220215_tzmx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 12,home,Sequoias,L,13-12,13.0,12.0,1,win,20220212_608q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 11,home,Sequoias,W,9-0,9.0,0.0,9,win,20220211_7xxj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 10,home,Sequoias,L,4-3,4.0,3.0,1,win,20220210_qd4o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 8,home,Reedley,L,7-4,7.0,4.0,3,win,20220208_93n9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 5,home,Orange Coast,L,13-12,13.0,12.0,1,win,20220205_3sb3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 4,home,Orange Coast,L,9-7,9.0,7.0,2,win,20220204_4y61,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Feb 3,home,Orange Coast,L,11-6,11.0,6.0,5,win,20220203_zr64,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Jan 29,home,Riverside,L,6-3,6.0,3.0,3,win,20220129_rt7p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Jan 28,home,Riverside,W,7-5,7.0,5.0,2,win,20220128_hw5j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Jan 27,home,Riverside,L,11-4,11.0,4.0,7,win,20220127_o6no,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
+Jan 22  #,home,Ventura,,,,,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,ryanfennd6kd,Ryan Fenn
 Apr 29,home,Pasadena City,W,4-0,4.0,0.0,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,sawyerchesleyscm9,Sawyer Chesley
 Apr 28,home,Pasadena City,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,sawyerchesleyscm9,Sawyer Chesley
 Apr 26,home,Pasadena City,L,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,sawyerchesleyscm9,Sawyer Chesley
@@ -544,6 +660,129 @@ Jan 29,home,Ventura,L,12-2,12.0,2.0,10,win,20220129_o149,0.0,0.0,0.0,0.0,0.0,,,,
 Jan 28,home,Ventura,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,konnermcclellintxzu,Konner McClellin
 Jan 21  #,home,Butte,,,,,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,konnermcclellintxzu,Konner McClellin
 Jan 15  #,home,Los Medanos,,,,,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,konnermcclellintxzu,Konner McClellin
+Apr 28,home,Ohlone,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 26,home,Ohlone,L,15-11,15.0,11.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 23,home,Monterey Peninsula,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 22,home,Monterey Peninsula,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 19,home,Hartnell,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 16,home,Hartnell,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 14,home,Mission,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 12,home,Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 9,home,De Anza,W,14-5,14.0,5.0,9,win,20220409_otq9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 7,home,De Anza,W,19-5,19.0,5.0,14,win,20220407_egdw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 5,home,Ohlone,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 2,home,Skyline,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 31,home,San Mateo,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 29,home,Canada,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 26,home,Ohlone,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 24,home,Monterey Peninsula,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 22,home,Monterey Peninsula,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 19,home,Hartnell,W,12-8,12.0,8.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 17,home,Hartnell,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 15,home,Mission,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 12,home,Mission,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 10,home,De Anza,W,15-3,15.0,3.0,12,win,20220310_tphx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 8,home,De Anza,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 5,home,West Valley,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 3,home,Chabot,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Mar 1,home,Fresno City,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 24,home,Santa Rosa,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 23,home,Santa Rosa,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 21,home,San Joaquin Delta,W,14-9,14.0,9.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 18,home,Feather River,W,11-9,11.0,9.0,2,win,20220218_3don,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 17,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 15,home,Merced,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 12,home,Diablo Valley,L,10-9,10.0,9.0,1,win,20220212_dh0d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 11,home,Laney,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 10,home,Marin,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 8,home,West Valley,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 5,home,Diablo Valley,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Feb 3,home,Merced,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Jan 30,home,Reedley,L,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Jan 27,home,Reedley,L,7-4,7.0,4.0,3,win,20220127_3654,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Jan 22  #,home,San Franscico State,,,,,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,reeshalldp7n,Rees Hall
+Apr 28,home,Ohlone,L,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 26,home,Ohlone,L,15-11,15.0,11.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 23,home,Monterey Peninsula,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 22,home,Monterey Peninsula,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 19,home,Hartnell,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 16,home,Hartnell,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 14,home,Mission,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 12,home,Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 9,home,De Anza,W,14-5,14.0,5.0,9,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 7,home,De Anza,W,19-5,19.0,5.0,14,win,20220407_egdw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 5,home,Ohlone,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 2,home,Skyline,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 31,home,San Mateo,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 29,home,Canada,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 26,home,Ohlone,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 24,home,Monterey Peninsula,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 22,home,Monterey Peninsula,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 19,home,Hartnell,W,12-8,12.0,8.0,4,win,20220319_y1ro,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 17,home,Hartnell,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 15,home,Mission,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 12,home,Mission,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 10,home,De Anza,W,15-3,15.0,3.0,12,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 8,home,De Anza,W,5-2,5.0,2.0,3,win,20220308_2ipi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 5,home,West Valley,L,8-5,8.0,5.0,3,win,20220305_g97f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 3,home,Chabot,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Mar 1,home,Fresno City,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 24,home,Santa Rosa,L,4-3,4.0,3.0,1,win,20220224_s2g7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 23,home,Santa Rosa,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 21,home,San Joaquin Delta,W,14-9,14.0,9.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 18,home,Feather River,W,11-9,11.0,9.0,2,win,20220218_3don,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 17,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,20220217_e97h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 15,home,Merced,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 12,home,Diablo Valley,L,10-9,10.0,9.0,1,win,20220212_dh0d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 11,home,Laney,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 10,home,Marin,L,5-4,5.0,4.0,1,win,20220210_p9zg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 8,home,West Valley,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 5,home,Diablo Valley,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Feb 3,home,Merced,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Jan 30,home,Reedley,L,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Jan 27,home,Reedley,L,7-4,7.0,4.0,3,win,20220127_3654,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Jan 22  #,home,San Franscico State,,,,,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,vincenzoluciamwui,Vincenzo Lucia
+Apr 29,home,Golden West,W,5-3,5.0,3.0,2,win,20220429_b0o6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 28,home,Golden West,L,15-2,15.0,2.0,13,win,20220428_56km,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 26,home,Golden West,L,6-5,6.0,5.0,1,win,20220426_fu0p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 23,home,Santa Ana,W,3-2,3.0,2.0,1,win,20220423_ajkf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 21,home,Santa Ana,L,8-2,8.0,2.0,6,win,20220421_hv4a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 19,home,Santa Ana,L,5-4,5.0,4.0,1,win,20220419_2v5h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 13,home,LA Harbor,L,10-7,10.0,7.0,3,win,20220413_1efl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 12,home,LA Harbor,W,14-7,14.0,7.0,7,win,20220412_vetz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 8,home,Saddleback,L,7-2,7.0,2.0,5,win,20220408_shol,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 7,home,Saddleback,L,5-1,5.0,1.0,4,win,20220407_z7ra,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 5,home,Saddleback,L,10-5,10.0,5.0,5,win,20220405_mwzf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Apr 2,home,Cypress,L,8-7,8.0,7.0,1,win,20220402_hy28,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 31,home,Cypress,W,6-5,6.0,5.0,1,win,20220331_5ezl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 29,home,Cypress,L,7-6,7.0,6.0,1,win,20220329_ykqw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 25,home,Riverside,L,12-7,12.0,7.0,5,win,20220325_icci,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 24,home,Riverside,L,9-2,9.0,2.0,7,win,20220324_8nz0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 22,home,Riverside,L,7-5,7.0,5.0,2,win,20220322_ae2c,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 19,home,Fullerton,L,18-5,18.0,5.0,13,win,20220319_5a75,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 17,home,Fullerton,L,7-2,7.0,2.0,5,win,20220317_x09d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 15,home,Fullerton,W,2-1,2.0,1.0,1,win,20220315_4xh0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 12,home,Orange Coast,L,14-4,14.0,4.0,10,win,20220312_rnls,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 10,home,Orange Coast,L,5-4,5.0,4.0,1,win,20220310_iidp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 8,home,Orange Coast,W,8-6,8.0,6.0,2,win,20220308_xwzi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 3,home,LA Valley,L,8-7,8.0,7.0,1,win,20220303_8ai6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Mar 1,home,LA Valley,L,14-5,14.0,5.0,9,win,20220301_g9sq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 25,home,Mt. San Jacinto,W,11-2,11.0,2.0,9,win,20220225_d8k4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 24,home,Chaffey,L,3-1,3.0,1.0,2,win,20220224_8sl7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 19,home,Desert,W,4-1,4.0,1.0,3,win,20220219_idd4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 18,home,Desert,W,3-1,3.0,1.0,2,win,20220218_p48e,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 16,home,Chaffey,W,9-7,9.0,7.0,2,win,20220216_zxte,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 15,home,San Diego Mesa,W,10-6,10.0,6.0,4,win,20220215_1iok,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 12,home,Compton,W,8-2,8.0,2.0,6,win,20220212_lang,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 10,home,San Bernardino Valley,W,8-2,8.0,2.0,6,win,20220210_04ev,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 10,home,San Bernardino Valley,W,12-5,12.0,5.0,7,win,20220210_c3nm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 7,home,Mt. San Jacinto,W,7-6,7.0,6.0,1,win,20220207_0gew,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 5,home,Long Beach,W,4-1,4.0,1.0,3,win,20220205_94g5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 4,home,Pasadena City,L,11-6,11.0,6.0,5,win,20220204_o611,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Feb 3,home,Cerritos,L,7-4,7.0,4.0,3,win,20220203_sf7r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Jan 29,home,Long Beach,L,7-1,7.0,1.0,6,win,20220129_zzb0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Jan 27,home,Long Beach,W,4-3,4.0,3.0,1,win,20220127_f9n9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
+Jan 22  #,home,Mt. San Antonio,,,,,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,shanekary16fs,Shane Kary
 May 29,home,Folsom Lake,L,10-9,10.0,9.0,1,win,20220529_llqg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,clayfacteau8q00,Clay Facteau
 May 29,home,Riverside,L,14-8,14.0,8.0,6,win,20220529_5707,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,clayfacteau8q00,Clay Facteau
 May 28,home,Palomar,W,11-5,11.0,5.0,6,win,20220528_mgjl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,clayfacteau8q00,Clay Facteau
@@ -637,6 +876,47 @@ Jan 29,home,Fullerton,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,l
 Jan 27,home,Fullerton,L,12-0,12.0,0.0,12,win,20220127_kpna,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cerritos,cerritos,luischavarinjru0u2,"Luis Chavarin, Jr."
 Jan 22  #,home,Antelope Valley,,,,,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,luischavarinjru0u2,"Luis Chavarin, Jr."
 Jan 21  #,home,Antelope Valley,,,,,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,luischavarinjru0u2,"Luis Chavarin, Jr."
+Apr 28,home,Ohlone,L,9-1,9.0,1.0,8,win,20220428_7kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 26,home,Ohlone,L,15-11,15.0,11.0,4,win,20220426_czl3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 23,home,Monterey Peninsula,L,7-5,7.0,5.0,2,win,20220423_gaql,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 22,home,Monterey Peninsula,L,5-4,5.0,4.0,1,win,20220422_cnqs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 19,home,Hartnell,W,9-2,9.0,2.0,7,win,20220419_823h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 16,home,Hartnell,W,7-2,7.0,2.0,5,win,20220416_yic4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 14,home,Mission,L,5-1,5.0,1.0,4,win,20220414_art7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 12,home,Mission,W,9-3,9.0,3.0,6,win,20220412_722w,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 9,home,De Anza,W,14-5,14.0,5.0,9,win,20220409_otq9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 7,home,De Anza,W,19-5,19.0,5.0,14,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 5,home,Ohlone,L,5-2,5.0,2.0,3,win,20220405_ml4x,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Apr 2,home,Skyline,W,7-3,7.0,3.0,4,win,20220402_h528,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 31,home,San Mateo,W,3-2,3.0,2.0,1,win,20220331_b69a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 29,home,Canada,W,5-3,5.0,3.0,2,win,20220329_nn39,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 26,home,Ohlone,L,8-7,8.0,7.0,1,win,20220326_fnz9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 24,home,Monterey Peninsula,L,7-4,7.0,4.0,3,win,20220324_jnq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 22,home,Monterey Peninsula,L,6-1,6.0,1.0,5,win,20220322_to3u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 19,home,Hartnell,W,12-8,12.0,8.0,4,win,20220319_y1ro,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 17,home,Hartnell,W,3-1,3.0,1.0,2,win,20220317_f88z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 15,home,Mission,W,6-4,6.0,4.0,2,win,20220315_aged,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 12,home,Mission,W,8-3,8.0,3.0,5,win,20220312_4ao1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 10,home,De Anza,W,15-3,15.0,3.0,12,win,20220310_tphx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 8,home,De Anza,W,5-2,5.0,2.0,3,win,20220308_2ipi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 5,home,West Valley,L,8-5,8.0,5.0,3,win,20220305_g97f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 3,home,Chabot,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Mar 1,home,Fresno City,L,7-6,7.0,6.0,1,win,20220301_fh8s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 24,home,Santa Rosa,L,4-3,4.0,3.0,1,win,20220224_s2g7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 23,home,Santa Rosa,W,3-0,3.0,0.0,3,win,20220223_cbw2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 21,home,San Joaquin Delta,W,14-9,14.0,9.0,5,win,20220221_htap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 18,home,Feather River,W,11-9,11.0,9.0,2,win,20220218_3don,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 17,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,20220217_e97h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 15,home,Merced,L,4-3,4.0,3.0,1,win,20220215_tc1a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 12,home,Diablo Valley,L,10-9,10.0,9.0,1,win,20220212_dh0d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 11,home,Laney,W,11-3,11.0,3.0,8,win,20220211_ic1o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 10,home,Marin,L,5-4,5.0,4.0,1,win,20220210_p9zg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 8,home,West Valley,W,9-3,9.0,3.0,6,win,20220208_rili,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 5,home,Diablo Valley,L,4-3,4.0,3.0,1,win,20220205_n2fd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Feb 3,home,Merced,L,3-2,3.0,2.0,1,win,20220203_9b71,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Jan 30,home,Reedley,L,8-6,8.0,6.0,2,win,20220130_sxtf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Jan 27,home,Reedley,L,7-4,7.0,4.0,3,win,20220127_3654,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
+Jan 22  #,home,San Franscico State,,,,,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,jackbollengierq4ye,Jack Bollengier
 May 29,home,Folsom Lake,L,10-9,10.0,9.0,1,win,,,,,,,,,,,,,,2022,,Ohlone,ohlone,jimmygarciaiuxk,Jimmy Garcia
 May 29,home,Riverside,L,14-8,14.0,8.0,6,win,20220529_5707,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,jimmygarciaiuxk,Jimmy Garcia
 May 28,home,Palomar,W,11-5,11.0,5.0,6,win,20220528_mgjl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,jimmygarciaiuxk,Jimmy Garcia
@@ -688,6 +968,89 @@ Feb 5,home,Cypress,L,12-2,12.0,2.0,10,win,20220205_8xwq,0.0,0.0,0.0,0.0,0.0,,,,0
 Feb 4,home,Mt. San Antonio,L,9-2,9.0,2.0,7,win,20220204_0qmo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,jimmygarciaiuxk,Jimmy Garcia
 Jan 29,home,Los Medanos,W,16-8,16.0,8.0,8,win,20220129_oicm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,jimmygarciaiuxk,Jimmy Garcia
 Jan 28,home,Los Medanos,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,,2022,,Ohlone,ohlone,jimmygarciaiuxk,Jimmy Garcia
+Apr 30,home,Barstow,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 29,home,Victor Valley,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 29,home,Victor Valley,L,6-5,6.0,5.0,1,win,20220429_tprt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 26,home,Victor Valley,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 21,home,Barstow,W,14-11,14.0,11.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 21,home,Barstow,W,33-4,33.0,4.0,29,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 19,home,Barstow,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 16,home,Cerro Coso,W,13-1,13.0,1.0,12,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 16,home,Cerro Coso,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 12,home,Cerro Coso,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 4,home,San Bernardino Valley,L,10-8,10.0,8.0,2,win,20220404_s5gw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 2,home,San Bernardino Valley,L,8-2,8.0,2.0,6,win,20220402_m946,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 31,home,San Bernardino Valley,L,7-3,7.0,3.0,4,win,20220331_ysz7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 26,home,Desert,W,14-5,14.0,5.0,9,win,20220326_08x5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 24,home,Desert,W,9-5,9.0,5.0,4,win,20220324_bwxm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 22,home,Desert,W,8-4,8.0,4.0,4,win,20220322_rkjb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 19,home,Mt. San Jacinto,W,11-7,11.0,7.0,4,win,20220319_37wu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 17,home,Mt. San Jacinto,L,12-8,12.0,8.0,4,win,20220317_qos6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 15,home,Mt. San Jacinto,W,11-10,11.0,10.0,1,win,20220315_29l4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 12,home,Victor Valley,W,25-2,25.0,2.0,23,win,20220312_2q7l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 8,home,Cerro Coso,W,16-13,16.0,13.0,3,win,20220308_tlpf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 5,home,Saddleback,W,6-1,6.0,1.0,5,win,20220305_rjid,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 3,home,San Bernardino Valley,L,12-5,12.0,5.0,7,win,20220303_e6ie,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Mar 1,home,Desert,L,9-6,9.0,6.0,3,win,20220301_n785,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 26,home,Mt. San Jacinto,W,10-2,10.0,2.0,8,win,20220226_dp9o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 25,home,Glendale,L,9-0,9.0,0.0,9,win,20220225_qkow,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 24,home,Irvine Valley,W,3-1,3.0,1.0,2,win,20220224_8sl7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 19,home,Southwestern,L,10-2,10.0,2.0,8,win,20220219_rtan,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 18,home,El Camino,W,9-8,9.0,8.0,1,win,20220218_wkxm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 16,home,Irvine Valley,L,9-7,9.0,7.0,2,win,20220216_zxte,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 15,home,Fullerton,L,9-2,9.0,2.0,7,win,20220215_kv8n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 12,home,Cypress,W,4-1,4.0,1.0,3,win,20220212_6zr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 11,home,Fullerton,L,15-11,15.0,11.0,4,win,20220211_sfjn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 10,home,El Camino,W,6-4,6.0,4.0,2,win,20220210_l1ku,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 8,home,Southwestern,L,6-5,6.0,5.0,1,win,20220208_idq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 5,home,Saddleback,L,8-5,8.0,5.0,3,win,20220205_lvtv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 3,home,Riverside,L,11-0,11.0,0.0,11,win,20220203_15gd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Feb 1,home,Long Beach,W,4-3,4.0,3.0,1,win,20220201_l7n2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Jan 29,home,Santa Barbara,L,5-4,5.0,4.0,1,win,20220129_vygj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Jan 27,home,Santa Barbara,L,7-3,7.0,3.0,4,win,20220127_qig7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Jan 22  #,home,Citrus,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Jan 21  #,home,Fullerton,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,emiliogarciakbl9,Emilio Garcia
+Apr 29,home,Golden West,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 28,home,Golden West,L,15-2,15.0,2.0,13,win,20220428_56km,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 26,home,Golden West,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 23,home,Santa Ana,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 21,home,Santa Ana,L,8-2,8.0,2.0,6,win,20220421_hv4a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 19,home,Santa Ana,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 13,home,LA Harbor,L,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 12,home,LA Harbor,W,14-7,14.0,7.0,7,win,20220412_vetz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 8,home,Saddleback,L,7-2,7.0,2.0,5,win,20220408_shol,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 7,home,Saddleback,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 5,home,Saddleback,L,10-5,10.0,5.0,5,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Apr 2,home,Cypress,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 31,home,Cypress,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 29,home,Cypress,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 25,home,Riverside,L,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 24,home,Riverside,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 22,home,Riverside,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 19,home,Fullerton,L,18-5,18.0,5.0,13,win,20220319_5a75,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 17,home,Fullerton,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 15,home,Fullerton,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 12,home,Orange Coast,L,14-4,14.0,4.0,10,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 10,home,Orange Coast,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 8,home,Orange Coast,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 3,home,LA Valley,L,8-7,8.0,7.0,1,win,20220303_8ai6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Mar 1,home,LA Valley,L,14-5,14.0,5.0,9,win,20220301_g9sq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 25,home,Mt. San Jacinto,W,11-2,11.0,2.0,9,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 24,home,Chaffey,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 19,home,Desert,W,4-1,4.0,1.0,3,win,20220219_idd4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 18,home,Desert,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 16,home,Chaffey,W,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 15,home,San Diego Mesa,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 12,home,Compton,W,8-2,8.0,2.0,6,win,20220212_lang,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 10,home,San Bernardino Valley,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 10,home,San Bernardino Valley,W,12-5,12.0,5.0,7,win,20220210_c3nm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 7,home,Mt. San Jacinto,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 5,home,Long Beach,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 4,home,Pasadena City,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Feb 3,home,Cerritos,L,7-4,7.0,4.0,3,win,20220203_sf7r,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Jan 29,home,Long Beach,L,7-1,7.0,1.0,6,win,20220129_zzb0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Jan 27,home,Long Beach,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
+Jan 22  #,home,Mt. San Antonio,,,,,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,trentnienhouseqwe7,Trent Nienhouse
 Apr 29,home,Pasadena City,W,4-0,4.0,0.0,4,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,jorgecentenobsd3,Jorge Centeno
 Apr 28,home,Pasadena City,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,jorgecentenobsd3,Jorge Centeno
 Apr 26,home,Pasadena City,L,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,2022,,Cerritos,cerritos,jorgecentenobsd3,Jorge Centeno
@@ -769,6 +1132,90 @@ Feb 1,home,Siskiyous,W,16-15,16.0,15.0,1,win,,,,,,,,,,,,,,2022,,Redwoods,redwood
 Jan 29,home,Mendocino,W,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Redwoods,redwoods,jakeagarwaloyqg,Jake Agarwal
 Jan 28,home,Mendocino,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,2022,,Redwoods,redwoods,jakeagarwaloyqg,Jake Agarwal
 Jan 28,home,Mendocino,L,3-0,3.0,0.0,3,win,20220128_4rqi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Redwoods,redwoods,jakeagarwaloyqg,Jake Agarwal
+Apr 30,home,Barstow,W,11-4,11.0,4.0,7,win,20220430_fx4k,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 29,home,Victor Valley,W,8-3,8.0,3.0,5,win,20220429_6ygc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 29,home,Victor Valley,L,6-5,6.0,5.0,1,win,20220429_tprt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 26,home,Victor Valley,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 21,home,Barstow,W,14-11,14.0,11.0,3,win,20220421_y7yx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 21,home,Barstow,W,33-4,33.0,4.0,29,win,20220421_ujcs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 19,home,Barstow,W,9-3,9.0,3.0,6,win,20220419_udyy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 16,home,Cerro Coso,W,13-1,13.0,1.0,12,win,20220416_zzoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 16,home,Cerro Coso,L,2-1,2.0,1.0,1,win,20220416_76x7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 12,home,Cerro Coso,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 4,home,San Bernardino Valley,L,10-8,10.0,8.0,2,win,20220404_s5gw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 2,home,San Bernardino Valley,L,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 31,home,San Bernardino Valley,L,7-3,7.0,3.0,4,win,20220331_ysz7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 26,home,Desert,W,14-5,14.0,5.0,9,win,20220326_08x5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 24,home,Desert,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 22,home,Desert,W,8-4,8.0,4.0,4,win,20220322_rkjb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 19,home,Mt. San Jacinto,W,11-7,11.0,7.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 17,home,Mt. San Jacinto,L,12-8,12.0,8.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 15,home,Mt. San Jacinto,W,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 12,home,Victor Valley,W,25-2,25.0,2.0,23,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 8,home,Cerro Coso,W,16-13,16.0,13.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 5,home,Saddleback,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 3,home,San Bernardino Valley,L,12-5,12.0,5.0,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Mar 1,home,Desert,L,9-6,9.0,6.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 26,home,Mt. San Jacinto,W,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 25,home,Glendale,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 24,home,Irvine Valley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 19,home,Southwestern,L,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 18,home,El Camino,W,9-8,9.0,8.0,1,win,20220218_wkxm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 16,home,Irvine Valley,L,9-7,9.0,7.0,2,win,20220216_zxte,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 15,home,Fullerton,L,9-2,9.0,2.0,7,win,20220215_kv8n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 12,home,Cypress,W,4-1,4.0,1.0,3,win,20220212_6zr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 11,home,Fullerton,L,15-11,15.0,11.0,4,win,20220211_sfjn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 10,home,El Camino,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 8,home,Southwestern,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 5,home,Saddleback,L,8-5,8.0,5.0,3,win,20220205_lvtv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 3,home,Riverside,L,11-0,11.0,0.0,11,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Feb 1,home,Long Beach,W,4-3,4.0,3.0,1,win,20220201_l7n2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Jan 29,home,Santa Barbara,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Jan 27,home,Santa Barbara,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Jan 22  #,home,Citrus,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Jan 21  #,home,Fullerton,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,troyholland557l,Troy Holland
+Apr 30,home,Barstow,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 29,home,Victor Valley,W,8-3,8.0,3.0,5,win,20220429_6ygc,1.0,0.0,0.0,0.0,3.1,4.0,3.0,3.0,8.1,3.0,1.0,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 29,home,Victor Valley,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 26,home,Victor Valley,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 21,home,Barstow,W,14-11,14.0,11.0,3,win,20220421_y7yx,1.0,0.0,0.0,0.0,4.0,3.0,0.0,0.0,0.0,0.0,8.0,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 21,home,Barstow,W,33-4,33.0,4.0,29,win,20220421_ujcs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 19,home,Barstow,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 16,home,Cerro Coso,W,13-1,13.0,1.0,12,win,20220416_zzoh,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,2.0,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 16,home,Cerro Coso,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 12,home,Cerro Coso,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 4,home,San Bernardino Valley,L,10-8,10.0,8.0,2,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Apr 2,home,San Bernardino Valley,L,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 31,home,San Bernardino Valley,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 26,home,Desert,W,14-5,14.0,5.0,9,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 24,home,Desert,W,9-5,9.0,5.0,4,win,20220324_bwxm,0.0,1.0,0.0,0.0,2.0,2.0,2.0,2.0,9.0,1.0,1.0,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 22,home,Desert,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 19,home,Mt. San Jacinto,W,11-7,11.0,7.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 17,home,Mt. San Jacinto,L,12-8,12.0,8.0,4,win,20220317_qos6,1.0,0.0,0.0,0.0,4.0,4.0,2.0,2.0,4.5,0.0,5.0,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 15,home,Mt. San Jacinto,W,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 12,home,Victor Valley,W,25-2,25.0,2.0,23,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 8,home,Cerro Coso,W,16-13,16.0,13.0,3,win,20220308_tlpf,0.0,0.0,0.0,1.0,0.1,,,,0.0,,1.0,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 5,home,Saddleback,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 3,home,San Bernardino Valley,L,12-5,12.0,5.0,7,win,20220303_e6ie,0.0,0.0,0.0,0.0,1.2,4.0,3.0,3.0,16.2,,2.0,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Mar 1,home,Desert,L,9-6,9.0,6.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 26,home,Mt. San Jacinto,W,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 25,home,Glendale,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 24,home,Irvine Valley,W,3-1,3.0,1.0,2,win,20220224_8sl7,0.0,0.0,0.0,1.0,1.0,3.0,1.0,1.0,9.0,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 19,home,Southwestern,L,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 18,home,El Camino,W,9-8,9.0,8.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 16,home,Irvine Valley,L,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 15,home,Fullerton,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 12,home,Cypress,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 11,home,Fullerton,L,15-11,15.0,11.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 10,home,El Camino,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 8,home,Southwestern,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 5,home,Saddleback,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 3,home,Riverside,L,11-0,11.0,0.0,11,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Feb 1,home,Long Beach,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Jan 29,home,Santa Barbara,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Jan 27,home,Santa Barbara,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Jan 22  #,home,Citrus,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
+Jan 21  #,home,Fullerton,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,rickyrodartecse9,Ricky Rodarte
 May 21,home,Folsom Lake,L,4-3,4.0,3.0,1,win,20220521_r874,0.0,0.0,0.0,0.0,1.1,2.0,1.0,1.0,6.75,2.0,1.0,,2022,,San Joaquin Delta,sanjoaquindelta,wilburberrios06ho,Wilbur Berrios
 May 20,home,Folsom Lake,L,5-4,5.0,4.0,1,win,20220520_0j1b,0.0,0.0,0.0,0.0,0.1,,,,0.0,,,,2022,,San Joaquin Delta,sanjoaquindelta,wilburberrios06ho,Wilbur Berrios
 May 14,home,Lassen,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,wilburberrios06ho,Wilbur Berrios
@@ -1011,6 +1458,47 @@ Feb 5,home,Cypress,L,12-2,12.0,2.0,10,win,20220205_8xwq,0.0,0.0,0.0,0.0,0.0,,,,0
 Feb 4,home,Mt. San Antonio,L,9-2,9.0,2.0,7,win,20220204_0qmo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,jasonvolpenp33,Jason Volpe
 Jan 29,home,Los Medanos,W,16-8,16.0,8.0,8,win,20220129_oicm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,jasonvolpenp33,Jason Volpe
 Jan 28,home,Los Medanos,W,6-2,6.0,2.0,4,win,20220128_xaak,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,jasonvolpenp33,Jason Volpe
+Apr 28,home,Ohlone,L,9-1,9.0,1.0,8,win,20220428_7kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 26,home,Ohlone,L,15-11,15.0,11.0,4,win,20220426_czl3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 23,home,Monterey Peninsula,L,7-5,7.0,5.0,2,win,20220423_gaql,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 22,home,Monterey Peninsula,L,5-4,5.0,4.0,1,win,20220422_cnqs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 19,home,Hartnell,W,9-2,9.0,2.0,7,win,20220419_823h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 16,home,Hartnell,W,7-2,7.0,2.0,5,win,20220416_yic4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 14,home,Mission,L,5-1,5.0,1.0,4,win,20220414_art7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 12,home,Mission,W,9-3,9.0,3.0,6,win,20220412_722w,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 9,home,De Anza,W,14-5,14.0,5.0,9,win,20220409_otq9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 7,home,De Anza,W,19-5,19.0,5.0,14,win,20220407_egdw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 5,home,Ohlone,L,5-2,5.0,2.0,3,win,20220405_ml4x,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Apr 2,home,Skyline,W,7-3,7.0,3.0,4,win,20220402_h528,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 31,home,San Mateo,W,3-2,3.0,2.0,1,win,20220331_b69a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 29,home,Canada,W,5-3,5.0,3.0,2,win,20220329_nn39,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 26,home,Ohlone,L,8-7,8.0,7.0,1,win,20220326_fnz9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 24,home,Monterey Peninsula,L,7-4,7.0,4.0,3,win,20220324_jnq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 22,home,Monterey Peninsula,L,6-1,6.0,1.0,5,win,20220322_to3u,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 19,home,Hartnell,W,12-8,12.0,8.0,4,win,20220319_y1ro,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 17,home,Hartnell,W,3-1,3.0,1.0,2,win,20220317_f88z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 15,home,Mission,W,6-4,6.0,4.0,2,win,20220315_aged,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 12,home,Mission,W,8-3,8.0,3.0,5,win,20220312_4ao1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 10,home,De Anza,W,15-3,15.0,3.0,12,win,20220310_tphx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 8,home,De Anza,W,5-2,5.0,2.0,3,win,20220308_2ipi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 5,home,West Valley,L,8-5,8.0,5.0,3,win,20220305_g97f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 3,home,Chabot,L,8-7,8.0,7.0,1,win,20220303_qwgs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Mar 1,home,Fresno City,L,7-6,7.0,6.0,1,win,20220301_fh8s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 24,home,Santa Rosa,L,4-3,4.0,3.0,1,win,20220224_s2g7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 23,home,Santa Rosa,W,3-0,3.0,0.0,3,win,20220223_cbw2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 21,home,San Joaquin Delta,W,14-9,14.0,9.0,5,win,20220221_htap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 18,home,Feather River,W,11-9,11.0,9.0,2,win,20220218_3don,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 17,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,20220217_e97h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 15,home,Merced,L,4-3,4.0,3.0,1,win,20220215_tc1a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 12,home,Diablo Valley,L,10-9,10.0,9.0,1,win,20220212_dh0d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 11,home,Laney,W,11-3,11.0,3.0,8,win,20220211_ic1o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 10,home,Marin,L,5-4,5.0,4.0,1,win,20220210_p9zg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 8,home,West Valley,W,9-3,9.0,3.0,6,win,20220208_rili,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 5,home,Diablo Valley,L,4-3,4.0,3.0,1,win,20220205_n2fd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Feb 3,home,Merced,L,3-2,3.0,2.0,1,win,20220203_9b71,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Jan 30,home,Reedley,L,8-6,8.0,6.0,2,win,20220130_sxtf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Jan 27,home,Reedley,L,7-4,7.0,4.0,3,win,20220127_3654,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
+Jan 22  #,home,San Franscico State,,,,,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,ryanmathiesenz2mq,Ryan Mathiesen
 May 29,home,Folsom Lake,L,10-9,10.0,9.0,1,win,20220529_llqg,0.0,0.0,1.0,0.0,2.0,2.0,1.0,1.0,4.5,2.0,,,2022,,Ohlone,ohlone,cameroncalvilloytjw,Cameron Calvillo
 May 29,home,Riverside,L,14-8,14.0,8.0,6,win,20220529_5707,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,cameroncalvilloytjw,Cameron Calvillo
 May 28,home,Palomar,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,,2022,,Ohlone,ohlone,cameroncalvilloytjw,Cameron Calvillo
@@ -1062,6 +1550,49 @@ Feb 5,home,Cypress,L,12-2,12.0,2.0,10,win,20220205_8xwq,0.0,0.0,0.0,0.0,0.1,1.0,
 Feb 4,home,Mt. San Antonio,L,9-2,9.0,2.0,7,win,20220204_0qmo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,cameroncalvilloytjw,Cameron Calvillo
 Jan 29,home,Los Medanos,W,16-8,16.0,8.0,8,win,20220129_oicm,0.0,0.0,0.0,0.0,1.0,3.0,1.0,1.0,9.0,,1.0,,2022,,Ohlone,ohlone,cameroncalvilloytjw,Cameron Calvillo
 Jan 28,home,Los Medanos,W,6-2,6.0,2.0,4,win,20220128_xaak,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,cameroncalvilloytjw,Cameron Calvillo
+May 7,home,El Camino,L,8-1,8.0,1.0,7,win,20220507_kgrp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+May 6,home,El Camino,L,15-14,15.0,14.0,1,win,20220506_vftb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 30,home,Santa Barbara,W,11-4,11.0,4.0,7,win,20220430_r70l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 29,home,Oxnard,W,13-3,13.0,3.0,10,win,20220429_b8u4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 26,home,Moorpark,L,12-3,12.0,3.0,9,win,20220426_ng24,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 23,home,LA Pierce,W,2-1,2.0,1.0,1,win,20220423_zfu3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 22,home,Santa Barbara,L,2-1,2.0,1.0,1,win,20220422_n43q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 20,home,Allan Hancock,W,11-5,11.0,5.0,6,win,20220420_mkee,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 19,home,Ventura,W,7-5,7.0,5.0,2,win,20220419_tnyq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 15,home,Santa Barbara,L,10-3,10.0,3.0,7,win,20220415_jun5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 14,home,Merced,W,14-11,14.0,11.0,3,win,20220414_o2kn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 13,home,Cerritos,W,13-5,13.0,5.0,8,win,20220413_syhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 12,home,Cypress,W,5-4,5.0,4.0,1,win,20220412_jqds,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 5,home,Santa Barbara,L,7-5,7.0,5.0,2,win,20220405_aqve,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Apr 2,home,Oxnard,W,5-1,5.0,1.0,4,win,20220402_0kr6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 31,home,Oxnard,W,13-1,13.0,1.0,12,win,20220331_n2ql,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 30,home,Oxnard,W,8-1,8.0,1.0,7,win,20220330_6fjz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 19,home,Moorpark,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 17,home,Moorpark,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 15,home,Moorpark,W,8-0,8.0,0.0,8,win,20220315_1a25,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 12,home,LA Pierce,W,9-1,9.0,1.0,8,win,20220312_cn8t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 10,home,LA Pierce,W,6-0,6.0,0.0,6,win,20220310_z186,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 8,home,LA Pierce,W,10-7,10.0,7.0,3,win,20220307_cxr1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 5,home,Allan Hancock,L,12-5,12.0,5.0,7,win,20220305_0ipy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 3,home,Allan Hancock,L,10-8,10.0,8.0,2,win,20220303_xt62,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Mar 1,home,Allan Hancock,W,20-8,20.0,8.0,12,win,20220301_amvg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 26,home,Ventura,W,11-1,11.0,1.0,10,win,20220226_0en0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 24,home,Ventura,W,14-5,14.0,5.0,9,win,20220224_tjxu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 22,home,Ventura,W,12-6,12.0,6.0,6,win,20220222_1gdw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 18,home,Saddleback,L,10-2,10.0,2.0,8,win,20220218_lfg5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 17,home,Saddleback,W,10-9,10.0,9.0,1,win,20220217_t8m4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 15,home,Reedley,W,5-3,5.0,3.0,2,win,20220215_tzmx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 12,home,Sequoias,L,13-12,13.0,12.0,1,win,20220212_608q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 11,home,Sequoias,W,9-0,9.0,0.0,9,win,20220211_7xxj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 10,home,Sequoias,L,4-3,4.0,3.0,1,win,20220210_qd4o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 8,home,Reedley,L,7-4,7.0,4.0,3,win,20220208_93n9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 5,home,Orange Coast,L,13-12,13.0,12.0,1,win,20220205_3sb3,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 4,home,Orange Coast,L,9-7,9.0,7.0,2,win,20220204_4y61,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Feb 3,home,Orange Coast,L,11-6,11.0,6.0,5,win,20220203_zr64,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Jan 29,home,Riverside,L,6-3,6.0,3.0,3,win,20220129_rt7p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Jan 28,home,Riverside,W,7-5,7.0,5.0,2,win,20220128_hw5j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Jan 27,home,Riverside,L,11-4,11.0,4.0,7,win,20220127_o6no,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
+Jan 22  #,home,Ventura,,,,,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,kaynerossiiqm,Kayne Ross
 May 21,home,Folsom Lake,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,codyborraggine3wph,Cody Borraggine
 May 20,home,Folsom Lake,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,codyborraggine3wph,Cody Borraggine
 May 14,home,Lassen,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,codyborraggine3wph,Cody Borraggine
@@ -1163,6 +1694,48 @@ Feb 5,home,Cypress,L,12-2,12.0,2.0,10,win,20220205_8xwq,0.0,0.0,0.0,0.0,0.0,,,,0
 Feb 4,home,Mt. San Antonio,L,9-2,9.0,2.0,7,win,20220204_0qmo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,kwquilicisvyh,KW Quilici
 Jan 29,home,Los Medanos,W,16-8,16.0,8.0,8,win,,,,,,,,,,,,,,2022,,Ohlone,ohlone,kwquilicisvyh,KW Quilici
 Jan 28,home,Los Medanos,W,6-2,6.0,2.0,4,win,20220128_xaak,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Ohlone,ohlone,kwquilicisvyh,KW Quilici
+Apr 30,home,Barstow,W,11-4,11.0,4.0,7,win,20220430_fx4k,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 29,home,Victor Valley,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 29,home,Victor Valley,L,6-5,6.0,5.0,1,win,20220429_tprt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 26,home,Victor Valley,W,10-7,10.0,7.0,3,win,20220426_wibo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 21,home,Barstow,W,14-11,14.0,11.0,3,win,20220421_y7yx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 21,home,Barstow,W,33-4,33.0,4.0,29,win,20220421_ujcs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 19,home,Barstow,W,9-3,9.0,3.0,6,win,20220419_udyy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 16,home,Cerro Coso,W,13-1,13.0,1.0,12,win,20220416_zzoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 16,home,Cerro Coso,L,2-1,2.0,1.0,1,win,20220416_76x7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 12,home,Cerro Coso,L,8-5,8.0,5.0,3,win,20220412_nddz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 4,home,San Bernardino Valley,L,10-8,10.0,8.0,2,win,20220404_s5gw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Apr 2,home,San Bernardino Valley,L,8-2,8.0,2.0,6,win,20220402_m946,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 31,home,San Bernardino Valley,L,7-3,7.0,3.0,4,win,20220331_ysz7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 26,home,Desert,W,14-5,14.0,5.0,9,win,20220326_08x5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 24,home,Desert,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 22,home,Desert,W,8-4,8.0,4.0,4,win,20220322_rkjb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 19,home,Mt. San Jacinto,W,11-7,11.0,7.0,4,win,20220319_37wu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 17,home,Mt. San Jacinto,L,12-8,12.0,8.0,4,win,20220317_qos6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 15,home,Mt. San Jacinto,W,11-10,11.0,10.0,1,win,20220315_29l4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 12,home,Victor Valley,W,25-2,25.0,2.0,23,win,20220312_2q7l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 8,home,Cerro Coso,W,16-13,16.0,13.0,3,win,20220308_tlpf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 5,home,Saddleback,W,6-1,6.0,1.0,5,win,20220305_rjid,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 3,home,San Bernardino Valley,L,12-5,12.0,5.0,7,win,20220303_e6ie,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Mar 1,home,Desert,L,9-6,9.0,6.0,3,win,20220301_n785,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 26,home,Mt. San Jacinto,W,10-2,10.0,2.0,8,win,20220226_dp9o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 25,home,Glendale,L,9-0,9.0,0.0,9,win,20220225_qkow,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 24,home,Irvine Valley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 19,home,Southwestern,L,10-2,10.0,2.0,8,win,20220219_rtan,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 18,home,El Camino,W,9-8,9.0,8.0,1,win,20220218_wkxm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 16,home,Irvine Valley,L,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 15,home,Fullerton,L,9-2,9.0,2.0,7,win,20220215_kv8n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 12,home,Cypress,W,4-1,4.0,1.0,3,win,20220212_6zr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 11,home,Fullerton,L,15-11,15.0,11.0,4,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 10,home,El Camino,W,6-4,6.0,4.0,2,win,20220210_l1ku,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 8,home,Southwestern,L,6-5,6.0,5.0,1,win,20220208_idq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 5,home,Saddleback,L,8-5,8.0,5.0,3,win,20220205_lvtv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 3,home,Riverside,L,11-0,11.0,0.0,11,win,20220203_15gd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Feb 1,home,Long Beach,W,4-3,4.0,3.0,1,win,20220201_l7n2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Jan 29,home,Santa Barbara,L,5-4,5.0,4.0,1,win,20220129_vygj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Jan 27,home,Santa Barbara,L,7-3,7.0,3.0,4,win,20220127_qig7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Jan 22  #,home,Citrus,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
+Jan 21  #,home,Fullerton,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,stevenmaramxbq,Steven Mara
 Apr 28,home,Hartnell,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,,2022,,De Anza,deanza,jamesgayerr4q0,James Gayer
 Apr 26,home,Hartnell,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,2022,,De Anza,deanza,jamesgayerr4q0,James Gayer
 Apr 23,home,Ohlone,L,28-2,28.0,2.0,26,win,,,,,,,,,,,,,,2022,,De Anza,deanza,jamesgayerr4q0,James Gayer
@@ -1203,6 +1776,129 @@ Feb 1,home,San Francisco,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,De Anza,deanza,j
 Jan 29,home,Modesto,L,18-0,18.0,0.0,18,win,,,,,,,,,,,,,,2022,,De Anza,deanza,jamesgayerr4q0,James Gayer
 Jan 28,home,Laney,L,16-8,16.0,8.0,8,win,,,,,,,,,,,,,,2022,,De Anza,deanza,jamesgayerr4q0,James Gayer
 Jan 27,home,Laney,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,2022,,De Anza,deanza,jamesgayerr4q0,James Gayer
+Apr 29,home,Golden West,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 28,home,Golden West,L,15-2,15.0,2.0,13,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 26,home,Golden West,L,6-5,6.0,5.0,1,win,20220426_fu0p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 23,home,Santa Ana,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 21,home,Santa Ana,L,8-2,8.0,2.0,6,win,20220421_hv4a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 19,home,Santa Ana,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 13,home,LA Harbor,L,10-7,10.0,7.0,3,win,20220413_1efl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 12,home,LA Harbor,W,14-7,14.0,7.0,7,win,20220412_vetz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 8,home,Saddleback,L,7-2,7.0,2.0,5,win,20220408_shol,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 7,home,Saddleback,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 5,home,Saddleback,L,10-5,10.0,5.0,5,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 2,home,Cypress,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 31,home,Cypress,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 29,home,Cypress,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 25,home,Riverside,L,12-7,12.0,7.0,5,win,20220325_icci,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 24,home,Riverside,L,9-2,9.0,2.0,7,win,20220324_8nz0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 22,home,Riverside,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 19,home,Fullerton,L,18-5,18.0,5.0,13,win,20220319_5a75,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 17,home,Fullerton,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 15,home,Fullerton,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 12,home,Orange Coast,L,14-4,14.0,4.0,10,win,20220312_rnls,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 10,home,Orange Coast,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 8,home,Orange Coast,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 3,home,LA Valley,L,8-7,8.0,7.0,1,win,20220303_8ai6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Mar 1,home,LA Valley,L,14-5,14.0,5.0,9,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 25,home,Mt. San Jacinto,W,11-2,11.0,2.0,9,win,20220225_d8k4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 24,home,Chaffey,L,3-1,3.0,1.0,2,win,20220224_8sl7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 19,home,Desert,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 18,home,Desert,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 16,home,Chaffey,W,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 15,home,San Diego Mesa,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 12,home,Compton,W,8-2,8.0,2.0,6,win,20220212_lang,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 10,home,San Bernardino Valley,W,8-2,8.0,2.0,6,win,20220210_04ev,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 10,home,San Bernardino Valley,W,12-5,12.0,5.0,7,win,20220210_c3nm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 7,home,Mt. San Jacinto,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 5,home,Long Beach,W,4-1,4.0,1.0,3,win,20220205_94g5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 4,home,Pasadena City,L,11-6,11.0,6.0,5,win,20220204_o611,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Feb 3,home,Cerritos,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Jan 29,home,Long Beach,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Jan 27,home,Long Beach,W,4-3,4.0,3.0,1,win,20220127_f9n9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Jan 22  #,home,Mt. San Antonio,,,,,2,win,,,,,,,,,,,,,,2022,,Irvine Valley,irvinevalley,georgeenriquez09wq,George Enriquez
+Apr 28,home,Ohlone,L,9-1,9.0,1.0,8,win,20220428_7kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 26,home,Ohlone,L,15-11,15.0,11.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 23,home,Monterey Peninsula,L,7-5,7.0,5.0,2,win,20220423_gaql,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 22,home,Monterey Peninsula,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 19,home,Hartnell,W,9-2,9.0,2.0,7,win,20220419_823h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 16,home,Hartnell,W,7-2,7.0,2.0,5,win,20220416_yic4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 14,home,Mission,L,5-1,5.0,1.0,4,win,20220414_art7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 12,home,Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 9,home,De Anza,W,14-5,14.0,5.0,9,win,20220409_otq9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 7,home,De Anza,W,19-5,19.0,5.0,14,win,20220407_egdw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 5,home,Ohlone,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 2,home,Skyline,W,7-3,7.0,3.0,4,win,20220402_h528,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 31,home,San Mateo,W,3-2,3.0,2.0,1,win,20220331_b69a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 29,home,Canada,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 26,home,Ohlone,L,8-7,8.0,7.0,1,win,20220326_fnz9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 24,home,Monterey Peninsula,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 22,home,Monterey Peninsula,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 19,home,Hartnell,W,12-8,12.0,8.0,4,win,20220319_y1ro,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 17,home,Hartnell,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 15,home,Mission,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 12,home,Mission,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 10,home,De Anza,W,15-3,15.0,3.0,12,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 8,home,De Anza,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 5,home,West Valley,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 3,home,Chabot,L,8-7,8.0,7.0,1,win,20220303_qwgs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Mar 1,home,Fresno City,L,7-6,7.0,6.0,1,win,20220301_fh8s,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 24,home,Santa Rosa,L,4-3,4.0,3.0,1,win,20220224_s2g7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 23,home,Santa Rosa,W,3-0,3.0,0.0,3,win,20220223_cbw2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 21,home,San Joaquin Delta,W,14-9,14.0,9.0,5,win,20220221_htap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 18,home,Feather River,W,11-9,11.0,9.0,2,win,20220218_3don,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 17,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,20220217_e97h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 15,home,Merced,L,4-3,4.0,3.0,1,win,20220215_tc1a,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 12,home,Diablo Valley,L,10-9,10.0,9.0,1,win,20220212_dh0d,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 11,home,Laney,W,11-3,11.0,3.0,8,win,20220211_ic1o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 10,home,Marin,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 8,home,West Valley,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 5,home,Diablo Valley,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Feb 3,home,Merced,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Jan 30,home,Reedley,L,8-6,8.0,6.0,2,win,20220130_sxtf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Jan 27,home,Reedley,L,7-4,7.0,4.0,3,win,20220127_3654,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Jan 22  #,home,San Franscico State,,,,,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,gordanvaughnbsrq,Gordan Vaughn
+Apr 28,home,Ohlone,L,9-1,9.0,1.0,8,win,20220428_7kph,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 26,home,Ohlone,L,15-11,15.0,11.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 23,home,Monterey Peninsula,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 22,home,Monterey Peninsula,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 19,home,Hartnell,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 16,home,Hartnell,W,7-2,7.0,2.0,5,win,20220416_yic4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 14,home,Mission,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 12,home,Mission,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 9,home,De Anza,W,14-5,14.0,5.0,9,win,20220409_otq9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 7,home,De Anza,W,19-5,19.0,5.0,14,win,20220407_egdw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 5,home,Ohlone,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Apr 2,home,Skyline,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 31,home,San Mateo,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 29,home,Canada,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 26,home,Ohlone,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 24,home,Monterey Peninsula,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 22,home,Monterey Peninsula,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 19,home,Hartnell,W,12-8,12.0,8.0,4,win,20220319_y1ro,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 17,home,Hartnell,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 15,home,Mission,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 12,home,Mission,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 10,home,De Anza,W,15-3,15.0,3.0,12,win,20220310_tphx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 8,home,De Anza,W,5-2,5.0,2.0,3,win,20220308_2ipi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 5,home,West Valley,L,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 3,home,Chabot,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Mar 1,home,Fresno City,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 24,home,Santa Rosa,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 23,home,Santa Rosa,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 21,home,San Joaquin Delta,W,14-9,14.0,9.0,5,win,20220221_htap,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 18,home,Feather River,W,11-9,11.0,9.0,2,win,20220218_3don,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 17,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,20220217_e97h,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 15,home,Merced,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 12,home,Diablo Valley,L,10-9,10.0,9.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 11,home,Laney,W,11-3,11.0,3.0,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 10,home,Marin,L,5-4,5.0,4.0,1,win,20220210_p9zg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 8,home,West Valley,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 5,home,Diablo Valley,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Feb 3,home,Merced,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Jan 30,home,Reedley,L,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Jan 27,home,Reedley,L,7-4,7.0,4.0,3,win,20220127_3654,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
+Jan 22  #,home,San Franscico State,,,,,8,win,,,,,,,,,,,,,,2022,,Cabrillo,cabrillo,joelomelli7ewu,Joe Lomelli
 May 21,home,Folsom Lake,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,loganmock5k59,Logan Mock
 May 20,home,Folsom Lake,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,loganmock5k59,Logan Mock
 May 14,home,Lassen,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,loganmock5k59,Logan Mock
@@ -1253,3 +1949,131 @@ Jan 29,home,Ventura,L,12-2,12.0,2.0,10,win,20220129_o149,0.0,0.0,0.0,0.0,0.0,,,,
 Jan 28,home,Ventura,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,loganmock5k59,Logan Mock
 Jan 21  #,home,Butte,,,,,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,loganmock5k59,Logan Mock
 Jan 15  #,home,Los Medanos,,,,,1,win,,,,,,,,,,,,,,2022,,San Joaquin Delta,sanjoaquindelta,loganmock5k59,Logan Mock
+May 7,home,El Camino,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+May 6,home,El Camino,L,15-14,15.0,14.0,1,win,20220506_vftb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 30,home,Santa Barbara,W,11-4,11.0,4.0,7,win,20220430_r70l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 29,home,Oxnard,W,13-3,13.0,3.0,10,win,20220429_b8u4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 26,home,Moorpark,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 23,home,LA Pierce,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 22,home,Santa Barbara,L,2-1,2.0,1.0,1,win,20220422_n43q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 20,home,Allan Hancock,W,11-5,11.0,5.0,6,win,20220420_mkee,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 19,home,Ventura,W,7-5,7.0,5.0,2,win,20220419_tnyq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 15,home,Santa Barbara,L,10-3,10.0,3.0,7,win,20220415_jun5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 14,home,Merced,W,14-11,14.0,11.0,3,win,20220414_o2kn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 13,home,Cerritos,W,13-5,13.0,5.0,8,win,20220413_syhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 12,home,Cypress,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 5,home,Santa Barbara,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Apr 2,home,Oxnard,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 31,home,Oxnard,W,13-1,13.0,1.0,12,win,20220331_n2ql,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 30,home,Oxnard,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 19,home,Moorpark,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 17,home,Moorpark,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 15,home,Moorpark,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 12,home,LA Pierce,W,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 10,home,LA Pierce,W,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 8,home,LA Pierce,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 5,home,Allan Hancock,L,12-5,12.0,5.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 3,home,Allan Hancock,L,10-8,10.0,8.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Mar 1,home,Allan Hancock,W,20-8,20.0,8.0,12,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 26,home,Ventura,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 24,home,Ventura,W,14-5,14.0,5.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 22,home,Ventura,W,12-6,12.0,6.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 18,home,Saddleback,L,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 17,home,Saddleback,W,10-9,10.0,9.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 15,home,Reedley,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 12,home,Sequoias,L,13-12,13.0,12.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 11,home,Sequoias,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 10,home,Sequoias,L,4-3,4.0,3.0,1,win,20220210_qd4o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 8,home,Reedley,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 5,home,Orange Coast,L,13-12,13.0,12.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 4,home,Orange Coast,L,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Feb 3,home,Orange Coast,L,11-6,11.0,6.0,5,win,20220203_zr64,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Jan 29,home,Riverside,L,6-3,6.0,3.0,3,win,20220129_rt7p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Jan 28,home,Riverside,W,7-5,7.0,5.0,2,win,20220128_hw5j,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Jan 27,home,Riverside,L,11-4,11.0,4.0,7,win,20220127_o6no,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+Jan 22  #,home,Ventura,,,,,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,jonahbachiu9btj,Jonah Bachiu
+May 7,home,El Camino,L,8-1,8.0,1.0,7,win,20220507_kgrp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+May 6,home,El Camino,L,15-14,15.0,14.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 30,home,Santa Barbara,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 29,home,Oxnard,W,13-3,13.0,3.0,10,win,20220429_b8u4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 26,home,Moorpark,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 23,home,LA Pierce,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 22,home,Santa Barbara,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 20,home,Allan Hancock,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 19,home,Ventura,W,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 15,home,Santa Barbara,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 14,home,Merced,W,14-11,14.0,11.0,3,win,20220414_o2kn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 13,home,Cerritos,W,13-5,13.0,5.0,8,win,20220413_syhj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 12,home,Cypress,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 5,home,Santa Barbara,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 2,home,Oxnard,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 31,home,Oxnard,W,13-1,13.0,1.0,12,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 30,home,Oxnard,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 19,home,Moorpark,W,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 17,home,Moorpark,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 15,home,Moorpark,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 12,home,LA Pierce,W,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 10,home,LA Pierce,W,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 8,home,LA Pierce,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 5,home,Allan Hancock,L,12-5,12.0,5.0,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 3,home,Allan Hancock,L,10-8,10.0,8.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Mar 1,home,Allan Hancock,W,20-8,20.0,8.0,12,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 26,home,Ventura,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 24,home,Ventura,W,14-5,14.0,5.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 22,home,Ventura,W,12-6,12.0,6.0,6,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 18,home,Saddleback,L,10-2,10.0,2.0,8,win,20220218_lfg5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 17,home,Saddleback,W,10-9,10.0,9.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 15,home,Reedley,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 12,home,Sequoias,L,13-12,13.0,12.0,1,win,20220212_608q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 11,home,Sequoias,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 10,home,Sequoias,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 8,home,Reedley,L,7-4,7.0,4.0,3,win,20220208_93n9,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 5,home,Orange Coast,L,13-12,13.0,12.0,1,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 4,home,Orange Coast,L,9-7,9.0,7.0,2,win,20220204_4y61,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Feb 3,home,Orange Coast,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Jan 29,home,Riverside,L,6-3,6.0,3.0,3,win,20220129_rt7p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Jan 28,home,Riverside,W,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Jan 27,home,Riverside,L,11-4,11.0,4.0,7,win,20220127_o6no,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Jan 22  #,home,Ventura,,,,,7,win,,,,,,,,,,,,,,2022,,Cuesta,cuesta,charliejordang37g,Charlie Jordan
+Apr 30,home,Barstow,W,11-4,11.0,4.0,7,win,20220430_fx4k,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 29,home,Victor Valley,W,8-3,8.0,3.0,5,win,20220429_6ygc,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 29,home,Victor Valley,L,6-5,6.0,5.0,1,win,20220429_tprt,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 26,home,Victor Valley,W,10-7,10.0,7.0,3,win,20220426_wibo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 21,home,Barstow,W,14-11,14.0,11.0,3,win,20220421_y7yx,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 21,home,Barstow,W,33-4,33.0,4.0,29,win,20220421_ujcs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 19,home,Barstow,W,9-3,9.0,3.0,6,win,20220419_udyy,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 16,home,Cerro Coso,W,13-1,13.0,1.0,12,win,20220416_zzoh,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 16,home,Cerro Coso,L,2-1,2.0,1.0,1,win,20220416_76x7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 12,home,Cerro Coso,L,8-5,8.0,5.0,3,win,20220412_nddz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 4,home,San Bernardino Valley,L,10-8,10.0,8.0,2,win,20220404_s5gw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Apr 2,home,San Bernardino Valley,L,8-2,8.0,2.0,6,win,20220402_m946,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 31,home,San Bernardino Valley,L,7-3,7.0,3.0,4,win,20220331_ysz7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 26,home,Desert,W,14-5,14.0,5.0,9,win,20220326_08x5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 24,home,Desert,W,9-5,9.0,5.0,4,win,20220324_bwxm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 22,home,Desert,W,8-4,8.0,4.0,4,win,20220322_rkjb,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 19,home,Mt. San Jacinto,W,11-7,11.0,7.0,4,win,20220319_37wu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 17,home,Mt. San Jacinto,L,12-8,12.0,8.0,4,win,20220317_qos6,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 15,home,Mt. San Jacinto,W,11-10,11.0,10.0,1,win,20220315_29l4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 12,home,Victor Valley,W,25-2,25.0,2.0,23,win,20220312_2q7l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 8,home,Cerro Coso,W,16-13,16.0,13.0,3,win,20220308_tlpf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 5,home,Saddleback,W,6-1,6.0,1.0,5,win,20220305_rjid,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 3,home,San Bernardino Valley,L,12-5,12.0,5.0,7,win,20220303_e6ie,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Mar 1,home,Desert,L,9-6,9.0,6.0,3,win,20220301_n785,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 26,home,Mt. San Jacinto,W,10-2,10.0,2.0,8,win,20220226_dp9o,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 25,home,Glendale,L,9-0,9.0,0.0,9,win,20220225_qkow,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 24,home,Irvine Valley,W,3-1,3.0,1.0,2,win,20220224_8sl7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 19,home,Southwestern,L,10-2,10.0,2.0,8,win,20220219_rtan,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 18,home,El Camino,W,9-8,9.0,8.0,1,win,20220218_wkxm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 16,home,Irvine Valley,L,9-7,9.0,7.0,2,win,20220216_zxte,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 15,home,Fullerton,L,9-2,9.0,2.0,7,win,20220215_kv8n,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 12,home,Cypress,W,4-1,4.0,1.0,3,win,20220212_6zr2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 11,home,Fullerton,L,15-11,15.0,11.0,4,win,20220211_sfjn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 10,home,El Camino,W,6-4,6.0,4.0,2,win,20220210_l1ku,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 8,home,Southwestern,L,6-5,6.0,5.0,1,win,20220208_idq5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 5,home,Saddleback,L,8-5,8.0,5.0,3,win,20220205_lvtv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 3,home,Riverside,L,11-0,11.0,0.0,11,win,20220203_15gd,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Feb 1,home,Long Beach,W,4-3,4.0,3.0,1,win,20220201_l7n2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Jan 29,home,Santa Barbara,L,5-4,5.0,4.0,1,win,20220129_vygj,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Jan 27,home,Santa Barbara,L,7-3,7.0,3.0,4,win,20220127_qig7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Jan 22  #,home,Citrus,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
+Jan 21  #,home,Fullerton,,,,,7,win,,,,,,,,,,,,,,2022,,Chaffey,chaffey,jaredbujandahl59,Jared Bujanda
