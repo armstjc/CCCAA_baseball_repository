@@ -1,48 +1,20 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,cccaa_season,team,team_id,player_id,player_name
-Apr 12,home,Napa,W,11-9,11.0,9.0,2,win,20160412_jr37,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Apr 14,home,Mendocino,W,17-10,17.0,10.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Apr 16,home,Laney,L,14-2,14.0,2.0,12,win,20160416_0kg9,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Apr 19,home,Marin,L,12-5,12.0,5.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Apr 23,home,Folsom Lake,L,12-3,12.0,3.0,9,win,20160423_6qxv,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Apr 26,home,Yuba,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Apr 28,home,Solano,L,4-3,4.0,3.0,1,win,20160428_jhb1,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Apr 29,home,Los Medanos,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Contra Costa,contracosta,seanjacksondl5i,Sean Jackson
-Feb 2,home,Victor Valley,W,12-2,12.0,2.0,10,win,20160202_4sgw,5.0,0.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,1.0,,,5.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 4,home,Canyons,L,10-8,10.0,8.0,2,win,20160204_dvs1,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 6,home,Citrus,L,2-0,2.0,0.0,2,win,20160206_6d1k,2.0,0.0,0.0,,,,0.0,,,,,,,1.0,0.0,0.0,,1.0,2.0,0.5,3.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 9,home,Moorpark,W,7-6,7.0,6.0,1,win,20160209_8im2,2.0,0.0,1.0,,,,0.0,2.0,,,,,,,1.0,0.0,,,1.0,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 12,home,Riverside,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 13,home,Riverside,L,3-1,3.0,1.0,2,win,20160213_xaju,2.0,0.0,0.0,,,,1.0,,1.0,,,,1.0,,0.0,0.0,,1.0,1.0,1.0,3.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 16,home,Santa Barbara,L,5-1,5.0,1.0,4,win,20160216_7zw8,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,3.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 19,home,Grossmont,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 20,home,Southwestern,W,3-1,3.0,1.0,2,win,20160220_45ko,4.0,0.0,1.0,,,,1.0,,2.0,,,,,,1.0,0.0,,,1.0,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Feb 27,home,Glendale,L,3-0,3.0,0.0,3,win,20160227_i0zq,3.0,0.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,2.0,,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 1,home,Glendale,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 4,home,Santa Barbara,W,7-1,7.0,1.0,6,win,20160304_znyw,3.0,0.0,0.0,,,,0.0,,,,,,,1.0,0.0,0.0,,2.0,1.0,2.0,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 8,home,El Camino,W,6-4,6.0,4.0,2,win,20160308_l3ge,3.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,1.0,,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 10,home,El Camino,L,5-3,5.0,3.0,2,win,20160310_jd2w,4.0,1.0,2.0,1.0,,,0.0,,,,,,,,3.0,1.0,,1.0,1.0,1.0,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 12,home,El Camino,L,4-3,4.0,3.0,1,win,20160312_qp61,4.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,1.0,0.0,0.0,,1.0,2.0,0.5,6.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 15,home,LA Harbor,L,7-1,7.0,1.0,6,win,20160315_ww9e,3.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,,,3.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 17,home,LA Harbor,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 19,home,LA Harbor,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 22,home,Allan Hancock,L,10-9,10.0,9.0,1,win,20160322_5b2l,5.0,1.0,3.0,,,,0.0,,2.0,,,,,,3.0,0.0,,,,,5.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 23,home,Canyons,L,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 24,home,Merced,L,3-2,3.0,2.0,1,win,20160324_0m8f,4.0,0.0,0.0,,,,0.0,,1.0,,,,,1.0,0.0,0.0,,2.0,2.0,1.0,5.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 29,home,Cerritos,L,3-2,3.0,2.0,1,win,20160329_ifyf,3.0,0.0,1.0,,,,0.0,1.0,,,1.0,,,,1.0,0.0,,,2.0,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Mar 31,home,Cerritos,L,16-6,16.0,6.0,10,win,20160331_kykx,3.0,1.0,1.0,,,,0.0,1.0,1.0,,,1.0,,,1.0,0.0,,1.0,,,5.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 2,home,Cerritos,W,6-2,6.0,2.0,4,win,20160402_8b6o,2.0,0.0,0.0,,,,1.0,,,,,,1.0,1.0,0.0,0.0,,2.0,2.0,1.0,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 5,home,Long Beach,W,6-2,6.0,2.0,4,win,20160405_ar1t,3.0,0.0,0.0,,,,0.0,,1.0,,,,,1.0,0.0,0.0,,2.0,1.0,2.0,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 8,home,Long Beach,W,8-3,8.0,3.0,5,win,20160408_72rp,3.0,1.0,0.0,,,,1.0,,2.0,,,,,1.0,0.0,0.0,,1.0,,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 9,home,Long Beach,L,3-2,3.0,2.0,1,win,20160409_zfhm,3.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,,1.0,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 12,home,Mt. San Antonio,W,4-1,4.0,1.0,3,win,20160412_bzr3,4.0,1.0,0.0,,,,0.0,,1.0,,1.0,,,,0.0,0.0,,,1.0,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 14,home,Mt. San Antonio,W,3-1,3.0,1.0,2,win,20160414_9c0v,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,1.0,,3.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 16,home,Mt. San Antonio,L,5-2,5.0,2.0,3,win,20160416_blvu,4.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,1.0,,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 19,home,El Camino-Compton Center,W,10-0,10.0,0.0,10,win,20160419_tnt1,3.0,2.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,,2.0,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 21,home,El Camino-Compton Center,W,6-4,6.0,4.0,2,win,20160421_kgl2,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,3.0,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 23,home,El Camino-Compton Center,L,2-1,2.0,1.0,1,win,20160423_zqef,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,1.0,,3.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 26,home,Pasadena City,W,6-0,6.0,0.0,6,win,20160426_iyfo,2.0,1.0,1.0,,,,0.0,1.0,,,1.0,1.0,,,1.0,0.0,,1.0,,,4.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 28,home,Pasadena City,L,5-4,5.0,4.0,1,win,20160428_aj5h,4.0,0.0,1.0,,,,1.0,,1.0,,,1.0,,,1.0,0.0,,1.0,1.0,1.0,5.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
-Apr 29,home,Pasadena City,W,11-9,11.0,9.0,2,win,20160429_z62g,4.0,1.0,3.0,,,,1.0,,,,,1.0,,,3.0,0.0,,,1.0,,5.0,2016,,East Los Angeles,eastlosangeles,ismaelmartineztegl,Ismael Martinez
+Mar 31,home,San Bernardino,W,16-6,16.0,6.0,10,win,20160331_lheu,6.0,2.0,3.0,1.0,,,1.0,,1.0,,,,,,4.0,1.0,,,1.0,,6.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 2,home,San Bernardino,W,3-2,3.0,2.0,1,win,20160402_l57o,4.0,0.0,2.0,,,,1.0,,1.0,,1.0,,,,2.0,0.0,,1.0,,,4.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 5,home,Barstow,W,2-0,2.0,0.0,2,win,20160405_019l,2.0,0.0,1.0,,,,0.0,,,1.0,,1.0,,,1.0,0.0,,,1.0,,3.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 7,home,Barstow,W,16-5,16.0,5.0,11,win,20160407_wwrx,4.0,2.0,2.0,,,,2.0,,,,,,1.0,,2.0,0.0,,1.0,2.0,0.5,5.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 9,home,Barstow,W,7-3,7.0,3.0,4,win,20160409_0v0x,1.0,0.0,1.0,,,,1.0,1.0,,,,1.0,1.0,,1.0,0.0,,,1.0,,4.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 12,home,Cerro Coso,W,9-7,9.0,7.0,2,win,20160412_rtlz,2.0,1.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,,1.0,,2.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 14,home,Cerro Coso,W,13-0,13.0,0.0,13,win,20160414_gnie,2.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,2.0,,3.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 16,home,Cerro Coso,W,16-4,16.0,4.0,12,win,20160416_c23g,6.0,2.0,2.0,,,,1.0,1.0,1.0,,,,,,2.0,0.0,,,3.0,,7.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 19,home,Chaffey,W,13-4,13.0,4.0,9,win,20160419_xv8p,5.0,1.0,1.0,,,1.0,3.0,,2.0,,,,,,4.0,1.0,,1.0,1.0,1.0,5.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 21,home,Chaffey,W,7-3,7.0,3.0,4,win,20160421_6gxn,4.0,1.0,2.0,,,,1.0,1.0,1.0,,,,,,2.0,0.0,1.0,1.0,,,5.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 23,home,Chaffey,L,15-4,15.0,4.0,11,win,20160423_us2o,3.0,1.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 26,home,Desert,W,5-2,5.0,2.0,3,win,20160426_gyzr,4.0,1.0,2.0,,,,0.0,,1.0,,,,,,2.0,0.0,,1.0,,,4.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 28,home,Desert,W,6-3,6.0,3.0,3,win,20160428_7jla,2.0,0.0,1.0,,,,1.0,2.0,,,,,,,1.0,0.0,,1.0,,,4.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+Apr 29,home,Desert,W,13-8,13.0,8.0,5,win,20160429_m55d,5.0,1.0,2.0,,,,3.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+May 6,home,Golden West,L,6-5,6.0,5.0,1,win,20160506_uuqx,3.0,1.0,2.0,1.0,,,0.0,1.0,1.0,,,,,,3.0,1.0,,,,,4.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
+May 7,home,Golden West,L,6-1,6.0,1.0,5,win,20160507_qtdw,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,1.0,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,randybuenrostroouna,Randy Buenrostro
 Feb 2,home,Fullerton,W,9-0,9.0,0.0,9,win,20160202_nsai,1.0,0.0,0.0,,,,0.0,4.0,1.0,,,,,,0.0,0.0,,,,,5.0,2016,,San Diego Mesa,sandiegomesa,jakericoekpy,Jake Rico
 Feb 4,home,Ventura,L,4-2,4.0,2.0,2,win,20160204_ywr7,4.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,2.0,,,4.0,2016,,San Diego Mesa,sandiegomesa,jakericoekpy,Jake Rico
 Feb 9,home,Desert,L,6-1,6.0,1.0,5,win,20160209_lhf9,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2016,,San Diego Mesa,sandiegomesa,jakericoekpy,Jake Rico
@@ -664,6 +636,44 @@ Apr 28,home,Long Beach,W,8-3,8.0,3.0,5,win,20160428_d4n0,0.0,0.0,0.0,,,,0.0,,,,,
 Apr 29,home,Long Beach,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,El Camino,elcamino,sebastiansanchezwbom,Sebastian Sanchez
 May 6,home,Cypress,L,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,El Camino,elcamino,sebastiansanchezwbom,Sebastian Sanchez
 May 7,home,Cypress,L,4-3,4.0,3.0,1,win,20160507_a64b,1.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2016,,El Camino,elcamino,sebastiansanchezwbom,Sebastian Sanchez
+Jan 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 4,home,Glendale,L,4-2,4.0,2.0,2,win,20160204_zyon,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 5,home,Citrus,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 6,home,Canyons,L,16-6,16.0,6.0,10,win,20160206_pmif,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 9,home,Canyons,L,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 11,home,San Diego Mesa,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 13,home,Allan Hancock,L,8-4,8.0,4.0,4,win,20160213_6rvv,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 16,home,Pasadena City,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 19,home,Merced,L,6-2,6.0,2.0,4,win,20160219_3o0q,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 25,home,San Diego Mesa,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Feb 27,home,Pasadena City,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 1,home,Victor Valley,W,13-9,13.0,9.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 3,home,San Bernardino,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 5,home,Barstow,L,2-1,2.0,1.0,1,win,20160305_qc04,2.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 8,home,Cerro Coso,W,13-8,13.0,8.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 10,home,Chaffey,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 12,home,Desert,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 16,home,LA Pierce,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 22,home,Victor Valley,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 24,home,Victor Valley,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 26,home,Victor Valley,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 29,home,San Bernardino,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Mar 31,home,San Bernardino,W,16-6,16.0,6.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 2,home,San Bernardino,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 5,home,Barstow,W,2-0,2.0,0.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 7,home,Barstow,W,16-5,16.0,5.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 9,home,Barstow,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 12,home,Cerro Coso,W,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 14,home,Cerro Coso,W,13-0,13.0,0.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 16,home,Cerro Coso,W,16-4,16.0,4.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 19,home,Chaffey,W,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 21,home,Chaffey,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 23,home,Chaffey,L,15-4,15.0,4.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 26,home,Desert,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 28,home,Desert,W,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+Apr 29,home,Desert,W,13-8,13.0,8.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+May 6,home,Golden West,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
+May 7,home,Golden West,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyrollerb9jx,Anthony Roller
 Jan 30,home,Antelope Valley,W,12-1,12.0,1.0,11,win,20160130_st2h,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2016,,El Camino,elcamino,omarmaldonadouans,Omar Maldonado
 Feb 4,home,Marin,L,9-4,9.0,4.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,El Camino,elcamino,omarmaldonadouans,Omar Maldonado
 Feb 5,home,Sequoias,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,El Camino,elcamino,omarmaldonadouans,Omar Maldonado
@@ -918,6 +928,44 @@ Apr 23,home,Reedley,W,8-5,8.0,5.0,3,win,20160423_mn4w,4.0,1.0,1.0,,,,0.0,,1.0,,,
 Apr 24,home,Merced,L,16-0,16.0,0.0,16,win,20160424_f07s,2.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,,,2.0,2016,,Porterville,porterville,miguelfedericow8yr,Miguel Federico
 Apr 26,home,Sequoias,L,10-1,10.0,1.0,9,win,20160426_46og,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,2.0,,3.0,2016,,Porterville,porterville,miguelfedericow8yr,Miguel Federico
 Apr 28,home,Fresno City,L,8-6,8.0,6.0,2,win,20160428_9f9e,4.0,1.0,2.0,1.0,,,1.0,,,,,2.0,,,3.0,1.0,1.0,1.0,1.0,1.0,6.0,2016,,Porterville,porterville,miguelfedericow8yr,Miguel Federico
+Jan 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,20160130_olqj,5.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,3.0,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 4,home,Glendale,L,4-2,4.0,2.0,2,win,20160204_zyon,5.0,0.0,2.0,1.0,,,0.0,,,,,,,,3.0,1.0,1.0,3.0,,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 5,home,Citrus,L,7-6,7.0,6.0,1,win,20160205_1in4,4.0,1.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,1.0,,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 6,home,Canyons,L,16-6,16.0,6.0,10,win,20160206_pmif,5.0,0.0,3.0,,,,1.0,,,,,,,,3.0,0.0,1.0,2.0,,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 9,home,Canyons,L,8-3,8.0,3.0,5,win,20160209_qlnr,3.0,0.0,0.0,,,,0.0,,,,,,,1.0,0.0,0.0,,2.0,,,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 11,home,San Diego Mesa,W,8-4,8.0,4.0,4,win,20160211_7nm1,4.0,1.0,2.0,,,1.0,1.0,,,,,,,,5.0,1.0,,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 13,home,Allan Hancock,L,8-4,8.0,4.0,4,win,20160213_6rvv,4.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 16,home,Pasadena City,W,8-1,8.0,1.0,7,win,20160216_mk0z,4.0,0.0,2.0,,,,2.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 19,home,Merced,L,6-2,6.0,2.0,4,win,20160219_3o0q,3.0,0.0,0.0,,,,1.0,,1.0,,,,1.0,,0.0,0.0,,1.0,2.0,0.5,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 25,home,San Diego Mesa,W,7-3,7.0,3.0,4,win,20160225_h675,4.0,0.0,0.0,,,,1.0,,1.0,,,,1.0,,0.0,0.0,,1.0,3.0,0.33,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Feb 27,home,Pasadena City,W,3-2,3.0,2.0,1,win,20160227_ig3j,4.0,0.0,2.0,,,,0.0,,1.0,,,,,,2.0,0.0,,,,,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 1,home,Victor Valley,W,13-9,13.0,9.0,4,win,20160301_d5fr,5.0,0.0,0.0,,,,1.0,,1.0,,,,,,0.0,0.0,,2.0,2.0,1.0,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 3,home,San Bernardino,W,7-2,7.0,2.0,5,win,20160303_yy2t,3.0,1.0,0.0,,,,0.0,,1.0,,,,,1.0,0.0,0.0,,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 5,home,Barstow,L,2-1,2.0,1.0,1,win,20160305_qc04,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,1.0,,3.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 8,home,Cerro Coso,W,13-8,13.0,8.0,5,win,20160308_qcfv,4.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,4.0,,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 10,home,Chaffey,L,10-3,10.0,3.0,7,win,20160310_fv2y,4.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 12,home,Desert,L,4-3,4.0,3.0,1,win,20160312_ftm5,4.0,0.0,1.0,,,,0.0,1.0,,,,1.0,,,1.0,0.0,,1.0,1.0,1.0,6.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 16,home,LA Pierce,W,5-1,5.0,1.0,4,win,20160316_09x2,4.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,2.0,1.0,2.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 22,home,Victor Valley,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 24,home,Victor Valley,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 26,home,Victor Valley,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 29,home,San Bernardino,L,5-4,5.0,4.0,1,win,20160329_wlhx,5.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,2.0,,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Mar 31,home,San Bernardino,W,16-6,16.0,6.0,10,win,20160331_lheu,5.0,2.0,4.0,1.0,,1.0,3.0,,1.0,,,1.0,,,8.0,2.0,,,,,6.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 2,home,San Bernardino,W,3-2,3.0,2.0,1,win,20160402_l57o,4.0,1.0,2.0,1.0,,,1.0,,1.0,,,,,,3.0,1.0,,1.0,,,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 5,home,Barstow,W,2-0,2.0,0.0,2,win,20160405_019l,2.0,0.0,1.0,,,,1.0,,,,,1.0,,,1.0,0.0,,,1.0,,3.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 7,home,Barstow,W,16-5,16.0,5.0,11,win,20160407_wwrx,3.0,1.0,1.0,,,,2.0,2.0,,,,,,,1.0,0.0,1.0,2.0,,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 9,home,Barstow,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 12,home,Cerro Coso,W,9-7,9.0,7.0,2,win,20160412_rtlz,0.0,1.0,0.0,,,,0.0,,,1.0,,1.0,,,0.0,0.0,,,,,1.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 14,home,Cerro Coso,W,13-0,13.0,0.0,13,win,20160414_gnie,5.0,1.0,4.0,1.0,,,4.0,,,,,,,,5.0,1.0,,,1.0,,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 16,home,Cerro Coso,W,16-4,16.0,4.0,12,win,20160416_c23g,6.0,2.0,3.0,1.0,,,2.0,,,1.0,,,,,4.0,1.0,,,2.0,,6.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 19,home,Chaffey,W,13-4,13.0,4.0,9,win,20160419_xv8p,3.0,0.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,,,,3.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 21,home,Chaffey,W,7-3,7.0,3.0,4,win,20160421_6gxn,5.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,3.0,0.33,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 23,home,Chaffey,L,15-4,15.0,4.0,11,win,20160423_us2o,3.0,0.0,2.0,,,,1.0,,1.0,,,,,,2.0,0.0,,,,,3.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 26,home,Desert,W,5-2,5.0,2.0,3,win,20160426_gyzr,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 28,home,Desert,W,6-3,6.0,3.0,3,win,20160428_7jla,4.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,2.0,,,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+Apr 29,home,Desert,W,13-8,13.0,8.0,5,win,20160429_m55d,5.0,2.0,2.0,,1.0,,1.0,,1.0,,,,,,4.0,1.0,,1.0,1.0,1.0,5.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+May 6,home,Golden West,L,6-5,6.0,5.0,1,win,20160506_uuqx,4.0,0.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,2.0,1.0,2.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
+May 7,home,Golden West,L,6-1,6.0,1.0,5,win,20160507_qtdw,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2016,,Rio Hondo,riohondo,fernandorosalesy56d,Fernando Rosales
 Jan 29,home,Southwestern,L,14-3,14.0,3.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Cerro Coso,cerrocoso,calebpearman4hsb,Caleb Pearman
 Jan 30,home,Southwestern,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Cerro Coso,cerrocoso,calebpearman4hsb,Caleb Pearman
 Feb 2,home,Imperial Valley,W,14-6,14.0,6.0,8,win,20160202_cirs,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Cerro Coso,cerrocoso,calebpearman4hsb,Caleb Pearman
@@ -1288,6 +1336,44 @@ Apr 23,home,Folsom Lake,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Contra
 Apr 26,home,Yuba,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Contra Costa,contracosta,kevinsudduthmyid,Kevin Sudduth
 Apr 28,home,Solano,L,4-3,4.0,3.0,1,win,20160428_jhb1,3.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,1.0,1.0,1.0,1.0,3.0,2016,,Contra Costa,contracosta,kevinsudduthmyid,Kevin Sudduth
 Apr 29,home,Los Medanos,L,5-2,5.0,2.0,3,win,20160429_5whx,3.0,0.0,2.0,,,,0.0,1.0,1.0,,,,,,2.0,0.0,,,,,4.0,2016,,Contra Costa,contracosta,kevinsudduthmyid,Kevin Sudduth
+Jan 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,20160130_olqj,3.0,1.0,1.0,,,,0.0,1.0,,1.0,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 4,home,Glendale,L,4-2,4.0,2.0,2,win,20160204_zyon,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,,,3.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 5,home,Citrus,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 6,home,Canyons,L,16-6,16.0,6.0,10,win,20160206_pmif,4.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,1.0,2.0,,,5.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 9,home,Canyons,L,8-3,8.0,3.0,5,win,20160209_qlnr,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,3.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 11,home,San Diego Mesa,W,8-4,8.0,4.0,4,win,20160211_7nm1,1.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,,1.0,,2.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 13,home,Allan Hancock,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 16,home,Pasadena City,W,8-1,8.0,1.0,7,win,20160216_mk0z,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 19,home,Merced,L,6-2,6.0,2.0,4,win,20160219_3o0q,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,1.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 25,home,San Diego Mesa,W,7-3,7.0,3.0,4,win,20160225_h675,2.0,2.0,0.0,,,,0.0,2.0,1.0,1.0,,,,,0.0,0.0,,1.0,,,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Feb 27,home,Pasadena City,W,3-2,3.0,2.0,1,win,20160227_ig3j,3.0,0.0,0.0,,,,0.0,,,,,,,1.0,0.0,0.0,,3.0,,,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 1,home,Victor Valley,W,13-9,13.0,9.0,4,win,20160301_d5fr,3.0,1.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,2.0,,,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 3,home,San Bernardino,W,7-2,7.0,2.0,5,win,20160303_yy2t,4.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,2.0,,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 5,home,Barstow,L,2-1,2.0,1.0,1,win,20160305_qc04,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 8,home,Cerro Coso,W,13-8,13.0,8.0,5,win,20160308_qcfv,4.0,1.0,0.0,,,,0.0,1.0,,1.0,,,,,0.0,0.0,,3.0,,,5.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 10,home,Chaffey,L,10-3,10.0,3.0,7,win,20160310_fv2y,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 12,home,Desert,L,4-3,4.0,3.0,1,win,20160312_ftm5,3.0,0.0,1.0,,,,0.0,,1.0,,,,,1.0,1.0,0.0,,2.0,,,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 16,home,LA Pierce,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 22,home,Victor Valley,W,11-4,11.0,4.0,7,win,20160322_67j6,1.0,1.0,1.0,,,,0.0,,,2.0,,,,,1.0,0.0,,,,,1.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 24,home,Victor Valley,W,6-1,6.0,1.0,5,win,20160324_omvl,0.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 26,home,Victor Valley,W,3-2,3.0,2.0,1,win,20160326_hfca,0.0,0.0,0.0,,,,0.0,,,1.0,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 29,home,San Bernardino,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Mar 31,home,San Bernardino,W,16-6,16.0,6.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 2,home,San Bernardino,W,3-2,3.0,2.0,1,win,20160402_l57o,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 5,home,Barstow,W,2-0,2.0,0.0,2,win,20160405_019l,0.0,0.0,0.0,,,,0.0,,,1.0,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 7,home,Barstow,W,16-5,16.0,5.0,11,win,20160407_wwrx,4.0,3.0,2.0,,,,1.0,1.0,1.0,,,,,,2.0,0.0,,,1.0,,5.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 9,home,Barstow,W,7-3,7.0,3.0,4,win,20160409_0v0x,4.0,1.0,2.0,1.0,,,0.0,,,,,,,,3.0,1.0,,2.0,,,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 12,home,Cerro Coso,W,9-7,9.0,7.0,2,win,20160412_rtlz,3.0,1.0,0.0,,,,0.0,,,,,,,1.0,0.0,0.0,,,3.0,,4.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 14,home,Cerro Coso,W,13-0,13.0,0.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 16,home,Cerro Coso,W,16-4,16.0,4.0,12,win,20160416_c23g,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 19,home,Chaffey,W,13-4,13.0,4.0,9,win,20160419_xv8p,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 21,home,Chaffey,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 23,home,Chaffey,L,15-4,15.0,4.0,11,win,20160423_us2o,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 26,home,Desert,W,5-2,5.0,2.0,3,win,20160426_gyzr,0.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 28,home,Desert,W,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+Apr 29,home,Desert,W,13-8,13.0,8.0,5,win,20160429_m55d,2.0,1.0,1.0,,,,0.0,,,1.0,,,,,1.0,0.0,,,,,2.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+May 6,home,Golden West,L,6-5,6.0,5.0,1,win,20160506_uuqx,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
+May 7,home,Golden West,L,6-1,6.0,1.0,5,win,20160507_qtdw,1.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,,,,2.0,2016,,Rio Hondo,riohondo,davidornalesgi7l,David Ornales
 Jan 30,home,Hartnell,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Marin,marin,bradbusseybtj3,Brad Bussey
 Feb 2,home,Cabrillo,L,6-2,6.0,2.0,4,win,20160202_wc6l,2.0,1.0,0.0,,,,0.0,1.0,,,,1.0,,,0.0,0.0,,1.0,1.0,1.0,4.0,2016,,Marin,marin,bradbusseybtj3,Brad Bussey
 Feb 4,home,El Camino,W,9-4,9.0,4.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Marin,marin,bradbusseybtj3,Brad Bussey
@@ -1741,6 +1827,44 @@ Apr 29,home,Contra Costa,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Los Med
 May 6,home,Mission,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Los Medanos,losmedanos,ryanmathiaruvf,Ryan Mathia
 May 7,home,Mission,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Los Medanos,losmedanos,ryanmathiaruvf,Ryan Mathia
 May 7,home,Mission,L,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Los Medanos,losmedanos,ryanmathiaruvf,Ryan Mathia
+Jan 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 4,home,Glendale,L,4-2,4.0,2.0,2,win,20160204_zyon,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 5,home,Citrus,L,7-6,7.0,6.0,1,win,20160205_1in4,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 6,home,Canyons,L,16-6,16.0,6.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 9,home,Canyons,L,8-3,8.0,3.0,5,win,20160209_qlnr,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 11,home,San Diego Mesa,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 13,home,Allan Hancock,L,8-4,8.0,4.0,4,win,20160213_6rvv,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 16,home,Pasadena City,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 19,home,Merced,L,6-2,6.0,2.0,4,win,20160219_3o0q,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 25,home,San Diego Mesa,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Feb 27,home,Pasadena City,W,3-2,3.0,2.0,1,win,20160227_ig3j,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 1,home,Victor Valley,W,13-9,13.0,9.0,4,win,20160301_d5fr,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 3,home,San Bernardino,W,7-2,7.0,2.0,5,win,20160303_yy2t,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 5,home,Barstow,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 8,home,Cerro Coso,W,13-8,13.0,8.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 10,home,Chaffey,L,10-3,10.0,3.0,7,win,20160310_fv2y,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 12,home,Desert,L,4-3,4.0,3.0,1,win,20160312_ftm5,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 16,home,LA Pierce,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 22,home,Victor Valley,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 24,home,Victor Valley,W,6-1,6.0,1.0,5,win,20160324_omvl,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 26,home,Victor Valley,W,3-2,3.0,2.0,1,win,20160326_hfca,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 29,home,San Bernardino,L,5-4,5.0,4.0,1,win,20160329_wlhx,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Mar 31,home,San Bernardino,W,16-6,16.0,6.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 2,home,San Bernardino,W,3-2,3.0,2.0,1,win,20160402_l57o,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 5,home,Barstow,W,2-0,2.0,0.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 7,home,Barstow,W,16-5,16.0,5.0,11,win,20160407_wwrx,3.0,2.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,3.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 9,home,Barstow,W,7-3,7.0,3.0,4,win,20160409_0v0x,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 12,home,Cerro Coso,W,9-7,9.0,7.0,2,win,20160412_rtlz,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 14,home,Cerro Coso,W,13-0,13.0,0.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 16,home,Cerro Coso,W,16-4,16.0,4.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 19,home,Chaffey,W,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 21,home,Chaffey,W,7-3,7.0,3.0,4,win,20160421_6gxn,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 23,home,Chaffey,L,15-4,15.0,4.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 26,home,Desert,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 28,home,Desert,W,6-3,6.0,3.0,3,win,20160428_7jla,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+Apr 29,home,Desert,W,13-8,13.0,8.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+May 6,home,Golden West,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
+May 7,home,Golden West,L,6-1,6.0,1.0,5,win,20160507_qtdw,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Rio Hondo,riohondo,anthonyfrancose1q,Anthony Franco
 Jan 28,home,Imperial Valley,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,LA Harbor,laharbor,mattyelovichhusk,Matt Yelovich
 Jan 28,home,Imperial Valley,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,LA Harbor,laharbor,mattyelovichhusk,Matt Yelovich
 Jan 30,home,LA Pierce,L,13-6,13.0,6.0,7,win,20160130_qapm,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,LA Harbor,laharbor,mattyelovichhusk,Matt Yelovich
@@ -2511,6 +2635,44 @@ Apr 23,home,Reedley,W,8-5,8.0,5.0,3,win,20160423_mn4w,3.0,1.0,1.0,1.0,,,3.0,,,,,
 Apr 24,home,Merced,L,16-0,16.0,0.0,16,win,20160424_f07s,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2016,,Porterville,porterville,brandonlozanohr3d,Brandon Lozano
 Apr 26,home,Sequoias,L,10-1,10.0,1.0,9,win,20160426_46og,3.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,2.0,,,3.0,2016,,Porterville,porterville,brandonlozanohr3d,Brandon Lozano
 Apr 28,home,Fresno City,L,8-6,8.0,6.0,2,win,20160428_9f9e,4.0,1.0,1.0,,,,0.0,,1.0,,,1.0,,,1.0,0.0,,1.0,1.0,1.0,5.0,2016,,Porterville,porterville,brandonlozanohr3d,Brandon Lozano
+Jan 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 4,home,Glendale,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 5,home,Citrus,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 6,home,Canyons,L,16-6,16.0,6.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 9,home,Canyons,L,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 11,home,San Diego Mesa,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 13,home,Allan Hancock,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 16,home,Pasadena City,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 19,home,Merced,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 25,home,San Diego Mesa,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Feb 27,home,Pasadena City,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 1,home,Victor Valley,W,13-9,13.0,9.0,4,win,20160301_d5fr,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 3,home,San Bernardino,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 5,home,Barstow,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 8,home,Cerro Coso,W,13-8,13.0,8.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 10,home,Chaffey,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 12,home,Desert,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 16,home,LA Pierce,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 22,home,Victor Valley,W,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 24,home,Victor Valley,W,6-1,6.0,1.0,5,win,20160324_omvl,1.0,0.0,0.0,,,,1.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 26,home,Victor Valley,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 29,home,San Bernardino,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Mar 31,home,San Bernardino,W,16-6,16.0,6.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 2,home,San Bernardino,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 5,home,Barstow,W,2-0,2.0,0.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 7,home,Barstow,W,16-5,16.0,5.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 9,home,Barstow,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 12,home,Cerro Coso,W,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 14,home,Cerro Coso,W,13-0,13.0,0.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 16,home,Cerro Coso,W,16-4,16.0,4.0,12,win,20160416_c23g,3.0,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,,1.0,,4.0,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 19,home,Chaffey,W,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 21,home,Chaffey,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 23,home,Chaffey,L,15-4,15.0,4.0,11,win,20160423_us2o,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 26,home,Desert,W,5-2,5.0,2.0,3,win,20160426_gyzr,0.0,0.0,0.0,,,,1.0,,,,,,1.0,,0.0,0.0,,,1.0,,1.0,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 28,home,Desert,W,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+Apr 29,home,Desert,W,13-8,13.0,8.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+May 6,home,Golden West,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
+May 7,home,Golden West,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Rio Hondo,riohondo,louierodeloto6f,Louie Rodelo
 Feb 2,home,Victor Valley,W,12-2,12.0,2.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
 Feb 4,home,Canyons,L,10-8,10.0,8.0,2,win,20160204_dvs1,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,1.0,2.0,,,3.0,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
 Feb 6,home,Citrus,L,2-0,2.0,0.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
@@ -2543,3 +2705,21 @@ Apr 14,home,Mt. San Antonio,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East
 Apr 16,home,Mt. San Antonio,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
 Apr 19,home,El Camino-Compton Center,W,10-0,10.0,0.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
 Apr 21,home,El Camino-Compton Center,W,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
+Apr 23,home,El Camino-Compton Center,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
+Apr 26,home,Pasadena City,W,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
+Apr 28,home,Pasadena City,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
+Apr 29,home,Pasadena City,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,East Los Angeles,eastlosangeles,michaelluna682c,Michael Luna
+Jan 30,home,Santa Ana,L,8-7,8.0,7.0,1,win,20160130_vhil,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 2,home,Citrus,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 4,home,LA Mission,W,6-5,6.0,5.0,1,win,20160204_e6wo,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 6,home,Long Beach,W,6-5,6.0,5.0,1,win,20160206_r7ev,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 9,home,Glendale,L,11-8,11.0,8.0,3,win,20160209_6ld1,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 12,home,Glendale,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 13,home,Citrus,L,7-4,7.0,4.0,3,win,20160213_bwkj,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 16,home,Long Beach,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 19,home,LA Mission,L,4-0,4.0,0.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 20,home,LA Pierce,L,8-4,8.0,4.0,4,win,20160220_ep06,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 23,home,LA Pierce,W,1-0,1.0,0.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 25,home,Santa Barbara,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Feb 27,home,Santa Barbara,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
+Mar 5,home,Allan Hancock,L,3-1,3.0,1.0,2,win,20160305_dxfb,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2016,,Oxnard,oxnard,antoniogaxiola56s1,Antonio Gaxiola
