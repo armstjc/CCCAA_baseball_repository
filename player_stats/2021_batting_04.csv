@@ -1,4 +1,41 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,cccaa_season,team,team_id,player_id,player_name
+Apr 20,home,Antelope Valley,W,32-6,32.0,6.0,26,win,20210420_q9gv,3.0,3.0,2.0,1.0,,,4.0,,,,,1.0,,,3.0,1.0,,1.0,,,4.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 20,home,Antelope Valley,W,23-5,23.0,5.0,18,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 22,home,Mt. San Jacinto,L,20-1,20.0,1.0,19,win,20210422_ts38,2.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,1.0,,,3.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 24,home,Antelope Valley,W,14-3,14.0,3.0,11,win,20210424_90ky,3.0,3.0,3.0,,,2.0,5.0,1.0,,,,,,,9.0,2.0,,,,,4.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 24,home,Antelope Valley,W,18-14,18.0,14.0,4,win,20210424_9lyd,1.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 26,home,Taft,W,8-2,8.0,2.0,6,win,20210426_5sqq,3.0,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,,1.0,,4.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 28,home,Taft,W,19-5,19.0,5.0,14,win,20210428_tb82,2.0,3.0,1.0,,,,0.0,2.0,1.0,,,,,,1.0,0.0,,,,,4.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 30,home,Reedley,W,16-5,16.0,5.0,11,win,20210430_26kg,5.0,1.0,2.0,,,,1.0,,1.0,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 1,home,Reedley,L,14-3,14.0,3.0,11,win,20210501_gl8e,4.0,0.0,4.0,2.0,,,3.0,,,,,,,,6.0,2.0,,,,,4.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 4,home,Merced,L,10-0,10.0,0.0,10,win,20210504_r1rb,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 5,home,Merced,W,24-2,24.0,2.0,22,win,20210505_8q4y,5.0,2.0,0.0,,,,1.0,,,,,,,,0.0,0.0,,1.0,3.0,0.33,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 7,home,Fresno City,L,10-6,10.0,6.0,4,win,20210507_478x,4.0,2.0,2.0,1.0,,1.0,2.0,,,,,,1.0,,6.0,2.0,,,3.0,,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 8,home,Fresno City,L,5-4,5.0,4.0,1,win,20210508_tk5g,4.0,0.0,1.0,,,,2.0,,,1.0,,1.0,,,1.0,0.0,,3.0,,,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 11,home,Sequoias,W,13-11,13.0,11.0,2,win,20210511_6aka,4.0,3.0,3.0,,1.0,,3.0,,,,,,1.0,,5.0,1.0,,1.0,1.0,1.0,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 11,home,Sequoias,L,20-8,20.0,8.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 13,home,Mt. San Jacinto,W,12-7,12.0,7.0,5,win,20210513_8yb8,5.0,2.0,3.0,,,,0.0,1.0,1.0,,1.0,,,,3.0,0.0,,1.0,,,6.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 15,home,Taft,W,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 18,home,Mt. San Jacinto,L,15-5,15.0,5.0,10,win,20210518_g3m3,4.0,1.0,2.0,,,,0.0,,1.0,,,,,,2.0,0.0,,,1.0,,4.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 19,home,Mt. San Jacinto,L,11-7,11.0,7.0,4,win,20210519_7lvr,5.0,2.0,2.0,,,,2.0,,,,,,,,2.0,0.0,1.0,1.0,2.0,0.5,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 22,home,Merced,W,13-4,13.0,4.0,9,win,20210522_295z,3.0,2.0,1.0,,,,0.0,1.0,,,1.0,2.0,,,1.0,0.0,,,2.0,,6.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 22,home,Merced,L,9-3,9.0,3.0,6,win,20210522_fuaz,3.0,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,1.0,,,4.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 25,home,Fresno City,L,10-4,10.0,4.0,6,win,20210525_ohvq,5.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,2.0,1.0,2.0,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 26,home,Fresno City,W,11-5,11.0,5.0,6,win,20210526_tmyb,4.0,2.0,2.0,,,1.0,5.0,,,,,,1.0,,5.0,1.0,,1.0,2.0,0.5,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 28,home,Sequoias,L,12-6,12.0,6.0,6,win,20210528_0eqg,4.0,2.0,2.0,1.0,,,1.0,1.0,1.0,,,,,,3.0,1.0,,,1.0,,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+May 29,home,Sequoias,L,7-4,7.0,4.0,3,win,20210529_rbuf,5.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,3.0,,5.0,2021,,Cerro Coso,cerrocoso,michaeldoerrgumz,Michael Doerr
+Apr 13,home,Mt. San Antonio,L,11-3,11.0,3.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 15,home,Mt. San Antonio,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 16,home,Mt. San Antonio,L,6-3,6.0,3.0,3,win,20210416_hsb5,4.0,1.0,2.0,1.0,,,1.0,,2.0,,,,,,3.0,1.0,,,,,4.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 16,home,Mt. San Antonio,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 20,home,Golden West,W,13-2,13.0,2.0,11,win,20210420_1emb,2.0,0.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,,,,2.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 22,home,Golden West,W,5-2,5.0,2.0,3,win,20210422_i9va,4.0,1.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,2.0,,4.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 23,home,Golden West,W,6-3,6.0,3.0,3,win,20210423_rbiu,0.0,0.0,0.0,,,,0.0,,,1.0,,,,,0.0,0.0,,,,,0.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 23,home,Golden West,W,15-6,15.0,6.0,9,win,20210423_tau6,5.0,3.0,3.0,1.0,,,1.0,,1.0,,,,,,4.0,1.0,,1.0,,,5.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 27,home,Cypress,L,8-3,8.0,3.0,5,win,20210427_20pv,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,3.0,1.0,3.0,4.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 29,home,Cypress,L,17-4,17.0,4.0,13,win,20210429_xbs6,2.0,0.0,0.0,,,,1.0,,,1.0,,,,,0.0,0.0,,2.0,,,2.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 30,home,Cypress,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
+Apr 30,home,Cypress,W,16-2,16.0,2.0,14,win,20210430_dtk4,4.0,2.0,2.0,2.0,,,1.0,1.0,1.0,,,,,,4.0,2.0,,1.0,,,5.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
 May 4,home,Irvine Valley,W,5-4,5.0,4.0,1,win,20210504_5fwq,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
 May 6,home,Irvine Valley,L,16-13,16.0,13.0,3,win,20210506_juag,4.0,2.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
 May 7,home,Irvine Valley,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,brentriddle50a9,Brent Riddle
@@ -96,6 +133,62 @@ May 27,home,Antelope Valley,W,14-11,14.0,11.0,3,win,20210527_ggie,5.0,0.0,1.0,1.
 May 27,home,Antelope Valley,W,14-3,14.0,3.0,11,win,20210527_ps4i,2.0,1.0,2.0,1.0,,,2.0,1.0,,,,,1.0,,3.0,1.0,,,1.0,,4.0,2021,,Ventura,ventura,anthonychavezp724,Anthony Chavez
 May 29,home,Antelope Valley,W,10-3,10.0,3.0,7,win,20210529_mtbt,4.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2021,,Ventura,ventura,anthonychavezp724,Anthony Chavez
 May 29,home,Antelope Valley,W,10-8,10.0,8.0,2,win,20210529_4cln,5.0,0.0,2.0,2.0,,,3.0,,1.0,,1.0,,,,4.0,2.0,,1.0,,,5.0,2021,,Ventura,ventura,anthonychavezp724,Anthony Chavez
+Apr 13,home,Golden West,W,8-7,8.0,7.0,1,win,20210413_rxnp,3.0,0.0,0.0,,,,0.0,,3.0,,,1.0,,,0.0,0.0,,,,,4.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 15,home,Golden West,W,5-4,5.0,4.0,1,win,20210415_vmr0,2.0,0.0,0.0,,,,0.0,,1.0,,1.0,,,,0.0,0.0,,,,,2.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 16,home,Golden West,L,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 16,home,Golden West,W,2-1,2.0,1.0,1,win,20210416_kwvn,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 20,home,Fullerton,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 22,home,Fullerton,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 23,home,Fullerton,L,8-5,8.0,5.0,3,win,20210423_khk6,3.0,0.0,1.0,,,,2.0,,,,,,,,1.0,0.0,,1.0,1.0,1.0,3.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 23,home,Fullerton,W,5-2,5.0,2.0,3,win,20210423_o1sh,3.0,0.0,0.0,,,,1.0,,1.0,,,,,,0.0,0.0,,2.0,,,3.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 27,home,Mt. San Antonio,L,13-4,13.0,4.0,9,win,20210427_tm3k,1.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 29,home,Mt. San Antonio,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 30,home,Mt. San Antonio,L,9-6,9.0,6.0,3,win,20210430_q7rm,3.0,1.0,2.0,,,,1.0,,,,,1.0,,1.0,2.0,0.0,,1.0,,,5.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,20210430_9np2,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 4,home,Cypress,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 6,home,Cypress,L,17-8,17.0,8.0,9,win,20210506_8ycx,1.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 7,home,Cypress,W,16-3,16.0,3.0,13,win,20210507_iazy,5.0,2.0,4.0,,,,2.0,,,,,,,,4.0,0.0,,1.0,,,5.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 7,home,Cypress,L,7-4,7.0,4.0,3,win,20210507_xb1l,0.0,0.0,0.0,,,,0.0,,,,,,,1.0,0.0,0.0,,1.0,,,1.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 11,home,Irvine Valley,L,12-11,12.0,11.0,1,win,20210511_g48e,3.0,0.0,0.0,,,,0.0,,2.0,,,,,1.0,0.0,0.0,,,1.0,,4.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 13,home,Irvine Valley,L,5-2,5.0,2.0,3,win,20210513_o2qw,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 14,home,Irvine Valley,T,4-4,4.0,4.0,0,tie,20210514_o9o9,4.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,2.0,0.5,4.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 14,home,Irvine Valley,L,13-3,13.0,3.0,10,win,20210514_uaqk,5.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,1.0,1.0,1.0,5.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 18,home,Saddleback,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 20,home,Saddleback,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 21,home,Saddleback,W,6-2,6.0,2.0,4,win,20210521_sauf,3.0,1.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,,2.0,,4.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 21,home,Saddleback,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 25,home,Orange Coast,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 27,home,Orange Coast,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 28,home,Orange Coast,W,6-1,6.0,1.0,5,win,20210528_hz2e,4.0,1.0,2.0,1.0,,,0.0,,2.0,,1.0,1.0,,,3.0,1.0,,,,,5.0,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+May 28,home,Orange Coast,L,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,markschavone3hqr,Mark Schavone
+Apr 10,home,Taft,W,5-4,5.0,4.0,1,win,20210410_0yga,1.0,1.0,0.0,,,,0.0,1.0,1.0,,,1.0,,,0.0,0.0,,,,,3.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 13,home,Reedley,L,21-12,21.0,12.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 14,home,Reedley,L,16-2,16.0,2.0,14,win,20210414_oroe,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 20,home,Antelope Valley,W,32-6,32.0,6.0,26,win,20210420_q9gv,4.0,2.0,3.0,3.0,,,7.0,2.0,1.0,,,,,,6.0,3.0,,,,,6.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 20,home,Antelope Valley,W,23-5,23.0,5.0,18,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 22,home,Mt. San Jacinto,L,20-1,20.0,1.0,19,win,20210422_ts38,4.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,1.0,,,4.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 24,home,Antelope Valley,W,14-3,14.0,3.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 24,home,Antelope Valley,W,18-14,18.0,14.0,4,win,20210424_9lyd,1.0,2.0,0.0,,,,0.0,3.0,,,,,1.0,,0.0,0.0,,,2.0,,5.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 26,home,Taft,W,8-2,8.0,2.0,6,win,20210426_5sqq,2.0,0.0,0.0,,,,0.0,2.0,1.0,1.0,,,,,0.0,0.0,,,1.0,,4.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 28,home,Taft,W,19-5,19.0,5.0,14,win,20210428_tb82,2.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+Apr 30,home,Reedley,W,16-5,16.0,5.0,11,win,20210430_26kg,4.0,0.0,1.0,,,,1.0,,2.0,,,,1.0,,1.0,0.0,,,2.0,,5.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 1,home,Reedley,L,14-3,14.0,3.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 4,home,Merced,L,10-0,10.0,0.0,10,win,20210504_r1rb,2.0,0.0,0.0,,,,0.0,,2.0,,,1.0,,,0.0,0.0,,,,,3.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 5,home,Merced,W,24-2,24.0,2.0,22,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 7,home,Fresno City,L,10-6,10.0,6.0,4,win,20210507_478x,4.0,0.0,1.0,,,,0.0,,3.0,,,,,,1.0,0.0,,,,,4.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 8,home,Fresno City,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 11,home,Sequoias,W,13-11,13.0,11.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 11,home,Sequoias,L,20-8,20.0,8.0,12,win,20210511_k8ha,2.0,2.0,1.0,,,1.0,3.0,2.0,,,,,,,4.0,1.0,,,1.0,,4.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 13,home,Mt. San Jacinto,W,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 15,home,Taft,W,11-10,11.0,10.0,1,win,20210515_axh3,5.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,,3.0,,5.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 18,home,Mt. San Jacinto,L,15-5,15.0,5.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 19,home,Mt. San Jacinto,L,11-7,11.0,7.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 22,home,Merced,W,13-4,13.0,4.0,9,win,20210522_295z,4.0,2.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,1.0,,5.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 22,home,Merced,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 25,home,Fresno City,L,10-4,10.0,4.0,6,win,20210525_ohvq,2.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 26,home,Fresno City,W,11-5,11.0,5.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 28,home,Sequoias,L,12-6,12.0,6.0,6,win,20210528_0eqg,5.0,0.0,2.0,,,,0.0,,2.0,,,,,,2.0,0.0,,,1.0,,5.0,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
+May 29,home,Sequoias,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,brooksscottwiyx,Brooks Scott
 Apr 10,home,Mission,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Ohlone,ohlone,shaydensabangana78m,Shayden Sabangan
 Apr 10,home,Mission,W,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Ohlone,ohlone,shaydensabangana78m,Shayden Sabangan
 Apr 15,home,Hartnell,W,21-0,21.0,0.0,21,win,20210415_gvt9,3.0,0.0,1.0,1.0,,,2.0,,,,,,,,2.0,1.0,,1.0,1.0,1.0,3.0,2021,,Ohlone,ohlone,shaydensabangana78m,Shayden Sabangan
@@ -123,6 +216,34 @@ May 29,home,Monterey Peninsula,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,O
 Jun 3,home,Monterey Peninsula,W,11-4,11.0,4.0,7,win,20210603_87hg,1.0,0.0,0.0,,,,1.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2021,,Ohlone,ohlone,shaydensabangana78m,Shayden Sabangan
 Jun 5,home,Monterey Peninsula,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Ohlone,ohlone,shaydensabangana78m,Shayden Sabangan
 Jun 5,home,Monterey Peninsula,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Ohlone,ohlone,shaydensabangana78m,Shayden Sabangan
+Apr 13,home,Golden West,W,8-7,8.0,7.0,1,win,20210413_rxnp,5.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 15,home,Golden West,W,5-4,5.0,4.0,1,win,20210415_vmr0,5.0,0.0,0.0,,,,0.0,,2.0,,1.0,,,,0.0,0.0,,1.0,1.0,1.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 16,home,Golden West,L,13-3,13.0,3.0,10,win,20210416_rfxv,1.0,1.0,1.0,1.0,,,0.0,,,,,1.0,,,2.0,1.0,,,,,2.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 16,home,Golden West,W,2-1,2.0,1.0,1,win,20210416_kwvn,4.0,0.0,3.0,,,,0.0,,,,,,,,3.0,0.0,,1.0,,,4.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 20,home,Fullerton,W,8-3,8.0,3.0,5,win,20210420_5aat,4.0,1.0,1.0,,,1.0,3.0,1.0,,,,,,,4.0,1.0,,1.0,2.0,0.5,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 22,home,Fullerton,W,2-1,2.0,1.0,1,win,20210422_oqz9,3.0,0.0,1.0,,,,0.0,1.0,1.0,,,1.0,,,1.0,0.0,,,1.0,,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 23,home,Fullerton,L,8-5,8.0,5.0,3,win,20210423_khk6,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 23,home,Fullerton,W,5-2,5.0,2.0,3,win,20210423_o1sh,4.0,1.0,1.0,,,,1.0,,,,,,1.0,,1.0,0.0,,1.0,3.0,0.33,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 27,home,Mt. San Antonio,L,13-4,13.0,4.0,9,win,20210427_tm3k,4.0,1.0,1.0,,1.0,,1.0,,1.0,,,,,,3.0,1.0,,,2.0,,4.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 29,home,Mt. San Antonio,W,8-0,8.0,0.0,8,win,20210429_tzp6,5.0,1.0,2.0,,,,1.0,,,,,,,,2.0,0.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 30,home,Mt. San Antonio,L,9-6,9.0,6.0,3,win,20210430_q7rm,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+Apr 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,20210430_9np2,5.0,1.0,2.0,,,,0.0,,1.0,1.0,,,,,2.0,0.0,,,2.0,,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 4,home,Cypress,W,11-9,11.0,9.0,2,win,20210504_92gh,5.0,3.0,3.0,1.0,1.0,,2.0,,1.0,,,,,,6.0,2.0,,1.0,,,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 6,home,Cypress,L,17-8,17.0,8.0,9,win,20210506_8ycx,5.0,1.0,1.0,,,,1.0,,1.0,1.0,,,,,1.0,0.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 7,home,Cypress,W,16-3,16.0,3.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 7,home,Cypress,L,7-4,7.0,4.0,3,win,20210507_xb1l,5.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 11,home,Irvine Valley,L,12-11,12.0,11.0,1,win,20210511_g48e,6.0,3.0,2.0,,,,1.0,,1.0,,,,,,2.0,0.0,,2.0,1.0,2.0,6.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 13,home,Irvine Valley,L,5-2,5.0,2.0,3,win,20210513_o2qw,3.0,1.0,0.0,,,,1.0,2.0,,,,,,,0.0,0.0,,1.0,2.0,0.5,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 14,home,Irvine Valley,T,4-4,4.0,4.0,0,tie,20210514_o9o9,1.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 14,home,Irvine Valley,L,13-3,13.0,3.0,10,win,20210514_uaqk,3.0,0.0,1.0,1.0,,,1.0,1.0,,,,1.0,,,2.0,1.0,,,2.0,,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 18,home,Saddleback,W,8-7,8.0,7.0,1,win,20210518_ckr4,5.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 20,home,Saddleback,W,8-0,8.0,0.0,8,win,20210520_3bz5,5.0,0.0,1.0,,,,1.0,,,,,,,,1.0,0.0,,3.0,1.0,3.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 21,home,Saddleback,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 21,home,Saddleback,L,5-2,5.0,2.0,3,win,20210521_deph,5.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 25,home,Orange Coast,W,8-3,8.0,3.0,5,win,20210525_wlbn,5.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,3.0,0.33,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 27,home,Orange Coast,W,9-5,9.0,5.0,4,win,20210527_bcp9,4.0,1.0,1.0,,,,2.0,,1.0,,,,,1.0,1.0,0.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 28,home,Orange Coast,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
+May 28,home,Orange Coast,L,8-0,8.0,0.0,8,win,20210528_xu0i,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,3.0,,4.0,2021,,Santa Ana,santaana,micahpietilawiggs3tv8,Micah Pietila-Wiggs
 Apr 10,home,Mission,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Ohlone,ohlone,willjewellni2t,Will Jewell
 Apr 10,home,Mission,W,10-2,10.0,2.0,8,win,20210410_dmmj,2.0,0.0,0.0,,,,0.0,,1.0,1.0,,1.0,,,0.0,0.0,,,1.0,,3.0,2021,,Ohlone,ohlone,willjewellni2t,Will Jewell
 Apr 15,home,Hartnell,W,21-0,21.0,0.0,21,win,20210415_gvt9,2.0,0.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,,,,3.0,2021,,Ohlone,ohlone,willjewellni2t,Will Jewell
@@ -169,6 +290,62 @@ May 21,home,Yuba,L,18-8,18.0,8.0,10,win,20210521_7934,4.0,2.0,2.0,2.0,,,3.0,,1.0
 May 27,home,Los Medanos,L,10-7,10.0,7.0,3,win,20210527_w0hl,5.0,1.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2021,,Laney,laney,christophermills6ea5,Christopher Mills
 May 28,home,Los Medanos,L,7-0,7.0,0.0,7,win,20210528_f0yq,3.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,1.0,2.0,,,3.0,2021,,Laney,laney,christophermills6ea5,Christopher Mills
 May 28,home,Los Medanos,L,4-1,4.0,1.0,3,win,20210528_exhl,3.0,0.0,1.0,,,,1.0,1.0,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2021,,Laney,laney,christophermills6ea5,Christopher Mills
+Apr 10,home,Taft,W,5-4,5.0,4.0,1,win,20210410_0yga,4.0,0.0,1.0,,,,2.0,,2.0,,,,1.0,,1.0,0.0,,1.0,1.0,1.0,5.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 13,home,Reedley,L,21-12,21.0,12.0,9,win,20210413_4ime,5.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,3.0,1.0,3.0,5.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 14,home,Reedley,L,16-2,16.0,2.0,14,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 20,home,Antelope Valley,W,32-6,32.0,6.0,26,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 20,home,Antelope Valley,W,23-5,23.0,5.0,18,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 22,home,Mt. San Jacinto,L,20-1,20.0,1.0,19,win,20210422_ts38,3.0,1.0,2.0,,,1.0,1.0,1.0,,,,,,,5.0,1.0,,1.0,,,4.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 24,home,Antelope Valley,W,14-3,14.0,3.0,11,win,20210424_90ky,3.0,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,1.0,,,4.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 24,home,Antelope Valley,W,18-14,18.0,14.0,4,win,20210424_9lyd,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 26,home,Taft,W,8-2,8.0,2.0,6,win,20210426_5sqq,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 28,home,Taft,W,19-5,19.0,5.0,14,win,20210428_tb82,3.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,1.0,,,4.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 30,home,Reedley,W,16-5,16.0,5.0,11,win,20210430_26kg,4.0,1.0,1.0,,,1.0,2.0,1.0,,,,,,,4.0,1.0,,1.0,2.0,0.5,5.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 1,home,Reedley,L,14-3,14.0,3.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 4,home,Merced,L,10-0,10.0,0.0,10,win,20210504_r1rb,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 5,home,Merced,W,24-2,24.0,2.0,22,win,20210505_8q4y,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 7,home,Fresno City,L,10-6,10.0,6.0,4,win,20210507_478x,3.0,1.0,0.0,,,,1.0,1.0,3.0,,,,,,0.0,0.0,,,,,4.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 8,home,Fresno City,L,5-4,5.0,4.0,1,win,20210508_tk5g,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 11,home,Sequoias,W,13-11,13.0,11.0,2,win,20210511_6aka,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 11,home,Sequoias,L,20-8,20.0,8.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 13,home,Mt. San Jacinto,W,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 15,home,Taft,W,11-10,11.0,10.0,1,win,20210515_axh3,6.0,1.0,1.0,,,,0.0,,2.0,1.0,,,,,1.0,0.0,,1.0,2.0,0.5,6.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 18,home,Mt. San Jacinto,L,15-5,15.0,5.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 19,home,Mt. San Jacinto,L,11-7,11.0,7.0,4,win,20210519_7lvr,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 22,home,Merced,W,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 22,home,Merced,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 25,home,Fresno City,L,10-4,10.0,4.0,6,win,20210525_ohvq,3.0,1.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,,2.0,,4.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 26,home,Fresno City,W,11-5,11.0,5.0,6,win,20210526_tmyb,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 28,home,Sequoias,L,12-6,12.0,6.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+May 29,home,Sequoias,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jaxonholzemm10f,Jaxon Holzem
+Apr 13,home,Golden West,W,8-7,8.0,7.0,1,win,20210413_rxnp,1.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 15,home,Golden West,W,5-4,5.0,4.0,1,win,20210415_vmr0,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 16,home,Golden West,L,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 16,home,Golden West,W,2-1,2.0,1.0,1,win,20210416_kwvn,2.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,,,,3.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 20,home,Fullerton,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 22,home,Fullerton,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 23,home,Fullerton,L,8-5,8.0,5.0,3,win,20210423_khk6,1.0,0.0,1.0,,,,1.0,2.0,,,,,,,1.0,0.0,,,,,3.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 23,home,Fullerton,W,5-2,5.0,2.0,3,win,20210423_o1sh,1.0,0.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,,,,2.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 27,home,Mt. San Antonio,L,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 29,home,Mt. San Antonio,W,8-0,8.0,0.0,8,win,20210429_tzp6,2.0,2.0,1.0,,,,0.0,2.0,,,,,,,1.0,0.0,,,1.0,,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 30,home,Mt. San Antonio,L,9-6,9.0,6.0,3,win,20210430_q7rm,2.0,0.0,2.0,1.0,,,2.0,1.0,,,,,1.0,,3.0,1.0,,,1.0,,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+Apr 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,20210430_9np2,4.0,0.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,1.0,,5.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 4,home,Cypress,W,11-9,11.0,9.0,2,win,20210504_92gh,5.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,1.0,3.0,1.0,3.0,5.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 6,home,Cypress,L,17-8,17.0,8.0,9,win,20210506_8ycx,3.0,1.0,1.0,,,,2.0,,1.0,,,1.0,,,1.0,0.0,,1.0,,,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 7,home,Cypress,W,16-3,16.0,3.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 7,home,Cypress,L,7-4,7.0,4.0,3,win,20210507_xb1l,3.0,0.0,1.0,,,,2.0,2.0,,,,,,,1.0,0.0,,,2.0,,5.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 11,home,Irvine Valley,L,12-11,12.0,11.0,1,win,20210511_g48e,3.0,1.0,0.0,,,,0.0,2.0,2.0,,,,,,0.0,0.0,,1.0,,,5.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 13,home,Irvine Valley,L,5-2,5.0,2.0,3,win,20210513_o2qw,2.0,0.0,1.0,1.0,,,0.0,2.0,,,,,,,2.0,1.0,,,,,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 14,home,Irvine Valley,T,4-4,4.0,4.0,0,tie,20210514_o9o9,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 14,home,Irvine Valley,L,13-3,13.0,3.0,10,win,20210514_uaqk,3.0,0.0,2.0,,,,1.0,1.0,1.0,,,,1.0,,2.0,0.0,,,1.0,,5.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 18,home,Saddleback,W,8-7,8.0,7.0,1,win,20210518_ckr4,2.0,0.0,0.0,,,,0.0,3.0,,,,,,,0.0,0.0,,1.0,1.0,1.0,5.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 20,home,Saddleback,W,8-0,8.0,0.0,8,win,20210520_3bz5,3.0,1.0,1.0,,,,1.0,1.0,,,,,,,1.0,0.0,,2.0,,,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 21,home,Saddleback,W,6-2,6.0,2.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 21,home,Saddleback,L,5-2,5.0,2.0,3,win,20210521_deph,3.0,0.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,,,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 25,home,Orange Coast,W,8-3,8.0,3.0,5,win,20210525_wlbn,4.0,0.0,0.0,,,,1.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 27,home,Orange Coast,W,9-5,9.0,5.0,4,win,20210527_bcp9,3.0,2.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,,,4.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 28,home,Orange Coast,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
+May 28,home,Orange Coast,L,8-0,8.0,0.0,8,win,20210528_xu0i,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2021,,Santa Ana,santaana,sebastianmcsherry0a8m,Sebastian McSherry
 Apr 10,home,Yuba,L,6-3,6.0,3.0,3,win,20210410_ohb2,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,1.0,2.0,0.5,3.0,2021,,Mendocino,mendocino,kyleelliseqro,Kyle Ellis
 Apr 10,home,Yuba,L,8-4,8.0,4.0,4,win,20210410_i35y,3.0,1.0,1.0,,1.0,,2.0,,1.0,,,,,,3.0,1.0,,1.0,,,3.0,2021,,Mendocino,mendocino,kyleelliseqro,Kyle Ellis
 Apr 22,home,Napa Valley,W,15-11,15.0,11.0,4,win,20210422_1si0,6.0,3.0,4.0,2.0,,1.0,2.0,,,,,,,,9.0,3.0,,1.0,1.0,1.0,6.0,2021,,Mendocino,mendocino,kyleelliseqro,Kyle Ellis
@@ -315,6 +492,34 @@ May 29,home,Monterey Peninsula,W,5-1,5.0,1.0,4,win,20210529_3zgq,3.0,1.0,1.0,,,,
 Jun 3,home,Monterey Peninsula,W,11-4,11.0,4.0,7,win,20210603_87hg,2.0,0.0,2.0,,,,3.0,1.0,,,,,,,2.0,0.0,,,,,3.0,2021,,Ohlone,ohlone,bradleepreapbfna,Bradlee Preap
 Jun 5,home,Monterey Peninsula,L,3-0,3.0,0.0,3,win,20210605_05f6,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2021,,Ohlone,ohlone,bradleepreapbfna,Bradlee Preap
 Jun 5,home,Monterey Peninsula,L,4-3,4.0,3.0,1,win,20210605_lkmr,3.0,1.0,1.0,1.0,,,0.0,1.0,,,1.0,,,,2.0,1.0,,,2.0,,4.0,2021,,Ohlone,ohlone,bradleepreapbfna,Bradlee Preap
+Apr 10,home,Taft,W,5-4,5.0,4.0,1,win,20210410_0yga,5.0,0.0,2.0,,,,1.0,,1.0,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 13,home,Reedley,L,21-12,21.0,12.0,9,win,20210413_4ime,3.0,2.0,1.0,,,1.0,1.0,2.0,1.0,,,,,,4.0,1.0,,1.0,,,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 14,home,Reedley,L,16-2,16.0,2.0,14,win,20210414_oroe,3.0,1.0,1.0,,,1.0,1.0,,2.0,,,,,,4.0,1.0,,,,,3.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 20,home,Antelope Valley,W,32-6,32.0,6.0,26,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 20,home,Antelope Valley,W,23-5,23.0,5.0,18,win,20210420_v0py,4.0,1.0,1.0,1.0,,,2.0,2.0,1.0,1.0,,,,,2.0,1.0,,2.0,,,6.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 22,home,Mt. San Jacinto,L,20-1,20.0,1.0,19,win,20210422_ts38,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 24,home,Antelope Valley,W,14-3,14.0,3.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 24,home,Antelope Valley,W,18-14,18.0,14.0,4,win,20210424_9lyd,4.0,2.0,0.0,,,,1.0,2.0,1.0,2.0,,,,,0.0,0.0,1.0,1.0,2.0,0.5,6.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 26,home,Taft,W,8-2,8.0,2.0,6,win,20210426_5sqq,3.0,2.0,1.0,,,1.0,2.0,2.0,,1.0,,,,,4.0,1.0,,1.0,,,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 28,home,Taft,W,19-5,19.0,5.0,14,win,20210428_tb82,4.0,2.0,2.0,,,,1.0,1.0,2.0,,,,,,2.0,0.0,,,,,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+Apr 30,home,Reedley,W,16-5,16.0,5.0,11,win,20210430_26kg,5.0,2.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,2.0,1.0,2.0,6.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 1,home,Reedley,L,14-3,14.0,3.0,11,win,20210501_gl8e,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 4,home,Merced,L,10-0,10.0,0.0,10,win,20210504_r1rb,3.0,0.0,2.0,,,,0.0,,1.0,,,,,,2.0,0.0,,,,,3.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 5,home,Merced,W,24-2,24.0,2.0,22,win,20210505_8q4y,4.0,4.0,3.0,1.0,,,3.0,,,,,2.0,,,4.0,1.0,,,,,6.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 7,home,Fresno City,L,10-6,10.0,6.0,4,win,20210507_478x,5.0,0.0,2.0,1.0,,,1.0,,1.0,,,,,,3.0,1.0,,,1.0,,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 8,home,Fresno City,L,5-4,5.0,4.0,1,win,20210508_tk5g,3.0,0.0,1.0,,,,0.0,2.0,1.0,,,,,,1.0,0.0,,,1.0,,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 11,home,Sequoias,W,13-11,13.0,11.0,2,win,20210511_6aka,3.0,2.0,2.0,1.0,,,1.0,,,,,1.0,,,3.0,1.0,,,1.0,,4.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 11,home,Sequoias,L,20-8,20.0,8.0,12,win,20210511_k8ha,5.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,2.0,1.0,2.0,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 13,home,Mt. San Jacinto,W,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 15,home,Taft,W,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 18,home,Mt. San Jacinto,L,15-5,15.0,5.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 19,home,Mt. San Jacinto,L,11-7,11.0,7.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 22,home,Merced,W,13-4,13.0,4.0,9,win,20210522_295z,5.0,2.0,2.0,,,1.0,5.0,,1.0,,,1.0,,,5.0,1.0,,1.0,1.0,1.0,6.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 22,home,Merced,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 25,home,Fresno City,L,10-4,10.0,4.0,6,win,20210525_ohvq,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,,2.0,,4.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 26,home,Fresno City,W,11-5,11.0,5.0,6,win,20210526_tmyb,3.0,1.0,1.0,,,,1.0,1.0,,,,,1.0,,1.0,0.0,,1.0,2.0,0.5,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 28,home,Sequoias,L,12-6,12.0,6.0,6,win,20210528_0eqg,3.0,1.0,1.0,,,,0.0,2.0,1.0,,,,,,1.0,0.0,,,1.0,,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
+May 29,home,Sequoias,L,7-4,7.0,4.0,3,win,20210529_rbuf,4.0,1.0,1.0,,,,0.0,,,,,1.0,,,1.0,0.0,,,3.0,,5.0,2021,,Cerro Coso,cerrocoso,johnnymchenry52ks,Johnny McHenry
 Apr 10,home,Skyline,W,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Monterey Peninsula,montereypeninsula,xandomendezuj8o,Xando Mendez
 Apr 10,home,Skyline,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Monterey Peninsula,montereypeninsula,xandomendezuj8o,Xando Mendez
 Apr 15,home,Cabrillo,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Monterey Peninsula,montereypeninsula,xandomendezuj8o,Xando Mendez
@@ -407,6 +612,50 @@ Apr 24,home,Bakersfield,L,9-8,9.0,8.0,1,win,20210424_gxpd,2.0,1.0,0.0,,,,0.0,3.0
 May 13,home,Cerro Coso,L,12-7,12.0,7.0,5,win,20210513_8yb8,4.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,,1.0,,5.0,2021,,Mt. San Jacinto,mtsanjacinto,russellmitchellj8wd,Russell Mitchell
 May 18,home,Cerro Coso,W,15-5,15.0,5.0,10,win,20210518_g3m3,4.0,1.0,2.0,,1.0,,2.0,,,,,,,,4.0,1.0,,,2.0,,4.0,2021,,Mt. San Jacinto,mtsanjacinto,russellmitchellj8wd,Russell Mitchell
 May 19,home,Cerro Coso,W,11-7,11.0,7.0,4,win,20210519_7lvr,4.0,1.0,0.0,,,,1.0,,1.0,,,1.0,,,0.0,0.0,,2.0,1.0,2.0,5.0,2021,,Mt. San Jacinto,mtsanjacinto,russellmitchellj8wd,Russell Mitchell
+Apr 10,home,Ohlone,L,6-1,6.0,1.0,5,win,20210410_8i8z,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+Apr 10,home,Ohlone,L,10-2,10.0,2.0,8,win,20210410_dmmj,3.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,1.0,1.0,4.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+Apr 17,home,West Valley,W,5-3,5.0,3.0,2,win,20210417_xyi1,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,1.0,,3.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+Apr 17,home,West Valley,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+Apr 22,home,Cabrillo,L,8-3,8.0,3.0,5,win,20210422_ut3d,4.0,0.0,1.0,,,,0.0,,,1.0,,,,,1.0,0.0,,,2.0,,4.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+Apr 24,home,Cabrillo,W,5-3,5.0,3.0,2,win,20210424_ew0v,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,,,3.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+Apr 24,home,Cabrillo,L,10-0,10.0,0.0,10,win,20210424_wdcs,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,1.0,1.0,2.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 6,home,Hartnell,W,12-8,12.0,8.0,4,win,20210506_2hyv,4.0,1.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,1.0,2.0,0.5,5.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 8,home,Hartnell,,,,,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 8,home,Hartnell,W,25-3,25.0,3.0,22,win,20210508_n10l,5.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,1.0,3.0,0.33,6.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 13,home,Monterey Peninsula,L,13-10,13.0,10.0,3,win,20210513_3v8a,5.0,1.0,4.0,1.0,,,0.0,,1.0,,,,,,5.0,1.0,,,,,5.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 15,home,Monterey Peninsula,L,11-0,11.0,0.0,11,win,20210515_tmq9,3.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,1.0,1.0,3.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 20,home,Ohlone,L,13-7,13.0,7.0,6,win,20210520_oulv,4.0,1.0,2.0,,,,0.0,1.0,,1.0,,,,,2.0,0.0,,,2.0,,5.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 22,home,Ohlone,L,12-6,12.0,6.0,6,win,20210522_13ep,5.0,0.0,1.0,,,,1.0,,,,,,,,1.0,0.0,,3.0,1.0,3.0,5.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 27,home,Cabrillo,L,11-4,11.0,4.0,7,win,20210527_b6b0,3.0,1.0,0.0,,,,0.0,1.0,,,,1.0,,,0.0,0.0,,1.0,2.0,0.5,5.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+May 28,home,Cabrillo,L,7-2,7.0,2.0,5,win,20210528_fvii,4.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,1.0,,,4.0,2021,,Mission,mission,mattunangst8wnu,Matt Unangst
+Apr 10,home,Taft,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 13,home,Reedley,L,21-12,21.0,12.0,9,win,20210413_4ime,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,,,2.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 14,home,Reedley,L,16-2,16.0,2.0,14,win,20210414_oroe,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 20,home,Antelope Valley,W,32-6,32.0,6.0,26,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 20,home,Antelope Valley,W,23-5,23.0,5.0,18,win,20210420_v0py,4.0,1.0,1.0,,,,2.0,,2.0,,,1.0,1.0,,1.0,0.0,,,2.0,,6.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 22,home,Mt. San Jacinto,L,20-1,20.0,1.0,19,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 24,home,Antelope Valley,W,14-3,14.0,3.0,11,win,20210424_90ky,3.0,1.0,1.0,,,,2.0,1.0,1.0,,,,,,1.0,0.0,,1.0,,,4.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 24,home,Antelope Valley,W,18-14,18.0,14.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 26,home,Taft,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 28,home,Taft,W,19-5,19.0,5.0,14,win,20210428_tb82,3.0,1.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,3.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+Apr 30,home,Reedley,W,16-5,16.0,5.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 1,home,Reedley,L,14-3,14.0,3.0,11,win,20210501_gl8e,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,1.0,,3.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 4,home,Merced,L,10-0,10.0,0.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 5,home,Merced,W,24-2,24.0,2.0,22,win,20210505_8q4y,4.0,1.0,1.0,1.0,,,2.0,1.0,,,,,1.0,,2.0,1.0,,,4.0,,6.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 7,home,Fresno City,L,10-6,10.0,6.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 8,home,Fresno City,L,5-4,5.0,4.0,1,win,20210508_tk5g,2.0,1.0,1.0,1.0,,,0.0,1.0,1.0,,,1.0,,1.0,2.0,1.0,,1.0,,,5.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 11,home,Sequoias,W,13-11,13.0,11.0,2,win,20210511_6aka,4.0,2.0,3.0,,,,1.0,,1.0,,,,,,3.0,0.0,,,,,4.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 11,home,Sequoias,L,20-8,20.0,8.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 13,home,Mt. San Jacinto,W,12-7,12.0,7.0,5,win,20210513_8yb8,3.0,0.0,0.0,,,,0.0,1.0,,,,,,1.0,0.0,0.0,,3.0,1.0,3.0,5.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 15,home,Taft,W,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 18,home,Mt. San Jacinto,L,15-5,15.0,5.0,10,win,20210518_g3m3,3.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,1.0,,,3.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 19,home,Mt. San Jacinto,L,11-7,11.0,7.0,4,win,20210519_7lvr,3.0,1.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,,,4.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 22,home,Merced,W,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 22,home,Merced,L,9-3,9.0,3.0,6,win,20210522_fuaz,3.0,0.0,1.0,,,,1.0,,,,,,,,1.0,0.0,,,1.0,,3.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 25,home,Fresno City,L,10-4,10.0,4.0,6,win,20210525_ohvq,1.0,1.0,0.0,,,,1.0,,,,,,,,0.0,0.0,,,,,1.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 26,home,Fresno City,W,11-5,11.0,5.0,6,win,20210526_tmyb,4.0,0.0,1.0,,,,1.0,,2.0,,,,1.0,,1.0,0.0,,,2.0,,5.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 28,home,Sequoias,L,12-6,12.0,6.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
+May 29,home,Sequoias,L,7-4,7.0,4.0,3,win,20210529_rbuf,4.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,1.0,2.0,,,4.0,2021,,Cerro Coso,cerrocoso,jacksonalanizz22v,Jackson Alaniz
 Apr 23,home,American River,W,6-1,6.0,1.0,5,win,20210423_xtvq,3.0,0.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,1.0,1.0,1.0,3.0,2021,,Sacramento City,sacramentocity,gregnicholso7t6,Greg Nichols
 Apr 24,home,American River,L,6-4,6.0,4.0,2,win,20210424_svza,3.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,2.0,,3.0,2021,,Sacramento City,sacramentocity,gregnicholso7t6,Greg Nichols
 Apr 30,home,Folsom Lake,W,4-3,4.0,3.0,1,win,20210430_ooxv,3.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,3.0,2021,,Sacramento City,sacramentocity,gregnicholso7t6,Greg Nichols
@@ -500,6 +749,34 @@ May 21,home,Diablo Valley,W,8-0,8.0,0.0,8,win,20210521_4wp7,2.0,1.0,0.0,,,,1.0,1
 May 26,home,Marin,L,14-2,14.0,2.0,12,win,20210526_ihwe,2.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,1.0,,3.0,2021,,Solano,solano,joeyholecekgzed,Joey Holecek
 May 28,home,Marin,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Solano,solano,joeyholecekgzed,Joey Holecek
 May 28,home,Marin,L,6-0,6.0,0.0,6,win,20210528_g6tk,2.0,0.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,,1.0,,3.0,2021,,Solano,solano,joeyholecekgzed,Joey Holecek
+Apr 13,home,Golden West,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 15,home,Golden West,W,5-4,5.0,4.0,1,win,20210415_vmr0,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 16,home,Golden West,L,13-3,13.0,3.0,10,win,20210416_rfxv,2.0,0.0,1.0,,,,1.0,,,,,,,,1.0,0.0,,,1.0,,2.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 16,home,Golden West,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 20,home,Fullerton,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 22,home,Fullerton,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 23,home,Fullerton,L,8-5,8.0,5.0,3,win,20210423_khk6,2.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,1.0,2.0,,,3.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 23,home,Fullerton,W,5-2,5.0,2.0,3,win,20210423_o1sh,2.0,1.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 27,home,Mt. San Antonio,L,13-4,13.0,4.0,9,win,20210427_tm3k,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 29,home,Mt. San Antonio,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 30,home,Mt. San Antonio,L,9-6,9.0,6.0,3,win,20210430_q7rm,2.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,,,3.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+Apr 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 4,home,Cypress,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 6,home,Cypress,L,17-8,17.0,8.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 7,home,Cypress,W,16-3,16.0,3.0,13,win,20210507_iazy,2.0,3.0,2.0,1.0,,,0.0,2.0,,,,1.0,,,3.0,1.0,,,,,5.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 7,home,Cypress,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 11,home,Irvine Valley,L,12-11,12.0,11.0,1,win,20210511_g48e,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 13,home,Irvine Valley,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 14,home,Irvine Valley,T,4-4,4.0,4.0,0,tie,20210514_o9o9,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,3.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 14,home,Irvine Valley,L,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 18,home,Saddleback,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 20,home,Saddleback,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 21,home,Saddleback,W,6-2,6.0,2.0,4,win,20210521_sauf,2.0,1.0,1.0,,,,1.0,,,,,,1.0,,1.0,0.0,,1.0,1.0,1.0,3.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 21,home,Saddleback,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 25,home,Orange Coast,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 27,home,Orange Coast,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 28,home,Orange Coast,W,6-1,6.0,1.0,5,win,20210528_hz2e,4.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,2.0,,,4.0,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
+May 28,home,Orange Coast,L,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,jacobnavat8xn,Jacob Nava
 Apr 13,home,Mt. San Antonio,L,11-3,11.0,3.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,turnerpruittrd0h,Turner Pruitt
 Apr 15,home,Mt. San Antonio,W,5-3,5.0,3.0,2,win,20210415_7iuk,3.0,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,,1.0,,4.0,2021,,Saddleback,saddleback,turnerpruittrd0h,Turner Pruitt
 Apr 16,home,Mt. San Antonio,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,turnerpruittrd0h,Turner Pruitt
@@ -656,6 +933,34 @@ May 25,home,Fullerton,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback
 May 27,home,Fullerton,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,jacobnaso80ad,Jacob Naso
 May 28,home,Fullerton,W,16-10,16.0,10.0,6,win,20210528_qnmr,5.0,1.0,2.0,,,,1.0,,1.0,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2021,,Saddleback,saddleback,jacobnaso80ad,Jacob Naso
 May 28,home,Fullerton,W,18-4,18.0,4.0,14,win,20210528_gks0,1.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2021,,Saddleback,saddleback,jacobnaso80ad,Jacob Naso
+Apr 13,home,Golden West,W,8-7,8.0,7.0,1,win,20210413_rxnp,5.0,1.0,1.0,1.0,,,0.0,,1.0,,,,,,2.0,1.0,,1.0,2.0,0.5,5.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 15,home,Golden West,W,5-4,5.0,4.0,1,win,20210415_vmr0,5.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,2.0,,5.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 16,home,Golden West,L,13-3,13.0,3.0,10,win,20210416_rfxv,2.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,2.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 16,home,Golden West,W,2-1,2.0,1.0,1,win,20210416_kwvn,4.0,0.0,1.0,,,,1.0,,1.0,1.0,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 20,home,Fullerton,W,8-3,8.0,3.0,5,win,20210420_5aat,4.0,1.0,0.0,,,,0.0,1.0,1.0,1.0,,,,,0.0,0.0,,1.0,1.0,1.0,5.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 22,home,Fullerton,W,2-1,2.0,1.0,1,win,20210422_oqz9,3.0,0.0,0.0,,,,0.0,,,,,,,1.0,0.0,0.0,,1.0,1.0,1.0,4.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 23,home,Fullerton,L,8-5,8.0,5.0,3,win,20210423_khk6,0.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 23,home,Fullerton,W,5-2,5.0,2.0,3,win,20210423_o1sh,2.0,0.0,0.0,,,,0.0,,1.0,1.0,,1.0,,,0.0,0.0,,,1.0,,3.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 27,home,Mt. San Antonio,L,13-4,13.0,4.0,9,win,20210427_tm3k,2.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,,,,3.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 29,home,Mt. San Antonio,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 30,home,Mt. San Antonio,L,9-6,9.0,6.0,3,win,20210430_q7rm,5.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,3.0,,,5.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+Apr 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,20210430_9np2,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,,,4.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 4,home,Cypress,W,11-9,11.0,9.0,2,win,20210504_92gh,5.0,1.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,2.0,,5.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 6,home,Cypress,L,17-8,17.0,8.0,9,win,20210506_8ycx,3.0,1.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,1.0,2.0,0.5,4.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 7,home,Cypress,W,16-3,16.0,3.0,13,win,20210507_iazy,4.0,2.0,2.0,,,,1.0,1.0,,,,,,,2.0,0.0,1.0,2.0,,,5.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 7,home,Cypress,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 11,home,Irvine Valley,L,12-11,12.0,11.0,1,win,20210511_g48e,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 13,home,Irvine Valley,L,5-2,5.0,2.0,3,win,20210513_o2qw,2.0,0.0,1.0,,,,0.0,,,,,1.0,,,1.0,0.0,,1.0,,,3.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 14,home,Irvine Valley,T,4-4,4.0,4.0,0,tie,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 14,home,Irvine Valley,L,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 18,home,Saddleback,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 20,home,Saddleback,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 21,home,Saddleback,W,6-2,6.0,2.0,4,win,20210521_sauf,3.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 21,home,Saddleback,L,5-2,5.0,2.0,3,win,20210521_deph,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 25,home,Orange Coast,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 27,home,Orange Coast,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 28,home,Orange Coast,W,6-1,6.0,1.0,5,win,20210528_hz2e,4.0,2.0,2.0,,,,0.0,,1.0,1.0,,,,,2.0,0.0,,,1.0,,4.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
+May 28,home,Orange Coast,L,8-0,8.0,0.0,8,win,20210528_xu0i,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,dereksimsesit,Derek Sims
 Apr 13,home,Irvine Valley,W,3-0,3.0,0.0,3,win,20210413_6zc9,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,1.0,,3.0,2021,,Cypress,cypress,brendenharris5ncp,Brenden Harris
 Apr 15,home,Irvine Valley,W,9-4,9.0,4.0,5,win,20210415_nqb3,2.0,2.0,1.0,,,1.0,1.0,2.0,,,,,,,4.0,1.0,1.0,1.0,,,4.0,2021,,Cypress,cypress,brendenharris5ncp,Brenden Harris
 Apr 16,home,Irvine Valley,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Cypress,cypress,brendenharris5ncp,Brenden Harris
@@ -989,6 +1294,34 @@ May 27,home,Antelope Valley,W,14-11,14.0,11.0,3,win,20210527_ggie,3.0,1.0,1.0,,1
 May 27,home,Antelope Valley,W,14-3,14.0,3.0,11,win,20210527_ps4i,2.0,0.0,1.0,1.0,,,2.0,1.0,,,,,,,2.0,1.0,,1.0,,,3.0,2021,,Ventura,ventura,caseyturturiciprtv,Casey Turturici
 May 29,home,Antelope Valley,W,10-3,10.0,3.0,7,win,20210529_mtbt,2.0,1.0,1.0,,,1.0,3.0,1.0,,,,,,,4.0,1.0,,,1.0,,3.0,2021,,Ventura,ventura,caseyturturiciprtv,Casey Turturici
 May 29,home,Antelope Valley,W,10-8,10.0,8.0,2,win,20210529_4cln,3.0,1.0,1.0,,1.0,,1.0,,,,,,,,3.0,1.0,,,2.0,,3.0,2021,,Ventura,ventura,caseyturturiciprtv,Casey Turturici
+Apr 13,home,Golden West,W,8-7,8.0,7.0,1,win,20210413_rxnp,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 15,home,Golden West,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 16,home,Golden West,L,13-3,13.0,3.0,10,win,20210416_rfxv,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 16,home,Golden West,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 20,home,Fullerton,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 22,home,Fullerton,W,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 23,home,Fullerton,L,8-5,8.0,5.0,3,win,20210423_khk6,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 23,home,Fullerton,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 27,home,Mt. San Antonio,L,13-4,13.0,4.0,9,win,20210427_tm3k,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 29,home,Mt. San Antonio,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 30,home,Mt. San Antonio,L,9-6,9.0,6.0,3,win,20210430_q7rm,2.0,1.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,,,3.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+Apr 30,home,Mt. San Antonio,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 4,home,Cypress,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 6,home,Cypress,L,17-8,17.0,8.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 7,home,Cypress,W,16-3,16.0,3.0,13,win,20210507_iazy,5.0,1.0,2.0,,,1.0,4.0,,,,,,,,5.0,1.0,,2.0,1.0,2.0,5.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 7,home,Cypress,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 11,home,Irvine Valley,L,12-11,12.0,11.0,1,win,20210511_g48e,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 13,home,Irvine Valley,L,5-2,5.0,2.0,3,win,20210513_o2qw,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 14,home,Irvine Valley,T,4-4,4.0,4.0,0,tie,20210514_o9o9,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 14,home,Irvine Valley,L,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 18,home,Saddleback,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 20,home,Saddleback,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 21,home,Saddleback,W,6-2,6.0,2.0,4,win,20210521_sauf,3.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,1.0,1.0,1.0,3.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 21,home,Saddleback,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 25,home,Orange Coast,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 27,home,Orange Coast,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 28,home,Orange Coast,W,6-1,6.0,1.0,5,win,20210528_hz2e,3.0,2.0,1.0,,,,1.0,,1.0,2.0,,,1.0,,1.0,0.0,,1.0,1.0,1.0,4.0,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
+May 28,home,Orange Coast,L,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Santa Ana,santaana,alanhuertaivew,Alan Huerta
 Apr 13,home,Mt. San Antonio,L,11-3,11.0,3.0,8,win,20210413_7sk5,3.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,1.0,1.0,4.0,2021,,Saddleback,saddleback,antoninovultaggioj9qj,Antonino Vultaggio
 Apr 15,home,Mt. San Antonio,W,5-3,5.0,3.0,2,win,20210415_7iuk,4.0,1.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,,,5.0,2021,,Saddleback,saddleback,antoninovultaggioj9qj,Antonino Vultaggio
 Apr 16,home,Mt. San Antonio,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2021,,Saddleback,saddleback,antoninovultaggioj9qj,Antonino Vultaggio

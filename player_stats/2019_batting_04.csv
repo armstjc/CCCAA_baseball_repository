@@ -1,10 +1,56 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,cccaa_season,team,team_id,player_id,player_name
+Apr 2,home,Ventura,W,13-9,13.0,9.0,4,win,20190402_1vk2,4.0,4.0,3.0,1.0,,,1.0,1.0,,,,,,,4.0,1.0,,,1.0,,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
+Apr 4,home,Ventura,L,10-5,10.0,5.0,5,win,20190404_fcnf,5.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,2.0,1.0,2.0,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
+Apr 6,home,Allan Hancock,L,11-2,11.0,2.0,9,win,20190406_iylu,2.0,0.0,1.0,,,,0.0,1.0,,,1.0,,,,1.0,0.0,,,1.0,,3.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
+Apr 9,home,Allan Hancock,L,9-6,9.0,6.0,3,win,20190409_zlg8,5.0,0.0,2.0,1.0,,,2.0,,,,,,,,3.0,1.0,,,3.0,,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
+Apr 11,home,Santa Barbara,L,7-3,7.0,3.0,4,win,20190411_7gbq,4.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,2.0,1.0,2.0,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
+Apr 13,home,Santa Barbara,L,11-9,11.0,9.0,2,win,20190413_xrlc,5.0,1.0,2.0,,,,2.0,,1.0,,,,,,2.0,0.0,2.0,2.0,,,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
 Apr 16,home,LA Valley,L,8-7,8.0,7.0,1,win,20190416_tk2q,5.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,4.0,,,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
 Apr 17,home,Rio Hondo,W,4-3,4.0,3.0,1,win,20190417_0pn5,5.0,0.0,2.0,,,,1.0,,1.0,,,,,,2.0,0.0,,2.0,,,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
 Apr 18,home,Santa Ana,L,10-8,10.0,8.0,2,win,20190418_bgbs,5.0,1.0,1.0,,,,1.0,,,,,,,,1.0,0.0,1.0,1.0,3.0,0.33,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
 Apr 20,home,LA Mission,L,9-7,9.0,7.0,2,win,20190420_n4sq,5.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,2.0,2.0,1.0,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
 Apr 23,home,Cuesta,W,5-2,5.0,2.0,3,win,20190423_rg3v,4.0,0.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
 Apr 25,home,Cuesta,W,5-3,5.0,3.0,2,win,20190425_exhm,4.0,1.0,1.0,1.0,,,2.0,1.0,1.0,,,,,,2.0,1.0,,,2.0,,5.0,2019,,Oxnard,oxnard,danielcabralwva7,Daniel Cabral
+Jan 25,home,Ventura,W,7-4,7.0,4.0,3,win,20190125_avs3,4.0,2.0,2.0,,,1.0,2.0,,2.0,,,,,,5.0,1.0,,,,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Jan 26,home,Imperial Valley,W,15-6,15.0,6.0,9,win,20190126_vp90,2.0,1.0,0.0,,,,1.0,2.0,,,,1.0,1.0,,0.0,0.0,,,3.0,,6.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Jan 29,home,Imperial Valley,W,7-3,7.0,3.0,4,win,20190129_85gm,4.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,,3.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Jan 30,home,LA Harbor,L,14-3,14.0,3.0,11,win,20190130_kbi5,4.0,1.0,1.0,,,1.0,2.0,1.0,1.0,,,,,,4.0,1.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 1,home,San Joaquin Delta,L,13-2,13.0,2.0,11,win,20190201_9k8k,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 1,home,San Joaquin Delta,L,10-3,10.0,3.0,7,win,20190201_64u3,3.0,2.0,3.0,1.0,,,0.0,1.0,,,,,,,4.0,1.0,,,,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 5,home,Moorpark,L,12-4,12.0,4.0,8,win,20190205_s175,4.0,0.0,2.0,,,,0.0,1.0,,,,,,,2.0,0.0,,2.0,,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 7,home,Oxnard,L,7-4,7.0,4.0,3,win,20190207_tu7a,4.0,2.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,2.0,,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 8,home,Antelope Valley,L,10-3,10.0,3.0,7,win,20190208_ay2i,4.0,1.0,3.0,,,,0.0,,,1.0,,,,,3.0,0.0,,,1.0,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 9,home,Antelope Valley,L,8-7,8.0,7.0,1,win,20190209_hchx,4.0,2.0,2.0,,,1.0,3.0,1.0,,1.0,,,,,5.0,1.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 12,home,Moorpark,L,7-1,7.0,1.0,6,win,20190212_ixez,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,4.0,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 14,home,Canyons,L,14-6,14.0,6.0,8,win,20190214_ddb8,4.0,1.0,2.0,1.0,,,0.0,1.0,,,,,,,3.0,1.0,,,2.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 16,home,Oxnard,L,13-7,13.0,7.0,6,win,20190216_5v04,4.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 19,home,LA Harbor,W,7-3,7.0,3.0,4,win,20190219_8pwx,5.0,2.0,4.0,1.0,,,1.0,,,,1.0,,,,5.0,1.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 20,home,Rio Hondo,L,11-6,11.0,6.0,5,win,20190220_o8mb,5.0,1.0,2.0,,,,0.0,,1.0,,1.0,,,,2.0,0.0,,,2.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 23,home,Bakersfield,L,9-0,9.0,0.0,9,win,20190223_65qp,4.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 25,home,Irvine Valley,L,15-7,15.0,7.0,8,win,20190225_j3o8,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Feb 28,home,LA Pierce,W,13-5,13.0,5.0,8,win,20190228_x1bd,5.0,3.0,2.0,,,,0.0,1.0,,,,,,,2.0,0.0,,1.0,2.0,0.5,6.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 1,home,LA Mission,L,8-4,8.0,4.0,4,win,20190301_3nwx,4.0,0.0,3.0,,,,1.0,,,,,,,,3.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 5,home,West LA,W,22-1,22.0,1.0,21,win,20190305_9q5j,2.0,2.0,0.0,,,,3.0,1.0,,,,1.0,1.0,,0.0,0.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 7,home,Bakersfield,L,6-4,6.0,4.0,2,win,20190307_xlhl,5.0,0.0,1.0,,,,0.0,,,1.0,,,,,1.0,0.0,1.0,1.0,3.0,0.33,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 9,home,Bakersfield,L,7-6,7.0,6.0,1,win,20190309_9xgz,2.0,3.0,1.0,,,,1.0,2.0,,,,1.0,,,1.0,0.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 12,home,Bakersfield,W,11-9,11.0,9.0,2,win,20190312_2wiw,3.0,3.0,2.0,1.0,,,2.0,2.0,,1.0,,,,,3.0,1.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 21,home,LA Pierce,L,3-1,3.0,1.0,2,win,20190321_cq6a,4.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,,3.0,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 23,home,LA Pierce,W,15-1,15.0,1.0,14,win,20190323_rc3g,3.0,2.0,1.0,,1.0,,3.0,1.0,,,,,1.0,,3.0,1.0,,1.0,2.0,0.5,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 26,home,LA Pierce,W,14-9,14.0,9.0,5,win,20190326_uudk,6.0,2.0,3.0,,,,0.0,,1.0,,,,,,3.0,0.0,,2.0,,,6.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 28,home,LA Mission,L,11-1,11.0,1.0,10,win,20190328_litk,3.0,0.0,1.0,,,,1.0,1.0,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Mar 30,home,LA Mission,W,8-6,8.0,6.0,2,win,20190330_eszv,5.0,0.0,1.0,,,,2.0,,,,,,,,1.0,0.0,,3.0,1.0,3.0,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 2,home,LA Mission,L,8-7,8.0,7.0,1,win,20190402_lgf2,3.0,0.0,0.0,,,,1.0,1.0,,,,,,1.0,0.0,0.0,,3.0,1.0,3.0,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 4,home,West LA,L,15-12,15.0,12.0,3,win,20190404_wbll,5.0,1.0,2.0,,,1.0,3.0,1.0,1.0,,,,,,5.0,1.0,,1.0,1.0,1.0,6.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 6,home,West LA,W,17-2,17.0,2.0,15,win,20190406_zil5,2.0,2.0,0.0,,,,1.0,,,,,3.0,1.0,,0.0,0.0,,1.0,2.0,0.5,6.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 9,home,West LA,W,10-5,10.0,5.0,5,win,20190409_db9b,4.0,1.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,1.0,2.0,0.5,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 11,home,Bakersfield,L,3-0,3.0,0.0,3,win,20190411_4k4o,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 12,home,Santa Barbara,W,20-16,20.0,16.0,4,win,20190412_faix,2.0,3.0,1.0,,,,2.0,4.0,1.0,,,,,,1.0,0.0,,,,,6.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 16,home,Oxnard,W,8-7,8.0,7.0,1,win,20190416_tk2q,4.0,1.0,3.0,2.0,,1.0,4.0,1.0,,,,,,,8.0,3.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 17,home,Compton,L,5-4,5.0,4.0,1,win,20190417_jbj4,5.0,1.0,2.0,2.0,,,0.0,,,,,,,,4.0,2.0,,1.0,2.0,0.5,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 18,home,Ventura,L,17-7,17.0,7.0,10,win,20190418_lrif,5.0,1.0,4.0,,,,2.0,,,,,,,,4.0,0.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 23,home,LA Pierce,W,3-2,3.0,2.0,1,win,20190423_6xww,3.0,1.0,2.0,,,1.0,3.0,,,,,,1.0,,5.0,1.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 25,home,LA Mission,L,9-5,9.0,5.0,4,win,20190425_rylx,4.0,0.0,1.0,,,,0.0,,1.0,,1.0,,,,1.0,0.0,,,2.0,,4.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
+Apr 26,home,West LA,W,8-4,8.0,4.0,4,win,20190426_n417,6.0,1.0,2.0,1.0,,,1.0,,,1.0,,,,,3.0,1.0,,1.0,2.0,0.5,6.0,2019,,LA Valley,lavalley,jasonajamianwyqk,Jason Ajamian
 Jan 25,home,Los Medanos,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Modesto,modesto,brandenpasionpsil,Branden Pasion
 Jan 26,home,Los Medanos,L,5-0,5.0,0.0,5,win,20190126_umzs,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,Modesto,modesto,brandenpasionpsil,Branden Pasion
 Jan 29,home,Contra Costa,W,15-2,15.0,2.0,13,win,20190129_p23w,2.0,1.0,0.0,,,,1.0,,,,,,,,0.0,0.0,,2.0,,,2.0,2019,,Modesto,modesto,brandenpasionpsil,Branden Pasion
@@ -123,6 +169,88 @@ Apr 19,home,San Diego Mesa,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,San D
 Apr 23,home,Grossmont,L,18-5,18.0,5.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2019,,San Diego City,sandiegocity,robertlopezxqci,Robert Lopez
 Apr 25,home,Grossmont,L,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,San Diego City,sandiegocity,robertlopezxqci,Robert Lopez
 Apr 26,home,Grossmont,L,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,San Diego City,sandiegocity,robertlopezxqci,Robert Lopez
+Jan 25,home,Ventura,W,7-4,7.0,4.0,3,win,20190125_avs3,1.0,2.0,0.0,,,,0.0,,1.0,,,1.0,,2.0,0.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Jan 26,home,Imperial Valley,W,15-6,15.0,6.0,9,win,20190126_vp90,2.0,1.0,0.0,,,,1.0,3.0,,2.0,,1.0,,,0.0,0.0,,1.0,1.0,1.0,6.0,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Jan 29,home,Imperial Valley,W,7-3,7.0,3.0,4,win,20190129_85gm,4.0,2.0,0.0,,,,0.0,,2.0,1.0,,1.0,,,0.0,0.0,,,1.0,,5.0,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Jan 30,home,LA Harbor,L,14-3,14.0,3.0,11,win,20190130_kbi5,4.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,,1.0,,5.0,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 1,home,San Joaquin Delta,L,13-2,13.0,2.0,11,win,20190201_9k8k,3.0,0.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,,1.0,,4.0,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 1,home,San Joaquin Delta,L,10-3,10.0,3.0,7,win,20190201_64u3,2.0,0.0,0.0,,,,0.0,1.0,2.0,,,1.0,,,0.0,0.0,,,,,4.0,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 5,home,Moorpark,L,12-4,12.0,4.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 7,home,Oxnard,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 8,home,Antelope Valley,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 9,home,Antelope Valley,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 12,home,Moorpark,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 14,home,Canyons,L,14-6,14.0,6.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 16,home,Oxnard,L,13-7,13.0,7.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 19,home,LA Harbor,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 20,home,Rio Hondo,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 23,home,Bakersfield,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 25,home,Irvine Valley,L,15-7,15.0,7.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Feb 28,home,LA Pierce,W,13-5,13.0,5.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 1,home,LA Mission,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 5,home,West LA,W,22-1,22.0,1.0,21,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 7,home,Bakersfield,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 9,home,Bakersfield,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 12,home,Bakersfield,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 21,home,LA Pierce,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 23,home,LA Pierce,W,15-1,15.0,1.0,14,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 26,home,LA Pierce,W,14-9,14.0,9.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 28,home,LA Mission,L,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Mar 30,home,LA Mission,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 2,home,LA Mission,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 4,home,West LA,L,15-12,15.0,12.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 6,home,West LA,W,17-2,17.0,2.0,15,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 9,home,West LA,W,10-5,10.0,5.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 11,home,Bakersfield,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 12,home,Santa Barbara,W,20-16,20.0,16.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 16,home,Oxnard,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 17,home,Compton,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 18,home,Ventura,L,17-7,17.0,7.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 23,home,LA Pierce,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 25,home,LA Mission,L,9-5,9.0,5.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Apr 26,home,West LA,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,thomaskellerh4jc,Thomas Keller
+Jan 25,home,Feather River,L,12-6,12.0,6.0,6,win,20190125_sqz7,1.0,1.0,1.0,,,,0.0,,,,,1.0,,,1.0,0.0,,,,,2.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Jan 26,home,Barstow,L,7-3,7.0,3.0,4,win,20190126_6fax,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 1,home,Ohlone,L,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 1,home,Ohlone,W,11-1,11.0,1.0,10,win,20190201_ayws,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 5,home,San Joaquin Delta,L,24-4,24.0,4.0,20,win,20190205_nhbk,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,3.0,,,3.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 7,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,20190207_blkn,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 8,home,Moorpark,W,14-9,14.0,9.0,5,win,20190208_556v,0.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 15,home,LA Harbor,W,13-1,13.0,1.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 18,home,LA Harbor,L,1-0,1.0,0.0,1,win,20190218_h0lc,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 20,home,Long Beach,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 22,home,Bakersfield,W,7-1,7.0,1.0,6,win,20190222_7p33,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 26,home,Antelope Valley,W,15-8,15.0,8.0,7,win,20190226_0lm4,0.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Feb 28,home,Allan Hancock,W,15-9,15.0,9.0,6,win,20190228_11bq,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 1,home,Allan Hancock,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 2,home,Antelope Valley,W,3-1,3.0,1.0,2,win,20190302_oxri,3.0,1.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,,2.0,,4.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 7,home,Fresno City,W,11-2,11.0,2.0,9,win,20190307_0zfs,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 8,home,Fresno City,L,12-8,12.0,8.0,4,win,20190308_k359,3.0,0.0,1.0,,,,2.0,,,,,1.0,,,1.0,0.0,,2.0,,,4.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 9,home,Fresno City,L,10-4,10.0,4.0,6,win,20190309_1umq,4.0,0.0,1.0,,,,1.0,,,,,,,,1.0,0.0,,2.0,1.0,2.0,4.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 12,home,Cerro Coso,W,20-7,20.0,7.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 14,home,Cerro Coso,W,7-6,7.0,6.0,1,win,20190314_e1t8,0.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 16,home,Cerro Coso,W,15-9,15.0,9.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 19,home,Reedley,W,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 21,home,Reedley,W,15-6,15.0,6.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 23,home,Reedley,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 26,home,West Hills Coalinga,W,9-4,9.0,4.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 28,home,West Hills Coalinga,W,10-0,10.0,0.0,10,win,20190328_96q5,0.0,1.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Mar 30,home,West Hills Coalinga,W,12-3,12.0,3.0,9,win,20190330_areb,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,1.0,,,1.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 2,home,Merced,L,8-7,8.0,7.0,1,win,20190402_9bcr,1.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 4,home,Merced,L,9-6,9.0,6.0,3,win,20190404_vt50,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 6,home,Merced,W,12-10,12.0,10.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 9,home,Porterville,W,7-2,7.0,2.0,5,win,20190409_u7u3,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 11,home,Porterville,W,20-1,20.0,1.0,19,win,20190411_xs7f,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 13,home,Porterville,W,8-2,8.0,2.0,6,win,20190413_32xb,3.0,2.0,2.0,,,1.0,1.0,,,,,,,,5.0,1.0,,,1.0,,3.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 18,home,Compton,W,4-3,4.0,3.0,1,win,20190418_bcgc,4.0,1.0,2.0,,1.0,,0.0,1.0,,,,,,,4.0,1.0,,,2.0,,5.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 19,home,El Camino,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 20,home,Ventura,L,6-5,6.0,5.0,1,win,20190420_soai,1.0,1.0,1.0,,,,0.0,2.0,,1.0,1.0,,,,1.0,0.0,,,,,3.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 23,home,Sequoias,W,15-6,15.0,6.0,9,win,20190423_s90j,5.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,1.0,2.0,1.0,2.0,5.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 25,home,Sequoias,W,7-5,7.0,5.0,2,win,20190425_b8b1,4.0,1.0,3.0,1.0,1.0,,2.0,,,,,,,,6.0,2.0,,,1.0,,4.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 26,home,Sequoias,L,19-8,19.0,8.0,11,win,20190426_m0q8,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+Apr 27,home,Antelope Valley,W,30-3,30.0,3.0,27,win,20190427_h8js,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+May 3,home,Sacramento City,L,11-10,11.0,10.0,1,win,20190503_suk8,1.0,1.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,,,,2.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
+May 4,home,Sacramento City,L,6-3,6.0,3.0,3,win,20190504_r7hl,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Taft,taft,leofontanezr5cp,Leo Fontanez
 Jan 25,home,Citrus,L,10-5,10.0,5.0,5,win,20190125_xwdj,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,1.0,,4.0,2019,,Oxnard,oxnard,adriansandovaljcd7,Adrian Sandoval
 Jan 26,home,Compton,W,10-7,10.0,7.0,3,win,20190126_w9a6,3.0,1.0,0.0,,,,0.0,1.0,1.0,,,1.0,,,0.0,0.0,,2.0,,,5.0,2019,,Oxnard,oxnard,adriansandovaljcd7,Adrian Sandoval
 Jan 29,home,LA Mission,L,8-4,8.0,4.0,4,win,20190129_j0uu,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,1.0,2.0,3.0,2019,,Oxnard,oxnard,adriansandovaljcd7,Adrian Sandoval
@@ -164,6 +292,46 @@ Apr 18,home,Santa Ana,L,10-8,10.0,8.0,2,win,20190418_bgbs,1.0,1.0,0.0,,,,0.0,,,,
 Apr 20,home,LA Mission,L,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,adriansandovaljcd7,Adrian Sandoval
 Apr 23,home,Cuesta,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,adriansandovaljcd7,Adrian Sandoval
 Apr 25,home,Cuesta,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,adriansandovaljcd7,Adrian Sandoval
+Jan 25,home,Ventura,W,7-4,7.0,4.0,3,win,20190125_avs3,2.0,1.0,1.0,,,,1.0,,,1.0,,1.0,1.0,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Jan 26,home,Imperial Valley,W,15-6,15.0,6.0,9,win,20190126_vp90,3.0,1.0,3.0,,,,2.0,3.0,,2.0,1.0,,,,3.0,0.0,,,,,6.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Jan 29,home,Imperial Valley,W,7-3,7.0,3.0,4,win,20190129_85gm,4.0,1.0,2.0,,,,0.0,1.0,1.0,1.0,,,,,2.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Jan 30,home,LA Harbor,L,14-3,14.0,3.0,11,win,20190130_kbi5,3.0,0.0,2.0,,,,0.0,1.0,1.0,,,,,,2.0,0.0,,,,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 1,home,San Joaquin Delta,L,13-2,13.0,2.0,11,win,20190201_9k8k,1.0,1.0,0.0,,,,0.0,3.0,,,,,,,0.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 1,home,San Joaquin Delta,L,10-3,10.0,3.0,7,win,20190201_64u3,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 5,home,Moorpark,L,12-4,12.0,4.0,8,win,20190205_s175,4.0,1.0,3.0,,,,2.0,1.0,,,,,,,3.0,0.0,,,,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 7,home,Oxnard,L,7-4,7.0,4.0,3,win,20190207_tu7a,5.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,2.0,0.5,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 8,home,Antelope Valley,L,10-3,10.0,3.0,7,win,20190208_ay2i,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,3.0,1.0,3.0,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 9,home,Antelope Valley,L,8-7,8.0,7.0,1,win,20190209_hchx,5.0,2.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,2.0,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 12,home,Moorpark,L,7-1,7.0,1.0,6,win,20190212_ixez,4.0,0.0,2.0,1.0,,,0.0,,2.0,,1.0,,,,3.0,1.0,,,,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 14,home,Canyons,L,14-6,14.0,6.0,8,win,20190214_ddb8,3.0,0.0,0.0,,,,0.0,2.0,2.0,,,,,,0.0,0.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 16,home,Oxnard,L,13-7,13.0,7.0,6,win,20190216_5v04,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,1.0,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 19,home,LA Harbor,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 20,home,Rio Hondo,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 23,home,Bakersfield,L,9-0,9.0,0.0,9,win,20190223_65qp,4.0,0.0,0.0,,,,0.0,,2.0,2.0,,,,,0.0,0.0,,2.0,,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 25,home,Irvine Valley,L,15-7,15.0,7.0,8,win,20190225_j3o8,1.0,2.0,1.0,,1.0,,1.0,2.0,,,,,,,3.0,1.0,,,,,3.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Feb 28,home,LA Pierce,W,13-5,13.0,5.0,8,win,20190228_x1bd,5.0,0.0,1.0,1.0,,,4.0,,2.0,,,,1.0,,2.0,1.0,,1.0,2.0,0.5,6.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 1,home,LA Mission,L,8-4,8.0,4.0,4,win,20190301_3nwx,5.0,2.0,4.0,2.0,,1.0,3.0,,,1.0,,,,,9.0,3.0,,1.0,,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 5,home,West LA,W,22-1,22.0,1.0,21,win,20190305_9q5j,3.0,3.0,2.0,1.0,,,1.0,1.0,,,,,1.0,,3.0,1.0,,,2.0,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 7,home,Bakersfield,L,6-4,6.0,4.0,2,win,20190307_xlhl,3.0,0.0,1.0,,,,2.0,,1.0,1.0,,1.0,1.0,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 9,home,Bakersfield,L,7-6,7.0,6.0,1,win,20190309_9xgz,5.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,,2.0,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 12,home,Bakersfield,W,11-9,11.0,9.0,2,win,20190312_2wiw,2.0,2.0,0.0,,,,0.0,3.0,1.0,1.0,,,,,0.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 21,home,LA Pierce,L,3-1,3.0,1.0,2,win,20190321_cq6a,3.0,0.0,0.0,,,,0.0,1.0,,,1.0,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 23,home,LA Pierce,W,15-1,15.0,1.0,14,win,20190323_rc3g,3.0,3.0,2.0,,,1.0,3.0,2.0,,1.0,,,,,5.0,1.0,,,1.0,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 26,home,LA Pierce,W,14-9,14.0,9.0,5,win,20190326_uudk,5.0,1.0,1.0,,,1.0,3.0,1.0,1.0,,,,,,4.0,1.0,,1.0,2.0,0.5,6.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 28,home,LA Mission,L,11-1,11.0,1.0,10,win,20190328_litk,4.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,1.0,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Mar 30,home,LA Mission,W,8-6,8.0,6.0,2,win,20190330_eszv,3.0,3.0,2.0,,,1.0,2.0,3.0,,,,,,,5.0,1.0,,,1.0,,6.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 2,home,LA Mission,L,8-7,8.0,7.0,1,win,20190402_lgf2,4.0,2.0,2.0,2.0,,,0.0,,1.0,1.0,,1.0,,,4.0,2.0,,1.0,,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 4,home,West LA,L,15-12,15.0,12.0,3,win,20190404_wbll,3.0,3.0,1.0,,1.0,,3.0,1.0,,,,1.0,1.0,,3.0,1.0,,,3.0,,6.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 6,home,West LA,W,17-2,17.0,2.0,15,win,20190406_zil5,4.0,2.0,4.0,1.0,,,1.0,1.0,,2.0,,,1.0,,5.0,1.0,,,1.0,,6.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 9,home,West LA,W,10-5,10.0,5.0,5,win,20190409_db9b,5.0,2.0,2.0,,,1.0,4.0,,1.0,1.0,,,,,5.0,1.0,,2.0,,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 11,home,Bakersfield,L,3-0,3.0,0.0,3,win,20190411_4k4o,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 12,home,Santa Barbara,W,20-16,20.0,16.0,4,win,20190412_faix,4.0,3.0,2.0,2.0,,,3.0,3.0,,,,,,,4.0,2.0,,,2.0,,7.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 16,home,Oxnard,W,8-7,8.0,7.0,1,win,20190416_tk2q,5.0,1.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,2.0,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 17,home,Compton,L,5-4,5.0,4.0,1,win,20190417_jbj4,2.0,0.0,0.0,,,,1.0,3.0,1.0,,,,,,0.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 18,home,Ventura,L,17-7,17.0,7.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 23,home,LA Pierce,W,3-2,3.0,2.0,1,win,20190423_6xww,4.0,1.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,1.0,,4.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 25,home,LA Mission,L,9-5,9.0,5.0,4,win,20190425_rylx,4.0,0.0,2.0,,,,1.0,,,,,1.0,,,2.0,0.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
+Apr 26,home,West LA,W,8-4,8.0,4.0,4,win,20190426_n417,3.0,1.0,0.0,,,,0.0,3.0,1.0,1.0,,,,,0.0,0.0,,1.0,1.0,1.0,6.0,2019,,LA Valley,lavalley,jerryaguilarkrqu,Jerry Aguilar
 Jan 25,home,Citrus,L,10-5,10.0,5.0,5,win,20190125_xwdj,3.0,2.0,1.0,1.0,,,1.0,1.0,,,,1.0,,,2.0,1.0,,1.0,,,5.0,2019,,Oxnard,oxnard,ramongomez9eqo,Ramon Gomez
 Jan 26,home,Compton,W,10-7,10.0,7.0,3,win,20190126_w9a6,3.0,2.0,1.0,,,,0.0,1.0,,,,1.0,,,1.0,0.0,1.0,1.0,1.0,1.0,5.0,2019,,Oxnard,oxnard,ramongomez9eqo,Ramon Gomez
 Jan 29,home,LA Mission,L,8-4,8.0,4.0,4,win,20190129_j0uu,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Oxnard,oxnard,ramongomez9eqo,Ramon Gomez
@@ -799,6 +967,48 @@ Apr 18,home,Allan Hancock,L,2-1,2.0,1.0,1,win,20190418_wvgd,4.0,0.0,1.0,,,,0.0,,
 Apr 23,home,Porterville,W,12-4,12.0,4.0,8,win,20190423_lvxa,5.0,1.0,2.0,,,,1.0,,1.0,1.0,,1.0,,,2.0,0.0,,,2.0,,6.0,2019,,Merced,merced,samburnsjio2,Sam Burns
 Apr 25,home,Porterville,W,21-8,21.0,8.0,13,win,20190425_t57h,5.0,2.0,3.0,1.0,,,1.0,,,,,,,,4.0,1.0,,,2.0,,5.0,2019,,Merced,merced,samburnsjio2,Sam Burns
 Apr 26,home,Porterville,W,14-0,14.0,0.0,14,win,20190426_bw6g,6.0,1.0,2.0,1.0,,,0.0,,1.0,,,,,,3.0,1.0,,2.0,1.0,2.0,6.0,2019,,Merced,merced,samburnsjio2,Sam Burns
+Jan 25,home,Marin,W,4-1,4.0,1.0,3,win,20190125_eep6,4.0,1.0,0.0,,,,1.0,1.0,2.0,,,,,,0.0,0.0,,2.0,,,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Jan 26,home,Laney,W,11-0,11.0,0.0,11,win,20190126_wc2r,2.0,3.0,1.0,,,,0.0,1.0,,,,1.0,,,1.0,0.0,,1.0,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Jan 27,home,Reedley,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Jan 31,home,Lassen,W,17-4,17.0,4.0,13,win,20190131_zlos,4.0,2.0,1.0,,,,1.0,2.0,2.0,,,,,,1.0,0.0,,1.0,,,6.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 1,home,Shasta,W,21-3,21.0,3.0,18,win,20190201_u5be,2.0,2.0,0.0,,,,0.0,,,,,2.0,,1.0,0.0,0.0,,2.0,1.0,2.0,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 6,home,Feather River,W,3-0,3.0,0.0,3,win,20190206_3zf9,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 7,home,Solano,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 7,home,Solano,L,4-2,4.0,2.0,2,win,20190207_a8yu,2.0,1.0,0.0,,,,1.0,1.0,1.0,1.0,,,1.0,,0.0,0.0,,,2.0,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 11,home,Butte,L,11-8,11.0,8.0,3,win,20190211_fm7t,4.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 14,home,Laney,W,7-6,7.0,6.0,1,win,20190214_vgo8,4.0,1.0,1.0,,,,1.0,1.0,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 18,home,Butte,W,16-9,16.0,9.0,7,win,20190218_rltt,2.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,,,,3.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 21,home,Chabot,W,19-1,19.0,1.0,18,win,20190221_1ur3,4.0,1.0,1.0,1.0,,,0.0,,1.0,,,,,,2.0,1.0,,,2.0,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 22,home,Yuba,W,12-7,12.0,7.0,5,win,20190222_odw4,2.0,1.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 23,home,Yuba,W,20-5,20.0,5.0,15,win,20190223_aioe,3.0,2.0,2.0,,,,0.0,1.0,,,,,,,2.0,0.0,,,1.0,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Feb 28,home,Diablo Valley,W,5-3,5.0,3.0,2,win,20190228_qqd2,2.0,0.0,0.0,,,,1.0,1.0,,,,,1.0,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 1,home,Diablo Valley,W,14-7,14.0,7.0,7,win,20190301_vpr7,4.0,0.0,1.0,,,,2.0,1.0,,1.0,,,,,1.0,0.0,,2.0,1.0,2.0,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 1,home,Diablo Valley,W,10-4,10.0,4.0,6,win,20190301_ius8,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,1.0,3.0,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 7,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190307_zynh,4.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,1.0,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 11,home,Sacramento City,L,19-7,19.0,7.0,12,win,20190311_bxw7,4.0,0.0,1.0,,,,2.0,,1.0,,,,1.0,,1.0,0.0,,2.0,1.0,2.0,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 11,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190311_efag,3.0,0.0,1.0,,,,0.0,1.0,,,1.0,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 12,home,Cosumnes River,W,13-10,13.0,10.0,3,win,20190312_2okd,1.0,2.0,0.0,,,,0.0,3.0,,,,,,1.0,0.0,0.0,,1.0,1.0,1.0,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 14,home,Cosumnes River,W,14-10,14.0,10.0,4,win,20190314_oi67,4.0,3.0,3.0,,,,1.0,1.0,1.0,,,,,,3.0,0.0,,,,,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 15,home,Cosumnes River,W,12-3,12.0,3.0,9,win,20190315_nhqj,5.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,2.0,1.0,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 19,home,American River,W,9-3,9.0,3.0,6,win,20190319_h0ed,3.0,1.0,1.0,1.0,,,0.0,,,,,,,1.0,2.0,1.0,,2.0,1.0,2.0,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 21,home,American River,W,7-2,7.0,2.0,5,win,20190321_l6uv,2.0,1.0,1.0,,,,0.0,2.0,1.0,1.0,,,,,1.0,0.0,,,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 23,home,American River,W,8-1,8.0,1.0,7,win,20190323_1nzv,3.0,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,,1.0,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 26,home,San Joaquin Delta,W,5-3,5.0,3.0,2,win,20190326_33ro,4.0,0.0,1.0,,,,0.0,,,1.0,,,,,1.0,0.0,,1.0,2.0,0.5,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 28,home,San Joaquin Delta,L,7-4,7.0,4.0,3,win,20190328_tefl,4.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,1.0,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Mar 29,home,San Joaquin Delta,W,7-6,7.0,6.0,1,win,20190329_b8q9,4.0,0.0,2.0,1.0,,,1.0,1.0,,1.0,,1.0,,,3.0,1.0,,,2.0,,6.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 3,home,Modesto,W,12-1,12.0,1.0,11,win,20190403_50b8,3.0,2.0,3.0,1.0,,,2.0,1.0,,2.0,,,,,4.0,1.0,,,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 4,home,Modesto,L,5-4,5.0,4.0,1,win,20190404_vxtn,3.0,0.0,1.0,,,,0.0,,2.0,,,,,1.0,1.0,0.0,,1.0,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 6,home,Modesto,W,22-11,22.0,11.0,11,win,20190406_kj08,6.0,1.0,2.0,,,,1.0,,2.0,1.0,,,,,2.0,0.0,,2.0,,,6.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 9,home,Folsom Lake,W,11-1,11.0,1.0,10,win,20190409_qapn,4.0,1.0,0.0,,,,1.0,1.0,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 11,home,Folsom Lake,W,15-9,15.0,9.0,6,win,20190411_2yal,5.0,2.0,4.0,,,,3.0,,,1.0,,,,,4.0,0.0,,1.0,,,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 12,home,Folsom Lake,W,11-9,11.0,9.0,2,win,20190412_l6l3,3.0,2.0,1.0,,,,0.0,2.0,2.0,,,,,,1.0,0.0,,,,,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 17,home,Shasta,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 23,home,Santa Rosa,L,3-2,3.0,2.0,1,win,20190423_9e5e,2.0,0.0,1.0,,,,0.0,1.0,1.0,,,1.0,,,1.0,0.0,,,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 25,home,Santa Rosa,L,6-3,6.0,3.0,3,win,20190425_c9wn,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,1.0,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+Apr 26,home,Santa Rosa,L,4-2,4.0,2.0,2,win,20190426_5plh,3.0,0.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+May 3,home,San Mateo,L,4-3,4.0,3.0,1,win,20190503_avg3,4.0,0.0,1.0,,,,2.0,,,,,,,,1.0,0.0,,,3.0,,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+May 4,home,San Mateo,W,4-2,4.0,2.0,2,win,20190504_sj9z,1.0,1.0,0.0,,,,1.0,1.0,,,,,1.0,1.0,0.0,0.0,,2.0,1.0,2.0,4.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
+May 4,home,San Mateo,L,11-10,11.0,10.0,1,win,20190504_uiro,5.0,1.0,2.0,,,,2.0,,,,,,,,2.0,0.0,1.0,1.0,2.0,0.5,5.0,2019,,Sierra,sierra,kennylebeau47gc,Kenny LeBeau
 Jan 25,home,Citrus,L,10-5,10.0,5.0,5,win,20190125_xwdj,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Oxnard,oxnard,jasongomez50bu,Jason Gomez
 Jan 26,home,Compton,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,jasongomez50bu,Jason Gomez
 Jan 29,home,LA Mission,L,8-4,8.0,4.0,4,win,20190129_j0uu,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Oxnard,oxnard,jasongomez50bu,Jason Gomez
@@ -956,6 +1166,48 @@ Apr 19,home,LA Mission,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,East Los 
 Apr 23,home,Mt. San Antonio,L,11-2,11.0,2.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,East Los Angeles,eastlosangeles,salvadorzepeda5ock,Salvador Zepeda
 Apr 25,home,Mt. San Antonio,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,East Los Angeles,eastlosangeles,salvadorzepeda5ock,Salvador Zepeda
 Apr 26,home,Mt. San Antonio,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,East Los Angeles,eastlosangeles,salvadorzepeda5ock,Salvador Zepeda
+Jan 25,home,Feather River,L,16-8,16.0,8.0,8,win,20190125_uua9,3.0,1.0,1.0,1.0,,,0.0,,,,,1.0,,,2.0,1.0,,2.0,,,4.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Jan 26,home,Feather River,L,16-9,16.0,9.0,7,win,20190126_logl,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,1.0,2.0,,,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Jan 26,home,Taft,W,7-3,7.0,3.0,4,win,20190126_6fax,3.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,2.0,,,4.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Jan 31,home,Imperial Valley,W,9-1,9.0,1.0,8,win,20190131_9v8m,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 2,home,Ventura,L,8-6,8.0,6.0,2,win,20190202_iux7,0.0,0.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,,,,2.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 7,home,Imperial Valley,L,16-11,16.0,11.0,5,win,20190207_g2mt,3.0,0.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,1.0,,,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 8,home,Desert,W,19-9,19.0,9.0,10,win,20190208_mf1i,4.0,1.0,1.0,,,,1.0,2.0,,,,,,,1.0,0.0,,,2.0,,6.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 9,home,Desert,L,3-1,3.0,1.0,2,win,20190209_vo2m,2.0,0.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,,2.0,,4.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 12,home,San Bernardino Valley,W,3-2,3.0,2.0,1,win,20190212_p1hi,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 14,home,Mt. San Jacinto,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 15,home,Mt. San Jacinto,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 16,home,Compton,W,5-4,5.0,4.0,1,win,20190216_v24u,1.0,0.0,1.0,,,,1.0,,,,,,,,1.0,0.0,,,,,1.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 19,home,San Bernardino Valley,L,9-4,9.0,4.0,5,win,20190219_61ud,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,1.0,,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 23,home,San Diego Mesa,W,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 23,home,San Diego Mesa,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 26,home,Porterville,W,15-3,15.0,3.0,12,win,20190226_cb0o,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Feb 26,home,Porterville,W,4-0,4.0,0.0,4,win,20190226_f6fz,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 1,home,Porterville,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 1,home,Porterville,L,3-2,3.0,2.0,1,win,20190301_jiy4,3.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,2.0,,,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 5,home,Victor Valley,W,13-4,13.0,4.0,9,win,20190305_ccaf,1.0,1.0,0.0,,,,1.0,1.0,,,,2.0,,,0.0,0.0,,,1.0,,4.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 7,home,Glendale,L,20-2,20.0,2.0,18,win,20190307_timw,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 9,home,Victor Valley,W,12-2,12.0,2.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 12,home,Citrus,L,11-9,11.0,9.0,2,win,20190312_t74v,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 14,home,Antelope Valley,W,12-2,12.0,2.0,10,win,20190314_j672,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 16,home,Canyons,W,4-3,4.0,3.0,1,win,20190316_paqt,2.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,,,,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 19,home,Glendale,L,15-14,15.0,14.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 21,home,Glendale,L,11-6,11.0,6.0,5,win,20190321_bvkr,3.0,0.0,2.0,1.0,,,3.0,,,,,,,,3.0,1.0,,,1.0,,3.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 23,home,Glendale,L,6-4,6.0,4.0,2,win,20190323_aq9d,5.0,0.0,2.0,,,,1.0,1.0,,,,,,,2.0,0.0,,1.0,2.0,0.5,6.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 26,home,Victor Valley,L,11-4,11.0,4.0,7,win,20190326_1icb,3.0,0.0,1.0,,,,0.0,,,,,1.0,,,1.0,0.0,,2.0,,,4.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 28,home,Victor Valley,W,14-7,14.0,7.0,7,win,20190328_vays,5.0,0.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,2.0,2.0,1.0,6.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Mar 30,home,Victor Valley,W,12-2,12.0,2.0,10,win,20190330_1v5x,5.0,1.0,2.0,,,1.0,2.0,,1.0,,,,,,5.0,1.0,,1.0,1.0,1.0,5.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 2,home,Citrus,L,11-1,11.0,1.0,10,win,20190402_k848,3.0,0.0,0.0,,,,1.0,,1.0,,,,1.0,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 4,home,Citrus,W,24-5,24.0,5.0,19,win,20190404_tly2,5.0,2.0,3.0,1.0,,,5.0,,2.0,,,,,,4.0,1.0,,,,,5.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 6,home,Citrus,L,6-4,6.0,4.0,2,win,20190406_r19s,4.0,0.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,,1.0,1.0,1.0,5.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 10,home,Antelope Valley,W,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 11,home,Antelope Valley,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 12,home,Antelope Valley,L,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 16,home,Cerro Coso,W,13-11,13.0,11.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 18,home,Cerro Coso,L,18-9,18.0,9.0,9,win,20190418_j7sc,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,1.0,,,1.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 23,home,Canyons,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 25,home,Canyons,L,6-5,6.0,5.0,1,win,20190425_l9lg,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
+Apr 26,home,Canyons,L,22-13,22.0,13.0,9,win,20190426_fvvu,2.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,,,2.0,2019,,Barstow,barstow,kagenkennedyjihc,Kagen Kennedy
 Jan 25,home,Cuesta,W,6-3,6.0,3.0,3,win,20190125_mjut,4.0,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,Riverside,riverside,angelmendozatqmx,Angel Mendoza
 Jan 26,home,Cuesta,L,10-0,10.0,0.0,10,win,20190126_nghe,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2019,,Riverside,riverside,angelmendozatqmx,Angel Mendoza
 Jan 27,home,Cuesta,L,7-5,7.0,5.0,2,win,20190127_q9tn,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,Riverside,riverside,angelmendozatqmx,Angel Mendoza
@@ -1001,6 +1253,48 @@ May 3,home,Cuesta,W,5-0,5.0,0.0,5,win,20190503_jqfw,2.0,1.0,1.0,1.0,,,0.0,,,,,2.
 May 4,home,Cuesta,W,3-0,3.0,0.0,3,win,20190504_wco7,4.0,1.0,1.0,,,1.0,2.0,,,,,,,,4.0,1.0,,1.0,2.0,0.5,4.0,2019,,Riverside,riverside,angelmendozatqmx,Angel Mendoza
 May 9,home,Mt. San Antonio,L,8-4,8.0,4.0,4,win,20190509_1g6a,4.0,0.0,0.0,,,,0.0,,1.0,1.0,,1.0,,,0.0,0.0,,1.0,2.0,0.5,5.0,2019,,Riverside,riverside,angelmendozatqmx,Angel Mendoza
 May 10,home,Mt. San Antonio,L,12-8,12.0,8.0,4,win,20190510_gtjv,3.0,2.0,2.0,,,2.0,3.0,1.0,1.0,,,1.0,,,8.0,2.0,,,,,5.0,2019,,Riverside,riverside,angelmendozatqmx,Angel Mendoza
+Jan 25,home,Feather River,L,12-6,12.0,6.0,6,win,20190125_sqz7,2.0,1.0,2.0,,1.0,,0.0,,,,,,,,4.0,1.0,,,,,2.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Jan 26,home,Barstow,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 1,home,Ohlone,L,6-0,6.0,0.0,6,win,20190201_9yfy,4.0,0.0,2.0,,,,0.0,,1.0,,,,,,2.0,0.0,,1.0,,,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 1,home,Ohlone,W,11-1,11.0,1.0,10,win,20190201_ayws,5.0,2.0,4.0,,,1.0,1.0,,1.0,1.0,,,,,7.0,1.0,,,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 5,home,San Joaquin Delta,L,24-4,24.0,4.0,20,win,20190205_nhbk,3.0,1.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,,,3.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 7,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,20190207_blkn,4.0,1.0,1.0,1.0,,,1.0,,1.0,,,,,,2.0,1.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 8,home,Moorpark,W,14-9,14.0,9.0,5,win,20190208_556v,4.0,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,2.0,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 15,home,LA Harbor,W,13-1,13.0,1.0,12,win,20190215_wtl5,4.0,1.0,1.0,,,1.0,1.0,1.0,1.0,,,,,,4.0,1.0,,1.0,1.0,1.0,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 18,home,LA Harbor,L,1-0,1.0,0.0,1,win,20190218_h0lc,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,2.0,1.0,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 20,home,Long Beach,L,2-1,2.0,1.0,1,win,20190220_877l,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,1.0,1.0,1.0,1.0,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 22,home,Bakersfield,W,7-1,7.0,1.0,6,win,20190222_7p33,2.0,0.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 26,home,Antelope Valley,W,15-8,15.0,8.0,7,win,20190226_0lm4,4.0,0.0,2.0,1.0,,,0.0,,,,,,,,3.0,1.0,,,2.0,,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Feb 28,home,Allan Hancock,W,15-9,15.0,9.0,6,win,20190228_11bq,3.0,1.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 1,home,Allan Hancock,L,5-1,5.0,1.0,4,win,20190301_k60u,4.0,0.0,1.0,1.0,,,0.0,,1.0,1.0,,,,,2.0,1.0,,,1.0,,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 2,home,Antelope Valley,W,3-1,3.0,1.0,2,win,20190302_oxri,2.0,0.0,0.0,,,,0.0,1.0,1.0,,1.0,,,,0.0,0.0,,,1.0,,3.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 7,home,Fresno City,W,11-2,11.0,2.0,9,win,20190307_0zfs,3.0,1.0,1.0,,,,0.0,1.0,,1.0,,,,,1.0,0.0,,1.0,,,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 8,home,Fresno City,L,12-8,12.0,8.0,4,win,20190308_k359,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 9,home,Fresno City,L,10-4,10.0,4.0,6,win,20190309_1umq,2.0,1.0,1.0,1.0,,,0.0,,1.0,,,,,,2.0,1.0,,,,,2.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 12,home,Cerro Coso,W,20-7,20.0,7.0,13,win,20190312_syw0,4.0,1.0,1.0,1.0,,,0.0,1.0,1.0,,,1.0,,,2.0,1.0,,1.0,1.0,1.0,6.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 14,home,Cerro Coso,W,7-6,7.0,6.0,1,win,20190314_e1t8,1.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,,,,1.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 16,home,Cerro Coso,W,15-9,15.0,9.0,6,win,20190316_npx3,6.0,2.0,2.0,1.0,,1.0,4.0,,1.0,,,,,,6.0,2.0,,1.0,2.0,0.5,6.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 19,home,Reedley,W,8-5,8.0,5.0,3,win,20190319_og6y,5.0,1.0,2.0,1.0,,,2.0,,3.0,,,,,,3.0,1.0,,,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 21,home,Reedley,W,15-6,15.0,6.0,9,win,20190321_d1bc,4.0,1.0,1.0,,,1.0,1.0,1.0,1.0,,,,,,4.0,1.0,,,2.0,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 23,home,Reedley,W,8-2,8.0,2.0,6,win,20190323_g7zv,4.0,2.0,3.0,,,1.0,1.0,1.0,,,,,,,6.0,1.0,,,1.0,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 26,home,West Hills Coalinga,W,9-4,9.0,4.0,5,win,20190326_s78v,4.0,1.0,2.0,,1.0,,1.0,1.0,,,,,,,4.0,1.0,,2.0,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 28,home,West Hills Coalinga,W,10-0,10.0,0.0,10,win,20190328_96q5,3.0,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0.0,0.0,1.0,1.0,,,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Mar 30,home,West Hills Coalinga,W,12-3,12.0,3.0,9,win,20190330_areb,2.0,3.0,2.0,1.0,,,2.0,1.0,,,,1.0,1.0,,3.0,1.0,,,1.0,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 2,home,Merced,L,8-7,8.0,7.0,1,win,20190402_9bcr,5.0,3.0,3.0,,,1.0,3.0,2.0,1.0,,,,,,6.0,1.0,,1.0,,,7.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 4,home,Merced,L,9-6,9.0,6.0,3,win,20190404_vt50,5.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,3.0,0.33,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 6,home,Merced,W,12-10,12.0,10.0,2,win,20190406_ddp1,3.0,1.0,1.0,,,,1.0,3.0,1.0,,,,,,1.0,0.0,,,1.0,,6.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 9,home,Porterville,W,7-2,7.0,2.0,5,win,20190409_u7u3,3.0,1.0,1.0,1.0,,,2.0,1.0,,1.0,,,,,2.0,1.0,,,2.0,,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 11,home,Porterville,W,20-1,20.0,1.0,19,win,20190411_xs7f,3.0,2.0,0.0,,,,0.0,1.0,2.0,1.0,,,,,0.0,0.0,,,,,4.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 13,home,Porterville,W,8-2,8.0,2.0,6,win,20190413_32xb,1.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 18,home,Compton,W,4-3,4.0,3.0,1,win,20190418_bcgc,6.0,1.0,1.0,1.0,,,0.0,,2.0,,,,,,2.0,1.0,,,3.0,,6.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 19,home,El Camino,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 20,home,Ventura,L,6-5,6.0,5.0,1,win,20190420_soai,4.0,2.0,2.0,,,1.0,2.0,1.0,,,,,,,5.0,1.0,,1.0,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 23,home,Sequoias,W,15-6,15.0,6.0,9,win,20190423_s90j,5.0,2.0,2.0,,,1.0,3.0,,2.0,,,,,,5.0,1.0,,,1.0,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 25,home,Sequoias,W,7-5,7.0,5.0,2,win,20190425_b8b1,4.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,2.0,0.5,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 26,home,Sequoias,L,19-8,19.0,8.0,11,win,20190426_m0q8,3.0,1.0,1.0,,,,0.0,1.0,2.0,,,1.0,,,1.0,0.0,,,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+Apr 27,home,Antelope Valley,W,30-3,30.0,3.0,27,win,20190427_h8js,5.0,2.0,4.0,1.0,,1.0,3.0,,1.0,,,,,,8.0,2.0,,,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+May 3,home,Sacramento City,L,11-10,11.0,10.0,1,win,20190503_suk8,4.0,0.0,0.0,,,,1.0,1.0,3.0,,,,,,0.0,0.0,,1.0,,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
+May 4,home,Sacramento City,L,6-3,6.0,3.0,3,win,20190504_r7hl,5.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,1.0,,4.0,,5.0,2019,,Taft,taft,andresrolonz70z,Andres Rolon
 Jan 25,home,Citrus,L,10-5,10.0,5.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,esequilriveranaij,Esequil Rivera
 Jan 26,home,Compton,W,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,esequilriveranaij,Esequil Rivera
 Jan 29,home,LA Mission,L,8-4,8.0,4.0,4,win,20190129_j0uu,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Oxnard,oxnard,esequilriveranaij,Esequil Rivera
@@ -1122,6 +1416,88 @@ Apr 20,home,Monterey Peninsula,L,14-10,14.0,10.0,4,win,,,,,,,,,,,,,,,,,,,,,,,201
 Apr 23,home,Skyline,L,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Hartnell,hartnell,isaiahmadrigalr40k,Isaiah Madrigal
 Apr 25,home,Skyline,W,7-3,7.0,3.0,4,win,20190425_bn8k,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Hartnell,hartnell,isaiahmadrigalr40k,Isaiah Madrigal
 Apr 26,home,Skyline,W,6-2,6.0,2.0,4,win,20190426_hbsx,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,Hartnell,hartnell,isaiahmadrigalr40k,Isaiah Madrigal
+Jan 25,home,West Valley,W,7-3,7.0,3.0,4,win,20190125_p2go,3.0,1.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,1.0,1.0,1.0,1.0,4.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Jan 26,home,West Valley,W,1-0,1.0,0.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Jan 29,home,Yuba,L,5-3,5.0,3.0,2,win,20190129_weaz,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Jan 31,home,Shasta,L,22-12,22.0,12.0,10,win,20190131_nye4,4.0,0.0,1.0,,,,1.0,1.0,3.0,,,,,,1.0,0.0,,,,,5.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Jan 31,home,Shasta,L,10-7,10.0,7.0,3,win,20190131_wjue,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 1,home,Feather River,L,8-6,8.0,6.0,2,win,20190201_wke5,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 5,home,Mission,L,10-9,10.0,9.0,1,win,20190205_rnkv,3.0,1.0,0.0,,,,0.0,1.0,1.0,1.0,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 9,home,Hartnell,L,3-0,3.0,0.0,3,win,20190209_8b15,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 9,home,Hartnell,W,2-0,2.0,0.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 15,home,Butte,L,4-2,4.0,2.0,2,win,20190215_wlbs,2.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,,,,2.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 16,home,Butte,L,10-6,10.0,6.0,4,win,20190216_d82o,5.0,0.0,0.0,,,,1.0,,1.0,,,,,,0.0,0.0,,2.0,2.0,1.0,5.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 16,home,Butte,L,4-3,4.0,3.0,1,win,20190216_7cdv,4.0,1.0,1.0,1.0,,,0.0,1.0,2.0,,,,,,2.0,1.0,,,1.0,,5.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 19,home,Solano,L,4-3,4.0,3.0,1,win,20190219_t30r,5.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 22,home,Solano,L,10-1,10.0,1.0,9,win,20190222_1tp6,4.0,0.0,2.0,1.0,,,1.0,,1.0,,,,,,3.0,1.0,,,1.0,,4.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 26,home,Folsom Lake,,,,,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Feb 28,home,Folsom Lake,W,12-5,12.0,5.0,7,win,20190228_qfo8,3.0,0.0,1.0,,,,1.0,1.0,,,1.0,1.0,,,1.0,0.0,,,2.0,,5.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 1,home,Folsom Lake,L,16-8,16.0,8.0,8,win,20190301_ebmy,3.0,1.0,0.0,,,,0.0,2.0,1.0,,,,,,0.0,0.0,,,2.0,,5.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 1,home,Folsom Lake,L,4-3,4.0,3.0,1,win,20190301_ahtq,4.0,1.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,1.0,,,4.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 4,home,Ohlone,L,10-0,10.0,0.0,10,win,20190304_5zkb,2.0,0.0,0.0,,,,0.0,2.0,1.0,,,,,,0.0,0.0,1.0,1.0,,,4.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 7,home,Ohlone,L,5-0,5.0,0.0,5,win,20190307_2hif,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,1.0,1.0,1.0,1.0,3.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 12,home,Sacramento City,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 14,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190314_uead,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 15,home,Sacramento City,L,7-5,7.0,5.0,2,win,20190315_gsq6,3.0,0.0,1.0,1.0,,,0.0,2.0,1.0,,,,,,2.0,1.0,,,1.0,,5.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 19,home,Sierra,L,9-3,9.0,3.0,6,win,20190319_h0ed,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 21,home,Sierra,L,7-2,7.0,2.0,5,win,20190321_l6uv,2.0,0.0,0.0,,,,0.0,,1.0,,,,,1.0,0.0,0.0,,1.0,1.0,1.0,3.0,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 23,home,Sierra,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 26,home,Santa Rosa,L,11-0,11.0,0.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 29,home,Santa Rosa,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Mar 30,home,Santa Rosa,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 2,home,Diablo Valley,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 3,home,Diablo Valley,L,4-0,4.0,0.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 4,home,Diablo Valley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 9,home,San Joaquin Delta,L,10-7,10.0,7.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 11,home,San Joaquin Delta,L,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 12,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 16,home,Modesto,L,12-0,12.0,0.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 18,home,Modesto,W,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 20,home,Modesto,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 23,home,Cosumnes River,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 25,home,Cosumnes River,W,10-6,10.0,6.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Apr 26,home,Cosumnes River,W,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,nolanjohnston2si3,Nolan Johnston
+Jan 25,home,West Valley,W,7-3,7.0,3.0,4,win,20190125_p2go,3.0,0.0,1.0,1.0,,,2.0,,,,,,,1.0,2.0,1.0,,3.0,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Jan 26,home,West Valley,W,1-0,1.0,0.0,1,win,20190126_0euk,2.0,0.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,,1.0,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Jan 29,home,Yuba,L,5-3,5.0,3.0,2,win,20190129_weaz,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,2.0,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Jan 31,home,Shasta,L,22-12,22.0,12.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Jan 31,home,Shasta,L,10-7,10.0,7.0,3,win,20190131_wjue,5.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,2.0,3.0,0.67,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 1,home,Feather River,L,8-6,8.0,6.0,2,win,20190201_wke5,3.0,1.0,0.0,,,,0.0,1.0,3.0,,,,,,0.0,0.0,,,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 5,home,Mission,L,10-9,10.0,9.0,1,win,20190205_rnkv,4.0,1.0,1.0,,,,2.0,1.0,1.0,,,,,,1.0,0.0,,2.0,,,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 9,home,Hartnell,L,3-0,3.0,0.0,3,win,20190209_8b15,3.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 9,home,Hartnell,W,2-0,2.0,0.0,2,win,20190209_gk48,3.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,1.0,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 15,home,Butte,L,4-2,4.0,2.0,2,win,20190215_wlbs,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 16,home,Butte,L,10-6,10.0,6.0,4,win,20190216_d82o,5.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 16,home,Butte,L,4-3,4.0,3.0,1,win,20190216_7cdv,4.0,0.0,1.0,1.0,,,1.0,,2.0,,,,,,2.0,1.0,,,1.0,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 19,home,Solano,L,4-3,4.0,3.0,1,win,20190219_t30r,5.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 22,home,Solano,L,10-1,10.0,1.0,9,win,20190222_1tp6,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 26,home,Folsom Lake,,,,,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Feb 28,home,Folsom Lake,W,12-5,12.0,5.0,7,win,20190228_qfo8,4.0,1.0,2.0,1.0,,,0.0,1.0,,,,,,,3.0,1.0,,,2.0,,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 1,home,Folsom Lake,L,16-8,16.0,8.0,8,win,20190301_ebmy,3.0,1.0,2.0,1.0,,,0.0,1.0,,,,,,,3.0,1.0,,1.0,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 1,home,Folsom Lake,L,4-3,4.0,3.0,1,win,20190301_ahtq,4.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,1.0,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 4,home,Ohlone,L,10-0,10.0,0.0,10,win,20190304_5zkb,2.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,1.0,1.0,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 7,home,Ohlone,L,5-0,5.0,0.0,5,win,20190307_2hif,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 12,home,Sacramento City,L,2-1,2.0,1.0,1,win,20190312_wcn6,3.0,0.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 14,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190314_uead,2.0,0.0,1.0,,,,1.0,1.0,1.0,,,1.0,,,1.0,0.0,,,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 15,home,Sacramento City,L,7-5,7.0,5.0,2,win,20190315_gsq6,2.0,1.0,0.0,,,,1.0,2.0,1.0,,,,,1.0,0.0,0.0,,2.0,,,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 19,home,Sierra,L,9-3,9.0,3.0,6,win,20190319_h0ed,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 21,home,Sierra,L,7-2,7.0,2.0,5,win,20190321_l6uv,2.0,0.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,,2.0,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 23,home,Sierra,L,8-1,8.0,1.0,7,win,20190323_1nzv,3.0,0.0,2.0,,,,0.0,,1.0,,,,,,2.0,0.0,,,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 26,home,Santa Rosa,L,11-0,11.0,0.0,11,win,20190326_5b9a,2.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,1.0,,,2.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 29,home,Santa Rosa,L,4-3,4.0,3.0,1,win,20190329_rc4n,4.0,0.0,2.0,,,,0.0,,2.0,,,,,,2.0,0.0,,,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Mar 30,home,Santa Rosa,L,6-3,6.0,3.0,3,win,20190330_pxd6,3.0,0.0,0.0,,,,1.0,,2.0,,,,1.0,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 2,home,Diablo Valley,L,9-2,9.0,2.0,7,win,20190402_hk5b,4.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 3,home,Diablo Valley,L,4-0,4.0,0.0,4,win,20190403_3krb,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 4,home,Diablo Valley,W,3-1,3.0,1.0,2,win,20190404_51bf,3.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,,2.0,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 9,home,San Joaquin Delta,L,10-7,10.0,7.0,3,win,20190409_xnec,5.0,1.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,4.0,,,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 11,home,San Joaquin Delta,L,10-2,10.0,2.0,8,win,20190411_ujot,3.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 12,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,20190412_kpm2,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 16,home,Modesto,L,12-0,12.0,0.0,12,win,20190416_3rxw,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,,,3.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 18,home,Modesto,W,11-6,11.0,6.0,5,win,20190418_ia9m,4.0,1.0,0.0,,,,2.0,,,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 20,home,Modesto,L,4-2,4.0,2.0,2,win,20190420_3wh0,4.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,,1.0,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 23,home,Cosumnes River,L,7-5,7.0,5.0,2,win,20190423_1dzf,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,2.0,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 25,home,Cosumnes River,W,10-6,10.0,6.0,4,win,20190425_5etp,3.0,1.0,0.0,,,,0.0,2.0,2.0,,,,,,0.0,0.0,,1.0,,,5.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
+Apr 26,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20190426_jz21,3.0,1.0,3.0,,1.0,,2.0,1.0,,,,,,,5.0,1.0,,,,,4.0,2019,,American River,americanriver,caseydemello10tm,Casey DeMello
 Jan 25,home,Cuesta,W,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Riverside,riverside,josephramirezmf69,Joseph Ramirez
 Jan 26,home,Cuesta,L,10-0,10.0,0.0,10,win,20190126_nghe,1.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,,,,,1.0,2019,,Riverside,riverside,josephramirezmf69,Joseph Ramirez
 Jan 27,home,Cuesta,L,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Riverside,riverside,josephramirezmf69,Joseph Ramirez
@@ -1255,6 +1631,88 @@ May 3,home,Cuesta,W,5-0,5.0,0.0,5,win,20190503_jqfw,4.0,0.0,0.0,,,,0.0,,,,,,,,0.
 May 4,home,Cuesta,W,3-0,3.0,0.0,3,win,20190504_wco7,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,1.0,2.0,,,4.0,2019,,Riverside,riverside,ulisescaballerojs1y,Ulises Caballero
 May 9,home,Mt. San Antonio,L,8-4,8.0,4.0,4,win,20190509_1g6a,5.0,1.0,4.0,,1.0,,0.0,,1.0,,,,,,6.0,1.0,,,,,5.0,2019,,Riverside,riverside,ulisescaballerojs1y,Ulises Caballero
 May 10,home,Mt. San Antonio,L,12-8,12.0,8.0,4,win,20190510_gtjv,5.0,0.0,2.0,1.0,,,2.0,1.0,1.0,,,,,,3.0,1.0,,1.0,1.0,1.0,6.0,2019,,Riverside,riverside,ulisescaballerojs1y,Ulises Caballero
+Jan 25,home,Feather River,L,12-6,12.0,6.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Jan 26,home,Barstow,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 1,home,Ohlone,L,6-0,6.0,0.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 1,home,Ohlone,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 5,home,San Joaquin Delta,L,24-4,24.0,4.0,20,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 7,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 8,home,Moorpark,W,14-9,14.0,9.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 15,home,LA Harbor,W,13-1,13.0,1.0,12,win,20190215_wtl5,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 18,home,LA Harbor,L,1-0,1.0,0.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 20,home,Long Beach,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 22,home,Bakersfield,W,7-1,7.0,1.0,6,win,20190222_7p33,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 26,home,Antelope Valley,W,15-8,15.0,8.0,7,win,20190226_0lm4,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,1.0,,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Feb 28,home,Allan Hancock,W,15-9,15.0,9.0,6,win,20190228_11bq,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 1,home,Allan Hancock,L,5-1,5.0,1.0,4,win,20190301_k60u,2.0,0.0,1.0,,,,1.0,1.0,1.0,,,,,,1.0,0.0,,,,,3.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 2,home,Antelope Valley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 7,home,Fresno City,W,11-2,11.0,2.0,9,win,20190307_0zfs,1.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,1.0,,,2.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 8,home,Fresno City,L,12-8,12.0,8.0,4,win,20190308_k359,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 9,home,Fresno City,L,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 12,home,Cerro Coso,W,20-7,20.0,7.0,13,win,20190312_syw0,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 14,home,Cerro Coso,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 16,home,Cerro Coso,W,15-9,15.0,9.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 19,home,Reedley,W,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 21,home,Reedley,W,15-6,15.0,6.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 23,home,Reedley,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 26,home,West Hills Coalinga,W,9-4,9.0,4.0,5,win,20190326_s78v,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,3.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 28,home,West Hills Coalinga,W,10-0,10.0,0.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Mar 30,home,West Hills Coalinga,W,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 2,home,Merced,L,8-7,8.0,7.0,1,win,20190402_9bcr,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 4,home,Merced,L,9-6,9.0,6.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 6,home,Merced,W,12-10,12.0,10.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 9,home,Porterville,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 11,home,Porterville,W,20-1,20.0,1.0,19,win,20190411_xs7f,1.0,0.0,0.0,,,,1.0,1.0,,,,,,,0.0,0.0,,,1.0,,2.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 13,home,Porterville,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 18,home,Compton,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 19,home,El Camino,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 20,home,Ventura,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 23,home,Sequoias,W,15-6,15.0,6.0,9,win,20190423_s90j,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 25,home,Sequoias,W,7-5,7.0,5.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 26,home,Sequoias,L,19-8,19.0,8.0,11,win,20190426_m0q8,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Apr 27,home,Antelope Valley,W,30-3,30.0,3.0,27,win,20190427_h8js,0.0,0.0,0.0,,,,1.0,,,,,,1.0,,0.0,0.0,,,1.0,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+May 3,home,Sacramento City,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+May 4,home,Sacramento City,L,6-3,6.0,3.0,3,win,20190504_r7hl,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Taft,taft,noahsirkeltvoi,Noah Sirkel
+Jan 25,home,Ventura,W,7-4,7.0,4.0,3,win,20190125_avs3,3.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,,,3.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Jan 26,home,Imperial Valley,W,15-6,15.0,6.0,9,win,20190126_vp90,1.0,0.0,0.0,,,,0.0,1.0,1.0,,1.0,,,,0.0,0.0,,,,,2.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Jan 29,home,Imperial Valley,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Jan 30,home,LA Harbor,L,14-3,14.0,3.0,11,win,20190130_kbi5,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,,,2.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 1,home,San Joaquin Delta,L,13-2,13.0,2.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 1,home,San Joaquin Delta,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 5,home,Moorpark,L,12-4,12.0,4.0,8,win,20190205_s175,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 7,home,Oxnard,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 8,home,Antelope Valley,L,10-3,10.0,3.0,7,win,20190208_ay2i,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 9,home,Antelope Valley,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 12,home,Moorpark,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 14,home,Canyons,L,14-6,14.0,6.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 16,home,Oxnard,L,13-7,13.0,7.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 19,home,LA Harbor,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 20,home,Rio Hondo,L,11-6,11.0,6.0,5,win,20190220_o8mb,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 23,home,Bakersfield,L,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 25,home,Irvine Valley,L,15-7,15.0,7.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Feb 28,home,LA Pierce,W,13-5,13.0,5.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 1,home,LA Mission,L,8-4,8.0,4.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 5,home,West LA,W,22-1,22.0,1.0,21,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 7,home,Bakersfield,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 9,home,Bakersfield,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 12,home,Bakersfield,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 21,home,LA Pierce,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 23,home,LA Pierce,W,15-1,15.0,1.0,14,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 26,home,LA Pierce,W,14-9,14.0,9.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 28,home,LA Mission,L,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Mar 30,home,LA Mission,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 2,home,LA Mission,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 4,home,West LA,L,15-12,15.0,12.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 6,home,West LA,W,17-2,17.0,2.0,15,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 9,home,West LA,W,10-5,10.0,5.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 11,home,Bakersfield,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 12,home,Santa Barbara,W,20-16,20.0,16.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 16,home,Oxnard,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 17,home,Compton,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 18,home,Ventura,L,17-7,17.0,7.0,10,win,20190418_lrif,2.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,,,3.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 23,home,LA Pierce,W,3-2,3.0,2.0,1,win,20190423_6xww,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,1.0,,3.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 25,home,LA Mission,L,9-5,9.0,5.0,4,win,20190425_rylx,2.0,0.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,,2.0,,4.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
+Apr 26,home,West LA,W,8-4,8.0,4.0,4,win,20190426_n417,5.0,1.0,3.0,,1.0,,0.0,,,,,,,,5.0,1.0,,1.0,,,5.0,2019,,LA Valley,lavalley,aleckeelingy1zn,Alec Keeling
 Jan 25,home,Santa Barbara,L,12-4,12.0,4.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,West LA,westla,shaecardenas2v8a,Shae Cardenas
 Jan 26,home,Santa Barbara,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,West LA,westla,shaecardenas2v8a,Shae Cardenas
 Jan 29,home,Grossmont,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,West LA,westla,shaecardenas2v8a,Shae Cardenas
@@ -1295,6 +1753,48 @@ Apr 20,home,Antelope Valley,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,West
 Apr 20,home,Antelope Valley,W,5-4,5.0,4.0,1,win,20190420_dgeo,2.0,1.0,1.0,1.0,,,0.0,,,,,,,1.0,2.0,1.0,,1.0,1.0,1.0,3.0,2019,,West LA,westla,shaecardenas2v8a,Shae Cardenas
 Apr 25,home,LA Pierce,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,West LA,westla,shaecardenas2v8a,Shae Cardenas
 Apr 26,home,LA Valley,L,8-4,8.0,4.0,4,win,20190426_n417,3.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,West LA,westla,shaecardenas2v8a,Shae Cardenas
+Jan 25,home,Feather River,L,12-6,12.0,6.0,6,win,20190125_sqz7,4.0,0.0,2.0,,,,1.0,,2.0,,,,1.0,,2.0,0.0,,,1.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Jan 26,home,Barstow,L,7-3,7.0,3.0,4,win,20190126_6fax,4.0,0.0,1.0,,,,1.0,1.0,1.0,,,,,,1.0,0.0,,,2.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 1,home,Ohlone,L,6-0,6.0,0.0,6,win,20190201_9yfy,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,1.0,,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 1,home,Ohlone,W,11-1,11.0,1.0,10,win,20190201_ayws,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 5,home,San Joaquin Delta,L,24-4,24.0,4.0,20,win,20190205_nhbk,2.0,1.0,0.0,,,,0.0,3.0,1.0,,,,,,0.0,0.0,,,,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 7,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,20190207_blkn,3.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,,1.0,,3.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 8,home,Moorpark,W,14-9,14.0,9.0,5,win,20190208_556v,4.0,4.0,3.0,,,,1.0,1.0,1.0,2.0,,,,,3.0,0.0,,,,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 15,home,LA Harbor,W,13-1,13.0,1.0,12,win,20190215_wtl5,3.0,3.0,2.0,2.0,,,3.0,1.0,,,,,,,4.0,2.0,,1.0,,,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 18,home,LA Harbor,L,1-0,1.0,0.0,1,win,20190218_h0lc,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 20,home,Long Beach,L,2-1,2.0,1.0,1,win,20190220_877l,3.0,1.0,1.0,,1.0,,0.0,1.0,,,,,,,3.0,1.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 22,home,Bakersfield,W,7-1,7.0,1.0,6,win,20190222_7p33,5.0,1.0,1.0,,1.0,,0.0,,,,,,,,3.0,1.0,,1.0,3.0,0.33,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 26,home,Antelope Valley,W,15-8,15.0,8.0,7,win,20190226_0lm4,1.0,2.0,0.0,,,,0.0,4.0,1.0,,,,,,0.0,0.0,,,,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Feb 28,home,Allan Hancock,W,15-9,15.0,9.0,6,win,20190228_11bq,5.0,3.0,3.0,2.0,,,0.0,1.0,,1.0,,,,,5.0,2.0,,,2.0,,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 1,home,Allan Hancock,L,5-1,5.0,1.0,4,win,20190301_k60u,3.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,3.0,,,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 2,home,Antelope Valley,W,3-1,3.0,1.0,2,win,20190302_oxri,4.0,1.0,1.0,1.0,,,0.0,,2.0,1.0,,,,,2.0,1.0,,,1.0,,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 7,home,Fresno City,W,11-2,11.0,2.0,9,win,20190307_0zfs,4.0,2.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 8,home,Fresno City,L,12-8,12.0,8.0,4,win,20190308_k359,4.0,1.0,0.0,,,,2.0,2.0,1.0,,,,,,0.0,0.0,,2.0,1.0,2.0,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 9,home,Fresno City,L,10-4,10.0,4.0,6,win,20190309_1umq,3.0,1.0,2.0,,,1.0,3.0,2.0,1.0,,1.0,,,,5.0,1.0,,,,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 12,home,Cerro Coso,W,20-7,20.0,7.0,13,win,20190312_syw0,5.0,1.0,2.0,,,,2.0,1.0,2.0,,,,1.0,,2.0,0.0,,,2.0,,7.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 14,home,Cerro Coso,W,7-6,7.0,6.0,1,win,20190314_e1t8,4.0,1.0,1.0,,,,1.0,,1.0,4.0,,,1.0,,1.0,0.0,,,1.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 16,home,Cerro Coso,W,15-9,15.0,9.0,6,win,20190316_npx3,4.0,2.0,1.0,1.0,,,3.0,1.0,,,,,1.0,,2.0,1.0,,2.0,2.0,1.0,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 19,home,Reedley,W,8-5,8.0,5.0,3,win,20190319_og6y,5.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,3.0,1.0,3.0,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 21,home,Reedley,W,15-6,15.0,6.0,9,win,20190321_d1bc,6.0,1.0,1.0,,,,1.0,,,1.0,,,,,1.0,0.0,,1.0,4.0,0.25,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 23,home,Reedley,W,8-2,8.0,2.0,6,win,20190323_g7zv,5.0,1.0,2.0,,,,0.0,,1.0,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 26,home,West Hills Coalinga,W,9-4,9.0,4.0,5,win,20190326_s78v,4.0,2.0,0.0,,,,1.0,1.0,1.0,1.0,,,,,0.0,0.0,,1.0,,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 28,home,West Hills Coalinga,W,10-0,10.0,0.0,10,win,20190328_96q5,4.0,1.0,3.0,,,,0.0,,,1.0,,,,,3.0,0.0,,,1.0,,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Mar 30,home,West Hills Coalinga,W,12-3,12.0,3.0,9,win,20190330_areb,4.0,2.0,1.0,,,,0.0,1.0,1.0,,,1.0,,,1.0,0.0,,1.0,1.0,1.0,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 2,home,Merced,L,8-7,8.0,7.0,1,win,20190402_9bcr,7.0,2.0,2.0,,,,1.0,,3.0,1.0,,,,,2.0,0.0,,1.0,1.0,1.0,7.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 4,home,Merced,L,9-6,9.0,6.0,3,win,20190404_vt50,3.0,2.0,1.0,,,,1.0,1.0,1.0,1.0,,,,1.0,1.0,0.0,,,1.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 6,home,Merced,W,12-10,12.0,10.0,2,win,20190406_ddp1,3.0,1.0,2.0,1.0,,,1.0,3.0,,,,,,,3.0,1.0,,,1.0,,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 9,home,Porterville,W,7-2,7.0,2.0,5,win,20190409_u7u3,4.0,0.0,0.0,,,,0.0,1.0,3.0,,,,,,0.0,0.0,,,1.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 11,home,Porterville,W,20-1,20.0,1.0,19,win,20190411_xs7f,4.0,1.0,1.0,,1.0,,2.0,,1.0,2.0,,,,,3.0,1.0,,,1.0,,4.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 13,home,Porterville,W,8-2,8.0,2.0,6,win,20190413_32xb,5.0,0.0,2.0,,,,2.0,,,,1.0,,,,2.0,0.0,,1.0,2.0,0.5,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 18,home,Compton,W,4-3,4.0,3.0,1,win,20190418_bcgc,5.0,0.0,0.0,,,,0.0,,1.0,,,,,1.0,0.0,0.0,,2.0,2.0,1.0,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 19,home,El Camino,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 20,home,Ventura,L,6-5,6.0,5.0,1,win,20190420_soai,5.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,4.0,0.25,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 23,home,Sequoias,W,15-6,15.0,6.0,9,win,20190423_s90j,3.0,3.0,1.0,,,,0.0,2.0,,,,,,,1.0,0.0,,,2.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 25,home,Sequoias,W,7-5,7.0,5.0,2,win,20190425_b8b1,3.0,0.0,1.0,,,,3.0,1.0,1.0,,,,1.0,,1.0,0.0,,,2.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 26,home,Sequoias,L,19-8,19.0,8.0,11,win,20190426_m0q8,3.0,1.0,1.0,1.0,,,0.0,2.0,1.0,,,,,,2.0,1.0,,,1.0,,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+Apr 27,home,Antelope Valley,W,30-3,30.0,3.0,27,win,20190427_h8js,8.0,1.0,4.0,1.0,,,3.0,,,,,,,,5.0,1.0,,2.0,2.0,1.0,8.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+May 3,home,Sacramento City,L,11-10,11.0,10.0,1,win,20190503_suk8,5.0,0.0,0.0,,,,2.0,1.0,2.0,,,,,,0.0,0.0,,2.0,1.0,2.0,6.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
+May 4,home,Sacramento City,L,6-3,6.0,3.0,3,win,20190504_r7hl,4.0,1.0,0.0,,,,0.0,,1.0,1.0,,1.0,,,0.0,0.0,,2.0,1.0,2.0,5.0,2019,,Taft,taft,busterhardmanhefj,Buster Hardman
 Jan 25,home,Porterville,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Lassen,lassen,nickbrownb99i,Nick Brown
 Jan 25,home,Porterville,W,10-2,10.0,2.0,8,win,20190125_ygbl,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Lassen,lassen,nickbrownb99i,Nick Brown
 Jan 26,home,Porterville,W,13-4,13.0,4.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Lassen,lassen,nickbrownb99i,Nick Brown
@@ -1624,6 +2124,90 @@ Apr 19,home,Feather River,L,7-2,7.0,2.0,5,win,20190419_ghk1,2.0,0.0,0.0,,,,0.0,,
 Apr 20,home,Feather River,L,10-2,10.0,2.0,8,win,20190420_26iv,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2019,,Lassen,lassen,austinmajorskynjhr,Austin Majorsky
 Apr 24,home,Redwoods,W,16-1,16.0,1.0,15,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Lassen,lassen,austinmajorskynjhr,Austin Majorsky
 Apr 24,home,Redwoods,W,9-2,9.0,2.0,7,win,20190424_bndw,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,1.0,1.0,2.0,2019,,Lassen,lassen,austinmajorskynjhr,Austin Majorsky
+Jan 25,home,Marin,W,4-1,4.0,1.0,3,win,20190125_eep6,2.0,1.0,1.0,1.0,,,0.0,2.0,,,,,,,2.0,1.0,,,1.0,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Jan 26,home,Laney,W,11-0,11.0,0.0,11,win,20190126_wc2r,5.0,0.0,2.0,,,,1.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Jan 27,home,Reedley,W,8-1,8.0,1.0,7,win,20190127_r9qa,3.0,1.0,2.0,1.0,,,3.0,,,,,1.0,,,3.0,1.0,,,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Jan 31,home,Lassen,W,17-4,17.0,4.0,13,win,20190131_zlos,4.0,1.0,2.0,,,,3.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 1,home,Shasta,W,21-3,21.0,3.0,18,win,20190201_u5be,1.0,1.0,1.0,,,,2.0,2.0,,,,1.0,,,1.0,0.0,,,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 6,home,Feather River,W,3-0,3.0,0.0,3,win,20190206_3zf9,1.0,0.0,0.0,,,,0.0,1.0,,,,1.0,,,0.0,0.0,,1.0,,,3.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 7,home,Solano,W,13-3,13.0,3.0,10,win,20190207_53ur,4.0,2.0,3.0,,,,1.0,,,,,,,,3.0,0.0,,,1.0,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 7,home,Solano,L,4-2,4.0,2.0,2,win,20190207_a8yu,3.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,3.0,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 11,home,Butte,L,11-8,11.0,8.0,3,win,20190211_fm7t,3.0,2.0,2.0,1.0,,1.0,4.0,,1.0,,,1.0,,,6.0,2.0,,,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 14,home,Laney,W,7-6,7.0,6.0,1,win,20190214_vgo8,6.0,1.0,3.0,,,1.0,1.0,,,,,,,,6.0,1.0,,3.0,,,6.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 18,home,Butte,W,16-9,16.0,9.0,7,win,20190218_rltt,2.0,0.0,0.0,,,,1.0,,1.0,,,1.0,1.0,,0.0,0.0,,,2.0,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 21,home,Chabot,W,19-1,19.0,1.0,18,win,20190221_1ur3,4.0,1.0,1.0,,,,1.0,1.0,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 22,home,Yuba,W,12-7,12.0,7.0,5,win,20190222_odw4,4.0,4.0,2.0,,,2.0,4.0,1.0,,,,,,,8.0,2.0,,,,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 23,home,Yuba,W,20-5,20.0,5.0,15,win,20190223_aioe,4.0,2.0,3.0,,,1.0,2.0,,,,,1.0,,,6.0,1.0,,1.0,,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Feb 28,home,Diablo Valley,W,5-3,5.0,3.0,2,win,20190228_qqd2,4.0,1.0,3.0,,1.0,,1.0,,,1.0,,,,,5.0,1.0,,1.0,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 1,home,Diablo Valley,W,14-7,14.0,7.0,7,win,20190301_vpr7,4.0,2.0,2.0,,,,2.0,2.0,,1.0,,,,,2.0,0.0,,,2.0,,6.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 1,home,Diablo Valley,W,10-4,10.0,4.0,6,win,20190301_ius8,3.0,3.0,2.0,1.0,,,4.0,,,,,1.0,,,3.0,1.0,,1.0,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 7,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190307_zynh,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,3.0,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 11,home,Sacramento City,L,19-7,19.0,7.0,12,win,20190311_bxw7,4.0,3.0,3.0,,,,2.0,1.0,,,,,,,3.0,0.0,,,1.0,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 11,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190311_efag,3.0,1.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 12,home,Cosumnes River,W,13-10,13.0,10.0,3,win,20190312_2okd,4.0,1.0,1.0,,,,0.0,,2.0,,,1.0,,,1.0,0.0,,,1.0,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 14,home,Cosumnes River,W,14-10,14.0,10.0,4,win,20190314_oi67,5.0,0.0,1.0,,,,1.0,,,,,,,,1.0,0.0,,,3.0,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 15,home,Cosumnes River,W,12-3,12.0,3.0,9,win,20190315_nhqj,3.0,1.0,1.0,1.0,,,2.0,1.0,,,,1.0,,,2.0,1.0,,,2.0,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 19,home,American River,W,9-3,9.0,3.0,6,win,20190319_h0ed,5.0,1.0,2.0,1.0,,,2.0,,,1.0,,,,,3.0,1.0,,2.0,1.0,2.0,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 21,home,American River,W,7-2,7.0,2.0,5,win,20190321_l6uv,4.0,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,1.0,2.0,0.5,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 23,home,American River,W,8-1,8.0,1.0,7,win,20190323_1nzv,3.0,0.0,1.0,,,,0.0,,1.0,,,2.0,,,1.0,0.0,,,1.0,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 26,home,San Joaquin Delta,W,5-3,5.0,3.0,2,win,20190326_33ro,4.0,0.0,0.0,,,,0.0,,3.0,,,,,1.0,0.0,0.0,,2.0,,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 28,home,San Joaquin Delta,L,7-4,7.0,4.0,3,win,20190328_tefl,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,3.0,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Mar 29,home,San Joaquin Delta,W,7-6,7.0,6.0,1,win,20190329_b8q9,6.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,1.0,1.0,1.0,1.0,6.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 3,home,Modesto,W,12-1,12.0,1.0,11,win,20190403_50b8,5.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 4,home,Modesto,L,5-4,5.0,4.0,1,win,20190404_vxtn,2.0,0.0,0.0,,,,0.0,,1.0,,,2.0,,,0.0,0.0,1.0,1.0,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 6,home,Modesto,W,22-11,22.0,11.0,11,win,20190406_kj08,5.0,3.0,3.0,,,,2.0,1.0,,1.0,,,,,3.0,0.0,,2.0,,,6.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 9,home,Folsom Lake,W,11-1,11.0,1.0,10,win,20190409_qapn,6.0,1.0,0.0,,,,0.0,,1.0,1.0,,,,,0.0,0.0,,2.0,2.0,1.0,6.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 11,home,Folsom Lake,W,15-9,15.0,9.0,6,win,20190411_2yal,5.0,3.0,2.0,1.0,,,1.0,,,,,,1.0,,3.0,1.0,,1.0,2.0,0.5,6.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 12,home,Folsom Lake,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 17,home,Shasta,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 23,home,Santa Rosa,L,3-2,3.0,2.0,1,win,20190423_9e5e,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,2.0,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 25,home,Santa Rosa,L,6-3,6.0,3.0,3,win,20190425_c9wn,3.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,3.0,,,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Apr 26,home,Santa Rosa,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+May 3,home,San Mateo,L,4-3,4.0,3.0,1,win,20190503_avg3,2.0,1.0,0.0,,,,0.0,,,1.0,,2.0,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+May 4,home,San Mateo,W,4-2,4.0,2.0,2,win,20190504_sj9z,0.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,,,,1.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+May 4,home,San Mateo,L,11-10,11.0,10.0,1,win,20190504_uiro,5.0,0.0,2.0,1.0,,,1.0,,2.0,,1.0,,,,3.0,1.0,,1.0,,,5.0,2019,,Sierra,sierra,zackjensen17v5,Zack Jensen
+Jan 25,home,Feather River,L,12-6,12.0,6.0,6,win,20190125_sqz7,4.0,1.0,1.0,,,,1.0,1.0,1.0,,,,,,1.0,0.0,,,2.0,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Jan 26,home,Barstow,L,7-3,7.0,3.0,4,win,20190126_6fax,5.0,1.0,2.0,,,1.0,1.0,,1.0,,,,,,5.0,1.0,,,2.0,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 1,home,Ohlone,L,6-0,6.0,0.0,6,win,20190201_9yfy,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 1,home,Ohlone,W,11-1,11.0,1.0,10,win,20190201_ayws,3.0,1.0,0.0,,,,0.0,2.0,2.0,,,,,,0.0,0.0,,1.0,,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 5,home,San Joaquin Delta,L,24-4,24.0,4.0,20,win,20190205_nhbk,2.0,0.0,2.0,,,,0.0,1.0,,,,,,,2.0,0.0,,,,,3.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 7,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,20190207_blkn,4.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,1.0,,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 8,home,Moorpark,W,14-9,14.0,9.0,5,win,20190208_556v,4.0,1.0,1.0,,,1.0,3.0,,1.0,,,1.0,,,4.0,1.0,,1.0,1.0,1.0,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 15,home,LA Harbor,W,13-1,13.0,1.0,12,win,20190215_wtl5,2.0,2.0,0.0,,,,0.0,1.0,,,,1.0,,,0.0,0.0,,,2.0,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 18,home,LA Harbor,L,1-0,1.0,0.0,1,win,20190218_h0lc,3.0,0.0,0.0,,,,0.0,,2.0,,,1.0,,,0.0,0.0,,,1.0,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 20,home,Long Beach,L,2-1,2.0,1.0,1,win,20190220_877l,2.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 22,home,Bakersfield,W,7-1,7.0,1.0,6,win,20190222_7p33,2.0,1.0,1.0,,,1.0,2.0,2.0,1.0,,,,,,4.0,1.0,,,,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 26,home,Antelope Valley,W,15-8,15.0,8.0,7,win,20190226_0lm4,3.0,2.0,2.0,1.0,,,3.0,1.0,,,,,,1.0,3.0,1.0,1.0,2.0,,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Feb 28,home,Allan Hancock,W,15-9,15.0,9.0,6,win,20190228_11bq,5.0,3.0,2.0,,,,3.0,,1.0,1.0,,1.0,,,2.0,0.0,,1.0,,,6.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 1,home,Allan Hancock,L,5-1,5.0,1.0,4,win,20190301_k60u,4.0,0.0,1.0,,,,0.0,,1.0,1.0,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 2,home,Antelope Valley,W,3-1,3.0,1.0,2,win,20190302_oxri,3.0,1.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 7,home,Fresno City,W,11-2,11.0,2.0,9,win,20190307_0zfs,4.0,2.0,0.0,,,,0.0,1.0,,,1.0,,,,0.0,0.0,,2.0,1.0,2.0,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 8,home,Fresno City,L,12-8,12.0,8.0,4,win,20190308_k359,3.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,3.0,,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 9,home,Fresno City,L,10-4,10.0,4.0,6,win,20190309_1umq,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 12,home,Cerro Coso,W,20-7,20.0,7.0,13,win,20190312_syw0,4.0,2.0,3.0,,1.0,,0.0,1.0,,,,,,,5.0,1.0,,,,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 14,home,Cerro Coso,W,7-6,7.0,6.0,1,win,20190314_e1t8,3.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,2.0,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 16,home,Cerro Coso,W,15-9,15.0,9.0,6,win,20190316_npx3,4.0,2.0,2.0,1.0,,,1.0,,,,,1.0,,,3.0,1.0,,,1.0,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 19,home,Reedley,W,8-5,8.0,5.0,3,win,20190319_og6y,4.0,2.0,2.0,,,,0.0,,,1.0,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 21,home,Reedley,W,15-6,15.0,6.0,9,win,20190321_d1bc,5.0,1.0,3.0,1.0,,,2.0,,1.0,,,,,1.0,4.0,1.0,,1.0,1.0,1.0,6.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 23,home,Reedley,W,8-2,8.0,2.0,6,win,20190323_g7zv,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 26,home,West Hills Coalinga,W,9-4,9.0,4.0,5,win,20190326_s78v,2.0,1.0,1.0,,,,0.0,2.0,,1.0,2.0,,,,1.0,0.0,,,1.0,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 28,home,West Hills Coalinga,W,10-0,10.0,0.0,10,win,20190328_96q5,1.0,1.0,0.0,,,,0.0,1.0,,,,1.0,,,0.0,0.0,,1.0,,,3.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Mar 30,home,West Hills Coalinga,W,12-3,12.0,3.0,9,win,20190330_areb,3.0,0.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 2,home,Merced,L,8-7,8.0,7.0,1,win,20190402_9bcr,6.0,1.0,2.0,1.0,,,0.0,,2.0,1.0,,1.0,,,3.0,1.0,,1.0,1.0,1.0,7.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 4,home,Merced,L,9-6,9.0,6.0,3,win,20190404_vt50,2.0,2.0,1.0,,,,0.0,2.0,,1.0,1.0,,,,1.0,0.0,,1.0,,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 6,home,Merced,W,12-10,12.0,10.0,2,win,20190406_ddp1,3.0,1.0,0.0,,,,1.0,2.0,,,,,,,0.0,0.0,,2.0,1.0,2.0,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 9,home,Porterville,W,7-2,7.0,2.0,5,win,20190409_u7u3,3.0,1.0,1.0,,,,1.0,,,,,,1.0,,1.0,0.0,,2.0,1.0,2.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 11,home,Porterville,W,20-1,20.0,1.0,19,win,20190411_xs7f,5.0,3.0,3.0,,1.0,,2.0,,,1.0,,,,,5.0,1.0,,1.0,,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 13,home,Porterville,W,8-2,8.0,2.0,6,win,20190413_32xb,3.0,2.0,1.0,,,1.0,1.0,1.0,,,,,,,4.0,1.0,,,2.0,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 18,home,Compton,W,4-3,4.0,3.0,1,win,20190418_bcgc,5.0,0.0,2.0,,,,1.0,,1.0,1.0,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 19,home,El Camino,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 20,home,Ventura,L,6-5,6.0,5.0,1,win,20190420_soai,2.0,1.0,0.0,,,,0.0,1.0,,,,1.0,,,0.0,0.0,1.0,1.0,1.0,1.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 23,home,Sequoias,W,15-6,15.0,6.0,9,win,20190423_s90j,5.0,2.0,3.0,2.0,,,2.0,,,,,,,,5.0,2.0,1.0,2.0,,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 25,home,Sequoias,W,7-5,7.0,5.0,2,win,20190425_b8b1,3.0,1.0,3.0,1.0,,,2.0,1.0,,,,,,,4.0,1.0,,,,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 26,home,Sequoias,L,19-8,19.0,8.0,11,win,20190426_m0q8,3.0,1.0,1.0,,,,2.0,1.0,,,,,,,1.0,0.0,,,2.0,,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+Apr 27,home,Antelope Valley,W,30-3,30.0,3.0,27,win,20190427_h8js,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+May 3,home,Sacramento City,L,11-10,11.0,10.0,1,win,20190503_suk8,5.0,0.0,4.0,,1.0,,6.0,,,,,,,,6.0,1.0,,,1.0,,5.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
+May 4,home,Sacramento City,L,6-3,6.0,3.0,3,win,20190504_r7hl,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,Taft,taft,javierramirezs1ku,Javier Ramirez
 Jan 25,home,Porterville,W,13-3,13.0,3.0,10,win,20190125_gqx4,4.0,2.0,1.0,,,,3.0,1.0,,1.0,,,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,Lassen,lassen,donovangonzalezhwrf,Donovan Gonzalez
 Jan 25,home,Porterville,W,10-2,10.0,2.0,8,win,20190125_ygbl,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2019,,Lassen,lassen,donovangonzalezhwrf,Donovan Gonzalez
 Jan 26,home,Porterville,W,13-4,13.0,4.0,9,win,20190126_4yu1,5.0,1.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,3.0,,,5.0,2019,,Lassen,lassen,donovangonzalezhwrf,Donovan Gonzalez
@@ -1708,6 +2292,47 @@ Apr 19,home,LA Mission,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,East Los 
 Apr 23,home,Mt. San Antonio,L,11-2,11.0,2.0,9,win,20190423_5x5y,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,2.0,,4.0,2019,,East Los Angeles,eastlosangeles,erickespinozapgo3,Erick Espinoza
 Apr 25,home,Mt. San Antonio,W,3-0,3.0,0.0,3,win,20190425_qu0h,3.0,1.0,1.0,,1.0,,0.0,1.0,,,,,,,3.0,1.0,,1.0,1.0,1.0,4.0,2019,,East Los Angeles,eastlosangeles,erickespinozapgo3,Erick Espinoza
 Apr 26,home,Mt. San Antonio,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,East Los Angeles,eastlosangeles,erickespinozapgo3,Erick Espinoza
+Jan 25,home,West Valley,W,7-3,7.0,3.0,4,win,20190125_p2go,4.0,1.0,1.0,,1.0,,0.0,,1.0,,,,,,3.0,1.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Jan 26,home,West Valley,W,1-0,1.0,0.0,1,win,20190126_0euk,3.0,0.0,1.0,,,,0.0,,1.0,,,,,1.0,1.0,0.0,,2.0,,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Jan 29,home,Yuba,L,5-3,5.0,3.0,2,win,20190129_weaz,4.0,0.0,1.0,,,,1.0,,2.0,1.0,,,,,1.0,0.0,,,,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Jan 31,home,Shasta,L,22-12,22.0,12.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Jan 31,home,Shasta,L,10-7,10.0,7.0,3,win,20190131_wjue,4.0,0.0,1.0,1.0,,,1.0,,,,,,1.0,,2.0,1.0,,,2.0,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 1,home,Feather River,L,8-6,8.0,6.0,2,win,20190201_wke5,4.0,0.0,3.0,1.0,,,3.0,,,,,1.0,,,4.0,1.0,,1.0,,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 5,home,Mission,L,10-9,10.0,9.0,1,win,20190205_rnkv,5.0,1.0,2.0,1.0,,,0.0,,2.0,,,,,,3.0,1.0,,1.0,,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 9,home,Hartnell,L,3-0,3.0,0.0,3,win,20190209_8b15,3.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,3.0,,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 9,home,Hartnell,W,2-0,2.0,0.0,2,win,20190209_gk48,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 15,home,Butte,L,4-2,4.0,2.0,2,win,20190215_wlbs,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,2.0,2.0,1.0,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 16,home,Butte,L,10-6,10.0,6.0,4,win,20190216_d82o,5.0,2.0,4.0,1.0,,,0.0,,,,,,,,5.0,1.0,,1.0,,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 16,home,Butte,L,4-3,4.0,3.0,1,win,20190216_7cdv,4.0,0.0,0.0,,,,1.0,1.0,1.0,1.0,,,,,0.0,0.0,,1.0,2.0,0.5,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 19,home,Solano,L,4-3,4.0,3.0,1,win,20190219_t30r,5.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,1.0,2.0,1.0,2.0,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 22,home,Solano,L,10-1,10.0,1.0,9,win,20190222_1tp6,3.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,2.0,,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 26,home,Folsom Lake,,,,,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Feb 28,home,Folsom Lake,W,12-5,12.0,5.0,7,win,20190228_qfo8,4.0,3.0,3.0,2.0,,,3.0,1.0,,1.0,,,,,5.0,2.0,,,1.0,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 1,home,Folsom Lake,L,16-8,16.0,8.0,8,win,20190301_ebmy,5.0,1.0,2.0,1.0,,,4.0,,1.0,,,,,,3.0,1.0,1.0,1.0,1.0,1.0,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 1,home,Folsom Lake,L,4-3,4.0,3.0,1,win,20190301_ahtq,3.0,1.0,1.0,,,,0.0,1.0,,1.0,,,,,1.0,0.0,,2.0,,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 4,home,Ohlone,L,10-0,10.0,0.0,10,win,20190304_5zkb,4.0,0.0,1.0,,,,0.0,,,,1.0,,,,1.0,0.0,,2.0,1.0,2.0,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 7,home,Ohlone,L,5-0,5.0,0.0,5,win,20190307_2hif,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,2.0,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 12,home,Sacramento City,L,2-1,2.0,1.0,1,win,20190312_wcn6,3.0,0.0,3.0,,,,1.0,1.0,,2.0,,,,,3.0,0.0,,,,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 14,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190314_uead,5.0,0.0,1.0,1.0,,,0.0,,,,,,,,2.0,1.0,1.0,1.0,3.0,0.33,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 15,home,Sacramento City,L,7-5,7.0,5.0,2,win,20190315_gsq6,3.0,1.0,0.0,,,,0.0,2.0,3.0,,,,,,0.0,0.0,,,,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 19,home,Sierra,L,9-3,9.0,3.0,6,win,20190319_h0ed,4.0,1.0,2.0,,,,0.0,,,1.0,1.0,,,,2.0,0.0,,,1.0,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 21,home,Sierra,L,7-2,7.0,2.0,5,win,20190321_l6uv,5.0,1.0,2.0,,,,1.0,,,,,,,,2.0,0.0,,,3.0,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 23,home,Sierra,L,8-1,8.0,1.0,7,win,20190323_1nzv,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,2.0,1.0,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 26,home,Santa Rosa,L,11-0,11.0,0.0,11,win,20190326_5b9a,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,2.0,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 29,home,Santa Rosa,L,4-3,4.0,3.0,1,win,20190329_rc4n,4.0,0.0,0.0,,,,0.0,,3.0,,,,,1.0,0.0,0.0,,1.0,1.0,1.0,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Mar 30,home,Santa Rosa,L,6-3,6.0,3.0,3,win,20190330_pxd6,5.0,0.0,2.0,1.0,,,0.0,,2.0,,,,,,3.0,1.0,1.0,1.0,,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 2,home,Diablo Valley,L,9-2,9.0,2.0,7,win,20190402_hk5b,4.0,0.0,1.0,,,,0.0,,3.0,1.0,,1.0,,,1.0,0.0,,,,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 3,home,Diablo Valley,L,4-0,4.0,0.0,4,win,20190403_3krb,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,4.0,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 4,home,Diablo Valley,W,3-1,3.0,1.0,2,win,20190404_51bf,4.0,0.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,1.0,1.0,1.0,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 9,home,San Joaquin Delta,L,10-7,10.0,7.0,3,win,20190409_xnec,6.0,1.0,1.0,,,,0.0,,4.0,,,,,,1.0,0.0,,,1.0,,6.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 11,home,San Joaquin Delta,L,10-2,10.0,2.0,8,win,20190411_ujot,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,3.0,0.33,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 12,home,San Joaquin Delta,L,11-2,11.0,2.0,9,win,20190412_kpm2,4.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,,1.0,,4.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 16,home,Modesto,L,12-0,12.0,0.0,12,win,20190416_3rxw,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,1.0,,3.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 18,home,Modesto,W,11-6,11.0,6.0,5,win,20190418_ia9m,5.0,1.0,2.0,1.0,,,1.0,,1.0,1.0,,,,,3.0,1.0,,2.0,,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 20,home,Modesto,L,4-2,4.0,2.0,2,win,20190420_3wh0,5.0,1.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,,1.0,,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 23,home,Cosumnes River,L,7-5,7.0,5.0,2,win,20190423_1dzf,4.0,2.0,2.0,,,,0.0,1.0,,1.0,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 25,home,Cosumnes River,W,10-6,10.0,6.0,4,win,20190425_5etp,6.0,2.0,2.0,,,,1.0,,1.0,,1.0,,,,2.0,0.0,,1.0,2.0,0.5,6.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
+Apr 26,home,Cosumnes River,W,7-1,7.0,1.0,6,win,20190426_jz21,5.0,1.0,1.0,1.0,,,1.0,,1.0,,,,,,2.0,1.0,,2.0,1.0,2.0,5.0,2019,,American River,americanriver,colehurtartea8rr,Cole Hurtarte
 Jan 25,home,Saddleback,L,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,San Diego City,sandiegocity,alejandrovelascoh9ng,Alejandro Velasco
 Jan 26,home,Saddleback,L,22-3,22.0,3.0,19,win,20190126_el9q,3.0,0.0,1.0,,,,1.0,,,,,,1.0,,1.0,0.0,,,3.0,,4.0,2019,,San Diego City,sandiegocity,alejandrovelascoh9ng,Alejandro Velasco
 Jan 31,home,Irvine Valley,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,San Diego City,sandiegocity,alejandrovelascoh9ng,Alejandro Velasco
@@ -1742,6 +2367,48 @@ Apr 19,home,San Diego Mesa,L,4-2,4.0,2.0,2,win,20190419_n7wm,4.0,0.0,0.0,,,,0.0,
 Apr 23,home,Grossmont,L,18-5,18.0,5.0,13,win,20190423_ya6q,4.0,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,2.0,,,5.0,2019,,San Diego City,sandiegocity,alejandrovelascoh9ng,Alejandro Velasco
 Apr 25,home,Grossmont,L,13-4,13.0,4.0,9,win,20190425_8uzw,3.0,1.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,,2.0,,4.0,2019,,San Diego City,sandiegocity,alejandrovelascoh9ng,Alejandro Velasco
 Apr 26,home,Grossmont,L,6-1,6.0,1.0,5,win,20190426_52jn,3.0,0.0,0.0,,,,1.0,1.0,,,,,,,0.0,0.0,1.0,2.0,1.0,2.0,4.0,2019,,San Diego City,sandiegocity,alejandrovelascoh9ng,Alejandro Velasco
+Jan 25,home,Marin,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Jan 26,home,Laney,W,11-0,11.0,0.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Jan 27,home,Reedley,W,8-1,8.0,1.0,7,win,20190127_r9qa,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Jan 31,home,Lassen,W,17-4,17.0,4.0,13,win,20190131_zlos,0.0,1.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,,,,1.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 1,home,Shasta,W,21-3,21.0,3.0,18,win,20190201_u5be,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 6,home,Feather River,W,3-0,3.0,0.0,3,win,20190206_3zf9,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 7,home,Solano,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 7,home,Solano,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 11,home,Butte,L,11-8,11.0,8.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 14,home,Laney,W,7-6,7.0,6.0,1,win,20190214_vgo8,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 18,home,Butte,W,16-9,16.0,9.0,7,win,20190218_rltt,4.0,2.0,1.0,,,1.0,2.0,2.0,1.0,,,,,,4.0,1.0,,2.0,,,6.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 21,home,Chabot,W,19-1,19.0,1.0,18,win,20190221_1ur3,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 22,home,Yuba,W,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 23,home,Yuba,W,20-5,20.0,5.0,15,win,20190223_aioe,4.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Feb 28,home,Diablo Valley,W,5-3,5.0,3.0,2,win,20190228_qqd2,3.0,0.0,1.0,,,,1.0,,2.0,,,,,1.0,1.0,0.0,,1.0,,,4.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 1,home,Diablo Valley,W,14-7,14.0,7.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 1,home,Diablo Valley,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 7,home,Sacramento City,L,7-2,7.0,2.0,5,win,20190307_zynh,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 11,home,Sacramento City,L,19-7,19.0,7.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 11,home,Sacramento City,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 12,home,Cosumnes River,W,13-10,13.0,10.0,3,win,20190312_2okd,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 14,home,Cosumnes River,W,14-10,14.0,10.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 15,home,Cosumnes River,W,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 19,home,American River,W,9-3,9.0,3.0,6,win,20190319_h0ed,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 21,home,American River,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 23,home,American River,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 26,home,San Joaquin Delta,W,5-3,5.0,3.0,2,win,20190326_33ro,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 28,home,San Joaquin Delta,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Mar 29,home,San Joaquin Delta,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 3,home,Modesto,W,12-1,12.0,1.0,11,win,20190403_50b8,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 4,home,Modesto,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 6,home,Modesto,W,22-11,22.0,11.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 9,home,Folsom Lake,W,11-1,11.0,1.0,10,win,20190409_qapn,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 11,home,Folsom Lake,W,15-9,15.0,9.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 12,home,Folsom Lake,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 17,home,Shasta,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 23,home,Santa Rosa,L,3-2,3.0,2.0,1,win,20190423_9e5e,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 25,home,Santa Rosa,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+Apr 26,home,Santa Rosa,L,4-2,4.0,2.0,2,win,20190426_5plh,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+May 3,home,San Mateo,L,4-3,4.0,3.0,1,win,20190503_avg3,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+May 4,home,San Mateo,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
+May 4,home,San Mateo,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,austinloeb15r0,Austin Loeb
 Jan 25,home,Santa Barbara,L,12-4,12.0,4.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,West LA,westla,chancekingo0nc,Chance King
 Jan 26,home,Santa Barbara,L,10-3,10.0,3.0,7,win,20190126_vtpr,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,West LA,westla,chancekingo0nc,Chance King
 Jan 29,home,Grossmont,L,9-2,9.0,2.0,7,win,20190129_4buu,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,West LA,westla,chancekingo0nc,Chance King
@@ -1864,6 +2531,46 @@ Apr 20,home,Canada,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Contra Cost
 Apr 23,home,Napa Valley,L,11-3,11.0,3.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Contra Costa,contracosta,milesrussellrz3p,Miles Russell
 Apr 25,home,Yuba,L,10-2,10.0,2.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Contra Costa,contracosta,milesrussellrz3p,Miles Russell
 Apr 26,home,Solano,L,14-4,14.0,4.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Contra Costa,contracosta,milesrussellrz3p,Miles Russell
+Jan 25,home,Ventura,W,7-4,7.0,4.0,3,win,20190125_avs3,2.0,1.0,1.0,,,,0.0,,,,,1.0,,,1.0,0.0,,,1.0,,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Jan 26,home,Imperial Valley,W,15-6,15.0,6.0,9,win,20190126_vp90,3.0,3.0,1.0,,,,0.0,2.0,1.0,,,,,,1.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Jan 29,home,Imperial Valley,W,7-3,7.0,3.0,4,win,20190129_85gm,3.0,0.0,1.0,,,,2.0,1.0,1.0,,,,,,1.0,0.0,1.0,1.0,,,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Jan 30,home,LA Harbor,L,14-3,14.0,3.0,11,win,20190130_kbi5,2.0,0.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,1.0,,,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 1,home,San Joaquin Delta,L,13-2,13.0,2.0,11,win,20190201_9k8k,4.0,0.0,0.0,,,,1.0,,,,,,,,0.0,0.0,,2.0,2.0,1.0,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 1,home,San Joaquin Delta,L,10-3,10.0,3.0,7,win,20190201_64u3,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 5,home,Moorpark,L,12-4,12.0,4.0,8,win,20190205_s175,4.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 7,home,Oxnard,L,7-4,7.0,4.0,3,win,20190207_tu7a,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,4.0,,,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 8,home,Antelope Valley,L,10-3,10.0,3.0,7,win,20190208_ay2i,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 9,home,Antelope Valley,L,8-7,8.0,7.0,1,win,20190209_hchx,4.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 12,home,Moorpark,L,7-1,7.0,1.0,6,win,20190212_ixez,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 14,home,Canyons,L,14-6,14.0,6.0,8,win,20190214_ddb8,3.0,0.0,1.0,,,,0.0,1.0,2.0,,,,,,1.0,0.0,,,,,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 16,home,Oxnard,L,13-7,13.0,7.0,6,win,20190216_5v04,2.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,2.0,,,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 19,home,LA Harbor,W,7-3,7.0,3.0,4,win,20190219_8pwx,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,,,2.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 20,home,Rio Hondo,L,11-6,11.0,6.0,5,win,20190220_o8mb,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 23,home,Bakersfield,L,9-0,9.0,0.0,9,win,20190223_65qp,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,2.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 25,home,Irvine Valley,L,15-7,15.0,7.0,8,win,20190225_j3o8,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Feb 28,home,LA Pierce,W,13-5,13.0,5.0,8,win,20190228_x1bd,3.0,2.0,2.0,,,,2.0,,,,,2.0,,,2.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 1,home,LA Mission,L,8-4,8.0,4.0,4,win,20190301_3nwx,3.0,0.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 5,home,West LA,W,22-1,22.0,1.0,21,win,20190305_9q5j,6.0,2.0,2.0,,,,2.0,,,,,,,,2.0,0.0,,1.0,3.0,0.33,6.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 7,home,Bakersfield,L,6-4,6.0,4.0,2,win,20190307_xlhl,3.0,2.0,1.0,,,,0.0,,1.0,,1.0,1.0,,,1.0,0.0,,,,,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 9,home,Bakersfield,L,7-6,7.0,6.0,1,win,20190309_9xgz,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 12,home,Bakersfield,W,11-9,11.0,9.0,2,win,20190312_2wiw,5.0,0.0,1.0,,1.0,,2.0,,,,,,,,3.0,1.0,,3.0,1.0,3.0,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 21,home,LA Pierce,L,3-1,3.0,1.0,2,win,20190321_cq6a,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 23,home,LA Pierce,W,15-1,15.0,1.0,14,win,20190323_rc3g,3.0,2.0,1.0,1.0,,,0.0,2.0,,,,,,,2.0,1.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 26,home,LA Pierce,W,14-9,14.0,9.0,5,win,20190326_uudk,5.0,0.0,1.0,,,,3.0,,,,,,,1.0,1.0,0.0,,2.0,3.0,0.67,6.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 28,home,LA Mission,L,11-1,11.0,1.0,10,win,20190328_litk,3.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,2.0,,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Mar 30,home,LA Mission,W,8-6,8.0,6.0,2,win,20190330_eszv,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,2.0,0.5,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 2,home,LA Mission,L,8-7,8.0,7.0,1,win,20190402_lgf2,5.0,1.0,2.0,1.0,,,0.0,,,,,,,,3.0,1.0,,2.0,1.0,2.0,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 4,home,West LA,L,15-12,15.0,12.0,3,win,20190404_wbll,5.0,1.0,2.0,,,,2.0,,1.0,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 6,home,West LA,W,17-2,17.0,2.0,15,win,20190406_zil5,4.0,3.0,2.0,,,,3.0,,,,,1.0,,,2.0,0.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 9,home,West LA,W,10-5,10.0,5.0,5,win,20190409_db9b,5.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,3.0,,,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 11,home,Bakersfield,L,3-0,3.0,0.0,3,win,20190411_4k4o,3.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,1.0,2.0,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 12,home,Santa Barbara,W,20-16,20.0,16.0,4,win,20190412_faix,4.0,0.0,1.0,,,,0.0,1.0,1.0,,,1.0,,,1.0,0.0,,,2.0,,6.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 16,home,Oxnard,W,8-7,8.0,7.0,1,win,20190416_tk2q,1.0,1.0,0.0,,,,1.0,2.0,,,,,,,0.0,0.0,,1.0,,,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 17,home,Compton,L,5-4,5.0,4.0,1,win,20190417_jbj4,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,1.0,1.0,2.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 18,home,Ventura,L,17-7,17.0,7.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 23,home,LA Pierce,W,3-2,3.0,2.0,1,win,20190423_6xww,3.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,1.0,1.0,3.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 25,home,LA Mission,L,9-5,9.0,5.0,4,win,20190425_rylx,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,3.0,0.33,4.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
+Apr 26,home,West LA,W,8-4,8.0,4.0,4,win,20190426_n417,5.0,0.0,3.0,,,,1.0,,,,,,,,3.0,0.0,,,1.0,,5.0,2019,,LA Valley,lavalley,giovannichaideziup3,Giovanni Chaidez
 Jan 25,home,San Francisco,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Hartnell,hartnell,eduardogarciaeshy,Eduardo Garcia
 Jan 26,home,San Francisco,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Hartnell,hartnell,eduardogarciaeshy,Eduardo Garcia
 Jan 29,home,West Valley,L,11-8,11.0,8.0,3,win,20190129_a2aj,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Hartnell,hartnell,eduardogarciaeshy,Eduardo Garcia
@@ -1986,6 +2693,48 @@ Apr 18,home,Santa Ana,L,10-8,10.0,8.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,o
 Apr 20,home,LA Mission,L,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,alejandrochavezdfbo,Alejandro Chavez
 Apr 23,home,Cuesta,W,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,alejandrochavezdfbo,Alejandro Chavez
 Apr 25,home,Cuesta,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Oxnard,oxnard,alejandrochavezdfbo,Alejandro Chavez
+Jan 25,home,Marin,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Jan 26,home,Laney,W,11-0,11.0,0.0,11,win,20190126_wc2r,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,2.0,,2.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Jan 27,home,Reedley,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Jan 31,home,Lassen,W,17-4,17.0,4.0,13,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 1,home,Shasta,W,21-3,21.0,3.0,18,win,20190201_u5be,2.0,0.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,,,,,2.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 6,home,Feather River,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 7,home,Solano,W,13-3,13.0,3.0,10,win,20190207_53ur,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 7,home,Solano,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 11,home,Butte,L,11-8,11.0,8.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 14,home,Laney,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 18,home,Butte,W,16-9,16.0,9.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 21,home,Chabot,W,19-1,19.0,1.0,18,win,20190221_1ur3,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 22,home,Yuba,W,12-7,12.0,7.0,5,win,20190222_odw4,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 23,home,Yuba,W,20-5,20.0,5.0,15,win,20190223_aioe,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Feb 28,home,Diablo Valley,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 1,home,Diablo Valley,W,14-7,14.0,7.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 1,home,Diablo Valley,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 7,home,Sacramento City,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 11,home,Sacramento City,L,19-7,19.0,7.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 11,home,Sacramento City,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 12,home,Cosumnes River,W,13-10,13.0,10.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 14,home,Cosumnes River,W,14-10,14.0,10.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 15,home,Cosumnes River,W,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 19,home,American River,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 21,home,American River,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 23,home,American River,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 26,home,San Joaquin Delta,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 28,home,San Joaquin Delta,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Mar 29,home,San Joaquin Delta,W,7-6,7.0,6.0,1,win,20190329_b8q9,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 3,home,Modesto,W,12-1,12.0,1.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 4,home,Modesto,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 6,home,Modesto,W,22-11,22.0,11.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 9,home,Folsom Lake,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 11,home,Folsom Lake,W,15-9,15.0,9.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 12,home,Folsom Lake,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 17,home,Shasta,W,13-3,13.0,3.0,10,win,20190417_2meb,5.0,1.0,0.0,,,,1.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,5.0,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 23,home,Santa Rosa,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 25,home,Santa Rosa,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+Apr 26,home,Santa Rosa,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+May 3,home,San Mateo,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+May 4,home,San Mateo,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
+May 4,home,San Mateo,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,andrewstover2mj8,Andrew Stover
 Jan 25,home,Los Medanos,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Modesto,modesto,casepachecoba73,Case Pacheco
 Jan 26,home,Los Medanos,L,5-0,5.0,0.0,5,win,20190126_umzs,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Modesto,modesto,casepachecoba73,Case Pacheco
 Jan 29,home,Contra Costa,W,15-2,15.0,2.0,13,win,20190129_p23w,1.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,,,,2.0,2019,,Modesto,modesto,casepachecoba73,Case Pacheco
@@ -2027,6 +2776,46 @@ Apr 25,home,San Joaquin Delta,W,6-3,6.0,3.0,3,win,20190425_9wlf,1.0,0.0,0.0,,,,0
 Apr 26,home,San Joaquin Delta,L,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Modesto,modesto,casepachecoba73,Case Pacheco
 May 3,home,Santa Rosa,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Modesto,modesto,casepachecoba73,Case Pacheco
 May 4,home,Santa Rosa,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Modesto,modesto,casepachecoba73,Case Pacheco
+Jan 25,home,Ventura,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Jan 26,home,Imperial Valley,W,15-6,15.0,6.0,9,win,20190126_vp90,4.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,2.0,,,4.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Jan 29,home,Imperial Valley,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Jan 30,home,LA Harbor,L,14-3,14.0,3.0,11,win,20190130_kbi5,4.0,0.0,1.0,,,,0.0,,2.0,,1.0,,,,1.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 1,home,San Joaquin Delta,L,13-2,13.0,2.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 1,home,San Joaquin Delta,L,10-3,10.0,3.0,7,win,20190201_64u3,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 5,home,Moorpark,L,12-4,12.0,4.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 7,home,Oxnard,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 8,home,Antelope Valley,L,10-3,10.0,3.0,7,win,20190208_ay2i,1.0,1.0,1.0,,1.0,,0.0,,,,,,,,3.0,1.0,,,,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 9,home,Antelope Valley,L,8-7,8.0,7.0,1,win,20190209_hchx,2.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 12,home,Moorpark,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 14,home,Canyons,L,14-6,14.0,6.0,8,win,20190214_ddb8,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 16,home,Oxnard,L,13-7,13.0,7.0,6,win,20190216_5v04,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,2.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 19,home,LA Harbor,W,7-3,7.0,3.0,4,win,20190219_8pwx,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 20,home,Rio Hondo,L,11-6,11.0,6.0,5,win,20190220_o8mb,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 23,home,Bakersfield,L,9-0,9.0,0.0,9,win,20190223_65qp,0.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,,,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 25,home,Irvine Valley,L,15-7,15.0,7.0,8,win,20190225_j3o8,2.0,1.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,1.0,,,2.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Feb 28,home,LA Pierce,W,13-5,13.0,5.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 1,home,LA Mission,L,8-4,8.0,4.0,4,win,20190301_3nwx,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 5,home,West LA,W,22-1,22.0,1.0,21,win,20190305_9q5j,0.0,0.0,0.0,,,,1.0,,,,,,1.0,,0.0,0.0,,,1.0,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 7,home,Bakersfield,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 9,home,Bakersfield,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 12,home,Bakersfield,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 21,home,LA Pierce,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 23,home,LA Pierce,W,15-1,15.0,1.0,14,win,20190323_rc3g,4.0,0.0,3.0,1.0,,,0.0,,,1.0,,,,1.0,4.0,1.0,,2.0,,,5.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 26,home,LA Pierce,W,14-9,14.0,9.0,5,win,20190326_uudk,4.0,2.0,3.0,1.0,,,3.0,1.0,,,,,,1.0,4.0,1.0,,2.0,,,6.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 28,home,LA Mission,L,11-1,11.0,1.0,10,win,20190328_litk,4.0,0.0,1.0,1.0,,,0.0,,1.0,,,,,,2.0,1.0,,,2.0,,4.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Mar 30,home,LA Mission,W,8-6,8.0,6.0,2,win,20190330_eszv,4.0,1.0,1.0,,,,0.0,,1.0,,,1.0,,,1.0,0.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 2,home,LA Mission,L,8-7,8.0,7.0,1,win,20190402_lgf2,5.0,1.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 4,home,West LA,L,15-12,15.0,12.0,3,win,20190404_wbll,2.0,1.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,1.0,1.0,,,3.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 6,home,West LA,W,17-2,17.0,2.0,15,win,20190406_zil5,3.0,0.0,0.0,,,,0.0,1.0,3.0,,,,,,0.0,0.0,,,,,4.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 9,home,West LA,W,10-5,10.0,5.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 11,home,Bakersfield,L,3-0,3.0,0.0,3,win,20190411_4k4o,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 12,home,Santa Barbara,W,20-16,20.0,16.0,4,win,20190412_faix,3.0,2.0,1.0,1.0,,,2.0,2.0,,2.0,,1.0,,,2.0,1.0,,1.0,1.0,1.0,6.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 16,home,Oxnard,W,8-7,8.0,7.0,1,win,20190416_tk2q,3.0,2.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,,2.0,,4.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 17,home,Compton,L,5-4,5.0,4.0,1,win,20190417_jbj4,1.0,1.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,,,,1.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 18,home,Ventura,L,17-7,17.0,7.0,10,win,20190418_lrif,2.0,0.0,0.0,,,,0.0,,2.0,,,1.0,,,0.0,0.0,,,,,3.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 23,home,LA Pierce,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 25,home,LA Mission,L,9-5,9.0,5.0,4,win,20190425_rylx,4.0,1.0,3.0,1.0,,,1.0,,,,1.0,,,,4.0,1.0,1.0,1.0,,,4.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
+Apr 26,home,West LA,W,8-4,8.0,4.0,4,win,20190426_n417,4.0,2.0,1.0,,,,1.0,,1.0,,,1.0,,,1.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,stephenknezevichtad9,Stephen Knezevich
 Jan 25,home,Cosumnes River,L,8-2,8.0,2.0,6,win,20190125_7y7b,4.0,0.0,1.0,,,,1.0,1.0,1.0,,,,,,1.0,0.0,,2.0,,,5.0,2019,,Shasta,shasta,jakobweiserey89,Jakob Weiser
 Jan 26,home,Cosumnes River,L,3-1,3.0,1.0,2,win,20190126_cwym,4.0,0.0,2.0,,,,0.0,1.0,,,,,,,2.0,0.0,1.0,1.0,1.0,1.0,5.0,2019,,Shasta,shasta,jakobweiserey89,Jakob Weiser
 Jan 31,home,American River,W,22-12,22.0,12.0,10,win,20190131_nye4,0.0,0.0,0.0,,,,0.0,,,,,1.0,,,0.0,0.0,,,,,1.0,2019,,Shasta,shasta,jakobweiserey89,Jakob Weiser
@@ -2840,6 +3629,48 @@ Apr 18,home,Allan Hancock,L,2-1,2.0,1.0,1,win,20190418_wvgd,3.0,1.0,1.0,,,,0.0,,
 Apr 23,home,Porterville,W,12-4,12.0,4.0,8,win,20190423_lvxa,4.0,1.0,1.0,1.0,,,1.0,1.0,,,,,,,2.0,1.0,,2.0,1.0,2.0,5.0,2019,,Merced,merced,jacobalarcon8zgn,Jacob Alarcon
 Apr 25,home,Porterville,W,21-8,21.0,8.0,13,win,20190425_t57h,4.0,2.0,2.0,1.0,,,1.0,1.0,1.0,,,,,,3.0,1.0,,1.0,,,5.0,2019,,Merced,merced,jacobalarcon8zgn,Jacob Alarcon
 Apr 26,home,Porterville,W,14-0,14.0,0.0,14,win,20190426_bw6g,4.0,1.0,1.0,,,,3.0,1.0,,1.0,,,,,1.0,0.0,,2.0,1.0,2.0,5.0,2019,,Merced,merced,jacobalarcon8zgn,Jacob Alarcon
+Jan 25,home,Marin,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Jan 26,home,Laney,W,11-0,11.0,0.0,11,win,20190126_wc2r,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,3.0,,,4.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Jan 27,home,Reedley,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Jan 31,home,Lassen,W,17-4,17.0,4.0,13,win,20190131_zlos,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,1.0,1.0,2.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 1,home,Shasta,W,21-3,21.0,3.0,18,win,20190201_u5be,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 6,home,Feather River,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 7,home,Solano,W,13-3,13.0,3.0,10,win,20190207_53ur,2.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,1.0,,2.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 7,home,Solano,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 11,home,Butte,L,11-8,11.0,8.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 14,home,Laney,W,7-6,7.0,6.0,1,win,20190214_vgo8,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 18,home,Butte,W,16-9,16.0,9.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 21,home,Chabot,W,19-1,19.0,1.0,18,win,20190221_1ur3,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 22,home,Yuba,W,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 23,home,Yuba,W,20-5,20.0,5.0,15,win,20190223_aioe,1.0,1.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,,,,2.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Feb 28,home,Diablo Valley,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 1,home,Diablo Valley,W,14-7,14.0,7.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 1,home,Diablo Valley,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 7,home,Sacramento City,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 11,home,Sacramento City,L,19-7,19.0,7.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 11,home,Sacramento City,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 12,home,Cosumnes River,W,13-10,13.0,10.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 14,home,Cosumnes River,W,14-10,14.0,10.0,4,win,20190314_oi67,1.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,,,,1.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 15,home,Cosumnes River,W,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 19,home,American River,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 21,home,American River,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 23,home,American River,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 26,home,San Joaquin Delta,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 28,home,San Joaquin Delta,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Mar 29,home,San Joaquin Delta,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 3,home,Modesto,W,12-1,12.0,1.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 4,home,Modesto,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 6,home,Modesto,W,22-11,22.0,11.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 9,home,Folsom Lake,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 11,home,Folsom Lake,W,15-9,15.0,9.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 12,home,Folsom Lake,W,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 17,home,Shasta,W,13-3,13.0,3.0,10,win,20190417_2meb,3.0,1.0,0.0,,,,1.0,,,,1.0,1.0,,,0.0,0.0,,2.0,,,4.0,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 23,home,Santa Rosa,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 25,home,Santa Rosa,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+Apr 26,home,Santa Rosa,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+May 3,home,San Mateo,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+May 4,home,San Mateo,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
+May 4,home,San Mateo,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,thomascapllonch49lx,Thomas Capllonch
 Jan 25,home,Cerritos,W,9-6,9.0,6.0,3,win,20190125_fi2a,4.0,2.0,3.0,,,,0.0,1.0,,2.0,,,,,3.0,0.0,,,,,5.0,2019,,Santa Ana,santaana,chadwilson4gv8,Chad Wilson
 Jan 26,home,San Diego Mesa,L,7-3,7.0,3.0,4,win,20190126_5avl,3.0,1.0,0.0,,,,0.0,,1.0,,,1.0,,,0.0,0.0,,2.0,,,4.0,2019,,Santa Ana,santaana,chadwilson4gv8,Chad Wilson
 Jan 29,home,Compton,W,11-3,11.0,3.0,8,win,20190129_p78g,5.0,2.0,2.0,1.0,1.0,,3.0,,,,,,,,5.0,2.0,,2.0,,,5.0,2019,,Santa Ana,santaana,chadwilson4gv8,Chad Wilson
@@ -3007,6 +3838,46 @@ Apr 20,home,Antelope Valley,L,5-1,5.0,1.0,4,win,20190420_vfv8,4.0,0.0,0.0,,,,0.0
 Apr 20,home,Antelope Valley,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,West LA,westla,colbykatayamaf0kf,Colby Katayama
 Apr 25,home,LA Pierce,L,10-1,10.0,1.0,9,win,20190425_y6rv,5.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,2.0,1.0,5.0,2019,,West LA,westla,colbykatayamaf0kf,Colby Katayama
 Apr 26,home,LA Valley,L,8-4,8.0,4.0,4,win,20190426_n417,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2019,,West LA,westla,colbykatayamaf0kf,Colby Katayama
+Jan 25,home,Ventura,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Jan 26,home,Imperial Valley,W,15-6,15.0,6.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Jan 29,home,Imperial Valley,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Jan 30,home,LA Harbor,L,14-3,14.0,3.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 1,home,San Joaquin Delta,L,13-2,13.0,2.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 1,home,San Joaquin Delta,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 5,home,Moorpark,L,12-4,12.0,4.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 7,home,Oxnard,L,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 8,home,Antelope Valley,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 9,home,Antelope Valley,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 12,home,Moorpark,L,7-1,7.0,1.0,6,win,20190212_ixez,2.0,0.0,0.0,,,,0.0,1.0,,,,,,1.0,0.0,0.0,,2.0,1.0,2.0,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 14,home,Canyons,L,14-6,14.0,6.0,8,win,20190214_ddb8,4.0,2.0,3.0,1.0,,,1.0,,1.0,1.0,,,1.0,,4.0,1.0,,,1.0,,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 16,home,Oxnard,L,13-7,13.0,7.0,6,win,20190216_5v04,5.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,2.0,0.5,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 19,home,LA Harbor,W,7-3,7.0,3.0,4,win,20190219_8pwx,4.0,0.0,1.0,,,,0.0,,3.0,,,,,1.0,1.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 20,home,Rio Hondo,L,11-6,11.0,6.0,5,win,20190220_o8mb,4.0,1.0,2.0,1.0,,,0.0,1.0,,,,,,,3.0,1.0,1.0,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 23,home,Bakersfield,L,9-0,9.0,0.0,9,win,20190223_65qp,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,2.0,,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 25,home,Irvine Valley,L,15-7,15.0,7.0,8,win,20190225_j3o8,3.0,0.0,0.0,,,,1.0,,,,,,,1.0,0.0,0.0,,3.0,1.0,3.0,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Feb 28,home,LA Pierce,W,13-5,13.0,5.0,8,win,20190228_x1bd,6.0,2.0,3.0,,,,0.0,,1.0,,,,,,3.0,0.0,,2.0,,,6.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 1,home,LA Mission,L,8-4,8.0,4.0,4,win,20190301_3nwx,5.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,3.0,0.67,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 5,home,West LA,W,22-1,22.0,1.0,21,win,20190305_9q5j,2.0,3.0,0.0,,,,2.0,2.0,1.0,1.0,,1.0,1.0,1.0,0.0,0.0,,,2.0,,7.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 7,home,Bakersfield,L,6-4,6.0,4.0,2,win,20190307_xlhl,5.0,0.0,1.0,,,,0.0,,1.0,1.0,,,,,1.0,0.0,,1.0,2.0,0.5,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 9,home,Bakersfield,L,7-6,7.0,6.0,1,win,20190309_9xgz,3.0,2.0,2.0,,,,0.0,2.0,,,1.0,,,,2.0,0.0,,1.0,,,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 12,home,Bakersfield,W,11-9,11.0,9.0,2,win,20190312_2wiw,2.0,2.0,1.0,,,,0.0,1.0,,,,1.0,,1.0,1.0,0.0,,2.0,,,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 21,home,LA Pierce,L,3-1,3.0,1.0,2,win,20190321_cq6a,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 23,home,LA Pierce,W,15-1,15.0,1.0,14,win,20190323_rc3g,3.0,2.0,0.0,,,,0.0,1.0,1.0,1.0,,1.0,,,0.0,0.0,,,2.0,,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 26,home,LA Pierce,W,14-9,14.0,9.0,5,win,20190326_uudk,4.0,0.0,0.0,,,,0.0,2.0,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,6.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 28,home,LA Mission,L,11-1,11.0,1.0,10,win,20190328_litk,4.0,1.0,1.0,,1.0,,0.0,,1.0,,,,,,3.0,1.0,,,2.0,,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Mar 30,home,LA Mission,W,8-6,8.0,6.0,2,win,20190330_eszv,3.0,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,1.0,,,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 2,home,LA Mission,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 4,home,West LA,L,15-12,15.0,12.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 6,home,West LA,W,17-2,17.0,2.0,15,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 9,home,West LA,W,10-5,10.0,5.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 11,home,Bakersfield,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 12,home,Santa Barbara,W,20-16,20.0,16.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 16,home,Oxnard,W,8-7,8.0,7.0,1,win,20190416_tk2q,2.0,1.0,0.0,,,,0.0,1.0,,,,,,1.0,0.0,0.0,,2.0,1.0,2.0,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 17,home,Compton,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 18,home,Ventura,L,17-7,17.0,7.0,10,win,20190418_lrif,4.0,1.0,1.0,1.0,,,1.0,,1.0,,,1.0,,,2.0,1.0,,1.0,1.0,1.0,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 23,home,LA Pierce,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 25,home,LA Mission,L,9-5,9.0,5.0,4,win,20190425_rylx,3.0,1.0,3.0,,,,1.0,1.0,,,,,,,3.0,0.0,,,,,4.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
+Apr 26,home,West LA,W,8-4,8.0,4.0,4,win,20190426_n417,4.0,0.0,2.0,,,,2.0,,,,,,1.0,,2.0,0.0,,1.0,2.0,0.5,5.0,2019,,LA Valley,lavalley,alexaguilardeg6,Alex Aguilar
 Jan 25,home,Folsom Lake,L,4-3,4.0,3.0,1,win,20190125_n783,1.0,0.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,,1.0,,3.0,2019,,Butte,butte,kurtisrobertsygo8,Kurtis Roberts
 Jan 26,home,Folsom Lake,L,4-1,4.0,1.0,3,win,20190126_sclw,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,1.0,1.0,2.0,2019,,Butte,butte,kurtisrobertsygo8,Kurtis Roberts
 Jan 27,home,Folsom Lake,W,5-1,5.0,1.0,4,win,20190127_v0fb,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Butte,butte,kurtisrobertsygo8,Kurtis Roberts
@@ -3219,6 +4090,48 @@ Apr 19,home,Moorpark,L,12-6,12.0,6.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Pierce
 Apr 23,home,LA Valley,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Pierce,lapierce,alexbaumgartneraf1q,Alex Baumgartner
 Apr 25,home,West LA,W,10-1,10.0,1.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Pierce,lapierce,alexbaumgartneraf1q,Alex Baumgartner
 Apr 26,home,Bakersfield,L,8-1,8.0,1.0,7,win,20190426_1mhx,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,1.0,,,1.0,2019,,LA Pierce,lapierce,alexbaumgartneraf1q,Alex Baumgartner
+Jan 25,home,Feather River,L,16-8,16.0,8.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Jan 26,home,Feather River,L,16-9,16.0,9.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Jan 26,home,Taft,W,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Jan 31,home,Imperial Valley,W,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 2,home,Ventura,L,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 7,home,Imperial Valley,L,16-11,16.0,11.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 8,home,Desert,W,19-9,19.0,9.0,10,win,20190208_mf1i,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 9,home,Desert,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 12,home,San Bernardino Valley,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 14,home,Mt. San Jacinto,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 15,home,Mt. San Jacinto,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 16,home,Compton,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 19,home,San Bernardino Valley,L,9-4,9.0,4.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 23,home,San Diego Mesa,W,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 23,home,San Diego Mesa,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 26,home,Porterville,W,15-3,15.0,3.0,12,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Feb 26,home,Porterville,W,4-0,4.0,0.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 1,home,Porterville,W,6-1,6.0,1.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 1,home,Porterville,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 5,home,Victor Valley,W,13-4,13.0,4.0,9,win,20190305_ccaf,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 7,home,Glendale,L,20-2,20.0,2.0,18,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 9,home,Victor Valley,W,12-2,12.0,2.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 12,home,Citrus,L,11-9,11.0,9.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 14,home,Antelope Valley,W,12-2,12.0,2.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 16,home,Canyons,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 19,home,Glendale,L,15-14,15.0,14.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 21,home,Glendale,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 23,home,Glendale,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 26,home,Victor Valley,L,11-4,11.0,4.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 28,home,Victor Valley,W,14-7,14.0,7.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Mar 30,home,Victor Valley,W,12-2,12.0,2.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 2,home,Citrus,L,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 4,home,Citrus,W,24-5,24.0,5.0,19,win,20190404_tly2,1.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 6,home,Citrus,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 10,home,Antelope Valley,W,9-7,9.0,7.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 11,home,Antelope Valley,W,9-0,9.0,0.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 12,home,Antelope Valley,L,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 16,home,Cerro Coso,W,13-11,13.0,11.0,2,win,20190416_aqvf,3.0,1.0,2.0,,,,1.0,,,,,,,,2.0,0.0,,1.0,,,3.0,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 18,home,Cerro Coso,L,18-9,18.0,9.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 23,home,Canyons,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 25,home,Canyons,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
+Apr 26,home,Canyons,L,22-13,22.0,13.0,9,win,20190426_fvvu,1.0,2.0,0.0,,,,1.0,1.0,,,,1.0,,,0.0,0.0,,,1.0,,3.0,2019,,Barstow,barstow,dylanbradforden3m,Dylan Bradford
 Jan 25,home,Allan Hancock,L,8-7,8.0,7.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Pierce,lapierce,hakeemyatim45jh,Hakeem Yatim
 Jan 26,home,Allan Hancock,W,4-3,4.0,3.0,1,win,20190126_6j1u,2.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2019,,LA Pierce,lapierce,hakeemyatim45jh,Hakeem Yatim
 Jan 29,home,Allan Hancock,L,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,LA Pierce,lapierce,hakeemyatim45jh,Hakeem Yatim
@@ -3476,6 +4389,48 @@ Apr 25,home,Shasta,W,4-0,4.0,0.0,4,win,20190425_j93w,4.0,0.0,0.0,,,,0.0,,1.0,,,,
 May 3,home,Ohlone,W,5-3,5.0,3.0,2,win,20190503_8p2e,5.0,2.0,2.0,1.0,,1.0,2.0,,1.0,,,,,,6.0,2.0,,1.0,,,5.0,2019,,Butte,butte,tylerstewart1v7c,Tyler Stewart
 May 4,home,Ohlone,L,12-6,12.0,6.0,6,win,20190504_3e1m,4.0,1.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,1.0,2.0,0.5,5.0,2019,,Butte,butte,tylerstewart1v7c,Tyler Stewart
 May 4,home,Ohlone,L,2-1,2.0,1.0,1,win,20190504_9lh4,4.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,1.0,2.0,1.0,2.0,4.0,2019,,Butte,butte,tylerstewart1v7c,Tyler Stewart
+Jan 25,home,Marin,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Jan 26,home,Laney,W,11-0,11.0,0.0,11,win,20190126_wc2r,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Jan 27,home,Reedley,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Jan 31,home,Lassen,W,17-4,17.0,4.0,13,win,20190131_zlos,2.0,0.0,2.0,1.0,,,1.0,,,,,,,,3.0,1.0,,,,,2.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 1,home,Shasta,W,21-3,21.0,3.0,18,win,20190201_u5be,1.0,2.0,0.0,,,,1.0,1.0,,,,1.0,,,0.0,0.0,,,1.0,,3.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 6,home,Feather River,W,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 7,home,Solano,W,13-3,13.0,3.0,10,win,20190207_53ur,0.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 7,home,Solano,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 11,home,Butte,L,11-8,11.0,8.0,3,win,20190211_fm7t,3.0,0.0,1.0,1.0,,,1.0,1.0,,,1.0,,,,2.0,1.0,,1.0,1.0,1.0,4.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 14,home,Laney,W,7-6,7.0,6.0,1,win,20190214_vgo8,3.0,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0.0,0.0,,2.0,,,4.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 18,home,Butte,W,16-9,16.0,9.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 21,home,Chabot,W,19-1,19.0,1.0,18,win,20190221_1ur3,4.0,1.0,1.0,,,1.0,1.0,,3.0,,,,,,4.0,1.0,,,,,4.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 22,home,Yuba,W,12-7,12.0,7.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 23,home,Yuba,W,20-5,20.0,5.0,15,win,20190223_aioe,1.0,0.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,,,,1.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Feb 28,home,Diablo Valley,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 1,home,Diablo Valley,W,14-7,14.0,7.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 1,home,Diablo Valley,W,10-4,10.0,4.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 7,home,Sacramento City,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 11,home,Sacramento City,L,19-7,19.0,7.0,12,win,20190311_bxw7,2.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,,,2.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 11,home,Sacramento City,L,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 12,home,Cosumnes River,W,13-10,13.0,10.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 14,home,Cosumnes River,W,14-10,14.0,10.0,4,win,20190314_oi67,1.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,1.0,1.0,,,2.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 15,home,Cosumnes River,W,12-3,12.0,3.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 19,home,American River,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 21,home,American River,W,7-2,7.0,2.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 23,home,American River,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 26,home,San Joaquin Delta,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 28,home,San Joaquin Delta,L,7-4,7.0,4.0,3,win,20190328_tefl,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Mar 29,home,San Joaquin Delta,W,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 3,home,Modesto,W,12-1,12.0,1.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 4,home,Modesto,L,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 6,home,Modesto,W,22-11,22.0,11.0,11,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 9,home,Folsom Lake,W,11-1,11.0,1.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 11,home,Folsom Lake,W,15-9,15.0,9.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 12,home,Folsom Lake,W,11-9,11.0,9.0,2,win,20190412_l6l3,1.0,1.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,,,1.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 17,home,Shasta,W,13-3,13.0,3.0,10,win,20190417_2meb,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 23,home,Santa Rosa,L,3-2,3.0,2.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 25,home,Santa Rosa,L,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+Apr 26,home,Santa Rosa,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+May 3,home,San Mateo,L,4-3,4.0,3.0,1,win,20190503_avg3,1.0,1.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,,,,1.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+May 4,home,San Mateo,W,4-2,4.0,2.0,2,win,20190504_sj9z,0.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
+May 4,home,San Mateo,L,11-10,11.0,10.0,1,win,20190504_uiro,4.0,1.0,1.0,,,,0.0,,2.0,,,1.0,,,1.0,0.0,,1.0,,,5.0,2019,,Sierra,sierra,christophercook3vdg,Christopher Cook
 Jan 25,home,Porterville,W,13-3,13.0,3.0,10,win,,,,,,,,,,,,,,,,,,,,,,,2019,,Lassen,lassen,maleiklariviereha7o,Maleik LaRiviere
 Jan 25,home,Porterville,W,10-2,10.0,2.0,8,win,20190125_ygbl,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Lassen,lassen,maleiklariviereha7o,Maleik LaRiviere
 Jan 26,home,Porterville,W,13-4,13.0,4.0,9,win,20190126_4yu1,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2019,,Lassen,lassen,maleiklariviereha7o,Maleik LaRiviere
