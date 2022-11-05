@@ -1,13 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,cccaa_season,team,team_id,player_id,player_name
-Apr 17,home,Solano,W,4-0,4.0,0.0,4,win,20180417_snc1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-Apr 19,home,Solano,W,4-2,4.0,2.0,2,win,20180419_1x6p,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-Apr 21,home,Solano,W,12-6,12.0,6.0,6,win,20180421_svyo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-Apr 24,home,Los Medanos,W,16-3,16.0,3.0,13,win,20180424_nkhn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-Apr 26,home,Los Medanos,W,12-3,12.0,3.0,9,win,20180426_07mr,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-Apr 27,home,Los Medanos,L,9-4,9.0,4.0,5,win,20180427_v43l,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-May 4,home,San Mateo,W,18-4,18.0,4.0,14,win,20180504_klzv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-May 5,home,San Mateo,L,2-1,2.0,1.0,1,win,20180505_e8db,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
-May 5,home,San Mateo,L,9-4,9.0,4.0,5,win,20180505_6ils,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Marin,marin,jamesharwell66fz,James Harwell
 Jan 26,home,Cerritos,L,5-2,5.0,2.0,3,win,20180126_4wlg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Mt. San Jacinto,mtsanjacinto,shanemittlemandccj,Shane Mittleman
 Jan 27,home,East Los Angeles,L,2-1,2.0,1.0,1,win,20180127_oziw,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Mt. San Jacinto,mtsanjacinto,shanemittlemandccj,Shane Mittleman
 Jan 30,home,Barstow,W,10-7,10.0,7.0,3,win,20180130_eqxu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Mt. San Jacinto,mtsanjacinto,shanemittlemandccj,Shane Mittleman
@@ -413,6 +404,45 @@ Apr 20,home,Feather River,L,7-0,7.0,0.0,7,win,20180420_1c5y,0.0,0.0,0.0,0.0,0.0,
 Apr 21,home,Feather River,L,7-6,7.0,6.0,1,win,20180421_n9uv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Lassen,lassen,robertlujanqmfw,Robert Lujan
 Apr 25,home,Redwoods,L,15-0,15.0,0.0,15,win,20180425_sxm2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Lassen,lassen,robertlujanqmfw,Robert Lujan
 Apr 25,home,Redwoods,L,5-4,5.0,4.0,1,win,20180425_k8ny,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Lassen,lassen,robertlujanqmfw,Robert Lujan
+Jan 26,home,San Francisco,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Jan 30,home,West Valley,L,5-3,5.0,3.0,2,win,20180130_um47,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 1,home,Reedley,L,15-2,15.0,2.0,13,win,20180201_32bz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 2,home,Bakersfield,L,4-3,4.0,3.0,1,win,20180202_67qn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 3,home,Sequoias,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 6,home,De Anza,L,17-10,17.0,10.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 9,home,American River,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 10,home,American River,L,8-0,8.0,0.0,8,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 13,home,San Mateo,L,11-3,11.0,3.0,8,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 16,home,Redwoods,L,6-5,6.0,5.0,1,win,20180216_ju62,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 16,home,Redwoods,L,10-7,10.0,7.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 20,home,Fresno City,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 21,home,Fresno City,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 22,home,Taft,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 27,home,Mission,L,11-5,11.0,5.0,6,win,20180227_59xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Feb 28,home,West Valley,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 3,home,San Francisco,W,10-3,10.0,3.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 6,home,Gavilan,W,12-5,12.0,5.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 8,home,Gavilan,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 9,home,Gavilan,W,9-6,9.0,6.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 13,home,Canada,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 15,home,Canada,L,14-1,14.0,1.0,13,win,20180315_i6sv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 18,home,Canada,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 21,home,Ohlone,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 22,home,Ohlone,L,9-3,9.0,3.0,6,win,20180322_kaoq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 24,home,Ohlone,L,9-2,9.0,2.0,7,win,20180324_2xxs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 29,home,San Mateo,L,5-0,5.0,0.0,5,win,20180329_xgjo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Mar 31,home,Chabot,L,4-2,4.0,2.0,2,win,20180331_wpub,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 3,home,Diablo Valley,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 5,home,Diablo Valley,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 10,home,Cabrillo,L,12-2,12.0,2.0,10,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 12,home,Cabrillo,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 14,home,Cabrillo,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 17,home,Monterey Peninsula,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 19,home,Monterey Peninsula,L,16-0,16.0,0.0,16,win,20180419_mofg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 21,home,Monterey Peninsula,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 24,home,Skyline,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 26,home,Skyline,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
+Apr 27,home,Skyline,L,12-8,12.0,8.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,johnramon3g23,John Ramon
 Jan 26,home,Diablo Valley,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2018,,Mission,mission,jakemurrietadfw8,Jake Murrieta
 Jan 30,home,American River,W,9-1,9.0,1.0,8,win,,,,,,,,,,,,,2018,,Mission,mission,jakemurrietadfw8,Jake Murrieta
 Feb 1,home,Bakersfield,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Mission,mission,jakemurrietadfw8,Jake Murrieta
@@ -1969,6 +1999,45 @@ Apr 27,home,Sequoias,L,15-8,15.0,8.0,7,win,20180427_k8lq,0.0,0.0,0.0,0.0,0.0,,,,
 May 1,home,Los Medanos,W,11-3,11.0,3.0,8,win,20180501_h5yk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Taft,taft,kenjimccarthyzynz,Kenji McCarthy
 May 4,home,San Joaquin Delta,L,4-1,4.0,1.0,3,win,20180504_dcd0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Taft,taft,kenjimccarthyzynz,Kenji McCarthy
 May 5,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,20180505_wa2f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Taft,taft,kenjimccarthyzynz,Kenji McCarthy
+Jan 26,home,San Francisco,W,4-3,4.0,3.0,1,win,20180126_4hxk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Jan 30,home,West Valley,L,5-3,5.0,3.0,2,win,20180130_um47,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 1,home,Reedley,L,15-2,15.0,2.0,13,win,20180201_32bz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 2,home,Bakersfield,L,4-3,4.0,3.0,1,win,20180202_67qn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 3,home,Sequoias,L,10-1,10.0,1.0,9,win,20180203_mqvl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 6,home,De Anza,L,17-10,17.0,10.0,7,win,20180206_ufsm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 9,home,American River,L,9-2,9.0,2.0,7,win,20180209_3o47,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 10,home,American River,L,8-0,8.0,0.0,8,win,20180210_9ly5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 13,home,San Mateo,L,11-3,11.0,3.0,8,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 16,home,Redwoods,L,6-5,6.0,5.0,1,win,20180216_ju62,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 16,home,Redwoods,L,10-7,10.0,7.0,3,win,20180216_7phf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 20,home,Fresno City,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 21,home,Fresno City,W,4-3,4.0,3.0,1,win,20180221_te8z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 22,home,Taft,L,6-4,6.0,4.0,2,win,20180222_vbcs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 27,home,Mission,L,11-5,11.0,5.0,6,win,20180227_59xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Feb 28,home,West Valley,L,11-6,11.0,6.0,5,win,20180228_g2cu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 3,home,San Francisco,W,10-3,10.0,3.0,7,win,20180303_84c5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 6,home,Gavilan,W,12-5,12.0,5.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 8,home,Gavilan,W,9-5,9.0,5.0,4,win,20180308_j57f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 9,home,Gavilan,W,9-6,9.0,6.0,3,win,20180309_9ue2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 13,home,Canada,W,6-5,6.0,5.0,1,win,20180313_ah6i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 15,home,Canada,L,14-1,14.0,1.0,13,win,20180315_i6sv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 18,home,Canada,W,8-7,8.0,7.0,1,win,20180318_dpfu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 21,home,Ohlone,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 22,home,Ohlone,L,9-3,9.0,3.0,6,win,20180322_kaoq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 24,home,Ohlone,L,9-2,9.0,2.0,7,win,20180324_2xxs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 29,home,San Mateo,L,5-0,5.0,0.0,5,win,20180329_xgjo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Mar 31,home,Chabot,L,4-2,4.0,2.0,2,win,20180331_wpub,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 3,home,Diablo Valley,W,8-6,8.0,6.0,2,win,20180403_pblk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 5,home,Diablo Valley,L,12-3,12.0,3.0,9,win,20180405_r0gv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 10,home,Cabrillo,L,12-2,12.0,2.0,10,win,20180410_9lq1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 12,home,Cabrillo,W,6-5,6.0,5.0,1,win,20180412_0pc2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 14,home,Cabrillo,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 17,home,Monterey Peninsula,L,7-3,7.0,3.0,4,win,20180417_j4b4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 19,home,Monterey Peninsula,L,16-0,16.0,0.0,16,win,20180419_mofg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 21,home,Monterey Peninsula,L,2-1,2.0,1.0,1,win,20180421_8jdp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 24,home,Skyline,W,5-3,5.0,3.0,2,win,20180424_y2ug,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 26,home,Skyline,L,11-10,11.0,10.0,1,win,20180426_kzbl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
+Apr 27,home,Skyline,L,12-8,12.0,8.0,4,win,20180427_hhka,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,andrewmier8kpx,Andrew Mier
 Jan 27,home,Sequoias,W,9-2,9.0,2.0,7,win,20180127_u2ye,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Fullerton,fullerton,jakeandersonuvbb,Jake Anderson
 Jan 27,home,Moorpark,L,6-5,6.0,5.0,1,win,20180127_wd7k,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Fullerton,fullerton,jakeandersonuvbb,Jake Anderson
 Jan 28,home,Bakersfield,W,9-2,9.0,2.0,7,win,20180128_kn0q,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Fullerton,fullerton,jakeandersonuvbb,Jake Anderson
@@ -2619,6 +2688,45 @@ Apr 27,home,Sequoias,L,15-8,15.0,8.0,7,win,20180427_k8lq,0.0,0.0,0.0,0.0,0.0,,,,
 May 1,home,Los Medanos,W,11-3,11.0,3.0,8,win,20180501_h5yk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Taft,taft,tylergardnerbw89,Tyler Gardner
 May 4,home,San Joaquin Delta,L,4-1,4.0,1.0,3,win,20180504_dcd0,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Taft,taft,tylergardnerbw89,Tyler Gardner
 May 5,home,San Joaquin Delta,L,8-1,8.0,1.0,7,win,20180505_wa2f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Taft,taft,tylergardnerbw89,Tyler Gardner
+Jan 26,home,San Francisco,W,4-3,4.0,3.0,1,win,20180126_4hxk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Jan 30,home,West Valley,L,5-3,5.0,3.0,2,win,20180130_um47,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 1,home,Reedley,L,15-2,15.0,2.0,13,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 2,home,Bakersfield,L,4-3,4.0,3.0,1,win,20180202_67qn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 3,home,Sequoias,L,10-1,10.0,1.0,9,win,20180203_mqvl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 6,home,De Anza,L,17-10,17.0,10.0,7,win,20180206_ufsm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 9,home,American River,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 10,home,American River,L,8-0,8.0,0.0,8,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 13,home,San Mateo,L,11-3,11.0,3.0,8,win,20180213_71op,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 16,home,Redwoods,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 16,home,Redwoods,L,10-7,10.0,7.0,3,win,20180216_7phf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 20,home,Fresno City,L,8-1,8.0,1.0,7,win,20180220_2z9b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 21,home,Fresno City,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 22,home,Taft,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 27,home,Mission,L,11-5,11.0,5.0,6,win,20180227_59xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Feb 28,home,West Valley,L,11-6,11.0,6.0,5,win,20180228_g2cu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 3,home,San Francisco,W,10-3,10.0,3.0,7,win,20180303_84c5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 6,home,Gavilan,W,12-5,12.0,5.0,7,win,20180306_w87f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 8,home,Gavilan,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 9,home,Gavilan,W,9-6,9.0,6.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 13,home,Canada,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 15,home,Canada,L,14-1,14.0,1.0,13,win,20180315_i6sv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 18,home,Canada,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 21,home,Ohlone,L,3-1,3.0,1.0,2,win,20180321_bl3t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 22,home,Ohlone,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 24,home,Ohlone,L,9-2,9.0,2.0,7,win,20180324_2xxs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 29,home,San Mateo,L,5-0,5.0,0.0,5,win,20180329_xgjo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Mar 31,home,Chabot,L,4-2,4.0,2.0,2,win,20180331_wpub,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 3,home,Diablo Valley,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 5,home,Diablo Valley,L,12-3,12.0,3.0,9,win,20180405_r0gv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 10,home,Cabrillo,L,12-2,12.0,2.0,10,win,20180410_9lq1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 12,home,Cabrillo,W,6-5,6.0,5.0,1,win,20180412_0pc2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 14,home,Cabrillo,L,4-1,4.0,1.0,3,win,20180414_5o6x,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 17,home,Monterey Peninsula,L,7-3,7.0,3.0,4,win,20180417_j4b4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 19,home,Monterey Peninsula,L,16-0,16.0,0.0,16,win,20180419_mofg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 21,home,Monterey Peninsula,L,2-1,2.0,1.0,1,win,20180421_8jdp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 24,home,Skyline,W,5-3,5.0,3.0,2,win,20180424_y2ug,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 26,home,Skyline,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
+Apr 27,home,Skyline,L,12-8,12.0,8.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,baxterblack57jd,Baxter Black
 Jan 27,home,Gavilan,W,8-4,8.0,4.0,4,win,,,,,,,,,,,,,2018,,Siskiyous,siskiyous,noahserranowp5t,Noah Serrano
 Jan 27,home,Gavilan,L,11-10,11.0,10.0,1,win,20180127_pu0o,0.0,0.0,0.0,0.0,2.0,1.0,1.0,1.0,4.5,,1.0,2018,,Siskiyous,siskiyous,noahserranowp5t,Noah Serrano
 Feb 1,home,Porterville,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Siskiyous,siskiyous,noahserranowp5t,Noah Serrano
@@ -2820,6 +2928,45 @@ Apr 21,home,Fresno City,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,2018,,Merced,merced,ja
 Apr 24,home,Porterville,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Merced,merced,jacksonmcmillanu8of,Jackson McMillan
 Apr 26,home,Porterville,W,18-6,18.0,6.0,12,win,20180426_bgk7,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Merced,merced,jacksonmcmillanu8of,Jackson McMillan
 Apr 27,home,Porterville,W,8-1,8.0,1.0,7,win,20180427_mzhi,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Merced,merced,jacksonmcmillanu8of,Jackson McMillan
+Jan 26,home,San Francisco,W,4-3,4.0,3.0,1,win,20180126_4hxk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Jan 30,home,West Valley,L,5-3,5.0,3.0,2,win,20180130_um47,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 1,home,Reedley,L,15-2,15.0,2.0,13,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 2,home,Bakersfield,L,4-3,4.0,3.0,1,win,20180202_67qn,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 3,home,Sequoias,L,10-1,10.0,1.0,9,win,20180203_mqvl,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 6,home,De Anza,L,17-10,17.0,10.0,7,win,20180206_ufsm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 9,home,American River,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 10,home,American River,L,8-0,8.0,0.0,8,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 13,home,San Mateo,L,11-3,11.0,3.0,8,win,20180213_71op,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 16,home,Redwoods,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 16,home,Redwoods,L,10-7,10.0,7.0,3,win,20180216_7phf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 20,home,Fresno City,L,8-1,8.0,1.0,7,win,20180220_2z9b,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 21,home,Fresno City,W,4-3,4.0,3.0,1,win,20180221_te8z,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 22,home,Taft,L,6-4,6.0,4.0,2,win,20180222_vbcs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 27,home,Mission,L,11-5,11.0,5.0,6,win,20180227_59xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Feb 28,home,West Valley,L,11-6,11.0,6.0,5,win,20180228_g2cu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 3,home,San Francisco,W,10-3,10.0,3.0,7,win,20180303_84c5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 6,home,Gavilan,W,12-5,12.0,5.0,7,win,20180306_w87f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 8,home,Gavilan,W,9-5,9.0,5.0,4,win,20180308_j57f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 9,home,Gavilan,W,9-6,9.0,6.0,3,win,20180309_9ue2,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 13,home,Canada,W,6-5,6.0,5.0,1,win,20180313_ah6i,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 15,home,Canada,L,14-1,14.0,1.0,13,win,20180315_i6sv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 18,home,Canada,W,8-7,8.0,7.0,1,win,20180318_dpfu,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 21,home,Ohlone,L,3-1,3.0,1.0,2,win,20180321_bl3t,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 22,home,Ohlone,L,9-3,9.0,3.0,6,win,20180322_kaoq,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 24,home,Ohlone,L,9-2,9.0,2.0,7,win,20180324_2xxs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 29,home,San Mateo,L,5-0,5.0,0.0,5,win,20180329_xgjo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Mar 31,home,Chabot,L,4-2,4.0,2.0,2,win,20180331_wpub,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 3,home,Diablo Valley,W,8-6,8.0,6.0,2,win,20180403_pblk,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 5,home,Diablo Valley,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 10,home,Cabrillo,L,12-2,12.0,2.0,10,win,20180410_9lq1,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 12,home,Cabrillo,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 14,home,Cabrillo,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 17,home,Monterey Peninsula,L,7-3,7.0,3.0,4,win,20180417_j4b4,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 19,home,Monterey Peninsula,L,16-0,16.0,0.0,16,win,20180419_mofg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 21,home,Monterey Peninsula,L,2-1,2.0,1.0,1,win,20180421_8jdp,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 24,home,Skyline,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 26,home,Skyline,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
+Apr 27,home,Skyline,L,12-8,12.0,8.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jjrodriguezo3bg,JJ Rodriguez
 Jan 27,home,Desert,W,8-0,8.0,0.0,8,win,20180127_nvy5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Orange Coast,orangecoast,jacobgentryjy5d,Jacob Gentry
 Jan 30,home,Southwestern,W,3-2,3.0,2.0,1,win,,,,,,,,,,,,,2018,,Orange Coast,orangecoast,jacobgentryjy5d,Jacob Gentry
 Feb 1,home,Cuesta,L,10-8,10.0,8.0,2,win,,,,,,,,,,,,,2018,,Orange Coast,orangecoast,jacobgentryjy5d,Jacob Gentry
@@ -3326,6 +3473,45 @@ Apr 14,home,San Bernardino Valley,L,20-8,20.0,8.0,12,win,,,,,,,,,,,,,2018,,Imper
 Apr 17,home,Southwestern,L,8-3,8.0,3.0,5,win,,,,,,,,,,,,,2018,,Imperial Valley,imperialvalley,arturogamboahd72,Arturo Gamboa
 Apr 19,home,Southwestern,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Imperial Valley,imperialvalley,arturogamboahd72,Arturo Gamboa
 Apr 20,home,Southwestern,L,11-1,11.0,1.0,10,win,20180420_9xih,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Imperial Valley,imperialvalley,arturogamboahd72,Arturo Gamboa
+Jan 26,home,San Francisco,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Jan 30,home,West Valley,L,5-3,5.0,3.0,2,win,20180130_um47,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 1,home,Reedley,L,15-2,15.0,2.0,13,win,20180201_32bz,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 2,home,Bakersfield,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 3,home,Sequoias,L,10-1,10.0,1.0,9,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 6,home,De Anza,L,17-10,17.0,10.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 9,home,American River,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 10,home,American River,L,8-0,8.0,0.0,8,win,20180210_9ly5,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 13,home,San Mateo,L,11-3,11.0,3.0,8,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 16,home,Redwoods,L,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 16,home,Redwoods,L,10-7,10.0,7.0,3,win,20180216_7phf,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 20,home,Fresno City,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 21,home,Fresno City,W,4-3,4.0,3.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 22,home,Taft,L,6-4,6.0,4.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 27,home,Mission,L,11-5,11.0,5.0,6,win,20180227_59xm,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Feb 28,home,West Valley,L,11-6,11.0,6.0,5,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 3,home,San Francisco,W,10-3,10.0,3.0,7,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 6,home,Gavilan,W,12-5,12.0,5.0,7,win,20180306_w87f,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 8,home,Gavilan,W,9-5,9.0,5.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 9,home,Gavilan,W,9-6,9.0,6.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 13,home,Canada,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 15,home,Canada,L,14-1,14.0,1.0,13,win,20180315_i6sv,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 18,home,Canada,W,8-7,8.0,7.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 21,home,Ohlone,L,3-1,3.0,1.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 22,home,Ohlone,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 24,home,Ohlone,L,9-2,9.0,2.0,7,win,20180324_2xxs,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 29,home,San Mateo,L,5-0,5.0,0.0,5,win,20180329_xgjo,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Mar 31,home,Chabot,L,4-2,4.0,2.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 3,home,Diablo Valley,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 5,home,Diablo Valley,L,12-3,12.0,3.0,9,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 10,home,Cabrillo,L,12-2,12.0,2.0,10,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 12,home,Cabrillo,W,6-5,6.0,5.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 14,home,Cabrillo,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 17,home,Monterey Peninsula,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 19,home,Monterey Peninsula,L,16-0,16.0,0.0,16,win,20180419_mofg,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 21,home,Monterey Peninsula,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 24,home,Skyline,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 26,home,Skyline,L,11-10,11.0,10.0,1,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
+Apr 27,home,Skyline,L,12-8,12.0,8.0,4,win,,,,,,,,,,,,,2018,,Hartnell,hartnell,jaredvictorianovs83,Jared Victoriano
 Jan 26,home,American River,W,6-2,6.0,2.0,4,win,20180126_8u54,0.0,0.0,0.0,0.0,1.0,1.0,,,0.0,,,2018,,West Valley,westvalley,mattremmelrdq4,Matt Remmel
 Jan 27,home,American River,W,9-7,9.0,7.0,2,win,20180127_hfxq,0.0,0.0,0.0,0.0,2.0,,,,0.0,,4.0,2018,,West Valley,westvalley,mattremmelrdq4,Matt Remmel
 Jan 30,home,Hartnell,W,5-3,5.0,3.0,2,win,20180130_um47,0.0,0.0,0.0,0.0,1.0,,,,0.0,,1.0,2018,,West Valley,westvalley,mattremmelrdq4,Matt Remmel

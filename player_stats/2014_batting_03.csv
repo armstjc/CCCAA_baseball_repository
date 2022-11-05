@@ -1,4 +1,58 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,cccaa_season,team,team_id,player_id,player_name
+Feb 25,home,Gavilan,W,10-2,10.0,2.0,8,win,20140225_40eb,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,1.0,,,1.0,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Feb 27,home,Cabrillo,L,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 4,home,Mission,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 6,home,Hartnell,W,11-3,11.0,3.0,8,win,20140306_2tds,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,,,2.0,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 8,home,Skyline,W,6-3,6.0,3.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 11,home,San Francisco,W,22-8,22.0,8.0,14,win,20140311_mfvw,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 13,home,Canada,W,4-2,4.0,2.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 15,home,Monterey,W,18-6,18.0,6.0,12,win,20140315_fcps,1.0,1.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,1.0,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 18,home,Chabot,L,10-3,10.0,3.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 20,home,Skyline,W,17-1,17.0,1.0,16,win,20140320_cwg5,2.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,,1.0,,2.0,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 22,home,Monterey,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 25,home,Cabrillo,L,7-1,7.0,1.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 27,home,Canada,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Mar 28,home,Hartnell,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 2,home,San Mateo,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 5,home,Gavilan,W,11-1,11.0,1.0,10,win,20140405_vghg,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 8,home,West Valley,L,7-6,7.0,6.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 10,home,Gavilan,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 12,home,Hartnell,L,2-1,2.0,1.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 15,home,Skyline,W,8-5,8.0,5.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 17,home,Monterey,L,2-0,2.0,0.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 19,home,Cabrillo,L,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 22,home,De Anza,W,11-5,11.0,5.0,6,win,20140422_enek,2.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,,2.0,,2.0,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Apr 24,home,Canada,L,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Ohlone,ohlone,cjgilesxnw9,CJ Giles
+Jan 28,home,Chaffey,W,5-2,5.0,2.0,3,win,20140128_3cp3,4.0,1.0,2.0,1.0,,,0.0,,,,,,,,3.0,1.0,,1.0,1.0,1.0,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Jan 30,home,Palomar,W,5-2,5.0,2.0,3,win,20140130_8y0m,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 1,home,Palomar,W,2-1,2.0,1.0,1,win,20140201_fkl5,4.0,1.0,1.0,,,,0.0,2.0,,1.0,,,,,1.0,0.0,,2.0,1.0,2.0,6.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 4,home,Chaffey,L,6-3,6.0,3.0,3,win,20140204_nc67,4.0,1.0,1.0,,,,1.0,,1.0,,,,,,1.0,0.0,1.0,1.0,,,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 7,home,Reedley,L,2-1,2.0,1.0,1,win,20140207_ag4y,6.0,0.0,1.0,,,,0.0,,2.0,,,,,,1.0,0.0,,2.0,1.0,2.0,6.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 8,home,Hartnell,W,7-3,7.0,3.0,4,win,20140208_2uh8,4.0,1.0,2.0,,,,0.0,,,1.0,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 9,home,Sequoias,L,6-5,6.0,5.0,1,win,20140209_0gm6,5.0,1.0,2.0,,,1.0,2.0,,1.0,,,,,,5.0,1.0,,1.0,1.0,1.0,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 11,home,LA Harbor,W,7-1,7.0,1.0,6,win,20140211_iwu0,3.0,1.0,1.0,1.0,,,0.0,1.0,,,,,,,2.0,1.0,,1.0,1.0,1.0,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 13,home,LA Harbor,W,4-3,4.0,3.0,1,win,20140213_sjl9,4.0,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,,2.0,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 15,home,LA Harbor,L,3-0,3.0,0.0,3,win,20140215_z7v4,4.0,0.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 18,home,Cerritos,W,3-1,3.0,1.0,2,win,20140218_jja8,5.0,0.0,3.0,,,,0.0,,,1.0,1.0,,,,3.0,0.0,,1.0,1.0,1.0,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 20,home,Bakersfield,W,5-4,5.0,4.0,1,win,20140220_jm45,5.0,1.0,2.0,,,,1.0,,2.0,,,,,,2.0,0.0,,1.0,,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 21,home,Bakersfield,W,7-6,7.0,6.0,1,win,20140221_ctv1,4.0,1.0,2.0,,,,0.0,1.0,2.0,,,,,,2.0,0.0,,,,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 22,home,Bakersfield,L,2-1,2.0,1.0,1,win,20140222_njm5,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,2.0,1.0,2.0,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 25,home,Cerritos,L,5-2,5.0,2.0,3,win,20140225_ryg0,5.0,1.0,2.0,1.0,,,0.0,,,,1.0,,,,3.0,1.0,,,2.0,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Feb 27,home,Fullerton,W,3-2,3.0,2.0,1,win,20140227_yq8l,4.0,1.0,3.0,,,,0.0,1.0,,1.0,,,,,3.0,0.0,,1.0,,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 1,home,Riverside,,,,,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 3,home,Riverside,L,9-3,9.0,3.0,6,win,20140303_b1wv,4.0,1.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,2.0,0.5,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 4,home,Saddleback,L,3-1,3.0,1.0,2,win,20140304_dq4f,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 6,home,Irvine Valley,W,1-0,1.0,0.0,1,win,20140306_8gid,4.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,2.0,2.0,1.0,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 8,home,Cypress,L,6-5,6.0,5.0,1,win,20140308_kqsk,4.0,1.0,3.0,,,,2.0,1.0,1.0,,,,,,3.0,0.0,,,,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 11,home,Santa Ana,L,14-2,14.0,2.0,12,win,20140311_pho4,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,2.0,,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 13,home,Orange Coast,L,11-1,11.0,1.0,10,win,20140313_ss32,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,,2.0,,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 18,home,Fullerton,L,13-2,13.0,2.0,11,win,20140318_bcpe,4.0,0.0,0.0,,,,0.0,,1.0,,,,,,0.0,0.0,,1.0,2.0,0.5,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 20,home,Fullerton,L,5-1,5.0,1.0,4,win,20140320_jfvj,4.0,1.0,3.0,1.0,1.0,,0.0,1.0,,,,,,,6.0,2.0,,,1.0,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 22,home,Riverside,L,6-2,6.0,2.0,4,win,20140322_eyv7,4.0,0.0,1.0,,,,0.0,,3.0,,,,,,1.0,0.0,,,,,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 25,home,Riverside,L,6-1,6.0,1.0,5,win,20140325_k8sj,3.0,0.0,2.0,1.0,,,1.0,1.0,,,,,,,3.0,1.0,,1.0,,,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 27,home,Saddleback,W,2-1,2.0,1.0,1,win,20140327_yg9r,4.0,1.0,3.0,,,,1.0,,,,,,,,3.0,0.0,,,1.0,,4.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Mar 28,home,Saddleback,W,6-5,6.0,5.0,1,win,20140328_yvc1,4.0,2.0,2.0,,,1.0,1.0,1.0,1.0,,1.0,,,,5.0,1.0,,,1.0,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
+Apr 1,home,Irvine Valley,W,9-4,9.0,4.0,5,win,20140401_u9vo,5.0,1.0,3.0,,,,3.0,1.0,,1.0,1.0,,,,3.0,0.0,,1.0,1.0,1.0,6.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
 Apr 3,home,Irvine Valley,L,4-2,4.0,2.0,2,win,20140403_p1j6,4.0,0.0,2.0,,,,0.0,1.0,,,,,,,2.0,0.0,,1.0,1.0,1.0,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
 Apr 5,home,Cypress,L,5-2,5.0,2.0,3,win,20140405_314v,5.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,3.0,,,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
 Apr 8,home,Cypress,W,10-2,10.0,2.0,8,win,20140408_pvyw,5.0,1.0,1.0,1.0,,,1.0,,1.0,,,,,,2.0,1.0,,1.0,2.0,0.5,5.0,2014,,Golden West,goldenwest,michaelfarrisnjd0,Michael Farris
@@ -1829,6 +1883,42 @@ Apr 15,home,West Valley,W,15-9,15.0,9.0,6,win,20140415_dafe,2.0,0.0,0.0,,,,0.0,,
 Apr 18,home,San Francisco,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,De Anza,deanza,thomassylveu48a,Thomas Sylve
 Apr 22,home,Ohlone,L,11-5,11.0,5.0,6,win,20140422_enek,0.0,1.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,,,,1.0,2014,,De Anza,deanza,thomassylveu48a,Thomas Sylve
 Apr 24,home,San Mateo,L,7-3,7.0,3.0,4,win,20140424_v0zj,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,1.0,1.0,,,1.0,2014,,De Anza,deanza,thomassylveu48a,Thomas Sylve
+Jan 31,home,Santa Barbara,L,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 1,home,Santa Barbara,L,7-5,7.0,5.0,2,win,20140201_w2py,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 1,home,Santa Barbara,L,9-2,9.0,2.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 11,home,Butte,W,5-0,5.0,0.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 11,home,Butte,L,3-2,3.0,2.0,1,win,20140211_p516,3.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,1.0,1.0,3.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 13,home,San Francisco,W,3-2,3.0,2.0,1,win,20140213_6lyp,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 15,home,San Francisco,L,8-7,8.0,7.0,1,win,20140215_bi06,3.0,0.0,1.0,,,,1.0,1.0,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 21,home,Shasta,W,9-1,9.0,1.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 22,home,Shasta,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 22,home,Shasta,W,8-5,8.0,5.0,3,win,20140222_vk2n,4.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,1.0,,,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Feb 24,home,Butte,L,8-1,8.0,1.0,7,win,20140224_pa5k,3.0,0.0,0.0,,,,0.0,,3.0,,,,,,0.0,0.0,,,,,3.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 1,home,Santa Rosa,L,5-2,5.0,2.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 5,home,Sierra,L,2-0,2.0,0.0,2,win,20140305_t3b4,2.0,0.0,1.0,,,,0.0,1.0,,,,,,,1.0,0.0,,,1.0,,3.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 6,home,Modesto,L,3-2,3.0,2.0,1,win,20140306_7cip,2.0,0.0,0.0,,,,0.0,1.0,,,,,,,0.0,0.0,,2.0,,,3.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 8,home,Sacramento City,L,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 11,home,Los Medanos,L,8-4,8.0,4.0,4,win,20140311_zb28,4.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 13,home,Los Medanos,W,9-6,9.0,6.0,3,win,20140313_1e6n,5.0,1.0,3.0,,,,2.0,,,,,,,,3.0,0.0,,1.0,1.0,1.0,5.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 15,home,Los Medanos,L,6-4,6.0,4.0,2,win,20140315_n41b,3.0,0.0,1.0,1.0,,,1.0,,1.0,,,,,1.0,2.0,1.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 18,home,Marin,L,6-2,6.0,2.0,4,win,20140318_qxh1,4.0,0.0,1.0,,,,0.0,,,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 20,home,Marin,L,5-2,5.0,2.0,3,win,20140320_qc4u,4.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,2.0,,,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 22,home,Marin,W,3-1,3.0,1.0,2,win,20140322_c6ad,4.0,0.0,2.0,1.0,,,1.0,,,,,,,,3.0,1.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 25,home,Contra Costa,W,6-1,6.0,1.0,5,win,20140325_zvh3,5.0,1.0,2.0,1.0,,,0.0,,,,,,,,3.0,1.0,,1.0,2.0,0.5,5.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 27,home,Contra Costa,W,10-4,10.0,4.0,6,win,20140327_2t5v,5.0,1.0,2.0,2.0,,,3.0,,,,,,,,4.0,2.0,,2.0,1.0,2.0,5.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Mar 28,home,Contra Costa,W,8-2,8.0,2.0,6,win,20140328_o8u2,2.0,2.0,1.0,,,,0.0,1.0,,,,1.0,,,1.0,0.0,,,1.0,,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 3,home,Mendocino,W,5-1,5.0,1.0,4,win,20140403_kwzw,4.0,1.0,1.0,,,,1.0,1.0,1.0,,,,,,1.0,0.0,,2.0,,,5.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 5,home,Mendocino,W,6-3,6.0,3.0,3,win,20140405_ulpm,4.0,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1.0,0.0,,,1.0,,5.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 7,home,Mendocino,L,6-0,6.0,0.0,6,win,20140407_zt7x,4.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,,1.0,,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 8,home,Solano,L,4-3,4.0,3.0,1,win,20140408_gq3b,5.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,2.0,0.5,5.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 10,home,Solano,W,11-5,11.0,5.0,6,win,20140410_ta35,3.0,1.0,2.0,,,,1.0,,1.0,,,1.0,,,2.0,0.0,,,,,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 12,home,Solano,L,5-4,5.0,4.0,1,win,20140412_8n74,4.0,0.0,1.0,1.0,,,2.0,,2.0,,,,,,2.0,1.0,,1.0,,,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 15,home,Laney,L,3-2,3.0,2.0,1,win,20140415_oky9,4.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 17,home,Laney,L,7-5,7.0,5.0,2,win,20140417_wz3i,5.0,1.0,1.0,1.0,,,1.0,,,,,,,,2.0,1.0,,1.0,3.0,0.33,5.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 18,home,Laney,L,6-2,6.0,2.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 22,home,Yuba,L,9-7,9.0,7.0,2,win,20140422_vgqr,4.0,1.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,1.0,1.0,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 24,home,Yuba,L,3-2,3.0,2.0,1,win,20140424_4r01,3.0,0.0,1.0,,,,0.0,,1.0,,,1.0,,,1.0,0.0,,,1.0,,4.0,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
+Apr 26,home,Yuba,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Napa,napa,camerontaylorah4d,Cameron Taylor
 Feb 1,home,Cabrillo,W,9-1,9.0,1.0,8,win,20140201_k5f8,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2014,,Los Medanos,losmedanos,johnnybloomsf52,Johnny Bloom
 Feb 4,home,San Francisco,W,5-0,5.0,0.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Los Medanos,losmedanos,johnnybloomsf52,Johnny Bloom
 Feb 6,home,San Francisco,W,12-6,12.0,6.0,6,win,20140206_9pas,1.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,1.0,,1.0,2014,,Los Medanos,losmedanos,johnnybloomsf52,Johnny Bloom
@@ -3300,30 +3390,3 @@ Mar 27,home,Irvine Valley,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange
 Mar 28,home,Irvine Valley,L,4-3,4.0,3.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
 Apr 1,home,Riverside,W,5-1,5.0,1.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
 Apr 3,home,Riverside,L,3-0,3.0,0.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Apr 5,home,Saddleback,L,7-3,7.0,3.0,4,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Apr 8,home,Saddleback,W,13-3,13.0,3.0,10,win,20140408_huyy,0.0,0.0,0.0,,,,0.0,,,,,,,,0.0,0.0,,,,,0.0,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Apr 10,home,Fullerton,W,5-0,5.0,0.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Apr 11,home,Fullerton,W,10-1,10.0,1.0,9,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Apr 18,home,Desert,W,15-1,15.0,1.0,14,win,20140418_qrdn,3.0,1.0,0.0,,,,1.0,1.0,,1.0,,,,,0.0,0.0,,,2.0,,4.0,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Apr 22,home,Golden West,W,8-1,8.0,1.0,7,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Apr 24,home,Golden West,W,8-3,8.0,3.0,5,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 2,home,El Camino,W,7-4,7.0,4.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 3,home,El Camino,W,8-2,8.0,2.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 9,home,Allan Hancock,W,9-3,9.0,3.0,6,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 10,home,Allan Hancock,W,8-6,8.0,6.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 16,home,Southwestern,W,5-4,5.0,4.0,1,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 17,home,Southwestern,W,8-0,8.0,0.0,8,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 24,home,Sequoias,W,3-1,3.0,1.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 25,home,San Joaquin  Delta,W,4-1,4.0,1.0,3,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-May 26,home,San Joaquin  Delta,W,5-3,5.0,3.0,2,win,,,,,,,,,,,,,,,,,,,,,,,2014,,Orange Coast,orangecoast,nickkinsmanem5t,Nick Kinsman
-Jan 31,home,Cerro Coso,W,12-8,12.0,8.0,4,win,20140131_4m6e,5.0,1.0,2.0,,,,3.0,1.0,,2.0,,,,,2.0,0.0,,,3.0,,6.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 1,home,Cerro Coso,W,19-15,19.0,15.0,4,win,20140201_vv91,6.0,5.0,4.0,1.0,,,3.0,1.0,1.0,3.0,,,,,5.0,1.0,,,1.0,,7.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 1,home,Cerro Coso,W,17-6,17.0,6.0,11,win,20140201_547u,4.0,1.0,0.0,,,,0.0,2.0,,,,,,,0.0,0.0,,2.0,2.0,1.0,6.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 5,home,Allan Hancock,L,8-0,8.0,0.0,8,win,20140205_icxk,3.0,0.0,1.0,,,,0.0,,1.0,,,,,,1.0,0.0,,1.0,,,3.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 8,home,Gavilan,W,5-1,5.0,1.0,4,win,20140208_2dzp,5.0,1.0,2.0,,,,0.0,,,,,,,,2.0,0.0,,3.0,,,5.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 8,home,Gavilan,L,3-2,3.0,2.0,1,win,20140208_vri0,4.0,1.0,1.0,,,,0.0,,3.0,2.0,,,,,1.0,0.0,,,,,4.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 14,home,Victor Valley,W,12-7,12.0,7.0,5,win,20140214_sd6w,6.0,2.0,4.0,1.0,,,1.0,,,2.0,,,,,5.0,1.0,,1.0,,,6.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 15,home,Victor Valley,W,4-2,4.0,2.0,2,win,20140215_j77o,2.0,0.0,1.0,,,,0.0,1.0,,,1.0,,,1.0,1.0,0.0,,1.0,1.0,1.0,4.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 15,home,Victor Valley,W,15-14,15.0,14.0,1,win,20140215_df3t,2.0,1.0,1.0,,1.0,,3.0,1.0,1.0,1.0,,,1.0,,3.0,1.0,,,1.0,,4.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 19,home,Fresno City,L,8-3,8.0,3.0,5,win,20140219_8dsq,5.0,1.0,2.0,,,,0.0,,,1.0,,,,,2.0,0.0,,1.0,2.0,0.5,5.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
-Feb 20,home,Fresno City,L,18-0,18.0,0.0,18,win,20140220_kzq5,3.0,0.0,0.0,,,,0.0,,2.0,,,,,,0.0,0.0,,1.0,,,3.0,2014,,West Hills Coalinga,westhillscoalinga,coopermiranda7yio,Cooper Miranda
