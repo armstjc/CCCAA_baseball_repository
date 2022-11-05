@@ -23,7 +23,7 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 	player_count = len(player_urls)
 	# driver = webdriver.Chrome(
 	# 	executable_path=webdriverPath)
-	count = 4465
+	count = 4605
 	for i in tqdm(range(count,player_count)):
 		count += 1
 		print(f'{count}/{player_count}')
@@ -106,7 +106,7 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 
 		url = player_urls[i]
 		#driver.get(url)
-		print(url)
+		#print(url)
 		headers = {"User-Agent":"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36"}
 		response = requests.get(url,headers=headers)
 		soup = BeautifulSoup(response.text, features='lxml')
