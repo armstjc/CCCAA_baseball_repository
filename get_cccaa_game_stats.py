@@ -206,7 +206,7 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 					'CS':game_batting_CS},index=[0])
 				gamelog_batting_df = pd.concat([gamelog_batting_df,row_df], ignore_index=True)
 				del row_df
-
+		
 		#print(gamelog_batting_df)
 		# soup.find_all('table')[3] = Extended Hitting
 		ex_batting_table = soup.find_all('table')[3]
@@ -305,8 +305,11 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 		gamelog_batting_df['player_id'] = game_player_id
 		gamelog_batting_df['player_name'] = game_player_name
 
+		gamelog_batting_df = gamelog_batting_df.dropna(subset=['AB'])
 		#gamelog_batting_df = gamelog_batting_df.dropna(subset=['PA'], inplace=True)
-		gamelog_batting_df.to_csv(f'player_stats/batting/{game_season}_{game_player_id}.csv',index=False)
+		if len(gamelog_batting_df) > 0:
+			gamelog_batting_df.to_csv(f'player_stats/batting/{game_season}_{game_player_id}.csv',index=False)
+		
 		del gamelog_batting_df, gamelog_ex_batting_df, batting_table, ex_batting_table
 
 		pitching_table = soup.find_all('table')[4]
@@ -402,7 +405,11 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 		gamelog_pitching_df['player_id'] = game_player_id
 		gamelog_pitching_df['player_name'] = game_player_name
 
-		gamelog_pitching_df.to_csv(f'player_stats/pitching/{game_season}_{game_player_id}.csv',index=False)
+		gamelog_pitching_df = gamelog_pitching_df.dropna(subset=['IP'])
+		
+		if len(gamelog_pitching_df) > 0:
+			gamelog_pitching_df.to_csv(f'player_stats/pitching/{game_season}_{game_player_id}.csv',index=False)
+		
 		del gamelog_pitching_df,pitching_table
 
 		fielding_table = soup.find_all('table')[4]
@@ -497,9 +504,14 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 		gamelog_fielding_df['player_id'] = game_player_id
 		gamelog_fielding_df['player_name'] = game_player_name
 
-		gamelog_fielding_df.to_csv(f'player_stats/fielding/{game_season}_{game_player_id}.csv',index=False)
+		gamelog_fielding_df = gamelog_fielding_df.dropna(subset=['TC'])
+		
+		if len(gamelog_fielding_df) > 0:
+			gamelog_fielding_df.to_csv(f'player_stats/fielding/{game_season}_{game_player_id}.csv',index=False)
+		
 		time.sleep(5)
 		count += 1
+
 def main():
 	df = pd.read_csv('rosters/cccaa_rosters.csv')
 	get_CCCAA_gamelogs(df)
