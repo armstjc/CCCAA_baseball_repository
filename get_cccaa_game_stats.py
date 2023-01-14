@@ -4,7 +4,6 @@ import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-import numpy as np
 
 def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 	#teams_df = pd.read_csv('rosters/div1_rosters.csv')
