@@ -17,7 +17,7 @@ def get_CCCAA_Rosters():
 	# 	executable_path=webdriverPath)
 	
 	roster_df = pd.DataFrame()
-	for i in tqdm(range(0,len(school_name))):
+	for i in tqdm(range(670,len(school_name))):
 		roster_df = pd.DataFrame()
 		## Declarations to prevent "local variable referenced before assignment" errors
 		player_num = None
