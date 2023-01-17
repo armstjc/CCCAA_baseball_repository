@@ -7,7 +7,7 @@ from tqdm import tqdm
 
 def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 	#teams_df = pd.read_csv('rosters/div1_rosters.csv')
-	teams_df = teams_df[teams_df['team_season'] != 2023]
+	#teams_df = teams_df[teams_df['team_season'] != 2023]
 	school_name = teams_df['team_name'].tolist()
 	school_cccaa_season = teams_df['team_cccaa_season'].tolist()
 	
@@ -22,7 +22,7 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 	player_count = len(player_urls)
 	# driver = webdriver.Chrome(
 	# 	executable_path=webdriverPath)
-	count = 8100
+	count = 2000
 	for i in tqdm(range(count,player_count)):
 		
 		print(f'{count}/{player_count}')
