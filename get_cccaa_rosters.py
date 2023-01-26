@@ -6,8 +6,10 @@ from tqdm import tqdm
 #from unidecode import unidecode
 import requests
 
-def get_CCCAA_Rosters():
+def get_CCCAA_Rosters(season=0):
 	teams_df = pd.read_csv('cccaa_schools.csv')
+	if season > 2011 & season < 2024:
+		teams_df = teams_df[teams_df['season'] == season]
 	school_name = teams_df['school_name'].tolist()
 	school_njcaa_season = teams_df['cccaa_season'].tolist()
 	#school_njcaa_division = teams_df['division'].tolist()
@@ -83,7 +85,7 @@ def get_CCCAA_Rosters():
 		time.sleep(5)
 
 def main():
-	get_CCCAA_Rosters()
+	get_CCCAA_Rosters(2023)
 
 if __name__ == "__main__":
 	main()

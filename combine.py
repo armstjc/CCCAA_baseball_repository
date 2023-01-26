@@ -29,16 +29,28 @@ def mergeFilesMultithreaded(filePath=""):
 def mergeRosters():
     f = "rosters/team_rosters"
     df = mergeFilesMultithreaded(f)
+    df = df.sort_values(by=["team_season","team_id"])
     df.to_csv("rosters/cccaa_rosters.csv",index=False)
-
+    #df.to_parquet("rosters/cccaa_rosters.parquet",index=False)
+    max_season = df['team_season'].max()
+    min_season = df['team_season'].min()
+    for i in range(min_season,max_season+1):
+        s_df = df[df['team_season'] == i]
+        s_df.to_csv(f"rosters/csv/{i}_rosters.csv")
+        #s_df.to_parquet(f"rosters/csv/{i}_rosters.parquet")
 
 def mergeBattingStats():
     f = f"player_stats/batting"
     df = mergeFilesMultithreaded(f)
     max_season = df['season'].max()
     min_season = df['season'].min()
+
+
     for i in range(min_season,max_season+1):
+
         s_df = df[df['season'] == i]
+        s_df.to_parquet(f"game_stats/player/batting_game_stats/parquet/{i}_batting.parquet",index=False)
+
         len_s_df = len(s_df)
         len_s_df = len_s_df // 4
         partOne = s_df.iloc[:len_s_df]
@@ -46,10 +58,10 @@ def mergeBattingStats():
         partThree = s_df.iloc[2*len_s_df:3*len_s_df]
         partFour = s_df.iloc[3*len_s_df:]
 
-        partOne.to_csv(f'player_stats/{i}_batting_01.csv',index=False)
-        partTwo.to_csv(f'player_stats/{i}_batting_02.csv',index=False)
-        partThree.to_csv(f'player_stats/{i}_batting_03.csv',index=False)
-        partFour.to_csv(f'player_stats/{i}_batting_04.csv',index=False)
+        partOne.to_csv(f'game_stats/player/batting_game_stats/csv/{i}_batting_01.csv',index=False)
+        partTwo.to_csv(f'game_stats/player/batting_game_stats/csv/{i}_batting_02.csv',index=False)
+        partThree.to_csv(f'game_stats/player/batting_game_stats/csv/{i}_batting_03.csv',index=False)
+        partFour.to_csv(f'game_stats/player/batting_game_stats/csv/{i}_batting_04.csv',index=False)
 
 def mergePitchingStats():
     f = f"player_stats/pitching"
@@ -58,6 +70,7 @@ def mergePitchingStats():
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
         s_df = df[df['season'] == i]
+        s_df.to_parquet(f"game_stats/player/pitching_game_stats/parquet/{i}_pitching.parquet")
         len_s_df = len(s_df)
         len_s_df = len_s_df // 4
         partOne = s_df.iloc[:len_s_df]
@@ -65,10 +78,10 @@ def mergePitchingStats():
         partThree = s_df.iloc[2*len_s_df:3*len_s_df]
         partFour = s_df.iloc[3*len_s_df:]
 
-        partOne.to_csv(f'player_stats/{i}_pitching_01.csv',index=False)
-        partTwo.to_csv(f'player_stats/{i}_pitching_02.csv',index=False)
-        partThree.to_csv(f'player_stats/{i}_pitching_03.csv',index=False)
-        partFour.to_csv(f'player_stats/{i}_pitching_04.csv',index=False)
+        partOne.to_csv(f'game_stats/player/pitching_game_stats/csv/{i}_pitching_01.csv',index=False)
+        partTwo.to_csv(f'game_stats/player/pitching_game_stats/csv/{i}_pitching_02.csv',index=False)
+        partThree.to_csv(f'game_stats/player/pitching_game_stats/csv/{i}_pitching_03.csv',index=False)
+        partFour.to_csv(f'game_stats/player/pitching_game_stats/csv/{i}_pitching_04.csv',index=False)
 
 def mergeFieldingStats():
     f = f"player_stats/fielding"
@@ -77,6 +90,8 @@ def mergeFieldingStats():
     min_season = df['season'].min()
     for i in range(min_season,max_season+1):
         s_df = df[df['season'] == i]
+        s_df.to_parquet(f"game_stats/player/fielding_game_stats/parquet/{i}_fielding.parquet")
+        
         len_s_df = len(s_df)
         len_s_df = len_s_df // 4
         partOne = s_df.iloc[:len_s_df]
@@ -84,10 +99,10 @@ def mergeFieldingStats():
         partThree = s_df.iloc[2*len_s_df:3*len_s_df]
         partFour = s_df.iloc[3*len_s_df:]
 
-        partOne.to_csv(f'player_stats/{i}_fielding_01.csv',index=False)
-        partTwo.to_csv(f'player_stats/{i}_fielding_02.csv',index=False)
-        partThree.to_csv(f'player_stats/{i}_fielding_03.csv',index=False)
-        partFour.to_csv(f'player_stats/{i}_fielding_04.csv',index=False)
+        partOne.to_csv(f'game_stats/player/fielding_game_stats/csv/{i}_fielding_01.csv',index=False)
+        partTwo.to_csv(f'game_stats/player/fielding_game_stats/csv/{i}_fielding_02.csv',index=False)
+        partThree.to_csv(f'game_stats/player/fielding_game_stats/csv/{i}_fielding_03.csv',index=False)
+        partFour.to_csv(f'game_stats/player/fielding_game_stats/csv/{i}_fielding_04.csv',index=False)
 
 def main():
     mergeRosters()

@@ -5,10 +5,9 @@ import requests
 from bs4 import BeautifulSoup
 from tqdm import tqdm
 
-
 def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 	#teams_df = pd.read_csv('rosters/div1_rosters.csv')
-	teams_df = teams_df[teams_df['team_season'] != 2023]
+	#teams_df = teams_df[teams_df['team_season'] != 2023]
 	school_name = teams_df['team_name'].tolist()
 	school_cccaa_season = teams_df['team_cccaa_season'].tolist()
 	
@@ -23,7 +22,7 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 	player_count = len(player_urls)
 	# driver = webdriver.Chrome(
 	# 	executable_path=webdriverPath)
-	count = 15400
+	count = 0
 	for i in tqdm(range(count,player_count)):
 		
 		print(f'{count}/{player_count}')
@@ -193,20 +192,20 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 				else:
 					game_loc = 'home'
 
-
-				row_df = pd.DataFrame({
-					'date':game_date,'location':game_loc,'opponent':game_opponent,
-					'result':game_result,'score':game_score,
-					'team_score':game_team_score,'opp_score':game_opp_score,
-					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
-					'AB':game_batting_AB,'R':game_batting_R,'H':game_batting_H,
-					'2B':game_batting_2B,'3B':game_batting_3B,
-					'HR':game_batting_HR,'RBI':game_batting_RBI,
-					'BB':game_batting_BB,'K':game_batting_K,'SB':game_batting_SB,
-					'CS':game_batting_CS},index=[0])
-				gamelog_batting_df = pd.concat([gamelog_batting_df,row_df], ignore_index=True)
-				del row_df
-
+				if game_batting_AB != '':
+					row_df = pd.DataFrame({
+						'date':game_date,'location':game_loc,'opponent':game_opponent,
+						'result':game_result,'score':game_score,
+						'team_score':game_team_score,'opp_score':game_opp_score,
+						'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
+						'AB':game_batting_AB,'R':game_batting_R,'H':game_batting_H,
+						'2B':game_batting_2B,'3B':game_batting_3B,
+						'HR':game_batting_HR,'RBI':game_batting_RBI,
+						'BB':game_batting_BB,'K':game_batting_K,'SB':game_batting_SB,
+						'CS':game_batting_CS},index=[0])
+					gamelog_batting_df = pd.concat([gamelog_batting_df,row_df], ignore_index=True)
+					del row_df
+		
 		#print(gamelog_batting_df)
 		# soup.find_all('table')[3] = Extended Hitting
 		ex_batting_table = soup.find_all('table')[3]
@@ -278,19 +277,20 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 					game_opponent = game_opponent.replace('vs. ','')
 				else:
 					game_loc = 'home'
-
-				row_df = pd.DataFrame({
-					'date':game_date,'location':game_loc,'opponent':game_opponent,
-					'result':game_result,'score':game_score,
-					'team_score':game_team_score,'opp_score':game_opp_score,
-					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
-					'HBP':game_batting_HBP,'SF':game_batting_SF,'SH':game_batting_SH,
-					'TB':game_batting_TB,'XBH':game_batting_XBH,
-					'HDP':game_batting_HDP,'GO':game_batting_GO,
-					'FO':game_batting_FO,'GO/FO':game_batting_GO_FO,
-					'PA':game_batting_PA},index=[0])
-				gamelog_ex_batting_df = pd.concat([gamelog_ex_batting_df,row_df],ignore_index=True)
-				del row_df
+				if game_batting_PA != '':
+					row_df = pd.DataFrame({
+						'date':game_date,'location':game_loc,'opponent':game_opponent,
+						'result':game_result,'score':game_score,
+						'team_score':game_team_score,'opp_score':game_opp_score,
+						'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
+						'HBP':game_batting_HBP,'SF':game_batting_SF,'SH':game_batting_SH,
+						'TB':game_batting_TB,'XBH':game_batting_XBH,
+						'HDP':game_batting_HDP,'GO':game_batting_GO,
+						'FO':game_batting_FO,'GO/FO':game_batting_GO_FO,
+						'PA':game_batting_PA},index=[0])
+					
+					gamelog_ex_batting_df = pd.concat([gamelog_ex_batting_df,row_df],ignore_index=True)
+					del row_df
 		
 		#print(gamelog_ex_batting_df)
 
@@ -305,8 +305,11 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 		gamelog_batting_df['player_id'] = game_player_id
 		gamelog_batting_df['player_name'] = game_player_name
 
+		#gamelog_batting_df = gamelog_batting_df[gamelog_batting_df['AB'].notna()]
 		#gamelog_batting_df = gamelog_batting_df.dropna(subset=['PA'], inplace=True)
-		gamelog_batting_df.to_csv(f'player_stats/batting/{game_season}_{game_player_id}.csv',index=False)
+		if len(gamelog_batting_df) > 0:
+			gamelog_batting_df.to_csv(f'player_stats/batting/{game_season}_{game_player_id}_batting.csv',index=False)
+		
 		del gamelog_batting_df, gamelog_ex_batting_df, batting_table, ex_batting_table
 
 		pitching_table = soup.find_all('table')[4]
@@ -382,17 +385,18 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 				else:
 					game_loc = 'home'
 
-				row_df = pd.DataFrame({
-					'date':game_date,'location':game_loc,'opponent':game_opponent,
-					'result':game_result,'score':game_score,
-					'team_score':game_team_score,'opp_score':game_opp_score,
-					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
-					'GS':game_pitching_GS,'W':game_pitching_W,'L':game_pitching_L,
-					'SV':game_pitching_SV,'IP':game_pitching_IP,'H':game_pitching_H,
-					'R':game_pitching_R,'ER':game_pitching_ER,'ERA':game_pitching_ERA,
-					'BB':game_pitching_BB,'K':game_pitching_K,'HR':game_pitching_HR},index=[0])
-				gamelog_pitching_df = pd.concat([row_df,gamelog_pitching_df],ignore_index=True)
-				del row_df
+				if game_pitching_IP != '':
+					row_df = pd.DataFrame({
+						'date':game_date,'location':game_loc,'opponent':game_opponent,
+						'result':game_result,'score':game_score,
+						'team_score':game_team_score,'opp_score':game_opp_score,
+						'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
+						'GS':game_pitching_GS,'W':game_pitching_W,'L':game_pitching_L,
+						'SV':game_pitching_SV,'IP':game_pitching_IP,'H':game_pitching_H,
+						'R':game_pitching_R,'ER':game_pitching_ER,'ERA':game_pitching_ERA,
+						'BB':game_pitching_BB,'K':game_pitching_K,'HR':game_pitching_HR},index=[0])
+					gamelog_pitching_df = pd.concat([row_df,gamelog_pitching_df],ignore_index=True)
+					del row_df
 
 		gamelog_pitching_df['season'] = game_season
 		gamelog_pitching_df['cccaa_season'] = game_cccaa_season
@@ -402,7 +406,11 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 		gamelog_pitching_df['player_id'] = game_player_id
 		gamelog_pitching_df['player_name'] = game_player_name
 
-		gamelog_pitching_df.to_csv(f'player_stats/pitching/{game_season}_{game_player_id}.csv',index=False)
+		gamelog_pitching_df = gamelog_pitching_df.dropna(subset=['IP'])
+		
+		if len(gamelog_pitching_df) > 0:
+			gamelog_pitching_df.to_csv(f'player_stats/pitching/{game_season}_{game_player_id}_pitching.csv',index=False)
+		
 		del gamelog_pitching_df,pitching_table
 
 		fielding_table = soup.find_all('table')[4]
@@ -475,19 +483,19 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 					game_opponent = game_opponent.replace('vs. ','')
 				else:
 					game_loc = 'home'
-
-				row_df = pd.DataFrame({
-					'date':game_date,'location':game_loc,'opponent':game_opponent,
-					'result':game_result,'score':game_score,
-					'team_score':game_team_score,'opp_score':game_opp_score,
-					'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
-					'TC':game_fielding_TC,'PO':game_fielding_PO,'A':game_fielding_A,
-					'E':game_fielding_E,'FPCT':game_fielding_FPCT,
-					'DP':game_fielding_DP,'SBA':game_fielding_SBA,
-					'RCS':game_fielding_RCS,'RCS_PCT':game_fielding_RCS_PCT,
-					'PB':game_fielding_PB,'CI':game_fielding_CI},index=[0])
-				gamelog_fielding_df = pd.concat([gamelog_fielding_df,row_df],ignore_index=True)
-				del row_df
+				if game_fielding_TC != '':
+					row_df = pd.DataFrame({
+						'date':game_date,'location':game_loc,'opponent':game_opponent,
+						'result':game_result,'score':game_score,
+						'team_score':game_team_score,'opp_score':game_opp_score,
+						'game_score_diff':game_score_diff,'game_win_loss':game_win_loss,'game_id':game_id,
+						'TC':game_fielding_TC,'PO':game_fielding_PO,'A':game_fielding_A,
+						'E':game_fielding_E,'FPCT':game_fielding_FPCT,
+						'DP':game_fielding_DP,'SBA':game_fielding_SBA,
+						'RCS':game_fielding_RCS,'RCS_PCT':game_fielding_RCS_PCT,
+						'PB':game_fielding_PB,'CI':game_fielding_CI},index=[0])
+					gamelog_fielding_df = pd.concat([gamelog_fielding_df,row_df],ignore_index=True)
+					del row_df
 
 		gamelog_fielding_df['season'] = game_season
 		gamelog_fielding_df['cccaa_season'] = game_cccaa_season
@@ -497,9 +505,14 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 		gamelog_fielding_df['player_id'] = game_player_id
 		gamelog_fielding_df['player_name'] = game_player_name
 
-		gamelog_fielding_df.to_csv(f'player_stats/fielding/{game_season}_{game_player_id}.csv',index=False)
+		gamelog_fielding_df = gamelog_fielding_df.dropna(subset=['TC'])
+		
+		if len(gamelog_fielding_df) > 0:
+			gamelog_fielding_df.to_csv(f'player_stats/fielding/{game_season}_{game_player_id}_fielding.csv',index=False)
+		
 		time.sleep(5)
 		count += 1
+
 def main():
 	df = pd.read_csv('rosters/cccaa_rosters.csv')
 	get_CCCAA_gamelogs(df)
