@@ -6,7 +6,7 @@ import numpy as np
 from multiprocessing import Pool
 
 def reader(filename):    
-        return pd.read_csv(filename, encoding='latin-1')
+    return pd.read_csv(filename, encoding='latin-1')
 
 def mergeFilesMultithreaded(filePath=""):
     #global filecount
@@ -36,7 +36,7 @@ def mergeRosters():
     min_season = df['team_season'].min()
     for i in range(min_season,max_season+1):
         s_df = df[df['team_season'] == i]
-        s_df.to_csv(f"rosters/csv/{i}_rosters.csv")
+        s_df.to_csv(f"rosters/csv/{i}_rosters.csv",index=False)
         #s_df.to_parquet(f"rosters/csv/{i}_rosters.parquet")
 
 def mergeBattingStats():
