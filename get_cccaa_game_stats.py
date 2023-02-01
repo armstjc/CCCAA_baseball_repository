@@ -514,7 +514,7 @@ def get_CCCAA_gamelogs(teams_df:pd.DataFrame()):
 		count += 1
 
 def main():
-	df = pd.read_csv('rosters/csv/.csv')
+	df = pd.read_csv('rosters/csv/2023_rosters.csv')
 	get_CCCAA_gamelogs(df)
 
 if __name__ == "__main__":
