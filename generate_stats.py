@@ -462,7 +462,7 @@ def generate_season_team_fielding_stats(season:int,save=False):
 ##
 #####################################################################################################################################################################################################################
 
-def main():
+def generate_stats_main():
     print('Starting up')
     current_year = int(datetime.date.today().year)
     generate_league_batting_stats(True)
@@ -476,5 +476,6 @@ def main():
         generate_season_team_batting_stats(i,True)
         generate_season_team_pitching_stats(i,True)
         generate_season_team_fielding_stats(i,True)
+        
 if __name__ == "__main__":
-    main()
+    generate_stats_main()
