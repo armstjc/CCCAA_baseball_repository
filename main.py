@@ -18,7 +18,7 @@ def main():
     mergePitchingStats()
     mergeFieldingStats()
 
-    generate_stats_main()
+    #generate_stats_main()
     
 if __name__ == "__main__":
     main()
