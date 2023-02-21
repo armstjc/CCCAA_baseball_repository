@@ -1,6 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,cccaa_season,team,team_id,player_id,player_name
-Feb 2,home,Mt. San Jacinto,L,5-3,5,3,2,win,20230202_ivfg,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,West LA,westla,chrisbrockzlss,Chris Brock
-Feb 2,home,Mt. San Jacinto,L,6-4,6,4,2,win,20230202_1diw,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,West LA,westla,chrisbrockzlss,Chris Brock
 Feb 3,home,El Camino,L,4-1,4,1,3,win,20230203_r15s,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,West LA,westla,chrisbrockzlss,Chris Brock
 Feb 7,home,San Diego City,L,7-0,7,0,7,win,20230207_0lms,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,West LA,westla,chrisbrockzlss,Chris Brock
 Feb 9,home,Oxnard,W,14-10,14,10,4,win,20230209_3m8j,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,West LA,westla,chrisbrockzlss,Chris Brock
@@ -409,6 +407,7 @@ Jan 27,home,Skyline,L,13-3,13,3,10,win,20230127_9rrh,0,0,0,0,0.0,,,,0.0,,,2023,2
 Jan 28,home,Skyline,L,16-3,16,3,13,win,20230128_ejjl,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,rylantaylorelqv,Rylan Taylor
 Jan 29,home,San Mateo,L,4-3,4,3,1,win,20230129_jyvn,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,rylantaylorelqv,Rylan Taylor
 Feb 3,home,Napa Valley,L,5-4,5,4,1,win,20230203_xugl,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,rylantaylorelqv,Rylan Taylor
+Feb 18,home,Contra Costa,W,8-2,8,2,6,win,20230218_vlzs,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,rylantaylorelqv,Rylan Taylor
 Jan 27,home,Rio Hondo,L,7-3,7,3,4,win,20230127_qv2j,0,0,0,0,2.0,2.0,,,0.0,,,2023,2022-23,Imperial Valley,imperialvalley,victorbenitez81eh,Victor Benitez
 Jan 31,home,Cerro Coso,L,7-2,7,2,5,win,20230131_0nus,0,0,0,0,1.0,1.0,1.0,1.0,9.0,1.0,1.0,2023,2022-23,Imperial Valley,imperialvalley,victorbenitez81eh,Victor Benitez
 Feb 7,home,Desert,L,18-1,18,1,17,win,20230207_760m,0,0,0,0,1.2,4.0,8.0,6.0,32.4,1.0,,2023,2022-23,Imperial Valley,imperialvalley,victorbenitez81eh,Victor Benitez
@@ -1323,6 +1322,7 @@ Feb 10,home,Mendocino,L,7-6,7,6,1,win,20230210_ncwg,0,0,0,0,0.0,,,,0.0,,,2023,20
 Feb 11,home,Mendocino,W,11-1,11,1,10,win,20230211_wesd,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,connorjones99q4,Connor Jones
 Feb 17,home,Contra Costa,W,10-6,10,6,4,win,20230217_r619,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,connorjones99q4,Connor Jones
 Feb 18,home,Contra Costa,W,12-0,12,0,12,win,20230218_pkdj,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,connorjones99q4,Connor Jones
+Feb 18,home,Contra Costa,W,8-2,8,2,6,win,20230218_vlzs,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,connorjones99q4,Connor Jones
 Jan 27,home,San Mateo,L,20-4,20,4,16,win,20230127_vwds,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Laney,laney,ethanwongwca8,Ethan Wong
 Jan 28,home,Sierra,L,4-1,4,1,3,win,20230128_o604,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Laney,laney,ethanwongwca8,Ethan Wong
 Jan 29,home,San Francisco,L,6-2,6,2,4,win,20230129_pk6l,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Laney,laney,ethanwongwca8,Ethan Wong
@@ -1678,6 +1678,7 @@ Feb 10,home,Mendocino,L,7-6,7,6,1,win,20230210_ncwg,0,0,0,0,0.0,,,,0.0,,,2023,20
 Feb 10,home,Mendocino,L,8-3,8,3,5,win,20230210_yd4s,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,caughlinshultsbrif,Caughlin Shults
 Feb 11,home,Mendocino,W,7-4,7,4,3,win,20230211_2ote,0,0,0,1,1.0,,,,0.0,1.0,2.0,2023,2022-23,Siskiyous,siskiyous,caughlinshultsbrif,Caughlin Shults
 Feb 18,home,Contra Costa,W,12-0,12,0,12,win,20230218_pkdj,0,0,0,0,1.0,,,,0.0,,1.0,2023,2022-23,Siskiyous,siskiyous,caughlinshultsbrif,Caughlin Shults
+Feb 18,home,Contra Costa,W,8-2,8,2,6,win,20230218_vlzs,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Siskiyous,siskiyous,caughlinshultsbrif,Caughlin Shults
 Jan 27,home,Cuesta,L,12-8,12,8,4,win,20230127_vquc,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Riverside,riverside,deveanalvarezlbrc,Devean Alvarez
 Jan 28,home,Cuesta,L,12-2,12,2,10,win,20230128_dgzv,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Riverside,riverside,deveanalvarezlbrc,Devean Alvarez
 Feb 2,home,Barstow,W,16-4,16,4,12,win,20230202_tvrm,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Riverside,riverside,deveanalvarezlbrc,Devean Alvarez
