@@ -1,4 +1,5 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,cccaa_season,team,team_id,player_id,player_name
+Feb 17,home,Canada,L,6-2,6,2,4,win,20230217_e2vb,3,0.0,1.0,,,,0.0,,,,,1.0,,,1,0,,2.0,,,4,2023,2022-23,Shasta,shasta,judemarquezqj8p,Jude Marquez
 Feb 18,home,Canada,L,15-11,15,11,4,win,20230218_les4,5,2.0,2.0,,,1.0,1.0,1.0,,,,,,,5,1,,1.0,2.0,0.5,6,2023,2022-23,Shasta,shasta,judemarquezqj8p,Jude Marquez
 Feb 21,home,Yuba,W,14-5,14,5,9,win,20230221_5s1z,5,2.0,2.0,,,,2.0,1.0,,2.0,,,,,2,0,,,2.0,,6,2023,2022-23,Shasta,shasta,judemarquezqj8p,Jude Marquez
 Jan 27,home,Cosumnes River,L,20-6,20,6,14,win,20230127_ilym,0,0.0,0.0,,,,1.0,,,,,,1.0,,0,0,,,1.0,,1,2023,2022-23,Shasta,shasta,cadejacobsonbdr3,Cade Jacobson
@@ -170,6 +171,8 @@ Feb 16,home,Folsom Lake,L,9-5,9,5,4,win,20230216_rsse,4,0.0,1.0,,,,0.0,,,,,1.0,,
 Feb 17,home,Sierra,L,16-0,16,0,16,win,20230217_kwwh,3,0.0,1.0,,,,0.0,,,,,,,,1,0,,2.0,,,3,2023,2022-23,Yuba,yuba,samthawleyrr5n,Sam Thawley
 Feb 21,home,Shasta,L,14-5,14,5,9,win,20230221_5s1z,4,0.0,1.0,1.0,,,1.0,,,,,,,,2,1,,2.0,1.0,2.0,4,2023,2022-23,Yuba,yuba,samthawleyrr5n,Sam Thawley
 Feb 24,home,Monterey Peninsula,L,6-2,6,2,4,win,20230224_samx,4,0.0,1.0,,,,0.0,,1.0,,,,,,1,0,,1.0,1.0,1.0,4,2023,2022-23,Yuba,yuba,samthawleyrr5n,Sam Thawley
+Feb 25,home,Monterey Peninsula,L,13-5,13,5,8,win,20230225_iqkn,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,Yuba,yuba,samthawleyrr5n,Sam Thawley
+Feb 25,home,Monterey Peninsula,L,6-0,6,0,6,win,20230225_zair,3,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,2.0,0.5,3,2023,2022-23,Yuba,yuba,samthawleyrr5n,Sam Thawley
 Jan 27,home,San Diego City,W,13-8,13,8,5,win,20230127_4ltt,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Mt. San Jacinto,mtsanjacinto,adrianventoa3l9,Adrian Vento
 Jan 28,home,Antelope Valley,W,15-5,15,5,10,win,20230128_3vez,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Mt. San Jacinto,mtsanjacinto,adrianventoa3l9,Adrian Vento
 Feb 2,home,West LA,W,5-3,5,3,2,win,20230202_ivfg,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mt. San Jacinto,mtsanjacinto,adrianventoa3l9,Adrian Vento
@@ -515,6 +518,8 @@ Feb 16,home,Folsom Lake,L,9-5,9,5,4,win,20230216_rsse,4,0.0,1.0,1.0,,,0.0,,1.0,,
 Feb 17,home,Sierra,L,16-0,16,0,16,win,20230217_kwwh,2,0.0,0.0,,,,0.0,,1.0,,1.0,,,,0,0,,,,,2,2023,2022-23,Yuba,yuba,calebsumsion7xip,Caleb Sumsion
 Feb 21,home,Shasta,L,14-5,14,5,9,win,20230221_5s1z,3,1.0,1.0,,,,0.0,,1.0,,,,,,1,0,,,1.0,,3,2023,2022-23,Yuba,yuba,calebsumsion7xip,Caleb Sumsion
 Feb 24,home,Monterey Peninsula,L,6-2,6,2,4,win,20230224_samx,3,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,1.0,,3,2023,2022-23,Yuba,yuba,calebsumsion7xip,Caleb Sumsion
+Feb 25,home,Monterey Peninsula,L,13-5,13,5,8,win,20230225_iqkn,1,1.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Yuba,yuba,calebsumsion7xip,Caleb Sumsion
+Feb 25,home,Monterey Peninsula,L,6-0,6,0,6,win,20230225_zair,2,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,,,2,2023,2022-23,Yuba,yuba,calebsumsion7xip,Caleb Sumsion
 Jan 27,home,Mendocino,L,14-12,14,12,2,win,20230127_vwty,2,2.0,0.0,,,,0.0,3.0,1.0,,,1.0,,,0,0,,,1.0,,6,2023,2022-23,Redwoods,redwoods,zachcolenfg4,Zach Cole
 Jan 28,home,Mendocino,L,4-0,4,0,4,win,20230128_waep,4,0.0,4.0,,,,0.0,,,,,,,,4,0,,,,,4,2023,2022-23,Redwoods,redwoods,zachcolenfg4,Zach Cole
 Jan 28,home,Mendocino,L,2-1,2,1,1,win,20230128_b7g0,3,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,3.0,,4,2023,2022-23,Redwoods,redwoods,zachcolenfg4,Zach Cole
@@ -611,6 +616,7 @@ Feb 4,home,Lassen,L,9-8,9,8,1,win,20230204_g310,2,0.0,0.0,,,,1.0,,1.0,,,,,,0,0,,
 Feb 13,home,Lassen,L,13-5,13,5,8,win,20230213_9tgx,0,0.0,0.0,,,,0.0,,,,,1.0,,,0,0,,,,,1,2023,2022-23,Yuba,yuba,carterjonese96l,Carter Jones
 Feb 17,home,Sierra,L,16-0,16,0,16,win,20230217_kwwh,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Yuba,yuba,carterjonese96l,Carter Jones
 Feb 21,home,Shasta,L,14-5,14,5,9,win,20230221_5s1z,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,Yuba,yuba,carterjonese96l,Carter Jones
+Feb 25,home,Monterey Peninsula,L,6-0,6,0,6,win,20230225_zair,3,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,2.0,0.5,3,2023,2022-23,Yuba,yuba,carterjonese96l,Carter Jones
 Jan 27,home,Bakersfield,W,4-3,4,3,1,win,20230127_nrdr,5,1.0,2.0,,,,0.0,,,,,,,,2,0,,1.0,2.0,0.5,5,2023,2022-23,Moorpark,moorpark,andrewmacfarlane31sn,Andrew MacFarlane
 Jan 27,home,Bakersfield,L,7-1,7,1,6,win,20230127_60yl,3,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Moorpark,moorpark,andrewmacfarlane31sn,Andrew MacFarlane
 Jan 28,home,Bakersfield,L,10-7,10,7,3,win,20230128_cvsa,5,0.0,3.0,,,,1.0,1.0,,2.0,,,,,3,0,,,2.0,,6,2023,2022-23,Moorpark,moorpark,andrewmacfarlane31sn,Andrew MacFarlane
@@ -1200,6 +1206,7 @@ Feb 6,home,Butte,L,22-1,22,1,21,win,20230206_ezuz,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0
 Feb 13,home,Lassen,L,13-5,13,5,8,win,20230213_9tgx,3,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,1.0,1.0,,,3,2023,2022-23,Yuba,yuba,benatvanhoosemhfc,Benat Vanhoose
 Feb 17,home,Sierra,L,16-0,16,0,16,win,20230217_kwwh,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,Yuba,yuba,benatvanhoosemhfc,Benat Vanhoose
 Feb 21,home,Shasta,L,14-5,14,5,9,win,20230221_5s1z,3,1.0,2.0,,,,0.0,,,1.0,,,,1.0,2,0,,2.0,,,4,2023,2022-23,Yuba,yuba,benatvanhoosemhfc,Benat Vanhoose
+Feb 25,home,Monterey Peninsula,L,13-5,13,5,8,win,20230225_iqkn,4,0.0,2.0,,,,1.0,1.0,1.0,,,,,,2,0,,1.0,,,5,2023,2022-23,Yuba,yuba,benatvanhoosemhfc,Benat Vanhoose
 Jan 27,home,Shasta,W,20-6,20,6,14,win,20230127_ilym,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,Cosumnes River,cosumnesriver,joquinmurphynvno,Joquin Murphy
 Jan 28,home,Shasta,L,13-11,13,11,2,win,20230128_7lyy,3,1.0,2.0,1.0,,,3.0,,,,,,1.0,,3,1,,,1.0,,4,2023,2022-23,Cosumnes River,cosumnesriver,joquinmurphynvno,Joquin Murphy
 Jan 31,home,Shasta,W,17-5,17,5,12,win,20230131_xuiq,5,1.0,1.0,1.0,,,1.0,,,,,,,,2,1,,1.0,3.0,0.33,5,2023,2022-23,Cosumnes River,cosumnesriver,joquinmurphynvno,Joquin Murphy
@@ -1595,6 +1602,8 @@ Feb 4,home,Lassen,L,9-8,9,8,1,win,20230204_g310,1,0.0,1.0,,,,2.0,,,,,,,2.0,1,0,,
 Feb 13,home,Lassen,L,13-5,13,5,8,win,20230213_9tgx,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Yuba,yuba,anthonymartinez9kfz,Anthony Martinez
 Feb 16,home,Folsom Lake,L,9-5,9,5,4,win,20230216_rsse,5,1.0,2.0,,,,0.0,,3.0,1.0,,,,,2,0,,,,,5,2023,2022-23,Yuba,yuba,anthonymartinez9kfz,Anthony Martinez
 Feb 17,home,Sierra,L,16-0,16,0,16,win,20230217_kwwh,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Yuba,yuba,anthonymartinez9kfz,Anthony Martinez
+Feb 25,home,Monterey Peninsula,L,13-5,13,5,8,win,20230225_iqkn,4,1.0,1.0,1.0,,,0.0,1.0,1.0,,,,,,2,1,,2.0,,,5,2023,2022-23,Yuba,yuba,anthonymartinez9kfz,Anthony Martinez
+Feb 25,home,Monterey Peninsula,L,6-0,6,0,6,win,20230225_zair,3,0.0,1.0,,,,0.0,1.0,,1.0,1.0,,,,1,0,,1.0,1.0,1.0,4,2023,2022-23,Yuba,yuba,anthonymartinez9kfz,Anthony Martinez
 Jan 31,home,Diablo Valley,L,4-3,4,3,1,win,20230131_004v,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Monterey Peninsula,montereypeninsula,tylerkeaninie49c,Tyler Keanini
 Feb 3,home,Redwoods,W,14-3,14,3,11,win,20230203_51kk,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Monterey Peninsula,montereypeninsula,tylerkeaninie49c,Tyler Keanini
 Feb 3,home,Redwoods,W,14-1,14,1,13,win,20230203_sa0k,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Monterey Peninsula,montereypeninsula,tylerkeaninie49c,Tyler Keanini
@@ -2174,5 +2183,3 @@ Jan 31,home,Desert,L,19-16,19,16,3,win,20230131_vcbh,6,2.0,3.0,1.0,,,3.0,,,,1.0,
 Feb 3,home,Irvine Valley,W,12-5,12,5,7,win,20230203_cyxo,4,2.0,2.0,,,,1.0,,1.0,2.0,,1.0,,,2,0,,,1.0,,5,2023,2022-23,Compton,compton,johnathonenriquezvpyn,Johnathon Enriquez
 Feb 4,home,Grossmont,L,8-4,8,4,4,win,20230204_d1ko,2,1.0,1.0,,,,0.0,,,,,,,,1,0,,,1.0,,2,2023,2022-23,Compton,compton,johnathonenriquezvpyn,Johnathon Enriquez
 Feb 4,home,Riverside,L,12-5,12,5,7,win,20230204_19zs,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,East Los Angeles,eastlosangeles,nicktoneys7z7,NICK TONEY
-Feb 10,home,Chaffey,L,9-4,9,4,5,win,20230210_ieo4,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,East Los Angeles,eastlosangeles,nicktoneys7z7,NICK TONEY
-Jan 27,home,LA Mission,L,11-4,11,4,7,win,20230127_xbyv,4,0.0,1.0,,,,1.0,1.0,1.0,,,,,,1,0,,2.0,,,5,2023,2022-23,San Bernardino Valley,sanbernardinovalley,juanramirezdjr9,Juan Ramirez
