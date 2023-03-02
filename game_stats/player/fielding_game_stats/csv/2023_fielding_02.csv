@@ -1,5 +1,4 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,TC,PO,A,E,FPCT,DP,SBA,RCS,RCS_PCT,PB,CI,season,cccaa_season,team,team_id,player_id,player_name
-Jan 27,home,Mendocino,L,14-12,14,12,2,win,20230127_vwty,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Redwoods,redwoods,camwittei093,Cam Witte
 Jan 28,home,Mendocino,L,2-1,2,1,1,win,20230128_b7g0,0,0,1,0,1.2,1.0,2.0,1.0,5.4,3.0,2.0,2023,2022-23,Redwoods,redwoods,camwittei093,Cam Witte
 Feb 2,home,San Francisco,W,7-0,7,0,7,win,20230202_ncif,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Redwoods,redwoods,camwittei093,Cam Witte
 Feb 3,home,Monterey Peninsula,L,14-3,14,3,11,win,20230203_51kk,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Redwoods,redwoods,camwittei093,Cam Witte
@@ -152,6 +151,7 @@ Feb 16,home,Mission,W,9-2,9,2,7,win,20230216_mp6i,0,0,0,0,0.0,,,,0.0,,,2023,2022
 Feb 18,home,Mission,W,8-4,8,4,4,win,20230218_90wz,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,tylerjameshs8r,Tyler James
 Feb 21,home,Marin,W,21-9,21,9,12,win,20230221_gl57,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,tylerjameshs8r,Tyler James
 Feb 22,home,Marin,W,9-4,9,4,5,win,20230222_4rdp,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,tylerjameshs8r,Tyler James
+Mar 1,home,San Joaquin Delta,W,9-8,9,8,1,win,20230301_43ie,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,tylerjameshs8r,Tyler James
 Jan 27,home,Marin,W,9-0,9,0,9,win,20230127_6psr,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Diablo Valley,diablovalley,brysonhorton9mjq,Bryson Horton
 Jan 28,home,Marin,W,10-2,10,2,8,win,20230128_et8w,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Diablo Valley,diablovalley,brysonhorton9mjq,Bryson Horton
 Jan 31,home,Monterey Peninsula,W,4-3,4,3,1,win,20230131_004v,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Diablo Valley,diablovalley,brysonhorton9mjq,Bryson Horton
@@ -899,6 +899,7 @@ Feb 18,home,Mission,W,8-4,8,4,4,win,20230218_90wz,0,0,0,0,0.0,,,,0.0,,,2023,2022
 Feb 21,home,Marin,W,21-9,21,9,12,win,20230221_gl57,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,ianavalost05f,Ian Avalos
 Feb 22,home,Marin,W,9-4,9,4,5,win,20230222_4rdp,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,ianavalost05f,Ian Avalos
 Feb 24,home,Los Medanos,W,6-4,6,4,2,win,20230224_76zv,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,ianavalost05f,Ian Avalos
+Mar 1,home,San Joaquin Delta,W,9-8,9,8,1,win,20230301_43ie,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,ianavalost05f,Ian Avalos
 Jan 27,home,Antelope Valley,W,14-7,14,7,7,win,20230127_g4d4,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Compton,compton,robertobuenov0q9,Roberto Bueno
 Jan 28,home,San Diego City,W,13-6,13,6,7,win,20230128_ham2,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Compton,compton,robertobuenov0q9,Roberto Bueno
 Jan 31,home,Desert,L,19-16,19,16,3,win,20230131_vcbh,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Compton,compton,robertobuenov0q9,Roberto Bueno
@@ -1123,6 +1124,7 @@ Feb 14,home,San Mateo,W,8-7,8,7,1,win,20230214_zk4k,0,0,0,0,0.0,,,,0.0,,,2023,20
 Feb 16,home,Mission,W,9-2,9,2,7,win,20230216_mp6i,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,brycecannonsg55,Bryce Cannon
 Feb 18,home,Mission,W,8-4,8,4,4,win,20230218_90wz,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,brycecannonsg55,Bryce Cannon
 Feb 21,home,Marin,W,21-9,21,9,12,win,20230221_gl57,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,brycecannonsg55,Bryce Cannon
+Mar 1,home,San Joaquin Delta,W,9-8,9,8,1,win,20230301_43ie,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,brycecannonsg55,Bryce Cannon
 Jan 28,home,Sacramento City,L,14-1,14,1,13,win,20230128_pdo6,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Canada,canada,jonathansollanorcp0,Jonathan Sollano
 Feb 3,home,Santa Barbara,L,15-2,15,2,13,win,20230203_c038,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Canada,canada,jonathansollanorcp0,Jonathan Sollano
 Feb 7,home,Santa Rosa,L,9-8,9,8,1,win,20230207_ypm8,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Canada,canada,jonathansollanorcp0,Jonathan Sollano
@@ -1245,6 +1247,7 @@ Feb 18,home,Mission,W,8-4,8,4,4,win,20230218_90wz,0,0,0,1,2.2,,,,0.0,,3.0,2023,2
 Feb 21,home,Marin,W,21-9,21,9,12,win,20230221_gl57,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Santa Rosa,santarosa,connorcharpiotndp7,Connor Charpiot
 Feb 22,home,Marin,W,9-4,9,4,5,win,20230222_4rdp,0,0,0,0,1.0,,,,0.0,1.0,1.0,2023,2022-23,Santa Rosa,santarosa,connorcharpiotndp7,Connor Charpiot
 Feb 24,home,Los Medanos,W,6-4,6,4,2,win,20230224_76zv,0,0,0,1,1.0,,,,0.0,1.0,1.0,2023,2022-23,Santa Rosa,santarosa,connorcharpiotndp7,Connor Charpiot
+Mar 1,home,San Joaquin Delta,W,9-8,9,8,1,win,20230301_43ie,0,0,0,1,2.0,,,,0.0,1.0,3.0,2023,2022-23,Santa Rosa,santarosa,connorcharpiotndp7,Connor Charpiot
 Jan 28,home,Folsom Lake,L,18-0,18,0,18,win,20230128_ugqu,0,0,0,0,2.0,4.0,3.0,1.0,4.5,1.0,2.0,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
 Feb 2,home,Modesto,L,11-0,11,0,11,win,20230202_lqsl,0,0,0,0,1.2,5.0,5.0,4.0,21.6,1.0,,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
 Feb 4,home,Modesto,L,18-0,18,0,18,win,20230204_joaa,0,0,0,0,0.0,,,,0.0,,,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
