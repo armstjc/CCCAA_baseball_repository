@@ -1,4 +1,9 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,cccaa_season,team,team_id,player_id,player_name
+Mar 1,home,Mission,T,13-13,13,13,0,tie,20230301_l36e,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Chabot,chabot,jalenowensdssv,Jalen Owens
+Mar 2,home,Cabrillo,W,8-6,8,6,2,win,20230302_bu02,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Chabot,chabot,jalenowensdssv,Jalen Owens
+Mar 11,home,De Anza,W,19-7,19,7,12,win,20230311_ft4t,2,2.0,2.0,1.0,,,1.0,,,1.0,,,,,3,1,,,,,2,2023,2022-23,Chabot,chabot,jalenowensdssv,Jalen Owens
+Mar 16,home,San Mateo,W,7-6,7,6,1,win,20230316_hwm7,2,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,1.0,,2,2023,2022-23,Chabot,chabot,jalenowensdssv,Jalen Owens
+Jan 27,home,Citrus,W,12-4,12,4,8,win,20230127_lwuy,4,2.0,2.0,,,,2.0,1.0,,2.0,,1.0,,,2,0,,2.0,,,6,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
 Jan 28,home,Southwestern,L,11-6,11,6,5,win,20230128_365n,3,0.0,0.0,,,,1.0,1.0,1.0,,,,1.0,,0,0,,1.0,1.0,1.0,5,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
 Feb 1,home,Antelope Valley,W,20-9,20,9,11,win,20230201_nnfa,5,1.0,1.0,,,,0.0,,2.0,,,,,,1,0,,1.0,1.0,1.0,5,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
 Feb 2,home,Glendale,L,4-3,4,3,1,win,20230202_medo,2,0.0,0.0,,,,0.0,,1.0,,,2.0,,1.0,0,0,,1.0,1.0,1.0,5,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
@@ -17,7 +22,8 @@ Mar 4,home,San Bernardino Valley,W,6-1,6,1,5,win,20230304_mf3x,5,1.0,3.0,,,1.0,4
 Mar 9,home,Cerro Coso,W,5-2,5,2,3,win,20230309_nsno,3,0.0,0.0,,,,1.0,,1.0,,,1.0,1.0,,0,0,,,3.0,,5,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
 Mar 16,home,Victor Valley,W,16-0,16,0,16,win,20230316_0m68,4,2.0,1.0,,,,1.0,1.0,1.0,1.0,,,,,1,0,,1.0,1.0,1.0,5,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
 Mar 16,home,Victor Valley,W,21-1,21,1,20,win,20230316_qdjd,4,2.0,1.0,,,,1.0,1.0,1.0,,,,,,1,0,,1.0,1.0,1.0,5,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
-Mar 18,home,Victor Valley,W,6-1,6,1,5,win,20230318_s7v9,3,1.0,0.0,,,,0.0,1.0,1.0,,,,,,0,0,,,2.0,,4,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
+Mar 18,home,Victor Valley,W,6-1,6,1,5,win,20230318_s7v9,3,1.0,0.0,,,,0.0,1.0,1.0,1.0,,,,,0,0,,,2.0,,4,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
+Mar 18,home,Victor Valley,W,13-3,13,3,10,win,20230318_mcl2,5,1.0,3.0,1.0,,,3.0,1.0,1.0,,,,,,4,1,,,1.0,,6,2023,2022-23,Chaffey,chaffey,matthewchavezxdjm,Matthew Chavez
 Jan 27,home,Canyons,W,6-2,6,2,4,win,20230127_7x3k,3,0.0,1.0,,,,1.0,,1.0,,,,,1.0,1,0,,1.0,1.0,1.0,4,2023,2022-23,Saddleback,saddleback,isaiahmoraleszo31,Isaiah Morales
 Jan 28,home,Canyons,L,12-1,12,1,11,win,20230128_17a2,3,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,3.0,,4,2023,2022-23,Saddleback,saddleback,isaiahmoraleszo31,Isaiah Morales
 Feb 1,home,Grossmont,W,6-0,6,0,6,win,20230201_wydf,4,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1,0,,1.0,1.0,1.0,5,2023,2022-23,Saddleback,saddleback,isaiahmoraleszo31,Isaiah Morales
@@ -165,6 +171,7 @@ Mar 3,home,Laney,L,7-4,7,4,3,win,20230303_m7pv,4,1.0,2.0,1.0,,,3.0,,1.0,,,,,,3,1
 Mar 7,home,San Mateo,L,16-2,16,2,14,win,20230307_ts8s,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Gavilan,gavilan,andremorettib9yl,Andre Moretti
 Mar 8,home,Chabot,L,12-6,12,6,6,win,20230308_ef56,1,0.0,1.0,1.0,,,1.0,,,,,,,,2,1,,,,,1,2023,2022-23,Gavilan,gavilan,andremorettib9yl,Andre Moretti
 Mar 11,home,Canada,L,2-0,2,0,2,win,20230311_s3l4,3,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,1.0,1.0,3,2023,2022-23,Gavilan,gavilan,andremorettib9yl,Andre Moretti
+Mar 16,home,De Anza,L,16-3,16,3,13,win,20230316_r9qy,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Gavilan,gavilan,andremorettib9yl,Andre Moretti
 Mar 17,home,De Anza,L,10-3,10,3,7,win,20230317_xhs9,4,0.0,1.0,,,,0.0,,,,,,,,1,0,,1.0,2.0,0.5,4,2023,2022-23,Gavilan,gavilan,andremorettib9yl,Andre Moretti
 Mar 18,home,De Anza,L,8-3,8,3,5,win,20230318_9b7h,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Gavilan,gavilan,andremorettib9yl,Andre Moretti
 Jan 27,home,Hartnell,L,9-8,9,8,1,win,20230127_lfip,5,1.0,1.0,,,,1.0,1.0,1.0,1.0,,,,,1,0,,1.0,2.0,0.5,6,2023,2022-23,Lassen,lassen,mattschurejkyf,Matt Schure
@@ -274,6 +281,7 @@ Mar 7,home,Canyons,L,4-3,4,3,1,win,20230307_yppu,4,0.0,0.0,,,,0.0,1.0,2.0,1.0,,,
 Mar 9,home,Canyons,L,17-5,17,5,12,win,20230309_81zh,3,0.0,1.0,,,,0.0,,,,,1.0,,,1,0,,1.0,1.0,1.0,4,2023,2022-23,Bakersfield,bakersfield,andrewtownsont2dk,Andrew Townson
 Mar 13,home,Canyons,L,9-6,9,6,3,win,20230313_6edm,3,0.0,1.0,,,,2.0,1.0,1.0,,,,,1.0,1,0,,1.0,1.0,1.0,5,2023,2022-23,Bakersfield,bakersfield,andrewtownsont2dk,Andrew Townson
 Mar 16,home,LA Mission,L,17-5,17,5,12,win,20230316_cfnk,4,2.0,0.0,,,,1.0,1.0,1.0,,,,,,0,0,,1.0,1.0,1.0,5,2023,2022-23,Bakersfield,bakersfield,andrewtownsont2dk,Andrew Townson
+Mar 18,home,LA Mission,W,6-2,6,2,4,win,20230318_i1j1,5,1.0,2.0,,,,1.0,,,2.0,,,,,2,0,,,3.0,,5,2023,2022-23,Bakersfield,bakersfield,andrewtownsont2dk,Andrew Townson
 Jan 27,home,Cerritos,W,12-2,12,2,10,win,20230127_zykh,4,1.0,2.0,,,,1.0,1.0,,1.0,,,1.0,,2,0,,1.0,2.0,0.5,6,2023,2022-23,Fullerton,fullerton,diegofrancozg88,Diego Franco
 Jan 28,home,Cerritos,W,7-4,7,4,3,win,20230128_7j54,4,2.0,0.0,,,,1.0,,,,,1.0,,,0,0,,1.0,1.0,1.0,5,2023,2022-23,Fullerton,fullerton,diegofrancozg88,Diego Franco
 Feb 1,home,Southwestern,W,13-3,13,3,10,win,20230201_93jy,6,2.0,2.0,1.0,,,3.0,,2.0,,,,,,3,1,,1.0,1.0,1.0,6,2023,2022-23,Fullerton,fullerton,diegofrancozg88,Diego Franco
@@ -460,6 +468,7 @@ Mar 3,home,San Bernardino Valley,L,6-3,6,3,3,win,20230303_0zp2,3,2.0,1.0,,1.0,,0
 Mar 7,home,Glendale,L,14-4,14,4,10,win,20230307_5yud,3,0.0,1.0,,,,0.0,,1.0,,,,,,1,0,,1.0,,,3,2023,2022-23,Antelope Valley,antelopevalley,jackrogersigv2,Jack Rogers
 Mar 11,home,Glendale,L,12-6,12,6,6,win,20230311_chiw,2,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,2.0,,,3,2023,2022-23,Antelope Valley,antelopevalley,jackrogersigv2,Jack Rogers
 Mar 13,home,Citrus,W,16-15,16,15,1,win,20230313_m2cl,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Antelope Valley,antelopevalley,jackrogersigv2,Jack Rogers
+Mar 18,home,Citrus,W,7-5,7,5,2,win,20230318_83y5,5,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,2.0,,,5,2023,2022-23,Antelope Valley,antelopevalley,jackrogersigv2,Jack Rogers
 Jan 27,home,West LA,W,14-2,14,2,12,win,20230127_3axl,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Santa Barbara,santabarbara,jackjohnsonmcau,Jack Johnson
 Feb 2,home,Hartnell,W,13-4,13,4,9,win,20230202_y5lp,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Santa Barbara,santabarbara,jackjohnsonmcau,Jack Johnson
 Feb 3,home,Canada,W,15-2,15,2,13,win,20230203_c038,5,2.0,2.0,1.0,,1.0,3.0,,2.0,,,,,,6,2,,,1.0,,5,2023,2022-23,Santa Barbara,santabarbara,jackjohnsonmcau,Jack Johnson
@@ -527,6 +536,7 @@ Mar 9,home,Antelope Valley,W,20-6,20,6,14,win,20230309_id19,5,1.0,2.0,,,,0.0,,,1
 Mar 11,home,Antelope Valley,W,12-6,12,6,6,win,20230311_chiw,1,0.0,0.0,,,,2.0,,,,,1.0,1.0,,0,0,1.0,1.0,1.0,1.0,3,2023,2022-23,Glendale,glendale,andrewcisneroskkw3,Andrew Cisneros
 Mar 17,home,West LA,W,19-1,19,1,18,win,20230317_7fkm,3,1.0,1.0,1.0,,,2.0,,1.0,,,,,,2,1,,,1.0,,3,2023,2022-23,Glendale,glendale,andrewcisneroskkw3,Andrew Cisneros
 Mar 18,home,West LA,W,17-5,17,5,12,win,20230318_zn96,4,3.0,3.0,1.0,,,0.0,1.0,,1.0,,,,,4,1,,,1.0,,5,2023,2022-23,Glendale,glendale,andrewcisneroskkw3,Andrew Cisneros
+Mar 18,home,West LA,W,10-5,10,5,5,win,20230318_jue5,5,0.0,1.0,,,,1.0,,2.0,,,,,,1,0,,2.0,,,5,2023,2022-23,Glendale,glendale,andrewcisneroskkw3,Andrew Cisneros
 Jan 27,home,Feather River,L,12-3,12,3,9,win,20230127_7xqj,2,0.0,0.0,,,,0.0,,1.0,,,,,1.0,0,0,,1.0,1.0,1.0,3,2023,2022-23,Porterville,porterville,cjfishsq9n,C.J. Fish
 Jan 31,home,Barstow,W,11-9,11,9,2,win,20230131_f880,4,1.0,1.0,,,,1.0,,,,,1.0,,,1,0,,1.0,2.0,0.5,5,2023,2022-23,Porterville,porterville,cjfishsq9n,C.J. Fish
 Feb 4,home,Barstow,L,4-2,4,2,2,win,20230204_p962,3,0.0,1.0,,,,0.0,,,1.0,,,,,1,0,,2.0,,,3,2023,2022-23,Porterville,porterville,cjfishsq9n,C.J. Fish
@@ -677,6 +687,7 @@ Mar 3,home,Imperial Valley,W,12-2,12,2,10,win,20230303_8tvk,3,0.0,0.0,,,,0.0,,,,
 Mar 4,home,Imperial Valley,L,2-1,2,1,1,win,20230304_zrz8,0,0.0,0.0,,,,0.0,1.0,,1.0,,,,,0,0,,,,,1,2023,2022-23,Southwestern,southwestern,nicovallarelli7mmm,Nico Vallarelli
 Mar 5,home,Riverside,L,6-2,6,2,4,win,20230305_7a9c,2,0.0,1.0,,,,0.0,,,,,1.0,,,1,0,,1.0,,,3,2023,2022-23,Southwestern,southwestern,nicovallarelli7mmm,Nico Vallarelli
 Mar 7,home,San Diego Mesa,L,3-2,3,2,1,win,20230307_22nd,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Southwestern,southwestern,nicovallarelli7mmm,Nico Vallarelli
+Mar 18,home,Grossmont,W,16-12,16,12,4,win,20230318_mpiy,4,3.0,3.0,,1.0,,1.0,1.0,,,,,,,5,1,,1.0,,,5,2023,2022-23,Southwestern,southwestern,nicovallarelli7mmm,Nico Vallarelli
 Jan 27,home,Gavilan,W,13-1,13,1,12,win,20230127_ysqf,5,2.0,3.0,,,2.0,5.0,,1.0,,,,,,9,2,,,1.0,,5,2023,2022-23,Folsom Lake,folsomlake,jtwaldonv0ji,JT Waldon
 Jan 28,home,Gavilan,W,18-0,18,0,18,win,20230128_ugqu,5,5.0,5.0,3.0,,,3.0,1.0,,,,,,,8,3,,,,,6,2023,2022-23,Folsom Lake,folsomlake,jtwaldonv0ji,JT Waldon
 Feb 3,home,Taft,L,8-4,8,4,4,win,20230203_q8rs,5,2.0,1.0,,,,0.0,,,,,,,,1,0,,2.0,2.0,1.0,5,2023,2022-23,Folsom Lake,folsomlake,jtwaldonv0ji,JT Waldon
@@ -956,6 +967,7 @@ Feb 2,home,Redwoods,L,7-0,7,0,7,win,20230202_ncif,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0
 Feb 14,home,Gavilan,W,13-2,13,2,11,win,20230214_c21h,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,,,1,2023,2022-23,San Francisco,sanfrancisco,caigecampbellap2y,Caige Campbell
 Feb 18,home,Porterville,L,7-4,7,4,3,win,20230218_2iqm,2,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,,,2,2023,2022-23,San Francisco,sanfrancisco,caigecampbellap2y,Caige Campbell
 Mar 1,home,De Anza,W,18-3,18,3,15,win,20230301_p0vb,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,San Francisco,sanfrancisco,caigecampbellap2y,Caige Campbell
+Mar 18,home,West Valley,L,13-2,13,2,11,win,20230318_5ie9,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,San Francisco,sanfrancisco,caigecampbellap2y,Caige Campbell
 Jan 28,home,Mt. San Antonio,L,6-0,6,0,6,win,20230128_ivlq,4,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Victor Valley,victorvalley,darrenatkinsonvzwk,Darren Atkinson
 Feb 2,home,Grossmont,L,9-2,9,2,7,win,20230202_7aq7,4,0.0,1.0,1.0,,,0.0,,1.0,1.0,,,,,2,1,,2.0,,,4,2023,2022-23,Victor Valley,victorvalley,darrenatkinsonvzwk,Darren Atkinson
 Feb 4,home,Imperial Valley,L,17-0,17,0,17,win,20230204_jv8r,2,0.0,0.0,,,,0.0,,,,,,,1.0,0,0,1.0,2.0,1.0,2.0,3,2023,2022-23,Victor Valley,victorvalley,darrenatkinsonvzwk,Darren Atkinson
@@ -1008,6 +1020,7 @@ Mar 9,home,Cerro Coso,W,5-2,5,2,3,win,20230309_nsno,4,1.0,1.0,,,1.0,2.0,1.0,2.0,
 Mar 16,home,Victor Valley,W,16-0,16,0,16,win,20230316_0m68,3,2.0,1.0,,,,0.0,2.0,,2.0,,,,,1,0,,,1.0,,5,2023,2022-23,Chaffey,chaffey,jacobbillingseubl,Jacob Billings
 Mar 16,home,Victor Valley,W,21-1,21,1,20,win,20230316_qdjd,6,2.0,3.0,2.0,,,3.0,1.0,1.0,1.0,,,,,5,2,,,2.0,,7,2023,2022-23,Chaffey,chaffey,jacobbillingseubl,Jacob Billings
 Mar 18,home,Victor Valley,W,6-1,6,1,5,win,20230318_s7v9,1,1.0,1.0,,,,0.0,3.0,,2.0,1.0,,,,1,0,,,,,4,2023,2022-23,Chaffey,chaffey,jacobbillingseubl,Jacob Billings
+Mar 18,home,Victor Valley,W,13-3,13,3,10,win,20230318_mcl2,5,2.0,1.0,,,,1.0,1.0,1.0,2.0,,,,,1,0,,1.0,1.0,1.0,6,2023,2022-23,Chaffey,chaffey,jacobbillingseubl,Jacob Billings
 Jan 27,home,Santa Ana,L,12-8,12,8,4,win,20230127_pjow,4,0.0,1.0,,,,0.0,1.0,2.0,,,,,,1,0,,,1.0,,5,2023,2022-23,San Diego Mesa,sandiegomesa,dannyyanezvzvp,Danny Yanez
 Jan 28,home,Santa Ana,W,10-9,10,9,1,win,20230128_j1qk,4,0.0,0.0,,,,1.0,1.0,,,,,1.0,,0,0,,1.0,4.0,0.25,6,2023,2022-23,San Diego Mesa,sandiegomesa,dannyyanezvzvp,Danny Yanez
 Feb 2,home,Golden West,L,10-3,10,3,7,win,20230202_1j5d,3,0.0,1.0,,,,0.0,1.0,,,,,,,1,0,,,2.0,,4,2023,2022-23,San Diego Mesa,sandiegomesa,dannyyanezvzvp,Danny Yanez
@@ -1119,6 +1132,8 @@ Mar 4,home,San Diego Mesa,W,20-7,20,7,13,win,20230304_ak2f,4,4.0,3.0,2.0,,,1.0,,
 Mar 7,home,San Diego City,L,8-6,8,6,2,win,20230307_oveq,3,1.0,1.0,,,1.0,2.0,1.0,1.0,,,,,,4,1,,,1.0,,4,2023,2022-23,Grossmont,grossmont,lukemansy75uq,Luke Mansy
 Mar 9,home,San Diego City,L,8-2,8,2,6,win,20230309_dn9v,4,0.0,0.0,,,,0.0,,,,,,,,0,0,,,4.0,,4,2023,2022-23,Grossmont,grossmont,lukemansy75uq,Luke Mansy
 Mar 14,home,Palomar,L,6-3,6,3,3,win,20230314_l687,4,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,2.0,1.0,2.0,5,2023,2022-23,Grossmont,grossmont,lukemansy75uq,Luke Mansy
+Mar 18,home,Southwestern,W,7-3,7,3,4,win,20230318_kxqg,4,2.0,2.0,,1.0,,2.0,,,,,,1.0,,4,1,,,2.0,,5,2023,2022-23,Grossmont,grossmont,lukemansy75uq,Luke Mansy
+Mar 18,home,Southwestern,L,16-12,16,12,4,win,20230318_mpiy,2,3.0,1.0,,,,0.0,3.0,,,,1.0,,,1,0,,1.0,,,6,2023,2022-23,Grossmont,grossmont,lukemansy75uq,Luke Mansy
 Jan 27,home,Fullerton,L,12-2,12,2,10,win,20230127_zykh,4,1.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,2.0,,4,2023,2022-23,Cerritos,cerritos,mileshughesmp9y,Miles Hughes
 Jan 28,home,Fullerton,L,7-4,7,4,3,win,20230128_7j54,4,0.0,0.0,,,,0.0,,,,,,,,0,0,1.0,3.0,1.0,3.0,4,2023,2022-23,Cerritos,cerritos,mileshughesmp9y,Miles Hughes
 Feb 3,home,LA Valley,W,9-4,9,4,5,win,20230203_7goc,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Cerritos,cerritos,mileshughesmp9y,Miles Hughes
@@ -1187,7 +1202,7 @@ Jan 31,home,Mission,L,8-0,8,0,8,win,20230131_qwr0,4,0.0,0.0,,,,0.0,,2.0,,,,,,0,0
 Feb 10,home,Siskiyous,W,7-6,7,6,1,win,20230210_ncwg,3,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,,,,3,2023,2022-23,Mendocino,mendocino,joeythomasobgt,Joey Thomas
 Feb 10,home,Siskiyous,W,8-3,8,3,5,win,20230210_yd4s,3,1.0,1.0,,,,1.0,,,,,,,1.0,1,0,,1.0,2.0,0.5,4,2023,2022-23,Mendocino,mendocino,joeythomasobgt,Joey Thomas
 Mar 3,home,Marin,W,10-9,10,9,1,win,20230303_nrjr,3,1.0,1.0,,,,1.0,1.0,1.0,1.0,,1.0,,,1,0,,1.0,,,5,2023,2022-23,Mendocino,mendocino,joeythomasobgt,Joey Thomas
-Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mendocino,mendocino,joeythomasobgt,Joey Thomas
+Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,4,1.0,1.0,,,,0.0,,,1.0,,,,,1,0,,,,,4,2023,2022-23,Mendocino,mendocino,joeythomasobgt,Joey Thomas
 Mar 16,home,Los Medanos,L,12-2,12,2,10,win,20230316_mu3o,3,0.0,0.0,,,,0.0,,2.0,,,,,1.0,0,0,,2.0,,,4,2023,2022-23,Mendocino,mendocino,joeythomasobgt,Joey Thomas
 Mar 17,home,Los Medanos,L,7-0,7,0,7,win,20230317_7w3w,4,0.0,0.0,,,,0.0,,,,,,,,0,0,,,4.0,,4,2023,2022-23,Mendocino,mendocino,joeythomasobgt,Joey Thomas
 Jan 27,home,Irvine Valley,L,10-1,10,1,9,win,20230127_7181,2,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0,0,,,1.0,,3,2023,2022-23,Long Beach,longbeach,williamschwabh5x1,William Schwab
@@ -1853,6 +1868,7 @@ Mar 7,home,Cabrillo,L,6-3,6,3,3,win,20230307_dqhz,4,0.0,1.0,,,,0.0,,1.0,,,,,,1,0
 Mar 11,home,Ohlone,L,6-5,6,5,1,win,20230311_e98b,5,0.0,1.0,,,,0.0,,1.0,1.0,,,,,1,0,,2.0,1.0,2.0,5,2023,2022-23,San Francisco,sanfrancisco,ryananderson2z5h,Ryan Anderson
 Mar 16,home,West Valley,W,2-0,2,0,2,win,20230316_edso,3,1.0,1.0,,,,0.0,2.0,,,1.0,,,,1,0,,2.0,,,5,2023,2022-23,San Francisco,sanfrancisco,ryananderson2z5h,Ryan Anderson
 Mar 16,home,West Valley,L,5-2,5,2,3,win,20230316_sh1i,4,0.0,0.0,,,,0.0,,2.0,,1.0,,,,0,0,,2.0,,,4,2023,2022-23,San Francisco,sanfrancisco,ryananderson2z5h,Ryan Anderson
+Mar 18,home,West Valley,L,13-2,13,2,11,win,20230318_5ie9,3,0.0,2.0,1.0,,,0.0,,1.0,1.0,,,,,3,1,,,,,3,2023,2022-23,San Francisco,sanfrancisco,ryananderson2z5h,Ryan Anderson
 Jan 27,home,Feather River,L,13-5,13,5,8,win,20230127_p3qv,4,0.0,1.0,,,,0.0,,,,1.0,,,,1,0,,1.0,1.0,1.0,4,2023,2022-23,Taft,taft,izzyhalton8be4,Izzy Halton
 Jan 28,home,Feather River,L,9-2,9,2,7,win,20230128_rabk,3,0.0,0.0,,,,0.0,1.0,,1.0,,,,,0,0,,,2.0,,4,2023,2022-23,Taft,taft,izzyhalton8be4,Izzy Halton
 Jan 31,home,Antelope Valley,W,11-9,11,9,2,win,20230131_am07,6,1.0,2.0,,,,0.0,,,,,,,,2,0,,1.0,3.0,0.33,6,2023,2022-23,Taft,taft,izzyhalton8be4,Izzy Halton
@@ -1905,6 +1921,7 @@ Feb 22,home,Skyline,L,22-0,22,0,22,win,20230222_p8mm,3,0.0,0.0,,,,0.0,,1.0,,,,,,
 Mar 2,home,Skyline,L,13-4,13,4,9,win,20230302_4eqs,3,0.0,0.0,,,,0.0,,1.0,1.0,,1.0,,,0,0,,,2.0,,4,2023,2022-23,Gavilan,gavilan,alexisperezscp3,Alexis Perez
 Mar 3,home,Laney,L,7-4,7,4,3,win,20230303_m7pv,4,0.0,2.0,,,,0.0,,1.0,1.0,,,,,2,0,,1.0,,,4,2023,2022-23,Gavilan,gavilan,alexisperezscp3,Alexis Perez
 Mar 7,home,San Mateo,L,16-2,16,2,14,win,20230307_ts8s,3,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,1.0,,,3,2023,2022-23,Gavilan,gavilan,alexisperezscp3,Alexis Perez
+Mar 16,home,De Anza,L,16-3,16,3,13,win,20230316_r9qy,2,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,2,2023,2022-23,Gavilan,gavilan,alexisperezscp3,Alexis Perez
 Mar 17,home,De Anza,L,10-3,10,3,7,win,20230317_xhs9,4,0.0,1.0,,,,0.0,,,,,,,,1,0,,1.0,2.0,0.5,4,2023,2022-23,Gavilan,gavilan,alexisperezscp3,Alexis Perez
 Mar 18,home,De Anza,L,8-3,8,3,5,win,20230318_9b7h,4,0.0,1.0,,,,1.0,,,,,,,,1,0,,2.0,1.0,2.0,4,2023,2022-23,Gavilan,gavilan,alexisperezscp3,Alexis Perez
 Jan 27,home,Chabot,L,8-0,8,0,8,win,20230127_r4nf,3,0.0,0.0,,,,0.0,1.0,3.0,,,,,,0,0,,,,,4,2023,2022-23,Santa Rosa,santarosa,jakemccoye6d4,Jake McCoy
@@ -2134,6 +2151,7 @@ Feb 16,home,Laney,L,5-1,5,1,4,win,20230216_jszn,4,1.0,1.0,,,,0.0,,,,,,,,1,0,,,3.
 Feb 18,home,San Joaquin Delta,L,13-2,13,2,11,win,20230218_37sc,2,1.0,2.0,,,,0.0,,,,,,,,2,0,,,,,2,2023,2022-23,Gavilan,gavilan,mattmendosab3my,Matt Mendosa
 Mar 7,home,San Mateo,L,16-2,16,2,14,win,20230307_ts8s,1,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,,,,2,2023,2022-23,Gavilan,gavilan,mattmendosab3my,Matt Mendosa
 Mar 11,home,Canada,L,2-0,2,0,2,win,20230311_s3l4,3,0.0,0.0,,,,0.0,,,,,,,,0,0,,3.0,,,3,2023,2022-23,Gavilan,gavilan,mattmendosab3my,Matt Mendosa
+Mar 16,home,De Anza,L,16-3,16,3,13,win,20230316_r9qy,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,1,2023,2022-23,Gavilan,gavilan,mattmendosab3my,Matt Mendosa
 Mar 17,home,De Anza,L,10-3,10,3,7,win,20230317_xhs9,3,2.0,1.0,,,,0.0,1.0,,,,,,,1,0,,,2.0,,4,2023,2022-23,Gavilan,gavilan,mattmendosab3my,Matt Mendosa
 Mar 18,home,De Anza,L,8-3,8,3,5,win,20230318_9b7h,2,1.0,0.0,,,,0.0,2.0,1.0,,,,,,0,0,,1.0,,,4,2023,2022-23,Gavilan,gavilan,mattmendosab3my,Matt Mendosa
 Feb 1,home,Antelope Valley,W,20-9,20,9,11,win,20230201_nnfa,3,3.0,2.0,1.0,,,2.0,,1.0,,,1.0,,,3,1,,,,,4,2023,2022-23,Chaffey,chaffey,austineasterlzhu,Austin Easter
@@ -2147,6 +2165,7 @@ Feb 22,home,Irvine Valley,L,6-5,6,5,1,win,20230222_lb46,4,1.0,0.0,,,,0.0,,2.0,,,
 Mar 3,home,Desert,W,5-3,5,3,2,win,20230303_zno1,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Chaffey,chaffey,austineasterlzhu,Austin Easter
 Mar 16,home,Victor Valley,W,21-1,21,1,20,win,20230316_qdjd,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Chaffey,chaffey,austineasterlzhu,Austin Easter
 Mar 18,home,Victor Valley,W,6-1,6,1,5,win,20230318_s7v9,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Chaffey,chaffey,austineasterlzhu,Austin Easter
+Mar 18,home,Victor Valley,W,13-3,13,3,10,win,20230318_mcl2,1,1.0,0.0,,,,0.0,,,,,1.0,,,0,0,,1.0,,,2,2023,2022-23,Chaffey,chaffey,austineasterlzhu,Austin Easter
 Jan 28,home,Riverside,W,12-2,12,2,10,win,20230128_dgzv,2,1.0,0.0,,,,1.0,1.0,,,,,,,0,0,,2.0,,,3,2023,2022-23,Cuesta,cuesta,braydenmccoy9bv7,Brayden McCoy
 Feb 2,home,Orange Coast,W,7-6,7,6,1,win,20230202_zoch,0,1.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Cuesta,cuesta,braydenmccoy9bv7,Brayden McCoy
 Feb 4,home,Orange Coast,L,4-2,4,2,2,win,20230204_bbvx,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Cuesta,cuesta,braydenmccoy9bv7,Brayden McCoy
@@ -2381,6 +2400,7 @@ Mar 9,home,Victor Valley,W,13-2,13,2,11,win,20230309_ycun,0,0.0,0.0,,,,1.0,1.0,,
 Mar 11,home,Desert,W,7-5,7,5,2,win,20230311_gdmi,4,0.0,1.0,,,,1.0,,2.0,,,,,,1,0,1.0,1.0,,,4,2023,2022-23,San Bernardino Valley,sanbernardinovalley,carloslopez03wr,Carlos Lopez
 Mar 15,home,Cerro Coso,L,13-8,13,8,5,win,20230315_8gak,3,0.0,2.0,,,,0.0,1.0,,,1.0,,,,2,0,,1.0,,,4,2023,2022-23,San Bernardino Valley,sanbernardinovalley,carloslopez03wr,Carlos Lopez
 Mar 16,home,Cerro Coso,W,7-6,7,6,1,win,20230316_m7v3,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,San Bernardino Valley,sanbernardinovalley,carloslopez03wr,Carlos Lopez
+Mar 18,home,Cerro Coso,W,6-4,6,4,2,win,20230318_1k1c,4,1.0,0.0,,,,1.0,,2.0,,,,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,San Bernardino Valley,sanbernardinovalley,carloslopez03wr,Carlos Lopez
 Jan 28,home,Laney,W,4-1,4,1,3,win,20230128_o604,4,1.0,1.0,,,,1.0,,1.0,1.0,,,,,1,0,1.0,2.0,,,4,2023,2022-23,Sierra,sierra,jackweise0hzc,Jack Weise
 Jan 31,home,Santa Rosa,L,4-0,4,0,4,win,20230131_oidy,4,0.0,1.0,,,,0.0,,1.0,,,,,,1,0,,,2.0,,4,2023,2022-23,Sierra,sierra,jackweise0hzc,Jack Weise
 Feb 3,home,Oxnard,W,19-3,19,3,16,win,20230203_xmlv,3,1.0,0.0,,,,1.0,1.0,1.0,,,2.0,,,0,0,,2.0,,,6,2023,2022-23,Sierra,sierra,jackweise0hzc,Jack Weise
@@ -2477,7 +2497,7 @@ Mar 7,home,Bakersfield,W,4-3,4,3,1,win,20230307_yppu,4,1.0,2.0,,,,1.0,,,,,,,,2,0
 Mar 9,home,Bakersfield,W,17-5,17,5,12,win,20230309_81zh,3,2.0,1.0,,,,1.0,2.0,1.0,1.0,,,,,1,0,,1.0,,,5,2023,2022-23,Canyons,canyons,colinyeamanhajx,Colin Yeaman
 Mar 13,home,Bakersfield,W,9-6,9,6,3,win,20230313_6edm,2,1.0,1.0,,,,1.0,1.0,,,1.0,2.0,,,1,0,,1.0,,,5,2023,2022-23,Canyons,canyons,colinyeamanhajx,Colin Yeaman
 Mar 16,home,LA Valley,L,8-3,8,3,5,win,20230316_sq38,3,1.0,1.0,,,1.0,2.0,1.0,1.0,,,,,,4,1,,1.0,,,4,2023,2022-23,Canyons,canyons,colinyeamanhajx,Colin Yeaman
-Mar 17,home,LA Valley,L,9-7,9,7,2,win,20230317_vor5,4,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0,0,,,3.0,,5,2023,2022-23,Canyons,canyons,colinyeamanhajx,Colin Yeaman
+Mar 17,home,LA Valley,L,9-7,9,7,2,win,20230317_vor5,5,0.0,1.0,1.0,,,0.0,,1.0,,,,,,2,1,,,3.0,,5,2023,2022-23,Canyons,canyons,colinyeamanhajx,Colin Yeaman
 Mar 18,home,LA Valley,W,8-4,8,4,4,win,20230318_dfny,5,1.0,4.0,,,1.0,5.0,,,,,,,,7,1,,1.0,,,5,2023,2022-23,Canyons,canyons,colinyeamanhajx,Colin Yeaman
 Feb 14,home,West Hills Coalinga,W,10-4,10,4,6,win,20230214_bmc5,4,0.0,0.0,,,,0.0,,,,,,,,0,0,,2.0,1.0,2.0,4,2023,2022-23,Sacramento City,sacramentocity,aidanchangimnj,Aidan Chang
 Feb 23,home,Fullerton,L,9-3,9,3,6,win,20230223_efxr,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Sacramento City,sacramentocity,aidanchangimnj,Aidan Chang
@@ -2519,6 +2539,8 @@ Mar 4,home,San Diego Mesa,W,20-7,20,7,13,win,20230304_ak2f,4,2.0,3.0,2.0,,1.0,3.
 Mar 7,home,San Diego City,L,8-6,8,6,2,win,20230307_oveq,2,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,,,,2,2023,2022-23,Grossmont,grossmont,skyleragnew4s8s,Skyler Agnew
 Mar 9,home,San Diego City,L,8-2,8,2,6,win,20230309_dn9v,3,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,1.0,2.0,0.5,4,2023,2022-23,Grossmont,grossmont,skyleragnew4s8s,Skyler Agnew
 Mar 14,home,Palomar,L,6-3,6,3,3,win,20230314_l687,5,0.0,3.0,1.0,,,1.0,,,,,,,,4,1,,1.0,1.0,1.0,5,2023,2022-23,Grossmont,grossmont,skyleragnew4s8s,Skyler Agnew
+Mar 18,home,Southwestern,W,7-3,7,3,4,win,20230318_kxqg,4,0.0,0.0,,,,0.0,,1.0,,,,,1.0,0,0,,2.0,2.0,1.0,5,2023,2022-23,Grossmont,grossmont,skyleragnew4s8s,Skyler Agnew
+Mar 18,home,Southwestern,L,16-12,16,12,4,win,20230318_mpiy,5,0.0,2.0,2.0,,,3.0,1.0,2.0,,,,,,4,2,,,1.0,,6,2023,2022-23,Grossmont,grossmont,skyleragnew4s8s,Skyler Agnew
 Jan 28,home,LA Harbor,W,8-3,8,3,5,win,20230128_779k,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,Desert,desert,carlosmunozdq35,Carlos Munoz
 Feb 7,home,Imperial Valley,W,18-1,18,1,17,win,20230207_760m,3,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,2.0,0.5,3,2023,2022-23,Desert,desert,carlosmunozdq35,Carlos Munoz
 Feb 8,home,Compton,W,14-0,14,0,14,win,20230208_q0hb,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Desert,desert,carlosmunozdq35,Carlos Munoz
@@ -2662,6 +2684,7 @@ Mar 3,home,Hartnell,L,10-4,10,4,6,win,20230303_e627,1,0.0,0.0,,,,0.0,,,,,,,,0,0,
 Mar 4,home,Cabrillo,L,13-6,13,6,7,win,20230304_ssei,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,,,1,2023,2022-23,Canada,canada,bensinglerqd3s,Ben Singler
 Mar 15,home,Skyline,L,13-4,13,4,9,win,20230315_bqt0,3,1.0,0.0,,,,0.0,1.0,,,,1.0,,,0,0,,2.0,1.0,2.0,5,2023,2022-23,Canada,canada,bensinglerqd3s,Ben Singler
 Mar 16,home,Skyline,W,9-5,9,5,4,win,20230316_n4hi,3,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,2.0,,,4,2023,2022-23,Canada,canada,bensinglerqd3s,Ben Singler
+Mar 18,home,Skyline,W,4-2,4,2,2,win,20230318_6cns,4,0.0,2.0,,,,0.0,,,,,,,,2,0,,1.0,1.0,1.0,4,2023,2022-23,Canada,canada,bensinglerqd3s,Ben Singler
 Jan 27,home,Saddleback,L,6-2,6,2,4,win,20230127_7x3k,4,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,2.0,,4,2023,2022-23,Canyons,canyons,jakeschwartz1fjd,Jake Schwartz
 Jan 28,home,Saddleback,W,12-1,12,1,11,win,20230128_17a2,4,2.0,2.0,1.0,,,2.0,,1.0,,,1.0,,,3,1,,,1.0,,5,2023,2022-23,Canyons,canyons,jakeschwartz1fjd,Jake Schwartz
 Feb 2,home,Cosumnes River,L,8-3,8,3,5,win,20230202_n51w,4,1.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,2.0,,4,2023,2022-23,Canyons,canyons,jakeschwartz1fjd,Jake Schwartz
@@ -2706,6 +2729,7 @@ Mar 1,home,San Mateo,L,11-2,11,2,9,win,20230301_3d0k,0,0.0,0.0,,,,0.0,,,,,1.0,,,
 Mar 4,home,Canada,W,13-6,13,6,7,win,20230304_ssei,1,1.0,1.0,1.0,,,1.0,,,,,,,,2,1,,,,,1,2023,2022-23,Cabrillo,cabrillo,jacksongifford0jzn,Jackson Gifford
 Mar 8,home,Reedley,L,18-3,18,3,15,win,20230308_5k58,1,1.0,1.0,,,1.0,1.0,,,,,,,,4,1,,,,,1,2023,2022-23,Cabrillo,cabrillo,jacksongifford0jzn,Jackson Gifford
 Mar 15,home,Monterey Peninsula,W,8-2,8,2,6,win,20230315_170d,0,0.0,0.0,,,,0.0,,,,,,,1.0,0,0,,1.0,,,1,2023,2022-23,Cabrillo,cabrillo,jacksongifford0jzn,Jackson Gifford
+Mar 18,home,Monterey Peninsula,W,5-3,5,3,2,win,20230318_uhgb,2,1.0,1.0,,,,0.0,1.0,1.0,1.0,,1.0,,,1,0,,,,,4,2023,2022-23,Cabrillo,cabrillo,jacksongifford0jzn,Jackson Gifford
 Jan 29,home,Laney,W,6-2,6,2,4,win,20230129_pk6l,4,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,2.0,0.5,4,2023,2022-23,San Francisco,sanfrancisco,davidbalagueahcw,David Balague
 Jan 31,home,Contra Costa,W,13-4,13,4,9,win,20230131_s7ry,4,2.0,3.0,1.0,,1.0,4.0,,,,,,,,7,2,,,1.0,,4,2023,2022-23,San Francisco,sanfrancisco,davidbalagueahcw,David Balague
 Feb 2,home,Redwoods,L,7-0,7,0,7,win,20230202_ncif,2,0.0,1.0,,,,0.0,,,,,1.0,,,1,0,,,1.0,,3,2023,2022-23,San Francisco,sanfrancisco,davidbalagueahcw,David Balague
@@ -2722,6 +2746,7 @@ Mar 7,home,Cabrillo,L,6-3,6,3,3,win,20230307_dqhz,5,0.0,0.0,,,,0.0,,3.0,,,,,,0,0
 Mar 11,home,Ohlone,L,6-5,6,5,1,win,20230311_e98b,4,1.0,1.0,1.0,,,1.0,,1.0,,,,,,2,1,,,2.0,,4,2023,2022-23,San Francisco,sanfrancisco,davidbalagueahcw,David Balague
 Mar 16,home,West Valley,W,2-0,2,0,2,win,20230316_edso,3,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,1.0,1.0,2.0,0.5,4,2023,2022-23,San Francisco,sanfrancisco,davidbalagueahcw,David Balague
 Mar 16,home,West Valley,L,5-2,5,2,3,win,20230316_sh1i,2,1.0,1.0,1.0,,,0.0,1.0,,,,1.0,,,2,1,,1.0,,,4,2023,2022-23,San Francisco,sanfrancisco,davidbalagueahcw,David Balague
+Mar 18,home,West Valley,L,13-2,13,2,11,win,20230318_5ie9,3,0.0,0.0,,,,0.0,,3.0,,,,,,0,0,,,,,3,2023,2022-23,San Francisco,sanfrancisco,davidbalagueahcw,David Balague
 Jan 27,home,El Camino,W,6-3,6,3,3,win,20230127_7r40,2,2.0,2.0,,,1.0,1.0,1.0,,,,1.0,,,5,1,,,,,4,2023,2022-23,Orange Coast,orangecoast,kanantreecel740,Kanan Treece
 Jan 28,home,El Camino,W,5-3,5,3,2,win,20230128_okc3,2,0.0,1.0,,,,2.0,,,,,2.0,,,1,0,,,1.0,,4,2023,2022-23,Orange Coast,orangecoast,kanantreecel740,Kanan Treece
 Feb 2,home,Cuesta,L,7-6,7,6,1,win,20230202_zoch,3,1.0,0.0,,,,0.0,1.0,2.0,,,1.0,,1.0,0,0,,1.0,,,6,2023,2022-23,Orange Coast,orangecoast,kanantreecel740,Kanan Treece
@@ -2815,6 +2840,7 @@ Mar 3,home,Laney,L,7-4,7,4,3,win,20230303_m7pv,2,0.0,0.0,,,,0.0,2.0,1.0,1.0,,,,,
 Mar 7,home,San Mateo,L,16-2,16,2,14,win,20230307_ts8s,2,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,,,,2,2023,2022-23,Gavilan,gavilan,loganlewisn8zx,Logan Lewis
 Mar 8,home,Chabot,L,12-6,12,6,6,win,20230308_ef56,4,2.0,2.0,,,,1.0,,1.0,,1.0,,,,2,0,,,,,4,2023,2022-23,Gavilan,gavilan,loganlewisn8zx,Logan Lewis
 Mar 11,home,Canada,L,2-0,2,0,2,win,20230311_s3l4,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Gavilan,gavilan,loganlewisn8zx,Logan Lewis
+Mar 16,home,De Anza,L,16-3,16,3,13,win,20230316_r9qy,3,0.0,2.0,1.0,,,1.0,,,1.0,,,,,3,1,,,,,3,2023,2022-23,Gavilan,gavilan,loganlewisn8zx,Logan Lewis
 Mar 17,home,De Anza,L,10-3,10,3,7,win,20230317_xhs9,4,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,3.0,,,4,2023,2022-23,Gavilan,gavilan,loganlewisn8zx,Logan Lewis
 Mar 18,home,De Anza,L,8-3,8,3,5,win,20230318_9b7h,3,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,2.0,,3,2023,2022-23,Gavilan,gavilan,loganlewisn8zx,Logan Lewis
 Jan 27,home,Palomar,L,11-4,11,4,7,win,20230127_k7rx,4,0.0,1.0,,,,0.0,,3.0,,,1.0,,,1,0,,,,,5,2023,2022-23,Golden West,goldenwest,dominicporterzs4s,Dominic Porter
@@ -2881,6 +2907,7 @@ Mar 3,home,Skyline,L,10-4,10,4,6,win,20230303_gvv2,3,0.0,0.0,,,,0.0,2.0,,,,,,,0,
 Mar 7,home,West Valley,L,2-1,2,1,1,win,20230307_h8y4,3,1.0,0.0,,,,0.0,1.0,2.0,,,1.0,,,0,0,,1.0,,,5,2023,2022-23,De Anza,deanza,minjaekimtler,Minjae Kim
 Mar 8,home,San Mateo,L,4-2,4,2,2,win,20230308_wygl,3,0.0,0.0,,,,0.0,,1.0,,,,,1.0,0,0,,3.0,,,4,2023,2022-23,De Anza,deanza,minjaekimtler,Minjae Kim
 Mar 11,home,Chabot,L,19-7,19,7,12,win,20230311_ft4t,5,1.0,4.0,1.0,,,0.0,,,,,,,,5,1,,1.0,,,5,2023,2022-23,De Anza,deanza,minjaekimtler,Minjae Kim
+Mar 16,home,Gavilan,W,16-3,16,3,13,win,20230316_r9qy,5,0.0,0.0,,,,0.0,,3.0,,,,,,0,0,,,,,5,2023,2022-23,De Anza,deanza,minjaekimtler,Minjae Kim
 Feb 4,home,Imperial Valley,L,17-0,17,0,17,win,20230204_jv8r,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Victor Valley,victorvalley,joshuapenningtonlyf6,Joshua Pennington
 Feb 7,home,Pasadena City,L,12-5,12,5,7,win,20230207_pslu,4,0.0,1.0,,,,0.0,,,,,,,,1,0,1.0,2.0,1.0,2.0,4,2023,2022-23,Victor Valley,victorvalley,joshuapenningtonlyf6,Joshua Pennington
 Feb 9,home,Pasadena City,L,6-5,6,5,1,win,20230209_j2op,4,1.0,2.0,,,,0.0,,,,,,,1.0,2,0,,1.0,2.0,0.5,5,2023,2022-23,Victor Valley,victorvalley,joshuapenningtonlyf6,Joshua Pennington
@@ -2919,6 +2946,7 @@ Mar 8,home,Gavilan,W,12-6,12,6,6,win,20230308_ef56,4,2.0,1.0,,,1.0,1.0,,2.0,2.0,
 Mar 11,home,De Anza,W,19-7,19,7,12,win,20230311_ft4t,3,1.0,0.0,,,,0.0,,,1.0,,1.0,,,0,0,,,2.0,,4,2023,2022-23,Chabot,chabot,caseycummingsn5yl,Casey Cummings
 Mar 15,home,San Mateo,L,14-1,14,1,13,win,20230315_geuj,4,1.0,1.0,1.0,,,0.0,,2.0,,,,,,2,1,,,,,4,2023,2022-23,Chabot,chabot,caseycummingsn5yl,Casey Cummings
 Mar 16,home,San Mateo,W,7-6,7,6,1,win,20230316_hwm7,2,2.0,2.0,,,1.0,3.0,2.0,,,2.0,,,,5,1,,,,,4,2023,2022-23,Chabot,chabot,caseycummingsn5yl,Casey Cummings
+Mar 18,home,San Mateo,W,5-4,5,4,1,win,20230318_cn5a,4,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1,0,,,2.0,,5,2023,2022-23,Chabot,chabot,caseycummingsn5yl,Casey Cummings
 Feb 3,home,Mt. San Antonio,L,21-5,21,5,16,win,20230203_0thr,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Cypress,cypress,colewentzzkrd,Cole Wentz
 Feb 9,home,LA Pierce,W,15-4,15,4,11,win,20230209_lgbj,4,1.0,1.0,,,,2.0,,,,,,1.0,,1,0,,1.0,3.0,0.33,5,2023,2022-23,Cypress,cypress,colewentzzkrd,Cole Wentz
 Feb 10,home,Merced,W,13-2,13,2,11,win,20230210_brje,1,2.0,0.0,,,,0.0,3.0,,,,,,,0,0,,1.0,,,4,2023,2022-23,Cypress,cypress,colewentzzkrd,Cole Wentz
@@ -3143,6 +3171,7 @@ Mar 3,home,San Diego Mesa,L,7-6,7,6,1,win,20230303_4mv9,2,0.0,0.0,,,,0.0,1.0,,,,
 Mar 4,home,San Diego Mesa,W,20-7,20,7,13,win,20230304_ak2f,5,1.0,1.0,,,,0.0,,,,,1.0,,,1,0,,1.0,2.0,0.5,6,2023,2022-23,Grossmont,grossmont,coleduffy4cpa,Cole Duffy
 Mar 7,home,San Diego City,L,8-6,8,6,2,win,20230307_oveq,4,0.0,0.0,,,,0.0,,3.0,,,,,,0,0,,1.0,,,4,2023,2022-23,Grossmont,grossmont,coleduffy4cpa,Cole Duffy
 Mar 9,home,San Diego City,L,8-2,8,2,6,win,20230309_dn9v,3,0.0,1.0,,,,0.0,1.0,,,,,,,1,0,,,2.0,,4,2023,2022-23,Grossmont,grossmont,coleduffy4cpa,Cole Duffy
+Mar 18,home,Southwestern,L,16-12,16,12,4,win,20230318_mpiy,0,1.0,0.0,,,,0.0,,,,,1.0,,,0,0,,,,,1,2023,2022-23,Grossmont,grossmont,coleduffy4cpa,Cole Duffy
 Jan 27,home,Gavilan,W,13-1,13,1,12,win,20230127_ysqf,4,0.0,0.0,,,,0.0,,,,,,,,0,0,,2.0,2.0,1.0,4,2023,2022-23,Folsom Lake,folsomlake,drakedigiorno549v,Drake Digiorno
 Jan 28,home,Gavilan,W,18-0,18,0,18,win,20230128_ugqu,6,0.0,0.0,,,,0.0,,,,,,,,0,0,,3.0,2.0,1.5,6,2023,2022-23,Folsom Lake,folsomlake,drakedigiorno549v,Drake Digiorno
 Feb 3,home,Taft,L,8-4,8,4,4,win,20230203_q8rs,4,0.0,0.0,,,,1.0,1.0,,1.0,,,,,0,0,,,3.0,,5,2023,2022-23,Folsom Lake,folsomlake,drakedigiorno549v,Drake Digiorno
@@ -3237,6 +3266,7 @@ Feb 27,home,Victor Valley,W,26-4,26,4,22,win,20230227_mu76,0,0.0,0.0,,,,1.0,1.0,
 Mar 3,home,San Bernardino Valley,L,6-3,6,3,3,win,20230303_0zp2,4,1.0,2.0,,,,0.0,,2.0,,,,,,2,0,,,,,4,2023,2022-23,Antelope Valley,antelopevalley,joeuribet4sk,Joe Uribe
 Mar 7,home,Glendale,L,14-4,14,4,10,win,20230307_5yud,2,1.0,2.0,,,,0.0,1.0,,,,,,,2,0,,,,,3,2023,2022-23,Antelope Valley,antelopevalley,joeuribet4sk,Joe Uribe
 Mar 17,home,Citrus,L,12-9,12,9,3,win,20230317_mrrb,4,0.0,1.0,1.0,,,0.0,1.0,2.0,,,,,,2,1,,,1.0,,5,2023,2022-23,Antelope Valley,antelopevalley,joeuribet4sk,Joe Uribe
+Mar 18,home,Citrus,W,7-5,7,5,2,win,20230318_83y5,4,2.0,2.0,1.0,,,0.0,,,,,,,,3,1,,,1.0,,4,2023,2022-23,Antelope Valley,antelopevalley,joeuribet4sk,Joe Uribe
 Jan 31,home,Contra Costa,W,13-4,13,4,9,win,20230131_s7ry,4,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,2.0,0.5,4,2023,2022-23,San Francisco,sanfrancisco,miguelesquviez6flu,Miguel Esquviez
 Feb 2,home,Redwoods,L,7-0,7,0,7,win,20230202_ncif,1,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,1.0,1.0,,,2,2023,2022-23,San Francisco,sanfrancisco,miguelesquviez6flu,Miguel Esquviez
 Feb 14,home,Gavilan,W,13-2,13,2,11,win,20230214_c21h,1,1.0,0.0,,,,1.0,,1.0,,,1.0,,,0,0,,,1.0,,2,2023,2022-23,San Francisco,sanfrancisco,miguelesquviez6flu,Miguel Esquviez
@@ -3249,6 +3279,7 @@ Mar 7,home,Cabrillo,L,6-3,6,3,3,win,20230307_dqhz,4,0.0,0.0,,,,0.0,,1.0,,,,,,0,0
 Mar 11,home,Ohlone,L,6-5,6,5,1,win,20230311_e98b,3,0.0,1.0,,,,1.0,,,,,,1.0,,1,0,,1.0,2.0,0.5,4,2023,2022-23,San Francisco,sanfrancisco,miguelesquviez6flu,Miguel Esquviez
 Mar 16,home,West Valley,W,2-0,2,0,2,win,20230316_edso,3,0.0,1.0,,,,0.0,,1.0,,,1.0,,,1,0,,1.0,,,4,2023,2022-23,San Francisco,sanfrancisco,miguelesquviez6flu,Miguel Esquviez
 Mar 16,home,West Valley,L,5-2,5,2,3,win,20230316_sh1i,4,0.0,1.0,,,,1.0,,,,,,,,1,0,1.0,1.0,2.0,0.5,4,2023,2022-23,San Francisco,sanfrancisco,miguelesquviez6flu,Miguel Esquviez
+Mar 18,home,West Valley,L,13-2,13,2,11,win,20230318_5ie9,3,0.0,0.0,,,,0.0,,,,,,,,0,0,,,3.0,,3,2023,2022-23,San Francisco,sanfrancisco,miguelesquviez6flu,Miguel Esquviez
 Feb 17,home,Glendale,L,9-4,9,4,5,win,20230217_w983,2,0.0,1.0,,,,1.0,,,,,,,,1,0,,1.0,,,2,2023,2022-23,Fullerton,fullerton,ethangibbs15n6,Ethan Gibbs
 Jan 27,home,San Bernardino Valley,W,11-4,11,4,7,win,20230127_xbyv,4,2.0,2.0,,,,0.0,,1.0,1.0,,2.0,,,2,0,,,1.0,,6,2023,2022-23,LA Mission,lamission,jakecallahan49hr,Jake Callahan
 Jan 28,home,San Bernardino Valley,L,10-4,10,4,6,win,20230128_np72,4,1.0,1.0,1.0,,,1.0,1.0,1.0,,,,,,2,1,,1.0,1.0,1.0,5,2023,2022-23,LA Mission,lamission,jakecallahan49hr,Jake Callahan
@@ -3394,6 +3425,7 @@ Mar 9,home,Glendale,L,20-6,20,6,14,win,20230309_id19,5,0.0,0.0,,,,0.0,,1.0,,,,,,
 Mar 11,home,Glendale,L,12-6,12,6,6,win,20230311_chiw,3,0.0,0.0,,,,0.0,,3.0,,,,,,0,0,,,,,3,2023,2022-23,Antelope Valley,antelopevalley,treythomas1161,Trey Thomas
 Mar 13,home,Citrus,W,16-15,16,15,1,win,20230313_m2cl,1,0.0,1.0,,,,1.0,,,,,,,,1,0,,,,,1,2023,2022-23,Antelope Valley,antelopevalley,treythomas1161,Trey Thomas
 Mar 17,home,Citrus,L,12-9,12,9,3,win,20230317_mrrb,4,0.0,0.0,,,,1.0,,1.0,,,,1.0,,0,0,,1.0,3.0,0.33,5,2023,2022-23,Antelope Valley,antelopevalley,treythomas1161,Trey Thomas
+Mar 18,home,Citrus,W,7-5,7,5,2,win,20230318_83y5,3,1.0,2.0,,,,2.0,2.0,,,,,,,2,0,,1.0,,,5,2023,2022-23,Antelope Valley,antelopevalley,treythomas1161,Trey Thomas
 Feb 3,home,Mt. San Antonio,L,21-5,21,5,16,win,20230203_0thr,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Cypress,cypress,jacksonlicatas3es,Jackson Licata
 Feb 9,home,LA Pierce,W,15-4,15,4,11,win,20230209_lgbj,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Cypress,cypress,jacksonlicatas3es,Jackson Licata
 Feb 10,home,Merced,W,13-2,13,2,11,win,20230210_brje,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,,,1,2023,2022-23,Cypress,cypress,jacksonlicatas3es,Jackson Licata
@@ -3480,6 +3512,7 @@ Mar 4,home,Laney,L,13-8,13,8,5,win,20230304_0ej9,3,0.0,0.0,,,,0.0,,,,,,,,0,0,2.0
 Mar 7,home,Mendocino,W,13-7,13,7,6,win,20230307_dj08,4,2.0,2.0,,,,4.0,1.0,,2.0,1.0,,,,2,0,,,,,5,2023,2022-23,Contra Costa,contracosta,darriondavisciva,Darrion Davis
 Mar 15,home,Marin,L,11-0,11,0,11,win,20230315_m05c,3,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,1.0,2.0,,,3,2023,2022-23,Contra Costa,contracosta,darriondavisciva,Darrion Davis
 Mar 16,home,Marin,L,23-0,23,0,23,win,20230316_7d0w,4,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,1.0,,,4,2023,2022-23,Contra Costa,contracosta,darriondavisciva,Darrion Davis
+Mar 18,home,Marin,L,25-2,25,2,23,win,20230318_8hna,3,0.0,1.0,,1.0,,1.0,,,,,,,,3,1,1.0,1.0,1.0,1.0,3,2023,2022-23,Contra Costa,contracosta,darriondavisciva,Darrion Davis
 Feb 9,home,Cerro Coso,L,18-1,18,1,17,win,20230209_s6mt,3,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Porterville,porterville,aidanlessnauuwzy,Aidan Lessnau
 Feb 11,home,Modesto,L,15-7,15,7,8,win,20230211_z7pi,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Porterville,porterville,aidanlessnauuwzy,Aidan Lessnau
 Feb 18,home,San Francisco,L,12-6,12,6,6,win,20230218_3l7d,0,1.0,0.0,,,,0.0,,,,,1.0,,,0,0,,,,,1,2023,2022-23,Porterville,porterville,aidanlessnauuwzy,Aidan Lessnau
@@ -3667,6 +3700,7 @@ Mar 9,home,Glendale,L,20-6,20,6,14,win,20230309_id19,3,0.0,0.0,,,,1.0,,1.0,,,,1.
 Mar 11,home,Glendale,L,12-6,12,6,6,win,20230311_chiw,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Antelope Valley,antelopevalley,danielmunozo79q,Daniel Munoz
 Mar 13,home,Citrus,W,16-15,16,15,1,win,20230313_m2cl,3,1.0,1.0,,,,1.0,,1.0,,,,,,1,0,,,1.0,,3,2023,2022-23,Antelope Valley,antelopevalley,danielmunozo79q,Daniel Munoz
 Mar 17,home,Citrus,L,12-9,12,9,3,win,20230317_mrrb,2,0.0,1.0,,,,0.0,,,,,,,,1,0,,1.0,,,2,2023,2022-23,Antelope Valley,antelopevalley,danielmunozo79q,Daniel Munoz
+Mar 18,home,Citrus,W,7-5,7,5,2,win,20230318_83y5,3,0.0,1.0,1.0,,,1.0,,,,,,,1.0,2,1,,2.0,1.0,2.0,4,2023,2022-23,Antelope Valley,antelopevalley,danielmunozo79q,Daniel Munoz
 Jan 28,home,Chaffey,W,11-6,11,6,5,win,20230128_365n,5,2.0,1.0,,,,0.0,,1.0,,,,,,1,0,,1.0,2.0,0.5,5,2023,2022-23,Southwestern,southwestern,jesusvillegasiu14,Jesus Villegas
 Feb 1,home,Fullerton,L,13-3,13,3,10,win,20230201_93jy,5,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,,2.0,,5,2023,2022-23,Southwestern,southwestern,jesusvillegasiu14,Jesus Villegas
 Feb 3,home,Cerro Coso,W,15-5,15,5,10,win,20230203_791p,6,2.0,3.0,,,,2.0,,,,,,,,3,0,,,3.0,,6,2023,2022-23,Southwestern,southwestern,jesusvillegasiu14,Jesus Villegas
@@ -3684,6 +3718,7 @@ Mar 4,home,Imperial Valley,L,2-1,2,1,1,win,20230304_zrz8,4,1.0,1.0,1.0,,,0.0,,,,
 Mar 7,home,San Diego Mesa,L,3-2,3,2,1,win,20230307_22nd,5,0.0,1.0,1.0,,,0.0,,1.0,,,,,,2,1,,1.0,2.0,0.5,5,2023,2022-23,Southwestern,southwestern,jesusvillegasiu14,Jesus Villegas
 Mar 14,home,San Diego City,W,5-0,5,0,5,win,20230314_ztxp,3,0.0,0.0,,,,0.0,1.0,1.0,,,1.0,,,0,0,,2.0,,,5,2023,2022-23,Southwestern,southwestern,jesusvillegasiu14,Jesus Villegas
 Mar 17,home,San Diego City,W,5-3,5,3,2,win,20230317_mtb1,5,0.0,1.0,,,,2.0,,1.0,,,,,,1,0,,2.0,1.0,2.0,5,2023,2022-23,Southwestern,southwestern,jesusvillegasiu14,Jesus Villegas
+Mar 18,home,Grossmont,W,16-12,16,12,4,win,20230318_mpiy,4,2.0,2.0,1.0,,,3.0,1.0,1.0,,,,1.0,,3,1,,1.0,1.0,1.0,6,2023,2022-23,Southwestern,southwestern,jesusvillegasiu14,Jesus Villegas
 Jan 27,home,Palomar,L,11-4,11,4,7,win,20230127_k7rx,5,0.0,0.0,,,,0.0,,,,,,,,0,0,,2.0,2.0,1.0,5,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
 Jan 28,home,Palomar,W,3-2,3,2,1,win,20230128_e8s6,5,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,,1.0,,5,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
 Feb 2,home,San Diego Mesa,W,10-3,10,3,7,win,20230202_1j5d,3,2.0,2.0,,1.0,,0.0,1.0,,,,1.0,,,4,1,1.0,1.0,,,5,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
@@ -3724,7 +3759,8 @@ Mar 4,home,San Bernardino Valley,W,6-1,6,1,5,win,20230304_mf3x,5,1.0,2.0,,1.0,,0
 Mar 9,home,Cerro Coso,W,5-2,5,2,3,win,20230309_nsno,3,0.0,1.0,1.0,,,0.0,,,,,1.0,,,2,1,,1.0,1.0,1.0,4,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
 Mar 16,home,Victor Valley,W,16-0,16,0,16,win,20230316_0m68,5,1.0,3.0,,,,3.0,,2.0,,,,,,3,0,,,,,5,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
 Mar 16,home,Victor Valley,W,21-1,21,1,20,win,20230316_qdjd,3,2.0,1.0,1.0,,,0.0,2.0,1.0,,,1.0,,,2,1,,,1.0,,6,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
-Mar 18,home,Victor Valley,W,6-1,6,1,5,win,20230318_s7v9,3,0.0,1.0,,,,1.0,1.0,,2.0,,,,,1,0,,,1.0,,4,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
+Mar 18,home,Victor Valley,W,6-1,6,1,5,win,20230318_s7v9,3,0.0,2.0,,,,2.0,1.0,,2.0,,,,,2,0,,,1.0,,4,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
+Mar 18,home,Victor Valley,W,13-3,13,3,10,win,20230318_mcl2,4,0.0,1.0,,,,0.0,,,,1.0,,,,1,0,,1.0,2.0,0.5,4,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
 Jan 27,home,Hartnell,L,9-8,9,8,1,win,20230127_lfip,3,0.0,0.0,,,,1.0,1.0,,1.0,1.0,1.0,,,0,0,,2.0,1.0,2.0,5,2023,2022-23,Lassen,lassen,kadenstutzmanzmny,Kaden Stutzman
 Jan 27,home,Hartnell,W,5-2,5,2,3,win,20230127_6k7p,4,0.0,0.0,,,,1.0,,2.0,,,,1.0,,0,0,,1.0,2.0,0.5,5,2023,2022-23,Lassen,lassen,kadenstutzmanzmny,Kaden Stutzman
 Jan 28,home,Hartnell,L,9-7,9,7,2,win,20230128_sl65,3,1.0,1.0,,,,0.0,,1.0,,,1.0,,1.0,1,0,,1.0,1.0,1.0,5,2023,2022-23,Lassen,lassen,kadenstutzmanzmny,Kaden Stutzman
@@ -3798,6 +3834,7 @@ Mar 8,home,Reedley,L,18-3,18,3,15,win,20230308_5k58,3,0.0,0.0,,,,0.0,,,,,,,,0,0,
 Mar 11,home,Skyline,L,10-6,10,6,4,win,20230311_whlq,4,0.0,2.0,1.0,,,0.0,,,,1.0,,,,3,1,,1.0,1.0,1.0,4,2023,2022-23,Cabrillo,cabrillo,lucasrexinhmk8,Lucas Rexin
 Mar 15,home,Monterey Peninsula,W,8-2,8,2,6,win,20230315_170d,6,2.0,2.0,,,,0.0,,,,,,,,2,0,,2.0,1.0,2.0,6,2023,2022-23,Cabrillo,cabrillo,lucasrexinhmk8,Lucas Rexin
 Mar 16,home,Monterey Peninsula,W,17-13,17,13,4,win,20230316_unq5,6,2.0,3.0,,,,2.0,,1.0,,,,,,3,0,,1.0,,,6,2023,2022-23,Cabrillo,cabrillo,lucasrexinhmk8,Lucas Rexin
+Mar 18,home,Monterey Peninsula,W,5-3,5,3,2,win,20230318_uhgb,4,1.0,0.0,,,,0.0,1.0,,,,,,,0,0,,3.0,1.0,3.0,5,2023,2022-23,Cabrillo,cabrillo,lucasrexinhmk8,Lucas Rexin
 Jan 27,home,Cosumnes River,L,20-6,20,6,14,win,20230127_ilym,2,0.0,0.0,,,,0.0,,,,,,,,0,0,1.0,,2.0,,2,2023,2022-23,Shasta,shasta,hayesedens0c9c,Hayes Edens
 Jan 28,home,Cosumnes River,W,13-11,13,11,2,win,20230128_7lyy,3,2.0,0.0,,,,0.0,2.0,1.0,,1.0,1.0,,,0,0,,1.0,1.0,1.0,6,2023,2022-23,Shasta,shasta,hayesedens0c9c,Hayes Edens
 Jan 31,home,Cosumnes River,L,17-5,17,5,12,win,20230131_xuiq,3,1.0,1.0,,,,0.0,,,,,1.0,,,1,0,1.0,1.0,,,4,2023,2022-23,Shasta,shasta,hayesedens0c9c,Hayes Edens
@@ -3913,6 +3950,7 @@ Mar 7,home,Cuesta,L,12-5,12,5,7,win,20230307_3x09,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,
 Mar 9,home,Cuesta,L,7-2,7,2,5,win,20230309_m3sw,0,0.0,0.0,,,,0.0,,,,,1.0,,,0,0,,,,,1,2023,2022-23,Allan Hancock,allanhancock,jeremycamarenafvom,Jeremy Camarena
 Mar 16,home,Oxnard,W,6-2,6,2,4,win,20230316_slr8,3,0.0,1.0,,,,0.0,,1.0,,,1.0,,,1,0,1.0,1.0,,,4,2023,2022-23,Allan Hancock,allanhancock,jeremycamarenafvom,Jeremy Camarena
 Mar 17,home,Oxnard,W,6-5,6,5,1,win,20230317_77s9,3,0.0,1.0,,,,0.0,,1.0,,,,,2.0,1,0,,3.0,,,5,2023,2022-23,Allan Hancock,allanhancock,jeremycamarenafvom,Jeremy Camarena
+Mar 18,home,Oxnard,W,5-1,5,1,4,win,20230318_h5j6,3,0.0,0.0,,,,1.0,1.0,,,,1.0,,,0,0,,1.0,2.0,0.5,5,2023,2022-23,Allan Hancock,allanhancock,jeremycamarenafvom,Jeremy Camarena
 Jan 27,home,Santa Barbara,L,12-3,12,3,9,win,20230127_ozme,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,West LA,westla,cameronhaleywh7a,Cameron Haley
 Feb 2,home,Mt. San Jacinto,L,5-3,5,3,2,win,20230202_ivfg,3,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,,,,3,2023,2022-23,West LA,westla,cameronhaleywh7a,Cameron Haley
 Feb 2,home,Mt. San Jacinto,L,6-4,6,4,2,win,20230202_1diw,4,1.0,2.0,1.0,,,0.0,1.0,,,,,,,3,1,,1.0,1.0,1.0,5,2023,2022-23,West LA,westla,cameronhaleywh7a,Cameron Haley
@@ -4018,6 +4056,7 @@ Mar 4,home,Imperial Valley,L,2-1,2,1,1,win,20230304_zrz8,0,0.0,0.0,,,,0.0,,,,,,,
 Mar 5,home,Riverside,L,6-2,6,2,4,win,20230305_7a9c,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Southwestern,southwestern,heathmillercx5m,Heath Miller
 Mar 7,home,San Diego Mesa,L,3-2,3,2,1,win,20230307_22nd,3,1.0,1.0,,,,0.0,1.0,2.0,,,,,,1,0,,,,,4,2023,2022-23,Southwestern,southwestern,heathmillercx5m,Heath Miller
 Mar 9,home,San Diego Mesa,W,14-4,14,4,10,win,20230309_zte1,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Southwestern,southwestern,heathmillercx5m,Heath Miller
+Mar 18,home,Grossmont,L,7-3,7,3,4,win,20230318_kxqg,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Southwestern,southwestern,heathmillercx5m,Heath Miller
 Jan 28,home,Gavilan,W,18-0,18,0,18,win,20230128_ugqu,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Folsom Lake,folsomlake,christiancochrandbiv,Christian Cochran
 Feb 4,home,Taft,W,10-3,10,3,7,win,20230204_jixo,0,1.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Folsom Lake,folsomlake,christiancochrandbiv,Christian Cochran
 Feb 9,home,LA Valley,W,9-3,9,3,6,win,20230209_4bhr,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Folsom Lake,folsomlake,christiancochrandbiv,Christian Cochran
@@ -4140,6 +4179,7 @@ Feb 22,home,Oxnard,W,14-1,14,1,13,win,20230222_wrxz,2,2.0,1.0,1.0,,,1.0,2.0,,,,,
 Feb 28,home,Santa Ana,W,8-4,8,4,4,win,20230228_k8ce,4,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,1.0,,,4,2023,2022-23,Glendale,glendale,ethanfirestoneli7u,Ethan Firestone
 Mar 4,home,Orange Coast,L,11-5,11,5,6,win,20230304_0m4c,4,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Glendale,glendale,ethanfirestoneli7u,Ethan Firestone
 Mar 18,home,West LA,W,17-5,17,5,12,win,20230318_zn96,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Glendale,glendale,ethanfirestoneli7u,Ethan Firestone
+Mar 18,home,West LA,W,10-5,10,5,5,win,20230318_jue5,5,0.0,0.0,,,,0.0,,,,,,,,0,0,,,5.0,,5,2023,2022-23,Glendale,glendale,ethanfirestoneli7u,Ethan Firestone
 Feb 17,home,Mendocino,W,11-0,11,0,11,win,20230217_ock2,3,1.0,2.0,,,,2.0,,,,,1.0,,,2,0,,1.0,,,4,2023,2022-23,Folsom Lake,folsomlake,coltondaugherty5d5w,Colton Daugherty
 Feb 18,home,Marin,W,4-2,4,2,2,win,20230218_tvv8,3,1.0,1.0,,,,0.0,,1.0,1.0,,1.0,,,1,0,,,1.0,,4,2023,2022-23,Folsom Lake,folsomlake,coltondaugherty5d5w,Colton Daugherty
 Mar 2,home,Sacramento City,W,13-3,13,3,10,win,20230302_9v7i,3,1.0,1.0,,,,0.0,,2.0,,,1.0,,,1,0,,,,,4,2023,2022-23,Folsom Lake,folsomlake,coltondaugherty5d5w,Colton Daugherty
@@ -4228,7 +4268,7 @@ Feb 16,home,Feather River,L,6-3,6,3,3,win,20230216_18s7,3,0.0,0.0,,,,0.0,1.0,1.0
 Feb 21,home,Folsom Lake,L,10-6,10,6,4,win,20230221_i8f7,4,1.0,0.0,,,,0.0,1.0,2.0,,,,,,0,0,,1.0,,,5,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
 Feb 25,home,Cosumnes River,L,5-2,5,2,3,win,20230225_eyiu,3,0.0,0.0,,,,0.0,1.0,1.0,,,,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
 Mar 3,home,Marin,W,10-9,10,9,1,win,20230303_nrjr,6,1.0,2.0,,,,2.0,,1.0,1.0,,,,,2,0,,1.0,2.0,0.5,6,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
-Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
+Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,5,2.0,3.0,,,,1.0,,,2.0,,,,,3,0,,,,,5,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
 Mar 16,home,Los Medanos,L,21-5,21,5,16,win,20230316_phra,4,0.0,2.0,,,,1.0,1.0,,1.0,,,,,2,0,,1.0,1.0,1.0,5,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
 Mar 16,home,Los Medanos,L,12-2,12,2,10,win,20230316_mu3o,4,2.0,0.0,,,,0.0,,,1.0,,,,,0,0,,,2.0,,4,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
 Mar 17,home,Los Medanos,L,7-0,7,0,7,win,20230317_7w3w,3,0.0,1.0,,,,0.0,,1.0,,,,,1.0,1,0,,2.0,,,4,2023,2022-23,Mendocino,mendocino,calebfordnr0k,Caleb Ford
@@ -4395,7 +4435,7 @@ Feb 17,home,Folsom Lake,L,11-0,11,0,11,win,20230217_ock2,2,0.0,0.0,,,,0.0,1.0,2.
 Feb 21,home,Folsom Lake,L,10-6,10,6,4,win,20230221_i8f7,3,0.0,0.0,,,,1.0,,2.0,,,,1.0,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
 Feb 25,home,Cosumnes River,L,5-2,5,2,3,win,20230225_eyiu,2,0.0,1.0,1.0,,,2.0,,1.0,,,,,,2,1,,,,,2,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
 Mar 3,home,Marin,W,10-9,10,9,1,win,20230303_nrjr,3,1.0,0.0,,,,2.0,2.0,1.0,,,,,,0,0,,1.0,1.0,1.0,5,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
-Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
+Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,4,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,,,,4,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
 Mar 16,home,Los Medanos,L,21-5,21,5,16,win,20230316_phra,5,1.0,2.0,,,,1.0,,,,,,,,2,0,,1.0,2.0,0.5,5,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
 Mar 16,home,Los Medanos,L,12-2,12,2,10,win,20230316_mu3o,3,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,3.0,,4,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
 Mar 17,home,Los Medanos,L,7-0,7,0,7,win,20230317_7w3w,4,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Mendocino,mendocino,brettbaxmanliuu,Brett Baxman
@@ -4414,6 +4454,7 @@ Mar 4,home,Imperial Valley,L,2-1,2,1,1,win,20230304_zrz8,1,0.0,0.0,,,,0.0,,1.0,,
 Mar 7,home,San Diego Mesa,L,3-2,3,2,1,win,20230307_22nd,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,Southwestern,southwestern,maxcadwalader9uyn,Max Cadwalader
 Mar 14,home,San Diego City,W,5-0,5,0,5,win,20230314_ztxp,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Southwestern,southwestern,maxcadwalader9uyn,Max Cadwalader
 Mar 17,home,San Diego City,W,5-3,5,3,2,win,20230317_mtb1,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,Southwestern,southwestern,maxcadwalader9uyn,Max Cadwalader
+Mar 18,home,Grossmont,W,16-12,16,12,4,win,20230318_mpiy,3,1.0,1.0,,,,0.0,2.0,1.0,,,,,,1,0,,1.0,,,5,2023,2022-23,Southwestern,southwestern,maxcadwalader9uyn,Max Cadwalader
 Jan 27,home,Siskiyous,W,13-3,13,3,10,win,20230127_9rrh,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,,,1,2023,2022-23,Skyline,skyline,prestonlau7z4w,Preston Lau
 Jan 28,home,Siskiyous,W,16-3,16,3,13,win,20230128_ejjl,4,2.0,2.0,,,,1.0,,2.0,1.0,,1.0,,,2,0,,,,,5,2023,2022-23,Skyline,skyline,prestonlau7z4w,Preston Lau
 Jan 31,home,Solano,L,7-4,7,4,3,win,20230131_o1r2,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Skyline,skyline,prestonlau7z4w,Preston Lau
@@ -4475,6 +4516,7 @@ Mar 9,home,Mt. San Antonio,L,5-1,5,1,4,win,20230309_c0ym,1,0.0,0.0,,,,0.0,,1.0,,
 Mar 11,home,Mt. San Antonio,L,5-4,5,4,1,win,20230311_qqou,3,0.0,0.0,,,,1.0,2.0,1.0,,1.0,,,,0,0,,1.0,1.0,1.0,5,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
 Mar 18,home,Ventura,W,2-1,2,1,1,win,20230318_hpv4,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
 Mar 18,home,Ventura,W,2-0,2,0,2,win,20230318_w51i,3,1.0,1.0,,,1.0,2.0,,1.0,,,,,,4,1,,,1.0,,3,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
+Mar 19,home,Ventura,W,5-4,5,4,1,win,20230319_x94y,4,0.0,1.0,,,,0.0,1.0,3.0,,,,,,1,0,,1.0,,,5,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
 Jan 27,home,Santa Rosa,W,8-0,8,0,8,win,20230127_r4nf,4,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,2.0,1.0,2.0,4,2023,2022-23,Chabot,chabot,liamforsythcdbm,Liam Forsyth
 Jan 28,home,Santa Rosa,W,12-7,12,7,5,win,20230128_4z98,4,1.0,1.0,,,1.0,1.0,,1.0,,,,,,4,1,,,2.0,,4,2023,2022-23,Chabot,chabot,liamforsythcdbm,Liam Forsyth
 Jan 31,home,Laney,W,6-5,6,5,1,win,20230131_iiqm,5,1.0,1.0,,,,1.0,,1.0,,,1.0,,,1,0,,1.0,2.0,0.5,6,2023,2022-23,Chabot,chabot,liamforsythcdbm,Liam Forsyth
@@ -4611,6 +4653,7 @@ Mar 3,home,Mission,L,6-5,6,5,1,win,20230303_246a,2,1.0,1.0,,,,0.0,3.0,,,,,,,1,0,
 Mar 7,home,Cabrillo,L,6-3,6,3,3,win,20230307_dqhz,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,San Francisco,sanfrancisco,jerinpoomaaadarobdls,Jerin Po'oma'a-Adaro
 Mar 16,home,West Valley,W,2-0,2,0,2,win,20230316_edso,5,0.0,1.0,,,,0.0,,1.0,,,,,,1,0,,,3.0,,5,2023,2022-23,San Francisco,sanfrancisco,jerinpoomaaadarobdls,Jerin Po'oma'a-Adaro
 Mar 16,home,West Valley,L,5-2,5,2,3,win,20230316_sh1i,4,0.0,0.0,,,,0.0,,,,,,,,0,0,,2.0,2.0,1.0,4,2023,2022-23,San Francisco,sanfrancisco,jerinpoomaaadarobdls,Jerin Po'oma'a-Adaro
+Mar 18,home,West Valley,L,13-2,13,2,11,win,20230318_5ie9,4,0.0,0.0,,,,1.0,,1.0,,,,,,0,0,,2.0,1.0,2.0,4,2023,2022-23,San Francisco,sanfrancisco,jerinpoomaaadarobdls,Jerin Po'oma'a-Adaro
 Jan 28,home,Glendale,L,6-1,6,1,5,win,20230128_56b0,1,1.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,LA Pierce,lapierce,seanpowert7ks,Sean Power
 Feb 2,home,Cerritos,L,19-6,19,6,13,win,20230202_eopb,4,2.0,0.0,,,,0.0,1.0,1.0,,,,,,0,0,,2.0,,,5,2023,2022-23,LA Pierce,lapierce,seanpowert7ks,Sean Power
 Feb 3,home,Pasadena City,L,20-5,20,5,15,win,20230203_ju2e,3,0.0,1.0,,,,1.0,,,,,,,,1,0,,2.0,,,3,2023,2022-23,LA Pierce,lapierce,seanpowert7ks,Sean Power
@@ -4680,7 +4723,7 @@ Feb 17,home,Folsom Lake,L,11-0,11,0,11,win,20230217_ock2,3,0.0,1.0,,,,0.0,,1.0,,
 Feb 21,home,Folsom Lake,L,10-6,10,6,4,win,20230221_i8f7,3,0.0,1.0,,,,0.0,,,,,,,1.0,1,0,,2.0,1.0,2.0,4,2023,2022-23,Mendocino,mendocino,angelponce15ga,Angel Ponce
 Feb 25,home,Cosumnes River,L,5-2,5,2,3,win,20230225_eyiu,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mendocino,mendocino,angelponce15ga,Angel Ponce
 Mar 3,home,Marin,W,10-9,10,9,1,win,20230303_nrjr,3,1.0,0.0,,,,0.0,1.0,1.0,,,,,1.0,0,0,,3.0,,,5,2023,2022-23,Mendocino,mendocino,angelponce15ga,Angel Ponce
-Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mendocino,mendocino,angelponce15ga,Angel Ponce
+Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,4,0.0,1.0,,,,0.0,1.0,2.0,1.0,,,,,1,0,,,,,5,2023,2022-23,Mendocino,mendocino,angelponce15ga,Angel Ponce
 Mar 16,home,Los Medanos,L,21-5,21,5,16,win,20230316_phra,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mendocino,mendocino,angelponce15ga,Angel Ponce
 Jan 28,home,Folsom Lake,L,18-0,18,0,18,win,20230128_ugqu,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
 Feb 2,home,Modesto,L,11-0,11,0,11,win,20230202_lqsl,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
@@ -4694,6 +4737,7 @@ Feb 21,home,San Joaquin Delta,L,19-2,19,2,17,win,20230221_ffiv,0,0.0,0.0,,,,0.0,
 Feb 22,home,Skyline,L,22-0,22,0,22,win,20230222_p8mm,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
 Mar 3,home,Laney,L,7-4,7,4,3,win,20230303_m7pv,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,,,1,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
 Mar 8,home,Chabot,L,12-6,12,6,6,win,20230308_ef56,3,0.0,0.0,,,,0.0,,3.0,,,,,,0,0,,,,,3,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
+Mar 16,home,De Anza,L,16-3,16,3,13,win,20230316_r9qy,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,Gavilan,gavilan,claudiomarquez53el,Claudio Marquez
 Jan 28,home,Glendale,L,6-1,6,1,5,win,20230128_56b0,3,0.0,0.0,,,,1.0,,1.0,,,1.0,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,LA Pierce,lapierce,dantezamudioad4r,Dante Zamudio
 Feb 2,home,Cerritos,L,19-6,19,6,13,win,20230202_eopb,5,1.0,3.0,,,1.0,3.0,,,,,,,,6,1,,,2.0,,5,2023,2022-23,LA Pierce,lapierce,dantezamudioad4r,Dante Zamudio
 Feb 3,home,Pasadena City,L,20-5,20,5,15,win,20230203_ju2e,3,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,2.0,,,3,2023,2022-23,LA Pierce,lapierce,dantezamudioad4r,Dante Zamudio
@@ -4803,7 +4847,7 @@ Mar 16,home,Santa Rosa,L,4-3,4,3,1,win,20230316_huse,0,0.0,0.0,,,,0.0,,,,,1.0,,,
 Mar 17,home,Santa Rosa,L,15-1,15,1,14,win,20230317_joaf,3,0.0,1.0,,,,0.0,,,,,,,,1,0,1.0,2.0,,,3,2023,2022-23,Modesto,modesto,landonnunesc1jy,Landon Nunes
 Feb 11,home,Siskiyous,L,11-1,11,1,10,win,20230211_wesd,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,Mendocino,mendocino,gavinhawkinson7var,Gavin Hawkinson
 Feb 11,home,Siskiyous,L,7-4,7,4,3,win,20230211_2ote,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Mendocino,mendocino,gavinhawkinson7var,Gavin Hawkinson
-Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Mendocino,mendocino,gavinhawkinson7var,Gavin Hawkinson
+Mar 7,home,Contra Costa,L,13-7,13,7,6,win,20230307_dj08,3,1.0,1.0,,,,1.0,1.0,1.0,,,,,,1,0,,,,,4,2023,2022-23,Mendocino,mendocino,gavinhawkinson7var,Gavin Hawkinson
 Feb 3,home,Long Beach,L,6-5,6,5,1,win,20230203_jj0a,3,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1,0,,1.0,,,4,2023,2022-23,LA Mission,lamission,danielmartinezuax9,Daniel Martinez
 Feb 4,home,Pasadena City,L,8-6,8,6,2,win,20230204_lacg,3,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,2.0,,3,2023,2022-23,LA Mission,lamission,danielmartinezuax9,Daniel Martinez
 Feb 7,home,Grossmont,W,6-4,6,4,2,win,20230207_rv8r,3,0.0,0.0,,,,2.0,1.0,,1.0,,,,,0,0,,2.0,1.0,2.0,4,2023,2022-23,LA Mission,lamission,danielmartinezuax9,Daniel Martinez
@@ -4883,6 +4927,7 @@ Mar 8,home,Gavilan,W,12-6,12,6,6,win,20230308_ef56,3,3.0,1.0,,,,1.0,2.0,,1.0,,,,
 Mar 11,home,De Anza,W,19-7,19,7,12,win,20230311_ft4t,4,3.0,3.0,1.0,,2.0,5.0,,1.0,,,,1.0,,10,3,,,1.0,,5,2023,2022-23,Chabot,chabot,brianduroffwox6,Brian DuRoff
 Mar 15,home,San Mateo,L,14-1,14,1,13,win,20230315_geuj,4,0.0,0.0,,,,1.0,,1.0,,,,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Chabot,chabot,brianduroffwox6,Brian DuRoff
 Mar 16,home,San Mateo,W,7-6,7,6,1,win,20230316_hwm7,4,0.0,1.0,,,,1.0,,1.0,,,,,,1,0,,1.0,1.0,1.0,4,2023,2022-23,Chabot,chabot,brianduroffwox6,Brian DuRoff
+Mar 18,home,San Mateo,W,5-4,5,4,1,win,20230318_cn5a,4,1.0,1.0,,,,0.0,,,,,,,,1,0,,3.0,,,4,2023,2022-23,Chabot,chabot,brianduroffwox6,Brian DuRoff
 Jan 31,home,De Anza,W,22-4,22,4,18,win,20230131_xy1j,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,Reedley,reedley,garrettgarfield5wlm,Garrett Garfield
 Feb 2,home,Oxnard,W,13-6,13,6,7,win,20230202_unra,4,1.0,1.0,,,1.0,2.0,,,,,,,,4,1,,2.0,1.0,2.0,4,2023,2022-23,Reedley,reedley,garrettgarfield5wlm,Garrett Garfield
 Feb 3,home,Santa Ana,W,9-8,9,8,1,win,20230203_6qcd,1,1.0,1.0,1.0,,,2.0,,,,,,,,2,1,,,,,1,2023,2022-23,Reedley,reedley,garrettgarfield5wlm,Garrett Garfield
@@ -5108,6 +5153,7 @@ Feb 18,home,Porterville,W,12-6,12,6,6,win,20230218_3l7d,5,0.0,1.0,,,,1.0,,1.0,,,
 Mar 1,home,De Anza,W,18-3,18,3,15,win,20230301_p0vb,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,San Francisco,sanfrancisco,donovanwilliamst6a5,Donovan Williams
 Mar 2,home,Hartnell,L,8-7,8,7,1,win,20230302_jl3v,3,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,,1.0,,3,2023,2022-23,San Francisco,sanfrancisco,donovanwilliamst6a5,Donovan Williams
 Mar 16,home,West Valley,L,5-2,5,2,3,win,20230316_sh1i,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,San Francisco,sanfrancisco,donovanwilliamst6a5,Donovan Williams
+Mar 18,home,West Valley,L,13-2,13,2,11,win,20230318_5ie9,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,San Francisco,sanfrancisco,donovanwilliamst6a5,Donovan Williams
 Jan 27,home,Diablo Valley,L,9-0,9,0,9,win,20230127_6psr,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Marin,marin,bennynazarioyjp2,Benny Nazario
 Jan 27,home,Fresno City,L,6-0,6,0,6,win,20230127_7zw5,3,0.0,1.0,,,,0.0,,,,,,,,1,0,,2.0,,,3,2023,2022-23,Cerro Coso,cerrocoso,jacksonalanize5hi,Jackson Alaniz
 Jan 28,home,Fresno City,L,7-4,7,4,3,win,20230128_yqg1,4,0.0,1.0,1.0,,,0.0,,1.0,,,,,,2,1,,1.0,1.0,1.0,4,2023,2022-23,Cerro Coso,cerrocoso,jacksonalanize5hi,Jackson Alaniz
@@ -5128,6 +5174,7 @@ Mar 6,home,San Bernardino Valley,W,4-1,4,1,3,win,20230306_rpc3,4,0.0,1.0,,,,0.0,
 Mar 9,home,Chaffey,L,5-2,5,2,3,win,20230309_nsno,3,1.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,,2.0,,4,2023,2022-23,Cerro Coso,cerrocoso,jacksonalanize5hi,Jackson Alaniz
 Mar 15,home,San Bernardino Valley,W,13-8,13,8,5,win,20230315_8gak,4,1.0,2.0,,,,1.0,1.0,1.0,,,,,,2,0,1.0,1.0,,,5,2023,2022-23,Cerro Coso,cerrocoso,jacksonalanize5hi,Jackson Alaniz
 Mar 16,home,San Bernardino Valley,L,7-6,7,6,1,win,20230316_m7v3,4,1.0,1.0,,,,0.0,1.0,2.0,,,,,,1,0,,,1.0,,5,2023,2022-23,Cerro Coso,cerrocoso,jacksonalanize5hi,Jackson Alaniz
+Mar 18,home,San Bernardino Valley,L,6-4,6,4,2,win,20230318_1k1c,3,0.0,2.0,,,,1.0,,,,,1.0,,,2,0,,1.0,,,4,2023,2022-23,Cerro Coso,cerrocoso,jacksonalanize5hi,Jackson Alaniz
 Jan 27,home,Solano,W,3-2,3,2,1,win,20230127_0hzu,3,0.0,0.0,,,,0.0,,,,,,,1.0,0,0,,3.0,1.0,3.0,4,2023,2022-23,Butte,butte,aidanmoore3a4j,Aidan Moore
 Jan 27,home,Solano,W,8-5,8,5,3,win,20230127_zabf,3,1.0,1.0,,,,0.0,1.0,1.0,,,,,,1,0,,,1.0,,4,2023,2022-23,Butte,butte,aidanmoore3a4j,Aidan Moore
 Jan 28,home,Solano,W,8-3,8,3,5,win,20230128_a9u1,3,2.0,0.0,,,,1.0,3.0,1.0,,,,,,0,0,,,,,6,2023,2022-23,Butte,butte,aidanmoore3a4j,Aidan Moore
@@ -5179,6 +5226,7 @@ Feb 21,home,Contra Costa,W,29-8,29,8,21,win,20230221_gg0o,4,2.0,0.0,,,,2.0,2.0,,
 Mar 1,home,San Francisco,L,18-3,18,3,15,win,20230301_p0vb,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,,1.0,,1,2023,2022-23,De Anza,deanza,soheitankakatsd0,Sohei Tankaka
 Mar 8,home,San Mateo,L,4-2,4,2,2,win,20230308_wygl,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,De Anza,deanza,soheitankakatsd0,Sohei Tankaka
 Mar 11,home,Chabot,L,19-7,19,7,12,win,20230311_ft4t,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,,,1,2023,2022-23,De Anza,deanza,soheitankakatsd0,Sohei Tankaka
+Mar 16,home,Gavilan,W,16-3,16,3,13,win,20230316_r9qy,4,3.0,3.0,1.0,,,4.0,1.0,,,,,,,4,1,,,,,5,2023,2022-23,De Anza,deanza,soheitankakatsd0,Sohei Tankaka
 Mar 17,home,Gavilan,W,10-3,10,3,7,win,20230317_xhs9,3,1.0,2.0,1.0,1.0,,4.0,1.0,,,,,,,5,2,,,1.0,,4,2023,2022-23,De Anza,deanza,soheitankakatsd0,Sohei Tankaka
 Mar 18,home,Gavilan,W,8-3,8,3,5,win,20230318_9b7h,4,2.0,3.0,2.0,,,2.0,,1.0,,,,,,5,2,,,,,4,2023,2022-23,De Anza,deanza,soheitankakatsd0,Sohei Tankaka
 Feb 3,home,Saddleback,L,20-4,20,4,16,win,20230203_ncvj,4,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,1.0,3.0,,,5,2023,2022-23,Rio Hondo,riohondo,cameronsnydere2oi,Cameron Snyder
@@ -5207,6 +5255,7 @@ Mar 9,home,Cerro Coso,W,5-2,5,2,3,win,20230309_nsno,0,0.0,0.0,,,,0.0,,,,,,,,0,0,
 Mar 16,home,Victor Valley,W,16-0,16,0,16,win,20230316_0m68,0,0.0,0.0,,,,0.0,,,,,1.0,,,0,0,,,,,1,2023,2022-23,Chaffey,chaffey,brockmayerjltt,Brock Mayer
 Mar 16,home,Victor Valley,W,21-1,21,1,20,win,20230316_qdjd,1,0.0,1.0,,,,1.0,,,,,,,,1,0,,,,,1,2023,2022-23,Chaffey,chaffey,brockmayerjltt,Brock Mayer
 Mar 18,home,Victor Valley,W,6-1,6,1,5,win,20230318_s7v9,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Chaffey,chaffey,brockmayerjltt,Brock Mayer
+Mar 18,home,Victor Valley,W,13-3,13,3,10,win,20230318_mcl2,1,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,1.0,1.0,,,2,2023,2022-23,Chaffey,chaffey,brockmayerjltt,Brock Mayer
 Jan 27,home,Chaffey,L,12-4,12,4,8,win,20230127_lwuy,4,0.0,2.0,,,,2.0,,,,,,,,2,0,,,2.0,,4,2023,2022-23,Citrus,citrus,chadgreen6z8o,Chad Green
 Jan 28,home,Pasadena City,L,12-3,12,3,9,win,20230128_rf85,3,1.0,2.0,,,,0.0,,,,,1.0,,,2,0,,,1.0,,4,2023,2022-23,Citrus,citrus,chadgreen6z8o,Chad Green
 Feb 2,home,Ventura,W,20-10,20,10,10,win,20230202_09u5,3,2.0,2.0,,,2.0,6.0,,,,,1.0,,,8,2,,1.0,,,4,2023,2022-23,Citrus,citrus,chadgreen6z8o,Chad Green
@@ -5224,6 +5273,7 @@ Mar 2,home,Golden West,L,12-4,12,4,8,win,20230302_rc57,4,0.0,2.0,1.0,,,2.0,,,,,,
 Mar 4,home,Mt. San Jacinto,L,11-2,11,2,9,win,20230304_vnh9,3,0.0,1.0,,,,0.0,1.0,1.0,,,,,,1,0,,1.0,,,4,2023,2022-23,Citrus,citrus,chadgreen6z8o,Chad Green
 Mar 13,home,Antelope Valley,L,16-15,16,15,1,win,20230313_m2cl,3,2.0,3.0,1.0,,1.0,3.0,3.0,,,,1.0,,,7,2,,,,,7,2023,2022-23,Citrus,citrus,chadgreen6z8o,Chad Green
 Mar 17,home,Antelope Valley,W,12-9,12,9,3,win,20230317_mrrb,3,0.0,1.0,,,,1.0,2.0,,,,,,,1,0,,2.0,,,5,2023,2022-23,Citrus,citrus,chadgreen6z8o,Chad Green
+Mar 18,home,Antelope Valley,L,7-5,7,5,2,win,20230318_83y5,4,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,2.0,1.0,2.0,5,2023,2022-23,Citrus,citrus,chadgreen6z8o,Chad Green
 Feb 2,home,LA Mission,W,9-3,9,3,6,win,20230202_q88a,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,LA Harbor,laharbor,brandonconklin1ocu,Brandon Conklin
 Feb 18,home,LA Valley,L,5-4,5,4,1,win,20230218_agfm,2,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,,,2,2023,2022-23,LA Harbor,laharbor,brandonconklin1ocu,Brandon Conklin
 Mar 16,home,Cerritos,L,9-7,9,7,2,win,20230316_uuw3,0,0.0,0.0,,,,0.0,,,1.0,,,,,0,0,,,,,0,2023,2022-23,LA Harbor,laharbor,brandonconklin1ocu,Brandon Conklin
@@ -5406,6 +5456,7 @@ Mar 7,home,Ohlone,L,8-4,8,4,4,win,20230307_c6bo,2,1.0,0.0,,,,0.0,2.0,1.0,,,,,,0,
 Mar 8,home,Gavilan,W,12-6,12,6,6,win,20230308_ef56,2,1.0,0.0,,,,0.0,,2.0,,,1.0,,1.0,0,0,,1.0,,,4,2023,2022-23,Chabot,chabot,tylerfinnamore6jso,Tyler Finnamore
 Mar 15,home,San Mateo,L,14-1,14,1,13,win,20230315_geuj,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,Chabot,chabot,tylerfinnamore6jso,Tyler Finnamore
 Mar 16,home,San Mateo,W,7-6,7,6,1,win,20230316_hwm7,2,1.0,0.0,,,,0.0,2.0,1.0,,,,,,0,0,,1.0,,,4,2023,2022-23,Chabot,chabot,tylerfinnamore6jso,Tyler Finnamore
+Mar 18,home,San Mateo,W,5-4,5,4,1,win,20230318_cn5a,3,0.0,0.0,,,,1.0,,3.0,,,1.0,,,0,0,,,,,4,2023,2022-23,Chabot,chabot,tylerfinnamore6jso,Tyler Finnamore
 Feb 2,home,De Anza,L,27-8,27,8,19,win,20230202_tj9d,4,3.0,2.0,,,1.0,1.0,1.0,,2.0,,,,,5,1,,,2.0,,5,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
 Feb 7,home,San Joaquin Delta,L,16-2,16,2,14,win,20230207_yfcz,3,0.0,1.0,,,,0.0,1.0,1.0,1.0,1.0,,,,1,0,,1.0,,,4,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
 Feb 11,home,Canada,L,17-5,17,5,12,win,20230211_68ey,4,0.0,0.0,,,,1.0,1.0,,,,,,,0,0,,3.0,1.0,3.0,5,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
@@ -5416,9 +5467,10 @@ Feb 18,home,Siskiyous,L,8-2,8,2,6,win,20230218_vlzs,4,0.0,2.0,,,,2.0,,,,,,,,2,0,
 Feb 21,home,De Anza,L,29-8,29,8,21,win,20230221_gg0o,4,2.0,3.0,1.0,1.0,,2.0,1.0,,,,,,,6,2,,,1.0,,5,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
 Feb 23,home,Hartnell,L,16-6,16,6,10,win,20230223_snbx,5,1.0,2.0,1.0,,,1.0,,,,,,,,3,1,,1.0,2.0,0.5,5,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
 Mar 4,home,Laney,L,13-8,13,8,5,win,20230304_0ej9,4,1.0,2.0,,1.0,,1.0,1.0,,,,,,,4,1,,2.0,,,5,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
-Mar 7,home,Mendocino,W,13-7,13,7,6,win,20230307_dj08,5,1.0,1.0,,,,0.0,,,,,,,,1,0,,,,,5,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
+Mar 7,home,Mendocino,W,13-7,13,7,6,win,20230307_dj08,5,1.0,1.0,,,,0.0,,1.0,,,,,,1,0,,,,,5,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
 Mar 15,home,Marin,L,11-0,11,0,11,win,20230315_m05c,3,0.0,0.0,,,,0.0,1.0,2.0,1.0,,,,,0,0,,,1.0,,4,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
 Mar 16,home,Marin,L,23-0,23,0,23,win,20230316_7d0w,3,0.0,0.0,,,,0.0,1.0,2.0,,,,,,0,0,,1.0,,,4,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
+Mar 18,home,Marin,L,25-2,25,2,23,win,20230318_8hna,1,1.0,0.0,,,,0.0,2.0,,,,,,,0,0,1.0,1.0,,,3,2023,2022-23,Contra Costa,contracosta,jaylenedmonds4rgu,Jaylen Edmonds
 Jan 27,home,Oxnard,W,12-2,12,2,10,win,20230127_au6e,0,0.0,0.0,,,,0.0,,,,,1.0,,,0,0,,,,,1,2023,2022-23,LA Valley,lavalley,davidramirez5tgo,David Ramirez
 Jan 29,home,Rio Hondo,W,4-1,4,1,3,win,20230129_vjqx,3,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,1.0,,,3,2023,2022-23,LA Valley,lavalley,davidramirez5tgo,David Ramirez
 Feb 9,home,Folsom Lake,L,9-3,9,3,6,win,20230209_4bhr,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,LA Valley,lavalley,davidramirez5tgo,David Ramirez
@@ -5555,6 +5607,7 @@ Mar 4,home,Victor Valley,W,17-4,17,4,13,win,20230304_pq7j,2,1.0,1.0,1.0,,,0.0,,1
 Mar 6,home,San Bernardino Valley,W,4-1,4,1,3,win,20230306_rpc3,4,1.0,2.0,1.0,,,0.0,,2.0,,,,,,3,1,,,,,4,2023,2022-23,Cerro Coso,cerrocoso,jordanchatmanmxjd,Jordan Chatman
 Mar 7,home,Mt. San Jacinto,L,11-8,11,8,3,win,20230307_ofpd,3,0.0,0.0,,,,2.0,,,,,1.0,1.0,,0,0,,1.0,3.0,0.33,5,2023,2022-23,Cerro Coso,cerrocoso,jordanchatmanmxjd,Jordan Chatman
 Mar 16,home,San Bernardino Valley,L,7-6,7,6,1,win,20230316_m7v3,1,0.0,0.0,,,,1.0,1.0,1.0,,,,,,0,0,,,,,2,2023,2022-23,Cerro Coso,cerrocoso,jordanchatmanmxjd,Jordan Chatman
+Mar 18,home,San Bernardino Valley,L,6-4,6,4,2,win,20230318_1k1c,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Cerro Coso,cerrocoso,jordanchatmanmxjd,Jordan Chatman
 Jan 27,home,Antelope Valley,W,14-7,14,7,7,win,20230127_g4d4,5,1.0,2.0,2.0,,,1.0,,1.0,,,,,,4,2,,1.0,1.0,1.0,5,2023,2022-23,Compton,compton,ryansmithubyt,Ryan Smith
 Jan 28,home,San Diego City,W,13-6,13,6,7,win,20230128_ham2,2,0.0,1.0,,,,1.0,1.0,1.0,,,,,,1,0,,,,,3,2023,2022-23,Compton,compton,ryansmithubyt,Ryan Smith
 Jan 31,home,Desert,L,19-16,19,16,3,win,20230131_vcbh,5,1.0,2.0,,,,3.0,,,,,,,,2,0,,1.0,2.0,0.5,5,2023,2022-23,Compton,compton,ryansmithubyt,Ryan Smith
@@ -5592,6 +5645,7 @@ Mar 9,home,Antelope Valley,W,20-6,20,6,14,win,20230309_id19,5,3.0,2.0,,,2.0,4.0,
 Mar 11,home,Antelope Valley,W,12-6,12,6,6,win,20230311_chiw,5,2.0,2.0,,,1.0,2.0,,,1.0,,,,,5,1,,,3.0,,5,2023,2022-23,Glendale,glendale,joeycraigh7ce,Joey Craig
 Mar 17,home,West LA,W,19-1,19,1,18,win,20230317_7fkm,4,2.0,2.0,,,1.0,1.0,,,,,,,,5,1,,,2.0,,4,2023,2022-23,Glendale,glendale,joeycraigh7ce,Joey Craig
 Mar 18,home,West LA,W,17-5,17,5,12,win,20230318_zn96,5,2.0,1.0,,,1.0,4.0,1.0,1.0,,,,,,4,1,,,3.0,,6,2023,2022-23,Glendale,glendale,joeycraigh7ce,Joey Craig
+Mar 18,home,West LA,W,10-5,10,5,5,win,20230318_jue5,2,0.0,0.0,,,,0.0,,,,,4.0,,,0,0,,,2.0,,6,2023,2022-23,Glendale,glendale,joeycraigh7ce,Joey Craig
 Jan 27,home,Los Medanos,L,11-10,11,10,1,win,20230127_e5vq,3,0.0,1.0,,,,0.0,2.0,,,,,,,1,0,,1.0,1.0,1.0,5,2023,2022-23,Ohlone,ohlone,cameroncalvilloaurd,Cameron Calvillo
 Feb 2,home,Moorpark,L,5-4,5,4,1,win,20230202_tssu,4,1.0,2.0,,,,0.0,,,1.0,,,,,2,0,,1.0,1.0,1.0,4,2023,2022-23,Ohlone,ohlone,cameroncalvilloaurd,Cameron Calvillo
 Feb 3,home,Moorpark,W,11-3,11,3,8,win,20230203_jiij,4,2.0,1.0,,,,1.0,1.0,,,,,,,1,0,,1.0,1.0,1.0,5,2023,2022-23,Ohlone,ohlone,cameroncalvilloaurd,Cameron Calvillo
@@ -5640,6 +5694,7 @@ Mar 2,home,Skyline,L,13-4,13,4,9,win,20230302_4eqs,4,0.0,1.0,,,,0.0,,1.0,,,,,,1,
 Mar 3,home,Laney,L,7-4,7,4,3,win,20230303_m7pv,4,1.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,2.0,0.5,4,2023,2022-23,Gavilan,gavilan,mikeysanchez6qh1,Mikey Sanchez
 Mar 7,home,San Mateo,L,16-2,16,2,14,win,20230307_ts8s,2,0.0,1.0,,,,0.0,,,,,,,,1,0,,1.0,,,2,2023,2022-23,Gavilan,gavilan,mikeysanchez6qh1,Mikey Sanchez
 Mar 11,home,Canada,L,2-0,2,0,2,win,20230311_s3l4,3,0.0,0.0,,,,0.0,,1.0,,,1.0,,,0,0,,1.0,1.0,1.0,4,2023,2022-23,Gavilan,gavilan,mikeysanchez6qh1,Mikey Sanchez
+Mar 16,home,De Anza,L,16-3,16,3,13,win,20230316_r9qy,3,0.0,1.0,,,,0.0,,1.0,,,,,,1,0,,,,,3,2023,2022-23,Gavilan,gavilan,mikeysanchez6qh1,Mikey Sanchez
 Mar 18,home,De Anza,L,8-3,8,3,5,win,20230318_9b7h,2,0.0,0.0,,,,0.0,,,,,,,,0,0,,,2.0,,2,2023,2022-23,Gavilan,gavilan,mikeysanchez6qh1,Mikey Sanchez
 Jan 27,home,Butte,L,3-2,3,2,1,win,20230127_0hzu,4,2.0,2.0,2.0,,,0.0,,1.0,,,,,,4,2,,,1.0,,4,2023,2022-23,Solano,solano,milesmeadowscge3,Miles Meadows
 Jan 27,home,Butte,L,8-5,8,5,3,win,20230127_zabf,3,1.0,2.0,2.0,,,0.0,,,1.0,,,,1.0,4,2,,2.0,,,4,2023,2022-23,Solano,solano,milesmeadowscge3,Miles Meadows
@@ -5729,6 +5784,7 @@ Mar 4,home,Moorpark,W,6-0,6,0,6,win,20230304_9i7a,4,0.0,2.0,,,,0.0,,1.0,,,,,,2,0
 Mar 7,home,Cuesta,L,12-5,12,5,7,win,20230307_3x09,3,0.0,0.0,,,,0.0,,,,,,,,0,0,,2.0,1.0,2.0,3,2023,2022-23,Allan Hancock,allanhancock,keelorloveridgezds1,Keelor Loveridge
 Mar 8,home,Cuesta,L,6-3,6,3,3,win,20230308_9o7s,3,1.0,2.0,2.0,,,0.0,,1.0,,,,,,4,2,,,,,3,2023,2022-23,Allan Hancock,allanhancock,keelorloveridgezds1,Keelor Loveridge
 Mar 9,home,Cuesta,L,7-2,7,2,5,win,20230309_m3sw,3,0.0,0.0,,,,0.0,,2.0,,,,,,0,0,,,1.0,,3,2023,2022-23,Allan Hancock,allanhancock,keelorloveridgezds1,Keelor Loveridge
+Mar 18,home,Oxnard,W,5-1,5,1,4,win,20230318_h5j6,1,0.0,1.0,,,,0.0,,,,,,,,1,0,,,,,1,2023,2022-23,Allan Hancock,allanhancock,keelorloveridgezds1,Keelor Loveridge
 Jan 28,home,Compton,L,13-6,13,6,7,win,20230128_ham2,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,San Diego City,sandiegocity,michaelclarkjrdwr9,Michael Clark Jr.
 Feb 11,home,Chaffey,L,5-3,5,3,2,win,20230211_czry,0,0.0,0.0,,,,0.0,,,,,1.0,,,0,0,,,,,1,2023,2022-23,San Diego City,sandiegocity,michaelclarkjrdwr9,Michael Clark Jr.
 Feb 14,home,West LA,W,17-5,17,5,12,win,20230214_jflb,0,0.0,0.0,,,,0.0,1.0,,,,,,,0,0,,,,,1,2023,2022-23,San Diego City,sandiegocity,michaelclarkjrdwr9,Michael Clark Jr.
@@ -5761,3 +5817,9 @@ Feb 4,home,Riverside,L,12-5,12,5,7,win,20230204_19zs,0,0.0,0.0,,,,0.0,1.0,,,,,,,
 Feb 10,home,Chaffey,L,9-4,9,4,5,win,20230210_ieo4,1,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,,,,1,2023,2022-23,East Los Angeles,eastlosangeles,nicktoneys7z7,Nick Toney
 Feb 11,home,West Hills Coalinga,L,6-5,6,5,1,win,20230211_ol10,4,1.0,1.0,,,,0.0,,3.0,,,,,,1,0,,,,,4,2023,2022-23,East Los Angeles,eastlosangeles,nicktoneys7z7,Nick Toney
 Mar 18,home,Moorpark,W,6-2,6,2,4,win,20230318_vk68,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,East Los Angeles,eastlosangeles,nicktoneys7z7,Nick Toney
+Jan 27,home,LA Mission,L,11-4,11,4,7,win,20230127_xbyv,4,0.0,1.0,,,,1.0,1.0,1.0,,,,,,1,0,,2.0,,,5,2023,2022-23,San Bernardino Valley,sanbernardinovalley,juanramirezdjr9,Juan Ramirez
+Jan 28,home,LA Mission,W,10-4,10,4,6,win,20230128_np72,4,1.0,1.0,,,,0.0,1.0,,,,,,,1,0,1.0,,3.0,,5,2023,2022-23,San Bernardino Valley,sanbernardinovalley,juanramirezdjr9,Juan Ramirez
+Jan 31,home,Mt. San Antonio,L,8-2,8,2,6,win,20230131_tf7i,3,0.0,1.0,,,,0.0,,2.0,,,,,,1,0,,,,,3,2023,2022-23,San Bernardino Valley,sanbernardinovalley,juanramirezdjr9,Juan Ramirez
+Feb 2,home,Irvine Valley,L,15-3,15,3,12,win,20230202_h483,3,1.0,1.0,,,,1.0,1.0,1.0,,1.0,,,,1,0,,1.0,,,4,2023,2022-23,San Bernardino Valley,sanbernardinovalley,juanramirezdjr9,Juan Ramirez
+Feb 4,home,Irvine Valley,L,10-3,10,3,7,win,20230204_2m55,4,0.0,1.0,1.0,,,0.0,,,,,,,,2,1,,,3.0,,4,2023,2022-23,San Bernardino Valley,sanbernardinovalley,juanramirezdjr9,Juan Ramirez
+Feb 7,home,Citrus,W,11-8,11,8,3,win,20230207_5luo,5,1.0,1.0,,,,1.0,,1.0,,,,,,1,0,1.0,1.0,2.0,0.5,5,2023,2022-23,San Bernardino Valley,sanbernardinovalley,juanramirezdjr9,Juan Ramirez
