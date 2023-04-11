@@ -75,15 +75,15 @@ No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_cccaa_season,team_id,te
 14,Tyler Sexton,OF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/tylersexton7m3h,tylersexton7m3h,Barstow,2022-23,barstow,2023
 22,Marcus Sanchez,OF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/marcussanchez85ec,marcussanchez85ec,Barstow,2022-23,barstow,2023
 5,Nathan Melgar,OF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/nathanmelgarun5l,nathanmelgarun5l,Barstow,2022-23,barstow,2023
-10,Dawson Pitsor,IF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/dawsonpitsorksrq,dawsonpitsorksrq,Barstow,2022-23,barstow,2023
 26,Cole Siembab,IF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/colesiembabzyhk,colesiembabzyhk,Barstow,2022-23,barstow,2023
+10,Dawson Pitsor,IF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/dawsonpitsorksrq,dawsonpitsorksrq,Barstow,2022-23,barstow,2023
 9,Justin Lamantia,SS,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/justinlamantiaev1s,justinlamantiaev1s,Barstow,2022-23,barstow,2023
 44,Dylan Bradford,SS,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/dylanbradfordzol7,dylanbradfordzol7,Barstow,2022-23,barstow,2023
 12,Vicente Escobedo,DH,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/vicenteescobedo6psu,vicenteescobedo6psu,Barstow,2022-23,barstow,2023
 37,Jaime Jimenez,1B,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/jaimejimeneznm43,jaimejimeneznm43,Barstow,2022-23,barstow,2023
+50,Aidan Murphy,DH,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/aidanmurphyu17w,aidanmurphyu17w,Barstow,2022-23,barstow,2023
 4,Adan Maldonado,IF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/adanmaldonado0cjk,adanmaldonado0cjk,Barstow,2022-23,barstow,2023
 8,Dylan Runnells,3B,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/dylanrunnellssmj7,dylanrunnellssmj7,Barstow,2022-23,barstow,2023
-50,Aidan Murphy,DH,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/aidanmurphyu17w,aidanmurphyu17w,Barstow,2022-23,barstow,2023
 3,James Alvarez,OF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/jamesalvarezwjh6,jamesalvarezwjh6,Barstow,2022-23,barstow,2023
 15,Joseph Arcarese,2B,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/josepharcareseql0j,josepharcareseql0j,Barstow,2022-23,barstow,2023
 34,Chris Corrales,C,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/chriscorralesq2b5,chriscorralesq2b5,Barstow,2022-23,barstow,2023
@@ -194,8 +194,8 @@ No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_cccaa_season,team_id,te
 24,Jordan Massis,OF,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/jordanmassiscq7w,jordanmassiscq7w,Cerro Coso,2022-23,cerrocoso,2023
 5,Jordan Chatman,OF,R-SO,https://www.cccaasports.org/sports/bsb/2022-23/players/jordanchatmanmxjd,jordanchatmanmxjd,Cerro Coso,2022-23,cerrocoso,2023
 7,Yadiel Casul,OF/C,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/yadielcasulbaz5,yadielcasulbaz5,Cerro Coso,2022-23,cerrocoso,2023
-3,Cameron Breeze,IF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/cameronbreezesdmi,cameronbreezesdmi,Cerro Coso,2022-23,cerrocoso,2023
 26,Gavin Fraser,IF,R-FR,https://www.cccaasports.org/sports/bsb/2022-23/players/gavinfraser5n0e,gavinfraser5n0e,Cerro Coso,2022-23,cerrocoso,2023
+3,Cameron Breeze,IF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/cameronbreezesdmi,cameronbreezesdmi,Cerro Coso,2022-23,cerrocoso,2023
 28,Aidan Johnson,RHP/INF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/aidanjohnsonpvg6,aidanjohnsonpvg6,Cerro Coso,2022-23,cerrocoso,2023
 12,Devin Lopez,IF,R-FR,https://www.cccaasports.org/sports/bsb/2022-23/players/devinlopez5mqf,devinlopez5mqf,Cerro Coso,2022-23,cerrocoso,2023
 30,Stephen Moraski,RHP/OF,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/stephenmoraskipfws,stephenmoraskipfws,Cerro Coso,2022-23,cerrocoso,2023
@@ -223,19 +223,22 @@ No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_cccaa_season,team_id,te
 35,Dominick Tuyor,OF,Fr,https://www.cccaasports.org/sports/bsb/2022-23/players/dominicktuyorfyva,dominicktuyorfyva,Chabot,2022-23,chabot,2023
 14,Mathieu Robillard,INF,So,https://www.cccaasports.org/sports/bsb/2022-23/players/mathieurobillardksc9,mathieurobillardksc9,Chabot,2022-23,chabot,2023
 34,Jalen Owens,OF,Fr,https://www.cccaasports.org/sports/bsb/2022-23/players/jalenowensdssv,jalenowensdssv,Chabot,2022-23,chabot,2023
+23,Bryce Clark,RHP,So,https://www.cccaasports.org/sports/bsb/2022-23/players/bryceclarkf9y1,bryceclarkf9y1,Chabot,2022-23,chabot,2023
+7,Antoine Valerio,RHP,So,https://www.cccaasports.org/sports/bsb/2022-23/players/antoinevalerioio2u,antoinevalerioio2u,Chabot,2022-23,chabot,2023
+17,Antonio Villalobos,LHP,Fr,https://www.cccaasports.org/sports/bsb/2022-23/players/antoniovillalobosqjhb,antoniovillalobosqjhb,Chabot,2022-23,chabot,2023
 33,Jacob Billings,OF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/jacobbillingseubl,jacobbillingseubl,Chaffey,2022-23,chaffey,2023
-28,Matthew Chavez,C,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/matthewchavezxdjm,matthewchavezxdjm,Chaffey,2022-23,chaffey,2023
 21,Clay Porter,IF,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/clayporterzpyd,clayporterzpyd,Chaffey,2022-23,chaffey,2023
+28,Matthew Chavez,C,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/matthewchavezxdjm,matthewchavezxdjm,Chaffey,2022-23,chaffey,2023
 24,Michael Woodward,OF,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/michaelwoodwardev5u,michaelwoodwardev5u,Chaffey,2022-23,chaffey,2023
 8,Steven Mara,OF,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/stevenmaraijfd,stevenmaraijfd,Chaffey,2022-23,chaffey,2023
 2,Zach Kim,IF,SO,https://www.cccaasports.org/sports/bsb/2022-23/players/zachkimb2q7,zachkimb2q7,Chaffey,2022-23,chaffey,2023
 19,Eric Valdivia,C,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/ericvaldivia48a5,ericvaldivia48a5,Chaffey,2022-23,chaffey,2023
 9,Aaron Whobrey,UTL,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/aaronwhobrey4u1w,aaronwhobrey4u1w,Chaffey,2022-23,chaffey,2023
-22,Damian Hernandez,UTL,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/damianhernandezr6gd,damianhernandezr6gd,Chaffey,2022-23,chaffey,2023
 38,Austin Easter,OF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/austineasterlzhu,austineasterlzhu,Chaffey,2022-23,chaffey,2023
+22,Damian Hernandez,UTL,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/damianhernandezr6gd,damianhernandezr6gd,Chaffey,2022-23,chaffey,2023
 18,Adam Monteon,C,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/adammonteon2xfs,adammonteon2xfs,Chaffey,2022-23,chaffey,2023
-6,Devin Martinez,OF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/devinmartinezq1n5,devinmartinezq1n5,Chaffey,2022-23,chaffey,2023
 4,Christian Mosqueda,UTL,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/christianmosqueda5hmg,christianmosqueda5hmg,Chaffey,2022-23,chaffey,2023
+6,Devin Martinez,OF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/devinmartinezq1n5,devinmartinezq1n5,Chaffey,2022-23,chaffey,2023
 14,Noah Nichols,OF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/noahnichols7wit,noahnichols7wit,Chaffey,2022-23,chaffey,2023
 15,Yahir Ramirez,IF,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/yahirramirezw7e9,yahirramirezw7e9,Chaffey,2022-23,chaffey,2023
 35,David Loera,UTL,FR,https://www.cccaasports.org/sports/bsb/2022-23/players/davidloerayr6w,davidloerayr6w,Chaffey,2022-23,chaffey,2023
@@ -1309,8 +1312,8 @@ No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_cccaa_season,team_id,te
 25,Miguel Esquviez,C/OF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/miguelesquviez6flu,miguelesquviez6flu,San Francisco,2022-23,sanfrancisco,2023
 44,Jackson Wood,INF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/jacksonwoodyzmu,jacksonwoodyzmu,San Francisco,2022-23,sanfrancisco,2023
 23,David Howard,LHP/OF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/davidhoward31so,davidhoward31so,San Francisco,2022-23,sanfrancisco,2023
-4,Kevin Mueller,OF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/kevinmuelleri50b,kevinmuelleri50b,San Francisco,2022-23,sanfrancisco,2023
 10,Eric Costa,OF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/ericcostak5kw,ericcostak5kw,San Francisco,2022-23,sanfrancisco,2023
+4,Kevin Mueller,OF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/kevinmuelleri50b,kevinmuelleri50b,San Francisco,2022-23,sanfrancisco,2023
 17,Will Harrington,INF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/willharringtonmbbf,willharringtonmbbf,San Francisco,2022-23,sanfrancisco,2023
 5,Aman Khera,INF/RHP,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/amankherarnx2,amankherarnx2,San Francisco,2022-23,sanfrancisco,2023
 2,Eli Villaobos,INF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/elivillaobosmhu5,elivillaobosmhu5,San Francisco,2022-23,sanfrancisco,2023
@@ -1321,6 +1324,7 @@ No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_cccaa_season,team_id,te
 11,Caige Campbell,OF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/caigecampbellap2y,caigecampbellap2y,San Francisco,2022-23,sanfrancisco,2023
 42,Emil Price,OF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/emilpricefxo1,emilpricefxo1,San Francisco,2022-23,sanfrancisco,2023
 9,Anthony Southavilay,INF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/anthonysouthavilayzevu,anthonysouthavilayzevu,San Francisco,2022-23,sanfrancisco,2023
+8,Nevan Lee,LHP,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/nevanleemfoq,nevanleemfoq,San Francisco,2022-23,sanfrancisco,2023
 21,Jacob Olivia,RHP,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/jacobolivia89ds,jacobolivia89ds,San Francisco,2022-23,sanfrancisco,2023
 18,Darren Leung,OF,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/darrenleung77dt,darrenleung77dt,San Francisco,2022-23,sanfrancisco,2023
 7,Brenden O'Sullivan,INF,So,https://www.cccaasports.org/sports/bsb/2022-23/players/brendenosullivanu5iu,brendenosullivanu5iu,San Joaquin Delta,2022-23,sanjoaquindelta,2023
@@ -1610,8 +1614,8 @@ No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_cccaa_season,team_id,te
 9,Joshua Pennington,C,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/joshuapenningtonlyf6,joshuapenningtonlyf6,Victor Valley,2022-23,victorvalley,2023
 11,Darren Atkinson,1B,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/darrenatkinsonvzwk,darrenatkinsonvzwk,Victor Valley,2022-23,victorvalley,2023
 12,Isaiah Galindo,OF,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/isaiahgalindoqpu5,isaiahgalindoqpu5,Victor Valley,2022-23,victorvalley,2023
-10,Diego Spencer,2B,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/diegospencerp2zz,diegospencerp2zz,Victor Valley,2022-23,victorvalley,2023
 15,Sebastian Gutierrez,OF,Sophomore,https://www.cccaasports.org/sports/bsb/2022-23/players/sebastiangutierrezg8at,sebastiangutierrezg8at,Victor Valley,2022-23,victorvalley,2023
+10,Diego Spencer,2B,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/diegospencerp2zz,diegospencerp2zz,Victor Valley,2022-23,victorvalley,2023
 5,Jayden Manzo,3B,Sophomore,https://www.cccaasports.org/sports/bsb/2022-23/players/jaydenmanzohubl,jaydenmanzohubl,Victor Valley,2022-23,victorvalley,2023
 8,Gabriel Villa,C,Sophomore,https://www.cccaasports.org/sports/bsb/2022-23/players/gabrielvilla08ew,gabrielvilla08ew,Victor Valley,2022-23,victorvalley,2023
 34,Isaac Ruiz,OF,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/isaacruiz8co1,isaacruiz8co1,Victor Valley,2022-23,victorvalley,2023
@@ -1622,6 +1626,7 @@ No.,Name,Position,Year,PlayerURL,PlayerID,team_name,team_cccaa_season,team_id,te
 24,Alexander Rodriguez,2B,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/alexanderrodriguezd12y,alexanderrodriguezd12y,Victor Valley,2022-23,victorvalley,2023
 25,Gabriel Munoz,SS,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/gabrielmunozxyn9,gabrielmunozxyn9,Victor Valley,2022-23,victorvalley,2023
 27,Vincent Villarreal,2B,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/vincentvillarreal1xwu,vincentvillarreal1xwu,Victor Valley,2022-23,victorvalley,2023
+26,Jacob Perez,P,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/jacobperezqbqn,jacobperezqbqn,Victor Valley,2022-23,victorvalley,2023
 4,Asher Bloch,OF,Freshman,https://www.cccaasports.org/sports/bsb/2022-23/players/asherblochbl5b,asherblochbl5b,Victor Valley,2022-23,victorvalley,2023
 13,Kaleb Latimer,IF,Fr.,https://www.cccaasports.org/sports/bsb/2022-23/players/kaleblatimeriduf,kaleblatimeriduf,West Hills Coalinga,2022-23,westhillscoalinga,2023
 14,Brody Brown,C,So.,https://www.cccaasports.org/sports/bsb/2022-23/players/brodybrownm334,brodybrownm334,West Hills Coalinga,2022-23,westhillscoalinga,2023
