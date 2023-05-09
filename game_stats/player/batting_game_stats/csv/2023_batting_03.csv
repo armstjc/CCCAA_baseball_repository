@@ -1,4 +1,6 @@
 date,location,opponent,result,score,team_score,opp_score,game_score_diff,game_win_loss,game_id,AB,R,H,2B,3B,HR,RBI,BB,K,SB,CS,HBP,SF,SH,TB,XBH,HDP,GO,FO,GO/FO,PA,season,cccaa_season,team,team_id,player_id,player_name
+Jan 28,home,Cosumnes River,W,13-11,13,11,2,win,20230128_7lyy,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Shasta,shasta,cadejacobsonbdr3,Cade Jacobson
+Feb 3,home,Solano,W,11-1,11,1,10,win,20230203_ncdj,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Shasta,shasta,cadejacobsonbdr3,Cade Jacobson
 Feb 10,home,Skyline,W,7-5,7,5,2,win,20230210_paiu,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Shasta,shasta,cadejacobsonbdr3,Cade Jacobson
 Feb 17,home,Canada,L,6-2,6,2,4,win,20230217_e2vb,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Shasta,shasta,cadejacobsonbdr3,Cade Jacobson
 Mar 3,home,Butte,L,8-6,8,6,2,win,20230303_v8iq,0,0.0,0.0,,,,0.0,,,,,,,,0,0,,,,,0,2023,2022-23,Shasta,shasta,cadejacobsonbdr3,Cade Jacobson
@@ -6921,6 +6923,7 @@ Apr 25,home,Irvine Valley,L,6-4,6,4,2,win,20230425_ciut,1,0.0,0.0,,,,0.0,,,,,,,,
 Apr 27,home,Irvine Valley,L,10-5,10,5,5,win,20230427_t2xl,3,0.0,1.0,,,,0.0,,,,,1.0,,,1,0,,,2.0,,4,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
 Apr 28,home,Irvine Valley,L,10-9,10,9,1,win,20230428_y7zq,4,1.0,0.0,,,,0.0,1.0,,,,1.0,,,0,0,,,4.0,,6,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
 May 5,home,Santa Barbara,W,7-6,7,6,1,win,20230505_8e3e,4,0.0,1.0,1.0,,,2.0,,,,,,,,2,1,,2.0,1.0,2.0,4,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
+May 6,home,Santa Barbara,L,11-5,11,5,6,win,20230506_46mz,4,0.0,1.0,,,,0.0,,,1.0,,,,,1,0,,3.0,,,4,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
 May 6,home,Santa Barbara,L,5-4,5,4,1,win,20230506_76zj,4,0.0,1.0,,,,2.0,,1.0,,,,,,1,0,,1.0,1.0,1.0,4,2023,2022-23,Golden West,goldenwest,roccocaballero38br,Rocco Caballero
 Jan 27,home,Citrus,W,12-4,12,4,8,win,20230127_lwuy,4,1.0,1.0,,,,0.0,1.0,2.0,,,,,,1,0,,,1.0,,5,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
 Jan 28,home,Southwestern,L,11-6,11,6,5,win,20230128_365n,5,1.0,3.0,1.0,,,1.0,,2.0,,,,,,4,1,,,,,5,2023,2022-23,Chaffey,chaffey,stevenmaraijfd,Steven Mara
@@ -8379,6 +8382,7 @@ Apr 27,home,Allan Hancock,L,6-5,6,5,1,win,20230427_aoib,3,0.0,0.0,,,,0.0,,2.0,,,
 Apr 28,home,LA Pierce,W,11-1,11,1,10,win,20230428_x77m,3,3.0,2.0,,,,1.0,1.0,1.0,2.0,,,,,2,0,,,,,4,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
 Apr 29,home,Moorpark,W,7-0,7,0,7,win,20230429_x8bq,1,0.0,0.0,,,,0.0,,,,,,,,0,0,,1.0,,,1,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
 May 5,home,Golden West,L,7-6,7,6,1,win,20230505_8e3e,3,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,1.0,1.0,1.0,3,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
+May 6,home,Golden West,W,11-5,11,5,6,win,20230506_46mz,3,1.0,0.0,,,,0.0,1.0,,1.0,,,,1.0,0,0,,2.0,2.0,1.0,5,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
 May 6,home,Golden West,W,5-4,5,4,1,win,20230506_76zj,4,0.0,1.0,,,,1.0,,2.0,,,,,,1,0,,1.0,,,4,2023,2022-23,Santa Barbara,santabarbara,tylerimbach21mf,Tyler Imbach
 Jan 27,home,Santa Rosa,W,8-0,8,0,8,win,20230127_r4nf,4,0.0,0.0,,,,0.0,,1.0,,,,,,0,0,,2.0,1.0,2.0,4,2023,2022-23,Chabot,chabot,liamforsythcdbm,Liam Forsyth
 Jan 28,home,Santa Rosa,W,12-7,12,7,5,win,20230128_4z98,4,1.0,1.0,,,1.0,1.0,,1.0,,,,,,4,1,,,2.0,,4,2023,2022-23,Chabot,chabot,liamforsythcdbm,Liam Forsyth
@@ -10910,6 +10914,7 @@ Apr 27,home,Allan Hancock,L,6-5,6,5,1,win,20230427_aoib,0,0.0,0.0,,,,1.0,,,,,1.0
 Apr 28,home,LA Pierce,W,11-1,11,1,10,win,20230428_x77m,1,2.0,1.0,1.0,,,0.0,2.0,,1.0,,,,,2,1,,,,,3,2023,2022-23,Santa Barbara,santabarbara,zachtorres4w95,Zach Torres
 Apr 29,home,Moorpark,W,7-0,7,0,7,win,20230429_x8bq,4,1.0,1.0,,1.0,,1.0,,2.0,,,,,,3,1,,,1.0,,4,2023,2022-23,Santa Barbara,santabarbara,zachtorres4w95,Zach Torres
 May 5,home,Golden West,L,7-6,7,6,1,win,20230505_8e3e,3,1.0,1.0,,,,1.0,,2.0,1.0,,1.0,,,1,0,,,,,4,2023,2022-23,Santa Barbara,santabarbara,zachtorres4w95,Zach Torres
+May 6,home,Golden West,W,11-5,11,5,6,win,20230506_46mz,4,1.0,1.0,,,,2.0,1.0,3.0,,,,,,1,0,,,,,5,2023,2022-23,Santa Barbara,santabarbara,zachtorres4w95,Zach Torres
 May 6,home,Golden West,W,5-4,5,4,1,win,20230506_76zj,4,1.0,3.0,,,,0.0,,1.0,,,,,,3,0,,,,,4,2023,2022-23,Santa Barbara,santabarbara,zachtorres4w95,Zach Torres
 Jan 27,home,Mt. San Jacinto,L,13-8,13,8,5,win,20230127_4ltt,4,2.0,2.0,1.0,,,2.0,,2.0,,,1.0,,,3,1,,,,,5,2023,2022-23,San Diego City,sandiegocity,connerstewartx4y8,Conner Stewart
 Jan 28,home,Compton,L,13-6,13,6,7,win,20230128_ham2,5,1.0,1.0,,,1.0,1.0,,,,,,,,4,1,,1.0,3.0,0.33,5,2023,2022-23,San Diego City,sandiegocity,connerstewartx4y8,Conner Stewart
@@ -10947,3 +10952,5 @@ Apr 15,home,Southwestern,L,10-3,10,3,7,win,20230415_yi7b,4,1.0,1.0,,,,0.0,,,,,,,
 Apr 18,home,Imperial Valley,W,22-7,22,7,15,win,20230418_nl6v,5,2.0,3.0,,,,2.0,,,,,1.0,,,3,0,,,1.0,,6,2023,2022-23,San Diego City,sandiegocity,connerstewartx4y8,Conner Stewart
 Apr 20,home,Imperial Valley,W,15-0,15,0,15,win,20230420_kbhk,5,4.0,3.0,,,,3.0,,,,,1.0,,,3,0,,1.0,,,6,2023,2022-23,San Diego City,sandiegocity,connerstewartx4y8,Conner Stewart
 Apr 21,home,Imperial Valley,W,10-0,10,0,10,win,20230421_wfnn,3,2.0,2.0,1.0,,1.0,1.0,,,,,,,,6,2,,1.0,,,3,2023,2022-23,San Diego City,sandiegocity,connerstewartx4y8,Conner Stewart
+Apr 25,home,San Diego Mesa,L,14-5,14,5,9,win,20230425_zxpy,4,1.0,2.0,,,1.0,2.0,,,,1.0,,,,5,1,,,1.0,,4,2023,2022-23,San Diego City,sandiegocity,connerstewartx4y8,Conner Stewart
+Apr 27,home,San Diego Mesa,W,5-3,5,3,2,win,20230427_p5lk,4,2.0,2.0,1.0,,1.0,1.0,,1.0,,,,,,6,2,,1.0,,,4,2023,2022-23,San Diego City,sandiegocity,connerstewartx4y8,Conner Stewart
