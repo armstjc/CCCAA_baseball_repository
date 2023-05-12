@@ -103,7 +103,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Antelope Valley,antelopevalley,Feb 4,home,Chaffey,W,17,0,20230204_nk7s,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Antelope Valley,antelopevalley,Feb 7,home,Barstow,W,6,0,20230207_nxqw,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Antelope Valley,antelopevalley,Feb 9,home,Taft,L,11,2,20230209_iiot,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Antelope Valley,antelopevalley,Jan 27,home,Compton,L,14,7,20230127_g4d4,17,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Antelope Valley,antelopevalley,Jan 27,home,Compton,L,14,7,20230127_g4d4,18,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Antelope Valley,antelopevalley,Jan 28,home,Mt. San Jacinto,L,15,5,20230128_3vez,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Antelope Valley,antelopevalley,Jan 31,home,Taft,L,11,9,20230131_am07,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Antelope Valley,antelopevalley,Mar 11,home,Glendale,L,12,6,20230311_chiw,15,0,0,0,0,,2.0,0.0,0.0,,0.0,2.0
@@ -321,6 +321,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Canada,canada,Mar 4,home,Cabrillo,L,13,6,20230304_ssei,16,0,0,0,0,,2.0,2.0,0.0,0.0,0.0,2.0
 2023,2022-23,Canada,canada,Mar 7,home,Monterey Peninsula,W,6,2,20230307_twne,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canada,canada,Mar 8,home,Ohlone,T,4,4,20230308_dvni,20,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Canada,canada,May 11,home,Reedley,L,10,4,20230511_mery,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Canada,canada,May 11,home,Santa Rosa,L,7,5,20230511_l2wb,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canada,canada,May 5,home,Merced,W,2,1,20230505_lcv6,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canada,canada,May 6,home,Merced,L,5,3,20230506_01df,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canada,canada,May 6,home,Merced,W,8,3,20230506_9uo5,11,1,1,0,0,1.0,8.0,3.0,2.0,0.667,0.0,1.0
@@ -362,6 +364,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Canyons,canyons,Mar 4,home,Cypress,L,13,7,20230304_h5ab,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canyons,canyons,Mar 7,home,Bakersfield,W,4,3,20230307_yppu,10,0,0,0,1,0.0,1.0,0.0,0.0,,1.0,0.0
 2023,2022-23,Canyons,canyons,Mar 9,home,Bakersfield,W,17,5,20230309_81zh,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Canyons,canyons,May 11,home,Grossmont,L,8,7,20230511_q1l7,10,0,0,1,0,1.0,4.0,2.0,2.0,1.0,1.0,0.0
+2023,2022-23,Canyons,canyons,May 11,home,Southwestern,W,6,5,20230511_whyr,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canyons,canyons,May 5,home,Orange Coast,W,16,6,20230505_v8f4,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canyons,canyons,May 6,home,Orange Coast,W,13,11,20230506_6ikl,8,0,0,0,0,,3.0,2.0,2.0,1.0,0.0,0.0
 2023,2022-23,Cerritos,cerritos,Apr 1,home,East Los Angeles,L,4,3,20230401_kara,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -594,7 +598,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Compton,compton,Feb 3,home,Irvine Valley,W,12,5,20230203_cyxo,19,0,1,0,0,1.0,9.0,5.0,5.0,1.0,5.0,5.0
 2023,2022-23,Compton,compton,Feb 4,home,Grossmont,L,8,4,20230204_d1ko,16,1,0,1,0,1.0,10.0,10.0,7.0,0.7,6.0,4.0
 2023,2022-23,Compton,compton,Feb 7,home,Santa Ana,L,21,6,20230207_c2op,20,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Compton,compton,Feb 8,home,Desert,L,14,0,20230208_q0hb,18,1,0,1,0,1.0,3.0,5.0,1.0,0.2,4.0,1.0
+2023,2022-23,Compton,compton,Feb 8,home,Desert,L,14,0,20230208_q0hb,19,1,0,1,0,1.0,3.0,5.0,1.0,0.2,4.0,1.0
 2023,2022-23,Compton,compton,Jan 27,home,Antelope Valley,W,14,7,20230127_g4d4,17,0,0,0,0,,1.0,0.0,0.0,,1.0,2.0
 2023,2022-23,Compton,compton,Jan 28,home,San Diego City,W,13,6,20230128_ham2,19,1,0,0,0,,2.0,2.0,2.0,1.0,1.0,1.0
 2023,2022-23,Compton,compton,Jan 31,home,Desert,L,19,16,20230131_vcbh,13,0,0,0,0,,0.0,1.0,1.0,1.0,1.0,0.0
@@ -682,6 +686,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Cosumnes River,cosumnesriver,Mar 31,home,Sierra,L,8,6,20230331_kkq6,13,0,0,1,0,1.0,4.0,4.0,4.0,1.0,1.0,5.0
 2023,2022-23,Cosumnes River,cosumnesriver,Mar 7,home,Santa Rosa,L,14,4,20230307_nygc,17,1,0,1,0,1.0,11.0,9.0,8.0,0.889,1.0,1.0
 2023,2022-23,Cosumnes River,cosumnesriver,Mar 8,home,Santa Rosa,L,16,9,20230308_8wd0,16,0,0,0,0,,1.0,1.0,1.0,1.0,2.0,3.0
+2023,2022-23,Cosumnes River,cosumnesriver,May 11,home,Mission,W,9,4,20230511_ny7c,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cosumnes River,cosumnesriver,May 5,home,Butte,W,3,2,20230505_bttl,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cosumnes River,cosumnesriver,May 7,home,Butte,W,3,2,20230507_v04a,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cuesta,cuesta,Apr 11,home,Oxnard,W,10,6,20230411_yzi9,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -725,7 +730,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Cuesta,cuesta,Mar 9,home,Allan Hancock,W,7,2,20230309_m3sw,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cuesta,cuesta,May 5,home,LA Valley,W,1,0,20230505_80cw,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,2,0,20230506_uysd,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,9,6,20230506_u57q,12,0,0,1,0,1.0,3.0,4.0,4.0,1.0,2.0,1.0
+2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,9,5,20230506_u57q,11,0,0,1,0,1.0,2.0,4.0,4.0,1.0,2.0,1.0
+2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,9,6,20230506_u57q,1,0,0,0,0,,1.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,Apr 1,home,Riverside,L,17,11,20230401_tfjc,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,Apr 11,home,Saddleback,W,10,7,20230411_q1fu,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,Apr 13,home,Saddleback,L,11,3,20230413_hkli,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -765,6 +771,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Cypress,cypress,Mar 4,home,Canyons,W,13,7,20230304_h5ab,15,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,Mar 7,home,Irvine Valley,W,10,7,20230307_3g4m,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,Mar 9,home,Irvine Valley,W,11,10,20230309_fp9k,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Cypress,cypress,May 11,home,Santa Barbara,W,7,2,20230511_hiae,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,May 5,home,Cerro Coso,W,10,8,20230505_ivka,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,May 6,home,Cerro Coso,W,11,0,20230506_pkfu,15,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,De Anza,deanza,Apr 1,home,Ohlone,L,17,7,20230401_hr1y,13,0,0,0,0,,5.0,7.0,7.0,1.0,2.0,1.0
@@ -929,6 +936,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,East Los Angeles,eastlosangeles,Mar 4,home,LA Harbor,W,6,0,20230304_363z,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,East Los Angeles,eastlosangeles,Mar 7,home,Compton,W,9,8,20230307_8rps,13,0,0,0,0,,1.0,1.0,1.0,1.0,1.0,0.0
 2023,2022-23,East Los Angeles,eastlosangeles,Mar 9,home,Compton,W,8,2,20230309_xwgn,11,0,0,0,0,,0.0,0.0,0.0,,2.0,0.0
+2023,2022-23,East Los Angeles,eastlosangeles,May 11,home,Fullerton,L,8,4,20230511_21ck,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,East Los Angeles,eastlosangeles,May 11,home,LA Valley,L,16,1,20230511_n1eu,14,0,0,0,0,,6.0,2.0,1.0,0.5,5.0,0.0
 2023,2022-23,East Los Angeles,eastlosangeles,May 5,home,Palomar,L,11,2,20230505_9yce,11,0,0,0,0,,4.0,3.0,3.0,1.0,1.0,1.0
 2023,2022-23,East Los Angeles,eastlosangeles,May 6,home,Palomar,W,2,1,20230506_rzso,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,East Los Angeles,eastlosangeles,May 6,home,Palomar,W,7,4,20230506_8zp3,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -972,6 +981,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,El Camino,elcamino,Mar 4,home,Pasadena City,W,17,3,20230304_p984,16,0,0,0,0,,2.0,1.0,1.0,1.0,1.0,3.0
 2023,2022-23,El Camino,elcamino,Mar 7,home,LA Harbor,W,19,5,20230307_e8zg,12,0,0,0,0,,4.0,3.0,2.0,0.667,2.0,5.0
 2023,2022-23,El Camino,elcamino,Mar 9,home,LA Harbor,W,6,0,20230309_ercu,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,El Camino,elcamino,May 11,home,Glendale,W,5,3,20230511_agqt,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,El Camino,elcamino,May 5,home,Mt. San Jacinto,W,2,0,20230505_3ac8,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,El Camino,elcamino,May 6,home,Mt. San Jacinto,W,13,3,20230506_si8q,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Feather River,featherriver,Apr 1,home,Lassen,L,10,7,20230401_ajr1,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -1056,6 +1066,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Folsom Lake,folsomlake,Mar 31,home,San Joaquin Delta,W,10,9,20230331_gwd1,12,1,1,0,0,1.0,6.0,4.0,3.0,0.75,2.0,5.0
 2023,2022-23,Folsom Lake,folsomlake,Mar 7,home,Diablo Valley,W,19,11,20230307_h8lk,12,0,0,0,0,,0.0,0.0,0.0,,1.0,0.0
 2023,2022-23,Folsom Lake,folsomlake,Mar 8,home,Diablo Valley,W,3,2,20230308_dgg5,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Folsom Lake,folsomlake,May 11,home,Fresno City,L,10,3,20230511_jbbi,10,1,0,1,0,1.0,11.0,7.0,7.0,1.0,2.0,5.0
 2023,2022-23,Folsom Lake,folsomlake,May 5,home,Marin,W,15,4,20230505_e4j2,11,1,0,0,0,,6.0,4.0,1.0,0.25,0.0,12.0
 2023,2022-23,Folsom Lake,folsomlake,May 6,home,Marin,W,7,4,20230506_oyy1,9,1,1,0,0,1.0,3.0,2.0,1.0,0.5,1.0,9.0
 2023,2022-23,Fresno City,fresnocitycollege,Apr 1,home,Reedley,W,7,4,20230401_8bo0,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -1098,6 +1109,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Fresno City,fresnocitycollege,Mar 30,home,Reedley,W,8,7,20230330_gjd0,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fresno City,fresnocitycollege,Mar 7,home,Taft,W,12,6,20230307_7smt,15,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fresno City,fresnocitycollege,Mar 9,home,Taft,W,8,6,20230309_ordv,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Fresno City,fresnocitycollege,May 11,home,Folsom Lake,W,10,3,20230511_jbbi,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Fresno City,fresnocitycollege,May 11,home,Los Medanos,L,7,2,20230511_i55j,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fresno City,fresnocitycollege,May 5,home,Diablo Valley,W,8,0,20230505_ftgm,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fresno City,fresnocitycollege,May 6,home,Diablo Valley,W,10,2,20230506_8vrg,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fullerton,fullerton,Apr 11,home,Golden West,W,8,4,20230411_1r1n,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -1140,6 +1153,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Fullerton,fullerton,Mar 31,home,Orange Coast,L,8,5,20230331_5k77,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fullerton,fullerton,Mar 7,home,Saddleback,L,9,3,20230307_40d5,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fullerton,fullerton,Mar 9,home,Saddleback,L,3,0,20230309_1g0c,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Fullerton,fullerton,May 11,home,East Los Angeles,W,8,4,20230511_21ck,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fullerton,fullerton,May 5,home,Chaffey,W,7,1,20230505_qz24,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Fullerton,fullerton,May 6,home,Chaffey,W,6,4,20230506_irke,6,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Gavilan,gavilan,Apr 1,home,Mission,L,24,6,20230401_j2e6,15,1,0,1,0,1.0,16.0,21.0,20.0,0.952,7.0,8.0
@@ -1218,6 +1232,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Glendale,glendale,Mar 4,home,Orange Coast,L,11,5,20230304_0m4c,11,0,0,0,0,,4.0,1.0,1.0,1.0,0.0,1.0
 2023,2022-23,Glendale,glendale,Mar 7,home,Antelope Valley,W,14,4,20230307_5yud,15,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Glendale,glendale,Mar 9,home,Antelope Valley,W,20,6,20230309_id19,12,0,1,0,0,1.0,4.0,2.0,2.0,1.0,0.0,4.0
+2023,2022-23,Glendale,glendale,May 11,home,El Camino,L,5,3,20230511_agqt,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Glendale,glendale,May 11,home,Saddleback,L,11,1,20230511_nly3,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Glendale,glendale,May 5,home,Pasadena City,W,4,2,20230505_u6ja,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Glendale,glendale,May 6,home,Pasadena City,W,4,0,20230506_9lzu,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Golden West,goldenwest,Apr 11,home,Fullerton,L,8,4,20230411_1r1n,10,0,0,0,0,,2.0,0.0,0.0,,0.0,1.0
@@ -1300,6 +1316,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Grossmont,grossmont,Mar 4,home,San Diego Mesa,W,20,7,20230304_ak2f,16,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Grossmont,grossmont,Mar 7,home,San Diego City,L,8,6,20230307_oveq,12,0,0,0,0,,0.0,0.0,0.0,,1.0,1.0
 2023,2022-23,Grossmont,grossmont,Mar 9,home,San Diego City,L,8,2,20230309_dn9v,12,0,0,0,0,,1.0,2.0,2.0,1.0,0.0,0.0
+2023,2022-23,Grossmont,grossmont,May 11,home,Canyons,W,8,7,20230511_q1l7,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Grossmont,grossmont,May 5,home,Riverside,W,14,3,20230505_t2ad,10,0,0,0,0,,1.0,0.0,0.0,,1.0,1.0
 2023,2022-23,Grossmont,grossmont,May 6,home,Riverside,W,4,2,20230506_jdl3,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Hartnell,hartnell,Apr 1,home,Monterey Peninsula,W,9,5,20230401_ciz1,12,1,1,0,0,1.0,7.0,3.0,3.0,1.0,2.0,4.0
@@ -1579,9 +1596,10 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,LA Valley,lavalley,Mar 30,home,Bakersfield,W,10,1,20230330_0fiw,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,LA Valley,lavalley,Mar 7,home,West LA,W,8,0,20230307_36i4,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,LA Valley,lavalley,Mar 9,home,West LA,W,10,3,20230309_uk9l,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,LA Valley,lavalley,May 11,home,East Los Angeles,W,16,1,20230511_n1eu,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,LA Valley,lavalley,May 5,home,Cuesta,L,1,0,20230505_80cw,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,LA Valley,lavalley,May 6,home,Cuesta,W,2,0,20230506_uysd,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,LA Valley,lavalley,May 6,home,Cuesta,W,9,6,20230506_u57q,10,0,1,0,0,1.0,4.0,1.0,1.0,1.0,1.0,3.0
+2023,2022-23,LA Valley,lavalley,May 6,home,Cuesta,W,9,5,20230506_u57q,9,0,1,0,0,1.0,2.0,0.0,0.0,,1.0,2.0
 2023,2022-23,Laney,laney,Apr 1,home,Yuba,W,7,4,20230401_rfbk,11,1,1,0,0,1.0,5.0,4.0,3.0,0.75,2.0,5.0
 2023,2022-23,Laney,laney,Apr 11,home,Contra Costa,L,12,9,20230411_hq1m,11,0,0,0,0,,5.0,3.0,3.0,1.0,0.0,2.0
 2023,2022-23,Laney,laney,Apr 13,home,Contra Costa,W,8,2,20230413_ikht,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -1744,6 +1762,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Los Medanos,losmedanos,Mar 31,home,Marin,W,8,2,20230331_ioh3,15,1,1,0,0,1.0,6.0,2.0,2.0,1.0,3.0,10.0
 2023,2022-23,Los Medanos,losmedanos,Mar 7,home,Napa Valley,W,21,5,20230307_rcj3,17,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Los Medanos,losmedanos,Mar 8,home,Laney,W,9,2,20230308_223u,15,1,1,0,0,1.0,8.0,2.0,2.0,1.0,1.0,10.0
+2023,2022-23,Los Medanos,losmedanos,May 11,home,Fresno City,W,7,2,20230511_i55j,10,1,1,0,0,1.0,3.0,2.0,1.0,0.5,4.0,3.0
 2023,2022-23,Los Medanos,losmedanos,May 5,home,Ohlone,L,8,4,20230505_rkii,12,1,0,1,0,1.0,12.0,8.0,8.0,1.0,2.0,7.0
 2023,2022-23,Los Medanos,losmedanos,May 6,home,Ohlone,W,13,11,20230506_rp1i,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Los Medanos,losmedanos,May 7,home,Ohlone,W,20,7,20230507_62jr,11,1,0,0,0,,3.0,2.0,2.0,1.0,2.0,2.0
@@ -1869,46 +1888,48 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Merced,merced,May 6,home,Canada,L,8,3,20230506_9uo5,10,1,0,1,0,1.0,13.0,8.0,8.0,1.0,2.0,5.0
 2023,2022-23,Merced,merced,May 6,home,Canada,W,5,3,20230506_01df,11,1,1,0,0,1.0,8.0,3.0,3.0,1.0,2.0,6.0
 2023,2022-23,Mission,mission,Apr 1,home,Gavilan,W,24,6,20230401_j2e6,16,0,0,0,0,,2.0,3.0,3.0,1.0,3.0,2.0
-2023,2022-23,Mission,mission,Apr 11,home,Ohlone,W,11,9,20230411_1trw,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Apr 11,home,Ohlone,W,11,9,20230411_1trw,11,0,1,0,0,1.0,3.0,1.0,1.0,1.0,0.0,4.0
 2023,2022-23,Mission,mission,Apr 13,home,Ohlone,L,16,11,20230413_hd1d,14,0,0,0,0,,6.0,5.0,5.0,1.0,2.0,0.0
-2023,2022-23,Mission,mission,Apr 15,home,Ohlone,W,7,5,20230415_ta6u,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Apr 15,home,Ohlone,W,7,5,20230415_ta6u,11,0,0,0,1,0.0,3.0,0.0,0.0,,1.0,5.0
 2023,2022-23,Mission,mission,Apr 18,home,Monterey Peninsula,W,6,1,20230418_fbd9,9,0,0,0,1,0.0,1.0,0.0,0.0,,0.0,5.0
-2023,2022-23,Mission,mission,Apr 20,home,Monterey Peninsula,L,11,9,20230420_416p,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Apr 20,home,Monterey Peninsula,L,11,9,20230420_416p,10,0,0,1,0,1.0,6.0,3.0,3.0,1.0,0.0,5.0
 2023,2022-23,Mission,mission,Apr 22,home,Monterey Peninsula,W,10,5,20230422_0n7d,9,1,1,0,0,1.0,8.0,5.0,5.0,1.0,1.0,11.0
-2023,2022-23,Mission,mission,Apr 25,home,Cabrillo,L,4,3,20230425_vcm6,11,0,0,0,0,,0.0,0.0,0.0,,1.0,1.0
+2023,2022-23,Mission,mission,Apr 25,home,Cabrillo,L,4,3,20230425_vcm6,12,0,0,0,0,,3.0,1.0,1.0,1.0,2.0,5.0
 2023,2022-23,Mission,mission,Apr 27,home,Cabrillo,W,9,7,20230427_hvmb,9,0,0,0,1,0.0,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Mission,mission,Apr 28,home,Cabrillo,L,7,1,20230428_z6vq,10,1,0,1,0,1.0,6.0,4.0,3.0,0.75,3.0,6.0
-2023,2022-23,Mission,mission,Apr 5,home,Sierra,W,8,6,20230405_w0g9,9,0,0,0,0,,0.0,0.0,0.0,,0.0,1.0
+2023,2022-23,Mission,mission,Apr 5,home,Sierra,W,8,6,20230405_w0g9,10,0,0,0,0,,4.0,3.0,3.0,1.0,0.0,2.0
 2023,2022-23,Mission,mission,Feb 10,home,Lassen,L,12,3,20230210_ws3c,17,1,0,1,0,1.0,7.0,5.0,5.0,1.0,0.0,2.0
 2023,2022-23,Mission,mission,Feb 10,home,Lassen,W,5,1,20230210_cvyv,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,Feb 11,home,Lassen,W,4,3,20230211_qyek,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Feb 11,home,Lassen,W,4,3,20230211_qyek,12,0,0,0,0,,4.0,1.0,1.0,1.0,0.0,1.0
 2023,2022-23,Mission,mission,Feb 14,home,Cosumnes River,L,10,2,20230214_9s0t,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Mission,mission,Feb 16,home,Santa Rosa,L,9,2,20230216_mp6i,9,1,0,1,0,1.0,8.0,6.0,6.0,1.0,2.0,3.0
 2023,2022-23,Mission,mission,Feb 18,home,Santa Rosa,L,8,4,20230218_90wz,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,Feb 2,home,Merced,L,3,0,20230202_omon,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Feb 2,home,Merced,L,3,0,20230202_omon,12,0,0,0,0,,1.0,1.0,1.0,1.0,2.0,2.0
 2023,2022-23,Mission,mission,Feb 21,home,West Valley,W,12,11,20230221_9437,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,Feb 22,home,Modesto,W,7,6,20230222_eekp,11,1,0,0,0,,7.0,4.0,4.0,1.0,3.0,4.0
+2023,2022-23,Mission,mission,Feb 22,home,Modesto,W,7,6,20230222_eekp,12,1,1,0,0,1.0,10.0,6.0,5.0,0.833,6.0,11.0
 2023,2022-23,Mission,mission,Feb 24,home,Chabot,W,13,7,20230224_gqrg,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Mission,mission,Feb 3,home,West Valley,W,6,1,20230203_wu7h,9,1,1,0,0,1.0,6.0,1.0,1.0,1.0,1.0,8.0
-2023,2022-23,Mission,mission,Feb 6,home,Cosumnes River,L,13,8,20230206_17p2,10,0,0,0,0,,3.0,4.0,4.0,1.0,0.0,0.0
+2023,2022-23,Mission,mission,Feb 6,home,Cosumnes River,L,13,8,20230206_17p2,11,0,0,0,0,,3.0,4.0,4.0,1.0,1.0,1.0
 2023,2022-23,Mission,mission,Feb 7,home,Laney,W,9,8,20230207_ky3u,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,Jan 27,home,Yuba,W,11,2,20230127_s7sp,15,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Jan 27,home,Yuba,W,11,2,20230127_s7sp,16,0,0,0,0,,0.0,0.0,0.0,,0.0,3.0
 2023,2022-23,Mission,mission,Jan 28,home,Yuba,W,11,2,20230128_xodz,16,1,0,0,0,,5.0,1.0,1.0,1.0,1.0,6.0
 2023,2022-23,Mission,mission,Jan 31,home,Mendocino,W,8,0,20230131_qwr0,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Mission,mission,Mar 1,home,Chabot,T,13,13,20230301_l36e,11,1,0,0,0,,6.0,4.0,3.0,0.75,1.0,3.0
-2023,2022-23,Mission,mission,Mar 11,home,West Valley,W,3,2,20230311_tb62,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,Mar 15,home,Hartnell,W,2,1,20230315_4he8,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Mar 11,home,West Valley,W,3,2,20230311_tb62,10,0,0,0,0,,1.0,1.0,1.0,1.0,1.0,2.0
+2023,2022-23,Mission,mission,Mar 15,home,Hartnell,W,2,1,20230315_4he8,10,0,0,0,1,0.0,1.0,0.0,0.0,,0.0,3.0
 2023,2022-23,Mission,mission,Mar 16,home,Hartnell,W,3,2,20230316_js21,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,Mar 18,home,Hartnell,W,9,0,20230318_ibfe,11,0,0,0,0,,1.0,0.0,0.0,,0.0,4.0
+2023,2022-23,Mission,mission,Mar 18,home,Hartnell,W,9,0,20230318_ibfe,12,0,0,0,0,,2.0,0.0,0.0,,0.0,6.0
 2023,2022-23,Mission,mission,Mar 2,home,Canada,L,16,11,20230302_ta9v,15,0,0,0,0,,6.0,3.0,3.0,1.0,2.0,5.0
 2023,2022-23,Mission,mission,Mar 23,home,De Anza,W,27,4,20230323_6828,17,0,0,0,0,,2.0,0.0,0.0,,1.0,0.0
-2023,2022-23,Mission,mission,Mar 24,home,De Anza,W,25,7,20230324_kv17,17,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Mar 24,home,De Anza,W,25,7,20230324_kv17,18,0,0,0,0,,0.0,0.0,0.0,,2.0,5.0
 2023,2022-23,Mission,mission,Mar 25,home,De Anza,W,17,3,20230325_t9bf,9,0,0,0,0,,2.0,0.0,0.0,,0.0,3.0
-2023,2022-23,Mission,mission,Mar 3,home,San Francisco,W,6,5,20230303_246a,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Mar 3,home,San Francisco,W,6,5,20230303_246a,10,0,1,0,0,1.0,2.0,2.0,2.0,1.0,2.0,5.0
 2023,2022-23,Mission,mission,Mar 30,home,Gavilan,W,34,10,20230330_5w1s,17,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,Mar 31,home,Gavilan,W,23,2,20230331_9onh,16,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,Mar 31,home,Gavilan,W,23,2,20230331_9onh,17,0,0,0,0,,4.0,1.0,1.0,1.0,0.0,3.0
 2023,2022-23,Mission,mission,Mar 8,home,Skyline,L,6,5,20230308_kptb,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Mission,mission,May 5,home,Skyline,W,7,6,20230505_d2x6,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Mission,mission,May 11,home,Cosumnes River,L,9,4,20230511_ny7c,11,0,0,0,0,,0.0,0.0,0.0,,2.0,1.0
+2023,2022-23,Mission,mission,May 11,home,San Joaquin Delta,L,5,1,20230511_5iow,10,1,0,1,0,1.0,7.0,5.0,5.0,1.0,3.0,6.0
+2023,2022-23,Mission,mission,May 5,home,Skyline,W,7,6,20230505_d2x6,11,0,1,0,0,1.0,1.0,0.0,0.0,,0.0,3.0
 2023,2022-23,Mission,mission,May 6,home,Skyline,W,3,2,20230506_v21r,9,1,0,0,0,,8.0,2.0,1.0,0.5,0.0,7.0
 2023,2022-23,Modesto,modesto,Apr 11,home,Sierra,L,6,2,20230411_qc60,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Modesto,modesto,Apr 13,home,Sierra,W,4,3,20230413_v9io,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -1946,6 +1967,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Modesto,modesto,Mar 31,home,Sacramento City,W,5,3,20230331_2qkb,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Modesto,modesto,Mar 7,home,Reedley,L,22,8,20230307_im8l,18,0,0,0,0,,5.0,6.0,6.0,1.0,1.0,0.0
 2023,2022-23,Modesto,modesto,Mar 9,home,Reedley,L,16,5,20230309_nynj,14,0,0,0,0,,4.0,3.0,3.0,1.0,1.0,0.0
+2023,2022-23,Modesto,modesto,May 11,home,Sacramento City,L,10,1,20230511_n0ls,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Modesto,modesto,May 11,home,Sierra,L,12,3,20230511_ljao,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Modesto,modesto,May 5,home,San Mateo,W,5,1,20230505_me6b,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Modesto,modesto,May 6,home,San Mateo,W,7,4,20230506_vfdm,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Monterey Peninsula,montereypeninsula,Apr 1,home,Hartnell,L,9,5,20230401_ciz1,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -2469,6 +2492,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Reedley,reedley,Mar 7,home,Modesto,W,22,8,20230307_im8l,14,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Reedley,reedley,Mar 8,home,Cabrillo,W,18,3,20230308_5k58,14,1,1,0,0,1.0,2.0,2.0,0.0,0.0,2.0,11.0
 2023,2022-23,Reedley,reedley,Mar 9,home,Modesto,W,16,5,20230309_nynj,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Reedley,reedley,May 11,home,Canada,W,10,4,20230511_mery,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Reedley,reedley,May 5,home,Feather River,W,10,8,20230505_ilrh,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Reedley,reedley,May 6,home,Feather River,L,11,1,20230506_q662,14,1,0,1,0,1.0,5.0,7.0,6.0,0.857,8.0,6.0
 2023,2022-23,Reedley,reedley,May 6,home,Feather River,W,9,6,20230506_fqj2,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -2592,6 +2616,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Sacramento City,sacramentocity,Mar 7,home,Sierra,L,7,6,20230307_mh9l,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sacramento City,sacramentocity,Mar 8,home,Sierra,W,9,5,20230308_mgd0,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sacramento City,sacramentocity,Mar 9,home,Sierra,L,10,5,20230309_9va8,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Sacramento City,sacramentocity,May 11,home,Modesto,W,10,1,20230511_n0ls,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sacramento City,sacramentocity,May 5,home,Chabot,W,7,5,20230505_066x,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sacramento City,sacramentocity,May 6,home,Chabot,L,5,1,20230506_ruhp,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sacramento City,sacramentocity,May 6,home,Chabot,W,7,6,20230506_nitb,10,0,0,0,0,,4.0,4.0,4.0,1.0,0.0,0.0
@@ -2634,6 +2659,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Saddleback,saddleback,Mar 31,home,Golden West,W,2,1,20230331_my2z,10,1,0,0,0,,6.0,0.0,0.0,,1.0,3.0
 2023,2022-23,Saddleback,saddleback,Mar 7,home,Fullerton,W,9,3,20230307_40d5,10,0,0,0,0,,2.0,1.0,1.0,1.0,0.0,3.0
 2023,2022-23,Saddleback,saddleback,Mar 9,home,Fullerton,W,3,0,20230309_1g0c,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Saddleback,saddleback,May 11,home,Glendale,W,11,1,20230511_nly3,11,1,1,0,0,1.0,6.0,1.0,1.0,1.0,0.0,7.0
 2023,2022-23,Saddleback,saddleback,May 5,home,Long Beach,W,4,3,20230505_myir,11,1,0,0,0,,7.0,3.0,3.0,1.0,1.0,5.0
 2023,2022-23,Saddleback,saddleback,May 6,home,Long Beach,W,18,8,20230506_3zkp,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,San Bernardino Valley,sanbernardinovalley,Apr 1,home,Mt. San Jacinto,L,3,1,20230401_xyap,14,1,0,0,0,,6.0,1.0,0.0,0.0,2.0,6.0
@@ -2797,9 +2823,9 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 11,home,Diablo Valley,W,12,2,20230411_ovmn,16,1,1,0,0,1.0,12.0,2.0,2.0,1.0,1.0,6.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 13,home,Diablo Valley,W,13,6,20230413_r525,14,0,0,0,0,,0.0,0.0,0.0,,3.0,2.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 14,home,Diablo Valley,W,18,6,20230414_fapm,16,0,0,0,0,,5.0,3.0,3.0,1.0,2.0,2.0
-2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 18,home,Modesto,W,10,3,20230418_7gbn,14,1,1,0,0,1.0,10.0,3.0,3.0,1.0,2.0,4.0
+2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 18,home,Modesto,W,10,3,20230418_7gbn,14,1,1,0,0,1.0,10.0,3.0,2.0,0.667,2.0,4.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 20,home,Modesto,W,7,3,20230420_0scj,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 22,home,Modesto,L,10,7,20230422_95ov,13,0,0,1,0,1.0,10.0,6.0,5.0,0.833,3.0,3.0
+2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 22,home,Modesto,L,10,7,20230422_95ov,13,0,0,1,0,1.0,10.0,6.0,4.0,0.667,3.0,3.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 25,home,Sierra,W,12,9,20230425_fo86,13,1,0,0,0,,9.0,5.0,5.0,1.0,4.0,6.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 27,home,Sierra,W,12,3,20230427_d5rc,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Apr 28,home,Sierra,L,8,7,20230428_gbiu,12,0,0,1,0,1.0,6.0,3.0,3.0,1.0,1.0,8.0
@@ -2832,6 +2858,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Mar 7,home,American River,W,12,1,20230307_fwft,13,1,1,0,0,1.0,6.0,1.0,1.0,1.0,0.0,10.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Mar 8,home,American River,W,10,2,20230308_7sey,12,0,0,0,0,,4.0,2.0,2.0,1.0,1.0,0.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,Mar 9,home,American River,W,15,0,20230309_176p,16,1,1,0,0,1.0,1.0,0.0,0.0,,2.0,11.0
+2023,2022-23,San Joaquin Delta,sanjoaquindelta,May 11,home,Mission,W,5,1,20230511_5iow,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,May 5,home,Cabrillo,W,10,0,20230505_fski,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,San Joaquin Delta,sanjoaquindelta,May 6,home,Cabrillo,W,6,3,20230506_v02a,12,1,1,0,1,0.5,8.0,3.0,1.0,0.333,0.0,5.0
 2023,2022-23,San Mateo,sanmateo,Apr 1,home,Canada,W,6,5,20230401_hm7l,12,0,0,0,0,,3.0,1.0,1.0,1.0,0.0,0.0
@@ -2915,6 +2942,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Santa Ana,santaana,Mar 4,home,LA Mission,W,13,6,20230304_srgx,11,0,0,0,0,,1.0,0.0,0.0,,2.0,3.0
 2023,2022-23,Santa Ana,santaana,Mar 7,home,Orange Coast,L,10,4,20230307_n2b3,13,1,0,0,0,,7.0,4.0,4.0,1.0,3.0,1.0
 2023,2022-23,Santa Ana,santaana,Mar 9,home,Orange Coast,W,12,8,20230309_b4kv,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Santa Ana,santaana,May 11,home,Santa Barbara,W,16,8,20230511_fxs4,12,0,0,0,0,,6.0,3.0,3.0,1.0,2.0,2.0
 2023,2022-23,Santa Ana,santaana,May 5,home,Desert,W,2,1,20230505_ejrm,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Santa Ana,santaana,May 6,home,Desert,W,5,4,20230506_nptw,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Santa Barbara,santabarbara,Apr 11,home,Moorpark,W,14,0,20230411_1irp,14,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -2957,6 +2985,8 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Santa Barbara,santabarbara,Mar 7,home,Mt. San Antonio,L,6,0,20230307_kgaz,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Santa Barbara,santabarbara,Mar 8,home,Oxnard,W,7,5,20230308_wff1,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Santa Barbara,santabarbara,Mar 9,home,Mt. San Antonio,L,5,1,20230309_c0ym,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Santa Barbara,santabarbara,May 11,home,Cypress,L,7,2,20230511_hiae,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Santa Barbara,santabarbara,May 11,home,Santa Ana,L,16,8,20230511_fxs4,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Santa Barbara,santabarbara,May 5,home,Golden West,L,7,6,20230505_8e3e,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Santa Barbara,santabarbara,May 6,home,Golden West,W,5,4,20230506_76zj,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Santa Barbara,santabarbara,May 6,home,Golden West,W,11,5,20230506_46mz,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -2998,6 +3028,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Santa Rosa,santarosa,Mar 4,home,San Joaquin Delta,W,12,8,20230304_5m84,11,1,1,0,1,0.5,6.0,6.0,6.0,1.0,8.0,6.0
 2023,2022-23,Santa Rosa,santarosa,Mar 7,home,Cosumnes River,W,14,4,20230307_nygc,15,0,0,0,0,,0.0,2.0,2.0,1.0,3.0,1.0
 2023,2022-23,Santa Rosa,santarosa,Mar 8,home,Cosumnes River,W,16,9,20230308_8wd0,12,1,1,0,0,1.0,13.0,7.0,7.0,1.0,3.0,7.0
+2023,2022-23,Santa Rosa,santarosa,May 11,home,Canada,W,7,5,20230511_l2wb,11,0,1,0,1,0.5,0.0,0.0,0.0,,0.0,2.0
 2023,2022-23,Santa Rosa,santarosa,May 5,home,Lassen,W,6,1,20230505_j1wl,11,0,0,0,0,,1.0,0.0,0.0,,2.0,2.0
 2023,2022-23,Santa Rosa,santarosa,May 6,home,Lassen,W,6,3,20230506_ivxz,11,1,1,0,1,0.5,8.0,3.0,2.0,0.667,4.0,3.0
 2023,2022-23,Sequoias,sequoias,Apr 11,home,Taft,W,2,1,20230411_bfdb,10,0,0,0,1,0.0,1.0,0.0,0.0,,0.0,1.0
@@ -3120,6 +3151,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Sierra,sierra,Mar 7,home,Sacramento City,W,7,6,20230307_mh9l,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sierra,sierra,Mar 8,home,Sacramento City,L,9,5,20230308_mgd0,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sierra,sierra,Mar 9,home,Sacramento City,W,10,5,20230309_9va8,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Sierra,sierra,May 11,home,Modesto,W,12,3,20230511_ljao,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sierra,sierra,May 5,home,Sequoias,W,8,5,20230505_ddem,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Sierra,sierra,May 6,home,Sequoias,W,5,1,20230506_swes,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Siskiyous,siskiyous,Apr 11,home,Lassen,L,7,3,20230411_v8om,13,1,0,1,0,1.0,7.0,3.0,2.0,0.667,2.0,3.0
@@ -3279,6 +3311,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Southwestern,southwestern,Mar 5,home,Riverside,L,6,2,20230305_7a9c,13,0,0,0,0,,4.0,2.0,2.0,1.0,0.0,3.0
 2023,2022-23,Southwestern,southwestern,Mar 7,home,San Diego Mesa,L,3,2,20230307_22nd,18,0,0,1,0,1.0,1.0,1.0,0.0,0.0,1.0,3.0
 2023,2022-23,Southwestern,southwestern,Mar 9,home,San Diego Mesa,W,14,4,20230309_zte1,16,0,0,0,0,,1.0,2.0,2.0,1.0,2.0,0.0
+2023,2022-23,Southwestern,southwestern,May 11,home,Canyons,L,6,5,20230511_whyr,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Southwestern,southwestern,May 5,home,Allan Hancock,W,3,2,20230505_mbp7,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Southwestern,southwestern,May 6,home,Allan Hancock,W,6,4,20230506_z3pz,6,0,0,0,0,,0.0,0.0,0.0,,0.0,1.0
 2023,2022-23,Taft,taft,Apr 1,home,Porterville,L,5,4,20230401_rpc1,12,0,0,1,0,1.0,3.0,3.0,2.0,0.667,2.0,3.0
