@@ -2,6 +2,8 @@ import pandas as pd
 import numpy as np
 import datetime
 
+from tqdm import tqdm
+
 #####################################################################################################################################################################################################################
 ## League stats
 ##
@@ -14,7 +16,7 @@ def generate_league_batting_stats(save=False):
         s_df = pd.read_parquet(f'game_stats/player/batting_game_stats/parquet/{season}_batting.parquet')
         main_df = pd.concat([main_df,s_df],ignore_index=True)
 
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season'],as_index=False)['PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season'],as_index=False)[['PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO']].sum())
     
     ## Groundouts/Flyouts ratio
     finished_df['GO/FO'] = finished_df['GO'] / finished_df['FO']
@@ -65,7 +67,7 @@ def generate_league_batting_stats(save=False):
     ## Convert infinates into Null values
     #finished_df = finished_df.mask(np.isinf(finished_df))
     finished_df.replace([np.inf, -np.inf],np.nan,inplace=True)
-    print(finished_df)
+    #print(finished_df)
 
     if save == True:
         finished_df.to_csv(f'season_stats/league/batting_season_stats/csv/league_batting_stats.csv',index=False)
@@ -87,7 +89,7 @@ def generate_league_pitching_stats(save=False):
     main_df[['whole_innings','part_innings']] = main_df['IP'].str.split('.',expand=True)
     main_df = main_df.astype({'whole_innings':'int','part_innings':'int'})
     main_df['IP'] = round(main_df['whole_innings'] + (main_df['part_innings']/3),3)
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season'],as_index=False)['IP','H','R','ER','BB','K','HR'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season'],as_index=False)[['IP','H','R','ER','BB','K','HR']].sum())
     
     ## Earned Run Average (ERA)
     finished_df['ERA'] = 9 * (finished_df['ER'] / finished_df['IP'])
@@ -142,7 +144,7 @@ def generate_season_player_batting_stats(season:int,save=False):
     league_df = pd.read_parquet(f'season_stats/league/batting_season_stats/parquet/league_batting_stats.parquet')
     league_df = league_df[league_df['season'] == season]
     lg_obs = league_df['OPS'].iloc[0]
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','player_id','player_name'],as_index=False)['G','PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','player_id','player_name'],as_index=False)[['G','PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO']].sum())
     
     del main_df
 
@@ -200,7 +202,7 @@ def generate_season_player_batting_stats(season:int,save=False):
     ## Convert infinates into Null values
     finished_df.replace([np.inf, -np.inf],np.nan,inplace=True)
     
-    print(finished_df)
+    #print(finished_df)
     
     if save == True:
         finished_df.to_csv(f'season_stats/player/batting_season_stats/csv/{season}_batting.csv',index=False)
@@ -222,7 +224,7 @@ def generate_season_player_pitching_stats(season:int,save=False):
     league_df = league_df[league_df['season'] == season]
 
     lg_era = league_df['ERA'].iloc[0]
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','player_id','player_name'],as_index=False)['App','GS','W','L','SV','IP','H','R','ER','BB','K','HR'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','player_id','player_name'],as_index=False)[['App','GS','W','L','SV','IP','H','R','ER','BB','K','HR']].sum())
 
     del main_df
 
@@ -278,7 +280,7 @@ def generate_season_player_pitching_stats(season:int,save=False):
 def generate_season_player_fielding_stats(season:int,save=False):
     main_df = pd.read_parquet(f'game_stats/player/fielding_game_stats/parquet/{season}_fielding.parquet')
     main_df['G'] = 1
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','player_id','player_name'],as_index=False)['G','TC','PO','A','E','FPCT','DP','SBA','RCS','RCS_PCT','PB','CI'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','player_id','player_name'],as_index=False)[['G','TC','PO','A','E','FPCT','DP','SBA','RCS','RCS_PCT','PB','CI']].sum())
 
     ## Fielding Percentage (Putouts + Assists) / (Putouts + Assists + Errors)
     finished_df['FPCT'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])
@@ -305,7 +307,7 @@ def generate_season_team_batting_stats(season:int,save=False):
     league_df = pd.read_parquet(f'season_stats/league/batting_season_stats/parquet/league_batting_stats.parquet')
     league_df = league_df[league_df['season'] == season]
     lg_obs = league_df['OPS'].iloc[0]
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id'],as_index=False)['PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id'],as_index=False)[['PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO']].sum())
     
     del main_df
 
@@ -363,7 +365,7 @@ def generate_season_team_batting_stats(season:int,save=False):
     ## Convert infinates into Null values
     finished_df.replace([np.inf, -np.inf],np.nan,inplace=True)
     
-    print(finished_df)
+    #print(finished_df)
     
     if save == True:
         finished_df.to_csv(f'season_stats/team/batting_season_stats/csv/{season}_batting.csv',index=False)
@@ -385,7 +387,7 @@ def generate_season_team_pitching_stats(season:int,save=False):
     league_df = league_df[league_df['season'] == season]
 
     lg_era = league_df['ERA'].iloc[0]
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id'],as_index=False)['W','L','SV','IP','H','R','ER','BB','K','HR'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id'],as_index=False)[['W','L','SV','IP','H','R','ER','BB','K','HR']].sum())
 
     del main_df
 
@@ -441,7 +443,7 @@ def generate_season_team_pitching_stats(season:int,save=False):
 def generate_season_team_fielding_stats(season:int,save=False):
     main_df = pd.read_parquet(f'game_stats/player/fielding_game_stats/parquet/{season}_fielding.parquet')
     main_df['G'] = 1
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id'],as_index=False)['TC','PO','A','E','FPCT','DP','SBA','RCS','RCS_PCT','PB','CI'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id'],as_index=False)[['TC','PO','A','E','FPCT','DP','SBA','RCS','RCS_PCT','PB','CI']].sum())
 
     ## Fielding Percentage (Putouts + Assists) / (Putouts + Assists + Errors)
     finished_df['FPCT'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])
@@ -469,7 +471,7 @@ def generate_team_game_batting_stats(season:int,save=False):
     league_df = pd.read_parquet(f'season_stats/league/batting_season_stats/parquet/league_batting_stats.parquet')
     league_df = league_df[league_df['season'] == season]
     lg_obs = league_df['OPS'].iloc[0]
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','date','location','opponent','result','team_score','opp_score','game_id'],as_index=False)['G','PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','date','location','opponent','result','team_score','opp_score','game_id'],as_index=False)[['G','PA','AB','R','H','2B','3B','HR','RBI','SB','CS','BB','K','TB','HBP','SH','SF','XBH','HDP','GO','FO']].sum())
     
     del main_df
 
@@ -527,7 +529,7 @@ def generate_team_game_batting_stats(season:int,save=False):
     ## Convert infinates into Null values
     finished_df.replace([np.inf, -np.inf],np.nan,inplace=True)
     
-    print(finished_df)
+    #print(finished_df)
     
     if save == True:
         finished_df.to_csv(f'game_stats/team/batting_game_stats/csv/{season}_batting.csv',index=False)
@@ -549,7 +551,7 @@ def generate_team_game_pitching_stats(season:int,save=False):
     league_df = league_df[league_df['season'] == season]
 
     lg_era = league_df['ERA'].iloc[0]
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','date','location','opponent','result','team_score','opp_score','game_id'],as_index=False)['App','GS','W','L','SV','IP','H','R','ER','BB','K','HR'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','date','location','opponent','result','team_score','opp_score','game_id'],as_index=False)[['App','GS','W','L','SV','IP','H','R','ER','BB','K','HR']].sum())
 
     del main_df
 
@@ -605,7 +607,7 @@ def generate_team_game_pitching_stats(season:int,save=False):
 def generate_team_game_fielding_stats(season:int,save=False):
     main_df = pd.read_parquet(f'game_stats/player/fielding_game_stats/parquet/{season}_fielding.parquet')
     main_df['G'] = 1
-    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','date','location','opponent','result','team_score','opp_score','game_id'],as_index=False)['G','TC','PO','A','E','FPCT','DP','SBA','RCS','RCS_PCT','PB','CI'].sum())
+    finished_df = pd.DataFrame(main_df.groupby(['season','cccaa_season','team','team_id','date','location','opponent','result','team_score','opp_score','game_id'],as_index=False)[['G','TC','PO','A','E','FPCT','DP','SBA','RCS','RCS_PCT','PB','CI']].sum())
 
     ## Fielding Percentage (Putouts + Assists) / (Putouts + Assists + Errors)
     finished_df['FPCT'] = (finished_df['PO'] + finished_df['A']) / (finished_df['PO'] + finished_df['A'] + finished_df['E'])
@@ -627,7 +629,9 @@ def generate_stats_main():
     generate_league_batting_stats(True)
     generate_league_pitching_stats(True)
 
-    for i in range(2012,current_year+1):
+    for i in tqdm(range(2012,current_year+1)):
+        print(f'Parsing stats for the {i} CCCAA Season')
+
         generate_season_player_batting_stats(i,True)
         generate_season_player_pitching_stats(i,True)
         generate_season_player_fielding_stats(i,True)
