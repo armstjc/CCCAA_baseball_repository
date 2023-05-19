@@ -40,7 +40,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Allan Hancock,allanhancock,Mar 8,home,Cuesta,L,6,3,20230308_9o7s,10,1,0,1,0,1.0,6.0,6.0,5.0,0.833,5.0,5.0
 2023,2022-23,Allan Hancock,allanhancock,Mar 9,home,Cuesta,L,7,2,20230309_m3sw,15,0,0,0,0,,3.0,2.0,2.0,1.0,1.0,1.0
 2023,2022-23,Allan Hancock,allanhancock,May 5,home,Southwestern,L,3,2,20230505_mbp7,14,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Allan Hancock,allanhancock,May 6,home,Southwestern,L,6,4,20230506_z3pz,7,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Allan Hancock,allanhancock,May 6,home,Southwestern,L,6,4,20230506_z3pz,12,1,0,1,0,1.0,3.0,5.0,5.0,1.0,2.0,0.0
 2023,2022-23,American River,americanriver,Apr 1,home,Diablo Valley,L,4,3,20230401_4o7a,11,1,0,1,0,1.0,2.0,4.0,0.0,0.0,3.0,4.0
 2023,2022-23,American River,americanriver,Apr 11,home,Cosumnes River,L,12,5,20230411_1am7,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,American River,americanriver,Apr 13,home,Cosumnes River,L,9,2,20230413_moud,12,1,0,1,0,1.0,9.0,7.0,4.0,0.571,5.0,2.0
@@ -325,7 +325,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Canada,canada,May 11,home,Santa Rosa,L,7,5,20230511_l2wb,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canada,canada,May 5,home,Merced,W,2,1,20230505_lcv6,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canada,canada,May 6,home,Merced,L,5,3,20230506_01df,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Canada,canada,May 6,home,Merced,W,8,3,20230506_9uo5,11,1,1,0,0,1.0,8.0,3.0,2.0,0.667,0.0,1.0
+2023,2022-23,Canada,canada,May 6,home,Merced,W,8,3,20230506_9uo5,12,1,1,0,0,1.0,8.0,3.0,2.0,0.667,0.0,1.0
 2023,2022-23,Canyons,canyons,Apr 1,home,Antelope Valley,W,9,7,20230401_gt0p,10,0,1,0,0,1.0,0.0,0.0,0.0,,0.0,1.0
 2023,2022-23,Canyons,canyons,Apr 11,home,West LA,W,8,0,20230411_ujzd,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Canyons,canyons,Apr 13,home,West LA,W,14,4,20230413_eoor,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -734,8 +734,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Cuesta,cuesta,Mar 9,home,Allan Hancock,W,7,2,20230309_m3sw,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cuesta,cuesta,May 5,home,LA Valley,W,1,0,20230505_80cw,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,2,0,20230506_uysd,12,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,9,5,20230506_u57q,11,0,0,1,0,1.0,2.0,4.0,4.0,1.0,2.0,1.0
-2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,9,6,20230506_u57q,1,0,0,0,0,,1.0,0.0,0.0,,0.0,0.0
+2023,2022-23,Cuesta,cuesta,May 6,home,LA Valley,L,9,6,20230506_u57q,12,0,0,1,0,1.0,4.0,3.0,3.0,1.0,2.0,1.0
 2023,2022-23,Cypress,cypress,Apr 1,home,Riverside,L,17,11,20230401_tfjc,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,Apr 11,home,Saddleback,W,10,7,20230411_q1fu,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Cypress,cypress,Apr 13,home,Saddleback,L,11,3,20230413_hkli,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -1621,7 +1620,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,LA Valley,lavalley,May 13,home,Fullerton,L,10,7,20230513_d5qu,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,LA Valley,lavalley,May 5,home,Cuesta,L,1,0,20230505_80cw,11,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,LA Valley,lavalley,May 6,home,Cuesta,W,2,0,20230506_uysd,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,LA Valley,lavalley,May 6,home,Cuesta,W,9,5,20230506_u57q,9,0,1,0,0,1.0,2.0,0.0,0.0,,1.0,2.0
+2023,2022-23,LA Valley,lavalley,May 6,home,Cuesta,W,9,6,20230506_u57q,9,0,1,0,0,1.0,4.0,1.0,1.0,1.0,1.0,3.0
 2023,2022-23,Laney,laney,Apr 1,home,Yuba,W,7,4,20230401_rfbk,11,1,1,0,0,1.0,5.0,4.0,3.0,0.75,2.0,5.0
 2023,2022-23,Laney,laney,Apr 11,home,Contra Costa,L,12,9,20230411_hq1m,11,0,0,0,0,,5.0,3.0,3.0,1.0,0.0,2.0
 2023,2022-23,Laney,laney,Apr 13,home,Contra Costa,W,8,2,20230413_ikht,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
@@ -2812,7 +2811,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,San Diego Mesa,sandiegomesa,Mar 7,home,Southwestern,W,3,2,20230307_22nd,9,1,0,0,0,,5.0,0.0,0.0,,2.0,8.0
 2023,2022-23,San Diego Mesa,sandiegomesa,Mar 9,home,Southwestern,L,14,4,20230309_zte1,9,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,San Francisco,sanfrancisco,Apr 1,home,Skyline,L,9,2,20230401_aitf,15,1,0,1,0,1.0,12.0,9.0,9.0,1.0,8.0,3.0
-2023,2022-23,San Francisco,sanfrancisco,Apr 11,home,Canada,L,7,4,20230411_d6rb,15,1,0,1,0,1.0,11.0,7.0,7.0,1.0,3.0,6.0
+2023,2022-23,San Francisco,sanfrancisco,Apr 11,home,Canada,L,7,4,20230411_d6rb,15,1,0,1,0,1.0,12.0,7.0,7.0,1.0,3.0,6.0
 2023,2022-23,San Francisco,sanfrancisco,Apr 13,home,Canada,L,6,1,20230413_t2nl,17,1,0,1,0,1.0,10.0,6.0,6.0,1.0,2.0,9.0
 2023,2022-23,San Francisco,sanfrancisco,Apr 15,home,Canada,L,7,4,20230415_afii,16,1,0,1,0,1.0,13.0,7.0,4.0,0.571,3.0,5.0
 2023,2022-23,San Francisco,sanfrancisco,Apr 18,home,West Valley,W,4,2,20230418_ibg9,12,1,1,0,1,0.5,6.0,2.0,2.0,1.0,4.0,6.0
@@ -3353,7 +3352,7 @@ season,cccaa_season,team,team_id,date,location,opponent,result,team_score,opp_sc
 2023,2022-23,Southwestern,southwestern,May 11,home,Canyons,L,6,5,20230511_whyr,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
 2023,2022-23,Southwestern,southwestern,May 12,home,Grossmont,L,18,12,20230512_osd8,14,0,0,0,0,,6.0,4.0,2.0,0.5,2.0,2.0
 2023,2022-23,Southwestern,southwestern,May 5,home,Allan Hancock,W,3,2,20230505_mbp7,10,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
-2023,2022-23,Southwestern,southwestern,May 6,home,Allan Hancock,W,6,4,20230506_z3pz,6,0,0,0,0,,0.0,0.0,0.0,,0.0,1.0
+2023,2022-23,Southwestern,southwestern,May 6,home,Allan Hancock,W,6,4,20230506_z3pz,10,0,0,0,0,,0.0,0.0,0.0,,0.0,1.0
 2023,2022-23,Taft,taft,Apr 1,home,Porterville,L,5,4,20230401_rpc1,12,0,0,1,0,1.0,3.0,3.0,2.0,0.667,2.0,3.0
 2023,2022-23,Taft,taft,Apr 11,home,Sequoias,L,2,1,20230411_bfdb,10,0,0,0,0,,2.0,0.0,0.0,,1.0,1.0
 2023,2022-23,Taft,taft,Apr 13,home,Sequoias,L,8,4,20230413_dvct,13,0,0,0,0,,0.0,0.0,0.0,,0.0,0.0
